@@ -1,0 +1,8 @@
+- The rational optimist
+- Sapiens
+- Skin in the game
+- Richard Feynman - The 6 easy pieces
+- Meditations marcus aurelius
+- The untethered soul - michael a.singer
+- The book of life - j.krishnamurti 
+- Reality is not what it seems - Carlo Rovelli 

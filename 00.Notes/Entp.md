@@ -1,0 +1,13 @@
+#autoconhecimento/entp 
+
+Criativo 
+Inventivo
+
+Gostam de teorias, não fatos, ao ler um livro, vão atrás dos conceitos, não dos fatos como isso aconteceu em 1994 etc...
+
+O entp não gosta de se envolver com o mundo exterior, mas ainda sim tem facilidade com isso, porque são tipos extrovertidos...
+
+ENTP tem uma fraqueza sensorial, eles realmente não gostam de sentir as coisas....
+
+Quando estão realmetente se envolvendo com o mundo exterior,  o sensorial não os incomoda...
+

@@ -1,0 +1,259 @@
+```
+[{
+  "column_name": "datetime",
+  "data_type": "TIMESTAMP",
+  "is_nullable": "YES",
+  "ordinal_position": "1"
+},{
+  "column_name": "campaign_id",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "3"
+}, {
+  "column_name": "adgroup_id",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "4"
+}, {
+  "column_name": "ad_id",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "5"
+}, {
+  "column_name": "campaign_name",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "8"
+},{
+  "column_name": "adgroup_name",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "13"
+}, {
+  "column_name": "ad_name",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "14"
+},{
+  "column_name": "spend",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "29"
+}, {
+  "column_name": "impressions",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "30"
+}, {
+  "column_name": "ad_clicks",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "31"
+}, {
+  "column_name": "ad_shares",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "32"
+}, {
+  "column_name": "ad_likes",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "33"
+}, {
+  "column_name": "ad_comments",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "34"
+},{
+  "column_name": "frequency",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "36"
+}, {
+  "column_name": "currency",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "37"
+}, {
+  "column_name": "video_play",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "38"
+}, {
+  "column_name": "video_watched_2s",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "39"
+}, {
+  "column_name": "video_watched_6s",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "40"
+}, {
+  "column_name": "video_watched_p25",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "41"
+}, {
+  "column_name": "video_watched_p50",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "42"
+}, {
+  "column_name": "video_watched_p75",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "43"
+}, {
+  "column_name": "video_watched_p100",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "44"
+}, {
+  "column_name": "video_engaged",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "45"
+},{
+  "column_name": "funnel_clicks",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "48"
+}, {
+  "column_name": "funnel",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "49"
+},{
+  "column_name": "vsl_play",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "52"
+}, {
+  "column_name": "vsl_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "53"
+}, {
+  "column_name": "vsl_lead_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "54"
+}, {
+  "column_name": "vsl_pitch_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+}, {
+  "column_name": "vsl_3s_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": "vsl_60s_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": "vsl_120s_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": "vsl_300_view",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": “dtc”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": “addPaymentInfo”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": “backRedirect”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "55"
+},{
+  "column_name": "initiate_checkout",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "56"
+}, {
+  "column_name": "purchase",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "57"
+}, {
+  "column_name": "upsell1”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "58"
+}, {
+  "column_name": "upsell2”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "58"
+}, {
+  "column_name": "upsell3”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "58"
+}, {
+  "column_name": "upsell4”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "58"
+}, {
+  "column_name": "refund",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "59"
+}, {
+  "column_name": “chargeback”,
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "59"
+}, {
+  "column_name": "purchase_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "60"
+}, {
+  "column_name": "upsell1_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "61"
+}, {
+  "column_name": "upsell2_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "61"
+}, {
+  "column_name": "upsell3_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "61"
+}, {
+  "column_name": "upsell4_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "61"
+}, {
+  "column_name": "refund_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "62"
+}{
+  "column_name": “chargeback_amount",
+  "data_type": "NUMERIC",
+  "is_nullable": "YES",
+  "ordinal_position": "62"
+}]
+```
+

@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiVenetianMask",
+      "LiAlbum",
+      "LiClipboardList",
+      "LiBrain",
+      "LiLayoutTemplate"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00.Notes": "LiStickyNote",
+  "01.Assets": "LiFolder",
+  "03.Calls": "LiPhone",
+  "06.WebLinks": "LiGlobe",
+  "08.Definições": "LiBookmark",
+  "09.PDFS": "LiFilePlus",
+  "10.Livros": "LiBook",
+  "+Daily Notes": "LiCalendarCheck",
+  "01.Assets/Tipologia Junguiana": "LiVenetianMask",
+  "01.Assets/Citações": "LiQuote",
+  "01.Assets/Definições": "LiAlbum",
+  "01.Assets/Projetos": "LiClipboardList",
+  "01.Assets/Prompts": "LiBrain",
+  "01.Assets/Midias": "LiVideo",
+  "01.Assets/Ideias": "LiLightbulb",
+  "01.Assets/Pessoas": "LiContact"
+}

@@ -1,0 +1,60 @@
+---
+excalidraw-plugin: raw
+tags:
+  - excalidraw
+---
+"Todo poder vem de dentro. E se você tem consciência de quem você é; se tem consciência daquilo em que é bom e daquilo em que não é; se conhece suas forças e sabe como explorá-las; se sabe onde estão suas fraquezas e como controlá-las; se é capaz de entender as pessoas e ter uma ideia clara do que as motiva; mesmo que não consiga ter controle absoluto sobre o contexto a sua volta, o simples fato de estar consciente de tudo isso lhe dará uma enorme vantagem sobre a maioria que o ignora." (Jacob Petry, Poder & Manipulação)
+
+Crie um documento detalhado com as forças naturais do entp (Aquilo que ele é bom) e tambem com as coisas que não é, com o objetivo dele conhecer suas forças e saber como usá-las, e saber suas fraquezas e saber com controlá-las.
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+Todo poder vem de dentro. 
+
+E se você tem consciência de quem você é; se tem consciência daquilo em que é bom e daquilo em que não é; 
+
+se conhece suas forças e sabe como explorá-las; se sabe onde estão suas fraquezas e como controlá-las; se é capaz de entender as pessoas e ter uma ideia clara do que as motiva; 
+
+mesmo que não consiga ter controle absoluto sobre o contexto a sua volta, o simples fato de estar consciente de tudo isso lhe dará uma enorme vantagem sobre a maioria que o ignora." 
+
+(Jacob Petry, Poder & Manipulação) ^7o647dik
+
+## Embedded Files
+f60f2b0fecebd9a4215550651816e7d54eebfee6: [[Pasted Image 20250711191124_520.png]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGOIAWGjoghH0EDihmbgBtcDBQMBKIEm4MZmc2AH1CAGEAdXoARUkAWQAGABV8ABkhACV2loBRVJLIWEQKwn1opH5SzG5n
+
+AFYANgBObTWAZiSeDbXOva34+L2NpcgYVaOADm1T0734w72eJP2biAoSdTceIbZKdLY8ToPJJ7NbxB4bd6/SQIQjKaRAkHaJJgiFQmFwhFJX7WZTBbidX7MKCkNgAawQ9TY+DYpAq1OszDguEC2QmpU0uGwtOUNKEHGIjOZrIk7I4nO5WSgfMgADNCPh8ABlWBkiSCDzKiBUmn0xoAyTcPiFATUukIbUwXXofXlX6itEccK5NDxX5sLnYNR3H2dC
+
+nWiAi4RwACSxG9qDyAF1firyJlY9wOEINb9COKsBVcJ1DaLxZ7mPGsznw2EEMRuFsAOyXeLNh6/RgsdhcNAbTqNjtMVicABynDEQMbGzOjcOjfb4cIzAAIukoHXuCqCGFfpphOLRsFMtl40nfkI4MRcOv6z7G2seDxm1ttp1Nr8iBxaZns/gP2whQ3NAt3wHcayiKAhHjCBEHFPNlENNVggzCQVT7FUeE0ToVQQMRNGILZcEOeI1lIzpjjhYEEEb
+
+Yg1iSBAEE0HCEA2Q1mHccQE2tMBfW4+JrWTcNsBpOAfw1QoAF8lmKUpygkRs2A2JIaMIb9fmmTjoCwJVfhWNBnD2KcsRfRseAeUM1ihedfmDVADJ4NYsSuBEXMsy54V+f5iEBXt+yxRtOiSVtOneIK9j2JEUTRJU0B4F9tHMgL9hBWFTiSIlwxJJ0w0mI1bXpSUWQqABieIEDKsrDQFIVIzFCUmSKmVyDlLkeR08MkK1HVNJdetKXyhAzW8i1Yv6
+
+k17W6ipepLYQPS9IE/QDIMgVDX5apjON8kE3LU1wdNb1QKs/0XfM9PQXB4hmury0rX9KQYg74i2eFoS2UiF1yzthx7VB4jfLZBy7Udx04o41nnB43gy3Kl1XYIb03bcEF3fdiEPDJFVPbbSgvK8EbvB8nx4C5G2bNYPzzb80CO/9AIOkCwNy9dMBi9BujYYg2FQOAOaYVBGH0VBiAQIXFRpbRUAAHQ4aXRlQMJ+YAgAr1B10FvQ5UDJWOEDXBRdQ
+
+ABHIQMkV7AVYAS4AbnlkW1dQDX2MIbXdaF3AjfVLmMmlo2RfN1A90FkWr3d5lUBNn3DoAY65q2pZluURY15ExHloRQlQFUWQAc/TkXmFwTRE4MT3MB8FkAEPnHwUJrYV/PC9QThhbDqlo+l5g0+YDPyB9oxc/t4uB+yGl8Er6vmFr337dwLkjH1xUsmF0hUHTxAKzYUJpdtvmhHmVASBRPXsGr8gha5iP0/0NgoEIehcGt6XpcyZgr8N42o65h3U
+
+T19dl4121ggr3sEyIQUAuaCE0IERuQ9mZgJXqnXA0t6BMiiNQaBrB9A+HCBna8XNm7hCiH/TgjsF760gpzfe69UD4GRK7Ug5dUC70QZ6DgLJMj82sFEZQJsIFQL1vMdgpArBvxFlzVErDyDaElhAOO0sAAUAApQUdhUAAAUEDUhgGg1RvNl4ADJUDtGsIQOA2ZcBZ2jgAShLJQbo2kKjswoTzJe/MTbN2FsPNgEtH4cDlgrZBZtVYmwdlrHWwjm4
+
++0FgEi2k8gnq2IaEl2wchAezDoLCOfsA5h1diHT26T34cGjqgWOPiFZJ1wnnTuGds793rkXV+WAy70KrjXG28sC6iPzC3KARSO7p12r3fuehX7/xHmPVpCs/Z4FnvPbIi8+ary9BvLu29l5MP3sLYRx9uR6woRfLuV8b53wfvHZ+r8I6FM/sQ7+QSiGeMAQXfUoDwF2CgVcuZLMuZ6z6YrfAqD0FzCwV3LccD8FUm5EPEhcyyFCAoUuQQ1DaFXno
+
+YwveWQ2EizvtkBYgteEi34bgQRwiI5iOUBI3AUiZE+MUcozQaiNGkC0Wo3RqADFGI4CYsxFi2DWJTJwKAmpCBGE4sCbQL5AovCUnFYERw+XZAAGJ7XVLZcm4ZYEAEEiBkoqMEFU7VPpMBvu4TV4i2T+kNP/QlnpSAoUOndcMLJUR5gIHYlmDiOZc2cXzAW+sPG2m8fHPxmLlZxMhYk8JItImmxiW0u2ISnZhN2W7FJodw7v0yQYbJyTUlppFpc4p
+
+Jz25Fw4MnSp/SakrPaQ3YZJcmnjInm0upjcukEN6VUgZxs+6VprTAsZLSG2TOnjM/Bcz8zL0Wevfuv9UV6wPlsk+uzz7v0vtfW+99ZEcDOUuvNRSv7KB/nzUZTJ8XAN8HAvF0D/7aS+Qg35/zwGAuCMC3B89wV3KheuGFcKqE0KDtyBh6z0WkHYVirhPDXn4tQAIx1esSX7zJSyCl0iN00r0HS9RmjtEsrZcY0x1duW8sys8wY4QhWcQZsjcMn4E
+
+AAAkoroh9NoByklwDbQgDPOA2prycRktAZEmQdWonREsBghAEAUAAEKCmFKWeqUoSoqkU0pvkEBsAiDatGNW2pxqFWlOgUq5VDMqbU6QDTaspM1Vk7ptkzV5RtWM+pxUmmMjyvVF1R0PUmSukKKpxz2RnP6G03aIaPleAiZM2ZjIQX6QOidEaLzfUfMRac2rQYs1JA3QWklvzUAAsAHklqwBWjlSAyX/Nq3lfyxV+hlXcFVaUMruWKv8sFcKy0JX
+
+fOmZSxkV1UATXaokLq/VpWcsBa46QPrpm2AUGRLgA6NNstdfKxkUY4p1VTZmyEA67GNsOaW01jI62aQUG6PATSsmVPsRHvgAAGtwbY8QxVbFDMCM4sI8Qiau0yfAABNOr4MmONjeqZVsDwHjgmuD5owbADDcBkpAO+vgRXaD2CFY4DxJLhdG6l1GmWJAXZEyKEgrXQYdaJ8QbUCBRJoHq5Acn7RearYLsEemSNCdCLk41VA8OIASaZNt0gygBRyO
+
+JgOXgrY0Gi7QZ0XYhHcokeUGYvTEBBfC54KjyXGveBa5l2saxmPFttWiwgArN9iFiWOqUXamQSNjvgnD8MWRmdAVVqQY2vxj4mO4NSd34YOB7U4j7yjuVhBQGo97t3CADelDsAAK1wjkTU/u4AM+FkzzQLPEagWD5AQURyEDsyZA7pmZ2prpGwGbrgHuoJgP0KdmY1N7W5WZHTLPjMrc0kC+Xyvbec+QHHn1ivt8C8w/wBbljYApJ0CQuEOHEkQA
+
+SSAA
+```
+%%

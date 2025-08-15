@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"ea1bb52899976239","type":"text","text":"**Ferramentas para pensamento criativo**","x":149,"y":-1116,"width":302,"height":100},
+		{"id":"9ce5f0cc454939f9","type":"text","text":"**Mind Mapping**","x":-28,"y":-820,"width":260,"height":50},
+		{"id":"980beeef7615d7a0","type":"text","text":"**Brainstorming Webs**","x":300,"y":-820,"width":260,"height":50},
+		{"id":"96456b63134a2d3c","type":"text","text":"**Diagrama de espinha de peixe**","x":-18,"y":-554,"width":250,"height":84},
+		{"id":"ad63cb4dd44f921d","x":-1460,"y":-604,"width":256,"height":64,"type":"text","text":"**Mapas Conceituais**"},
+		{"id":"c1bd91cc5de6266d","x":-1075,"y":-1060,"width":305,"height":87,"type":"text","text":"**Ferramentas para Pensamento Reflexivo**"},
+		{"id":"4cacf46a25a24b33","type":"text","text":"# Visual Thinking\n\nO objetivo final é \"ser mais deliberado na escolha da ferramenta de pensamento para a tarefa, seja pensamento criativo, pensamento analítico ou pensamento reflexivo.\" A capacidade de escolher a ferramenta visual correta, como no exemplo da \"chave Torx\" para o uniciclo, é crucial para a eficácia na transformação de informações em conhecimento.","x":-797,"y":-1560,"width":714,"height":320},
+		{"id":"a179124dfcf60aae","type":"text","text":"**Ferramentas para analise de causa raiz**","x":-552,"y":-973,"width":305,"height":102},
+		{"id":"0007747332eb4602","type":"text","text":"**Diagramas de Venn**","x":-399,"y":-554,"width":265,"height":72},
+		{"id":"958f1d928f447b5f","x":-731,"y":-604,"width":200,"height":50,"type":"text","text":"**Torre Indutiva**"},
+		{"id":"b30b7289cd77bb88","x":-1020,"y":-600,"width":250,"height":60,"type":"text","text":"**Mindscaping**"},
+		{"id":"2bf432b7bc404a0f","x":-1204,"y":-470,"width":259,"height":124,"type":"text","text":"**Pensamento Sistêmico e Fluxos de Feedback**"}
+	],
+	"edges":[
+		{"id":"bfb1475bd3b38e4b","fromNode":"ea1bb52899976239","fromSide":"bottom","toNode":"980beeef7615d7a0","toSide":"top"},
+		{"id":"ed2c90e8919497e6","fromNode":"ea1bb52899976239","fromSide":"bottom","toNode":"9ce5f0cc454939f9","toSide":"top"},
+		{"id":"47c6d5e213d460a3","fromNode":"a179124dfcf60aae","fromSide":"bottom","toNode":"0007747332eb4602","toSide":"top"},
+		{"id":"7d5a3bde8c2cb050","fromNode":"a179124dfcf60aae","fromSide":"bottom","toNode":"96456b63134a2d3c","toSide":"top"},
+		{"id":"4758dae9ef67e121","fromNode":"4cacf46a25a24b33","fromSide":"bottom","toNode":"a179124dfcf60aae","toSide":"top"},
+		{"id":"2d11c63bafad8744","fromNode":"4cacf46a25a24b33","fromSide":"bottom","toNode":"c1bd91cc5de6266d","toSide":"top"},
+		{"id":"315fa2fe07956e83","fromNode":"c1bd91cc5de6266d","fromSide":"bottom","toNode":"ad63cb4dd44f921d","toSide":"top"},
+		{"id":"a55707167b8b251f","fromNode":"c1bd91cc5de6266d","fromSide":"bottom","toNode":"958f1d928f447b5f","toSide":"top"},
+		{"id":"e92d1edaa9738bfc","fromNode":"ea1bb52899976239","fromSide":"left","toNode":"4cacf46a25a24b33","toSide":"bottom"},
+		{"id":"9f1bca2202e40a3d","fromNode":"b30b7289cd77bb88","fromSide":"top","toNode":"c1bd91cc5de6266d","toSide":"bottom"},
+		{"id":"4b2a281cc78cabd2","fromNode":"2bf432b7bc404a0f","fromSide":"top","toNode":"c1bd91cc5de6266d","toSide":"bottom"}
+	]
+}

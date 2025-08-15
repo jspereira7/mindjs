@@ -1,0 +1,14 @@
+- Obsidian 
+- Brave 
+- Spotify
+- Discord 
+- Raycast 
+- Brew
+- Whatsapp
+- Gather
+- Todoist
+- Reader
+- MacOs fan control 
+- Disable Turbo Boost 
+- Ghostty
+- Amethyst (App de tiling)
