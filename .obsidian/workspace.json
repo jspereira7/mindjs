@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98fb4c550cd419f7",
+        "id": "c5a0bceba87f0a4d",
         "type": "tabs",
         "children": [
           {
-            "id": "0703cd53996b092d",
+            "id": "7130e80996956feb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Spy Sw - Words to search ads.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Spy Sw - Words to search ads"
+              "title": "New tab"
             }
           }
         ]
@@ -98,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
+    "width": 339.5,
     "collapsed": true
   },
   "right": {
@@ -281,6 +267,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
@@ -298,8 +285,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0703cd53996b092d",
+  "active": "7130e80996956feb",
   "lastOpenFiles": [
+    "00.Notes/Red Pill é sobre mulheres ESTJ.md",
+    "00.Notes/Como se livrar da paixão by Js.md",
     "00.Notes/Spy Sw - Words to search ads.md",
     "00.Notes/Anotações Nessaham Alita.md",
     "01.Assets/Livros PDF's/Nessahan Alita - Textos Complementares (Ed. 2008).pdf",
@@ -335,8 +324,6 @@
     "01.Assets/Livros PDF's/Nessahan Alita - O Magnetismo nas Rela◊\"es Sociais (Ed. 2008).pdf",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "00.Notes/Blind Mind.md",
-    "00.Notes/Social Engenning ESTJ.md",
-    "01.Assets/Excalidraw/Drawing 2025-08-11 19.42.11.excalidraw.md",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
     "01.Assets/Anexos/Pasted Image 20250811194228_084.png",

@@ -3,7 +3,7 @@
   "baseFontSize": 22,
   "theme": "obsidian",
   "cssTheme": "",
-  "translucency": true,
+  "translucency": false,
   "showRibbon": true,
   "showViewHeader": true
 }
