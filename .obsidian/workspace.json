@@ -8,55 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f5c95e5f1f062f1",
+            "id": "914c01b7c64992e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00.Notes/Octagram.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
+                "page": 3,
+                "left": -13,
+                "top": 781,
+                "zoom": 1.1382352941176472
               },
-              "icon": "lucide-file",
-              "title": "Octagram"
-            }
-          },
-          {
-            "id": "22ea5198aeba765f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Chick Crack.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chick Crack"
+              "icon": "lucide-file-text",
+              "title": "Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -326,15 +292,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "22ea5198aeba765f",
+  "active": "914c01b7c64992e1",
   "lastOpenFiles": [
-    "00.Notes/Chick Crack.md",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Bang_ More Lays In 60 Days -- Roosh Valizadeh -- 0 -- 9dd9057bd3b9a0ae6044fb6338acfc73 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Atomic Attraction_ The Psychology of Attraction -- Christopher Canwell -- 1, PS, 2017 -- Rampage Books -- 9781999872274 -- 3ac0d57521bb8c6be1ea50fbdebe0be7 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/The Manual What women want and how to give it to them -- W_ Anton -- 69edec191e026383889aec7b0a53544c -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Não Mais O Cara Bonzinho! -- Robert A_ Glover -- Prince Frederick, MD, ℗2004, [2003 -- Barnes&Noble -- 9781402580222 -- 43229c8be081944615851cc488ed91f4 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Nessahan Alita - O Magnetismo nas Rela◊\"es Sociais (Ed. 2008).pdf",
+    "01.Assets/Livros PDF's/Relationships/Nessahan Alita - A Guerra da Paix'o (Ed. 2004).pdf",
+    "01.Assets/Livros PDF's/Relationships/Nessahan Alita - Como lidar com mulheres (Ed. 2007 revisada).pdf",
+    "01.Assets/Livros PDF's/Relationships/Nessahan Alita - O Profano Feminino (Ed. 2005).pdf",
     "00.Notes/Octagram.md",
+    "00.Notes/Assuntos Chick Crack.md",
     "00.Notes/Como se livrar da paixão by Js.md",
     "00.Notes/Spy Sw - Words to search ads.md",
     "00.Notes/Red Pill é sobre mulheres ESTJ.md",
     "00.Notes/Anotações Nessaham Alita.md",
-    "01.Assets/Livros PDF's/Nessahan Alita - Textos Complementares (Ed. 2008).pdf",
     "Readwise/Articles/A Guerra Da Paixão.md",
     "Readwise/Books/Quick Passages.md",
     "Readwise/Books/Quebra Da Matrix.md",
@@ -352,18 +328,8 @@
     "Readwise/Tweets/Tweets From Kas.md",
     "Readwise/Tweets/Tweets From Dmitrii Kovanikov.md",
     "Readwise/Tweets/Tweets From Robert Greene.md",
-    "Readwise/Tweets",
     "Readwise/Articles/Como Lidar Com Mulheres.md",
-    "Readwise/Articles",
     "Readwise/Books/Hackeando Tudo.md",
-    "Readwise/Books/A Arte Da Sedução.md",
-    "Readwise/Books",
-    "Readwise",
-    "01.Assets/Livros PDF's/Nessahan Alita - Textos Complementares II (Ed. 2009).pdf",
-    "01.Assets/Livros PDF's/Nessahan Alita - Reflex\"es Masculinas (Ed. 2008).pdf",
-    "01.Assets/Livros PDF's/Nessahan Alita - O Profano Feminino (Ed. 2008).pdf",
-    "01.Assets/Livros PDF's/Nessahan Alita - O Profano Feminino (Ed. 2005).pdf",
-    "01.Assets/Livros PDF's/Nessahan Alita - O Magnetismo nas Rela◊\"es Sociais (Ed. 2008).pdf",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
