@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Octagram"
             }
+          },
+          {
+            "id": "22ea5198aeba765f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Chick Crack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chick Crack"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Notes/Octagram.md",
+                "file": "00.Notes/Chick Crack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Octagram"
+              "title": "Backlinks for Chick Crack"
             }
           },
           {
@@ -265,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Octagram.md",
+                "file": "00.Notes/Chick Crack.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Octagram"
+              "title": "Outline of Chick Crack"
             }
           }
         ]
@@ -301,8 +326,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2f5c95e5f1f062f1",
+  "active": "22ea5198aeba765f",
   "lastOpenFiles": [
+    "00.Notes/Chick Crack.md",
     "00.Notes/Octagram.md",
     "00.Notes/Como se livrar da paixão by Js.md",
     "00.Notes/Spy Sw - Words to search ads.md",
@@ -333,7 +359,6 @@
     "Readwise/Books/A Arte Da Sedução.md",
     "Readwise/Books",
     "Readwise",
-    "00.Notes/Optimizing Social Skills - ENTP.md",
     "01.Assets/Livros PDF's/Nessahan Alita - Textos Complementares II (Ed. 2009).pdf",
     "01.Assets/Livros PDF's/Nessahan Alita - Reflex\"es Masculinas (Ed. 2008).pdf",
     "01.Assets/Livros PDF's/Nessahan Alita - O Profano Feminino (Ed. 2008).pdf",
