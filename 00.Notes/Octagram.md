@@ -8,4 +8,8 @@ Entender **por que você é como é** e **como você se desenvolve** - tanto con
 
 É como ter um manual de instruções da sua própria mente, mostrando todas as "peças" que te compõem como pessoa.
 
---
+---
+
+Eu Js sou SDUF Entp. 
+
+

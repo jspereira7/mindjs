@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -107,7 +108,7 @@
       {
         "id": "fbf5977ba876e0b9",
         "type": "tabs",
-        "dimension": 21.505376344086027,
+        "dimension": 38.375,
         "children": [
           {
             "id": "45e13de20335d69e",
@@ -152,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00.Notes/Octagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Octagram"
             }
           },
           {
@@ -255,7 +257,7 @@
       {
         "id": "eb86590ece60221a",
         "type": "tabs",
-        "dimension": 78.49462365591397,
+        "dimension": 61.625,
         "children": [
           {
             "id": "40b21930ccd1f68a",
@@ -263,12 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Octagram.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Octagram"
             }
           }
         ]
