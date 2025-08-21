@@ -8,19 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "914c01b7c64992e1",
+            "id": "9fb047632706f726",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
-                "page": 3,
-                "left": -13,
-                "top": 781,
-                "zoom": 1.1382352941176472
-              },
-              "icon": "lucide-file-text",
-              "title": "Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -90,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -292,14 +287,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "914c01b7c64992e1",
+  "active": "9fb047632706f726",
   "lastOpenFiles": [
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Bang_ More Lays In 60 Days -- Roosh Valizadeh -- 0 -- 9dd9057bd3b9a0ae6044fb6338acfc73 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Atomic Attraction_ The Psychology of Attraction -- Christopher Canwell -- 1, PS, 2017 -- Rampage Books -- 9781999872274 -- 3ac0d57521bb8c6be1ea50fbdebe0be7 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The Manual What women want and how to give it to them -- W_ Anton -- 69edec191e026383889aec7b0a53544c -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Não Mais O Cara Bonzinho! -- Robert A_ Glover -- Prince Frederick, MD, ℗2004, [2003 -- Barnes&Noble -- 9781402580222 -- 43229c8be081944615851cc488ed91f4 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Nessahan Alita - O Magnetismo nas Rela◊\"es Sociais (Ed. 2008).pdf",
     "01.Assets/Livros PDF's/Relationships/Nessahan Alita - A Guerra da Paix'o (Ed. 2004).pdf",
