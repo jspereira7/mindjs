@@ -11,10 +11,24 @@
             "id": "9fb047632706f726",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Melhora da Aparencia - Livro Models.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Melhora da Aparencia - Livro Models"
             }
           }
         ]
@@ -84,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -289,6 +302,8 @@
   },
   "active": "9fb047632706f726",
   "lastOpenFiles": [
+    "00.Notes/Melhora da Aparencia - Livro Models.md",
+    "Readwise/Articles/Models Attract Women Through Honesty.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
@@ -299,7 +314,6 @@
     "01.Assets/Livros PDF's/Se torne um homem melhor/Nessahan Alita - O Magnetismo nas Rela◊\"es Sociais (Ed. 2008).pdf",
     "01.Assets/Livros PDF's/Relationships/Nessahan Alita - A Guerra da Paix'o (Ed. 2004).pdf",
     "01.Assets/Livros PDF's/Relationships/Nessahan Alita - Como lidar com mulheres (Ed. 2007 revisada).pdf",
-    "01.Assets/Livros PDF's/Relationships/Nessahan Alita - O Profano Feminino (Ed. 2005).pdf",
     "00.Notes/Octagram.md",
     "00.Notes/Assuntos Chick Crack.md",
     "00.Notes/Como se livrar da paixão by Js.md",
@@ -324,7 +338,6 @@
     "Readwise/Tweets/Tweets From Dmitrii Kovanikov.md",
     "Readwise/Tweets/Tweets From Robert Greene.md",
     "Readwise/Articles/Como Lidar Com Mulheres.md",
-    "Readwise/Books/Hackeando Tudo.md",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
