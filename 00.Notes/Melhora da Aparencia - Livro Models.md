@@ -12,7 +12,6 @@ Melhorar a aparencia geralmente se encaixa em duas coisas.
 - Corte seu cabelo regurlarmente, tome banho, use perfumes e etc...
 
 ---
-
 ### Shape 
 
 - Faça exercicios fisicos, isso é inegociavel, melhora sua energia, humor e aparencia. 
@@ -20,7 +19,6 @@ Melhorar a aparencia geralmente se encaixa em duas coisas.
 	- Isso te dará mais energia, beleza e assim por diante.
 
 ----
-
 ### Linguagem Corporal 
 
 Sempre ao sair em publico faça isso: 
@@ -32,7 +30,6 @@ Sempre ao sair em publico faça isso:
 - Sempre deixe que as pessoas quebrem o contato visual.
 
 ----
-
 ### Tonalidade da Voz
 
 - Sempre fale com os tons baixos da sua voz, com a voz que sai do seu peito. 
@@ -85,6 +82,35 @@ A ansiedade é o maior impeditivo para os homens conseguirem relacionamentos de 
 A ansiedade é carencia.
 - Ter anciedade significa que você se importa muito com a opnião da pessoa em relação a você. 
 - O que quer dizer que você está carende da validação dela.
+
+#### Identifique o seu padrão de evitação.
+
+O padrão que eu notei em mim que o autor comenta no seu livro é o padrão de intelectualização. 
+- Basicamente estudar sobre o assunto, tentando encontrar respostas para seus problemas.
+- Quanto mais inteligente você for, mais isso ter atrapalhará, porque você sempre irá tentar procurar formas de entender um pouco mais o problema ao inves de agir. 
+- Aprender mais e mais sobre determiando assunto não irá te ajudar, no final das contas o melhor professor é a prática.
+- Se você somente conversasse com as mulheres e não lesse uma linha desse livro, eu te garanto que vc teria resultados.
+- Além de que ao estudar um assunto, vc está criando mais anciedade ainda, se colocando mais pressão para ter sucesso. 
+
+No final das contas todos estão arruamando um jeito de fugir do seu medo. 
+
+A chave para superar seus medos é antes de mais nada quebrar sua resposta padronizada a ele. 
+- Através da auto-conciencia e disciplina.
+
+Pratica de como quebrar o proprio padrão: 
+1) Pense no que te deixa mais ancioso, primeiro beijo, relação sexual, abordar uma mulher.
+2) Agora escreva o padrão de historia que sua mente conta pra vc mesmo ao você tentar fazer isso (Minha mente diz que preciso estudar mais, ou que isso não importa)
+3) Crie uma meta, vou abordar 10 meninas na rua até x. 
+4) Diga para um amigo ou alguem que vc pretende bater essa meta, e peça pra ele te cobrar disso. 
+
+----
+### Dieta de masturbação
+
+- Se masturbe apenas uma vez por semana, sempre no mesmo dia, mantenha a disciplina.
+- Dure no minimo 10min 
+- Só fantasie com mulheres reais que vc conhece na vida real.
+
+----
 
 
 
