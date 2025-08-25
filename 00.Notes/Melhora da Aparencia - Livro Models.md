@@ -5,7 +5,6 @@ Melhorar a aparencia geralmente se encaixa em duas coisas.
 
 ---
 ### Moda e Estilo 
-
 - Use somente roupas que tenham um caimento bom no seu corpo.
 - Tire tudo do seu guarda roupas que não cai bem no seu corpo. 
 - Compre roupas novas que atendam ao seu estilo pessoal.
@@ -13,7 +12,6 @@ Melhorar a aparencia geralmente se encaixa em duas coisas.
 
 ---
 ### Shape 
-
 - Faça exercicios fisicos, isso é inegociavel, melhora sua energia, humor e aparencia. 
 - Limpe sua dieta, corte refrigerante, fast-food, sobremessas e doces.
 	- Isso te dará mais energia, beleza e assim por diante.
@@ -44,7 +42,6 @@ Sempre ao sair em publico faça isso:
 - Viva de acordo com o que você gosta e valoriza, não com base no que os outros vão achar de você. 
 
 ----
-
 ### Ansiedade de aproximação
 
 Todos nós temos uma certa resistencia em fazer alguma mudança em nossa vida, nosso corpo sempre quer que estajamos no que é mais seguro. 

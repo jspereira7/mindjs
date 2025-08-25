@@ -7,8 +7,6 @@ Se você quer ter sucesso em determinada area, apenas encontre alguem do seu tip
 - Bruce Lee (ENTP)
 - Benjamin Franklin's
 
-
-
 ----
 
 Bons livros pra ler: 
