@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fb047632706f726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Melhora da Aparencia - Livro Models.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Melhora da Aparencia - Livro Models"
-            }
-          },
-          {
             "id": "2a09864e43155059",
             "type": "leaf",
             "state": {
@@ -53,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Como ter sucesso usando seu tipo"
-            }
-          },
-          {
-            "id": "de3fcc99b23c390c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Framework Instagram Girls.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Framework Instagram Girls"
             }
           }
         ]
@@ -349,11 +301,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9fb047632706f726",
+  "active": "2a09864e43155059",
   "lastOpenFiles": [
-    "00.Notes/Como ter sucesso usando seu tipo.md",
-    "00.Notes/Framework Instagram Girls.md",
     "00.Notes/Melhora da Aparencia - Livro Models.md",
+    "00.Notes/Como ter sucesso usando seu tipo.md",
+    "00.Notes/Framework Girls.md",
     "Readwise/Articles/Models Attract Women Through Honesty.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",

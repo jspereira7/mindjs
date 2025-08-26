@@ -4,3 +4,5 @@ Tudo é sobre oferta e demanda.
 
 Então, tudo no final se resume a aparencia de certa forma... 
 
+Como o thunks do futuro diz, o que vai mais te facilitar no jogo de relacionamentos á curto prazo é aparencia. 
+
