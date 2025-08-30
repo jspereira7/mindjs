@@ -21,7 +21,14 @@ A natureza de uma pessoa é genetica, então idependente da sua criação, 80% d
 - Falarão de forma parecida.  
 - Estarão interresados nas mesmas coisas. 
 
-Quanto mais fofa for uma garota, mais indica que ela tem uma Fi otimis
+Quanto mais fofa for uma garota, mais indica que ela tem uma Fi otimista, que significa que ou ela é uma Fi (Hero), ou é uma Fi(Children).
+
+ - Relacionamento sexual pra um entp, a pessoa precisa ser mais fofa, ISFP e etc... 
+
+A escolha de fotos no instagram podem indicar os vetores das pessoas pra vc tambem. 
+- Se postam foto de consquistas, isso pode indicar que são usuarios de Te e etc... 
+
+
 
 --- 
 
