@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": false,
+  "isSyncing": true,
   "lastSyncFailed": false,
   "lastSavedStatusID": 21856378,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 21866879,
   "refreshBooks": false,
   "booksToRefresh": [],
   "failedBooks": [],
@@ -51,7 +51,8 @@
     "Readwise/Books/Quick Passages.md": "52817550",
     "Readwise/Articles/A Guerra Da Paixão.md": "54252630",
     "Readwise/Articles/Models Attract Women Through Honesty.md": "54384407",
-    "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md": "54556576"
+    "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md": "54556576",
+    "Readwise/Articles/The Manual What Women Want and How to Give It to Them.md": "54618339"
   },
   "reimportShowConfirmation": true
 }
