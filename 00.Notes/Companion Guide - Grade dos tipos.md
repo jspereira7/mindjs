@@ -19,15 +19,19 @@ Isso também é verdade em relação ào Type Grid.
 
 Ela funciona como uma ferramenta visual, parecida com um ábaco ou uma tabela, que ajuda a entender como funciona a mente humana, usando um processo de eliminação.
 
-Nas páginas seguintes, leia com atenção a explicação que vem nas próximas páginas, antes de tentar identificar seu tipo.
+Leia com atenção a explicação que vem nas próximas páginas, antes de tentar identificar seu tipo.
+
+----
 
 A Grade de Tipos é basicamente uma tabela parecida com aquela de multiplicação que aprendemos na escola, só que mais elaborada.
 
 A maneira de usá-la é escolher uma linha e uma coluna, e o ponto onde elas se cruzam para mostrar o resultado.
 
-Para usar a Grade de forma eficiente, é importante entender bem o que cada item da tabela significa. Depois disso, você pode usá-los para se guiar.
+Para usar a Grade de forma eficiente, é importante entender bem o que cada item da tabela significa. 
 
-Mesmo parecendo simples, esse método exige prática e paciência para observar esses traços em você e nas outras pessoas.
+Depois disso, você pode usá-los para se guiar.
+
+**Mesmo parecendo simples, esse método exige prática e paciência para observar esses traços em você e nas outras pessoas.**
 
 Com essa observação, você consegue reunir as informações necessárias para comparar comportamentos e, assim, descobrir com mais precisão o tipo de cada pessoa.
 
@@ -84,6 +88,7 @@ O foco em **PROGRESSO**
 - Quem tem foco em progresso é espontâneo e inquieto, buscando muitas tentativas para alcançar o sucesso.
 - O foco em progresso teme a inação, por isso tenta alcançar seu objetivo com mais tentativas.
 - O foco em progresso valoriza mais a **jornada** do que a meta.
+- Pessoas com foco em progression, em mensagens de texto podem quebrar uma mensagem em varias mini-mensagens, ao inves de escrever em uma unica. 
 
 ---
 #### Estilo de comunicação direta.
@@ -256,7 +261,6 @@ Identifique os **quatro temperamentos** psicológicos observando:
 
 Busca o **melhor processo** para alcançar resultados previsíveis. Valoriza a ordem, estrutura e consistência.  
 → Ex: Intelectuais e Guardiões.
-
 ### **Interest (Interesse):**
 
 Busca entender **quem se beneficia** ou como algo **impacta as pessoas**. Valoriza empatia e circunstância.  

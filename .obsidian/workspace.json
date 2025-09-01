@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "123130839607da6c",
+        "id": "6a7b3afbc3a2c8b1",
         "type": "tabs",
         "children": [
           {
-            "id": "50be4b13f7458d82",
+            "id": "d8161f6aca393161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Visual Typing - Cs Joseph.md",
+                "file": "00.Notes/Companion Guide - Grade dos tipos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Visual Typing - Cs Joseph"
+              "title": "Companion Guide - Grade dos tipos"
+            }
+          },
+          {
+            "id": "370df5572e2c91a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Tipagem Heloisa IG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tipagem Heloisa IG"
+            }
+          },
+          {
+            "id": "c90ef036a43b2b5c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01.Assets/Anexos/Pasted image 20250806183208.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250806183208"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 255.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -300,13 +337,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "50be4b13f7458d82",
+  "active": "370df5572e2c91a7",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20250806183208.png",
+    "00.Notes/Tipagem Heloisa IG.md",
+    "00.Notes/Companion Guide - Grade dos tipos.md",
+    "01.Assets/Anexos/Pasted image 20250901163545.png",
+    "00.Notes/Fundamentos Psicologia Junguiana.md",
+    "00.Notes/Octagram 4 Cs Joseph.md",
+    "00.Notes/Como ter sucesso usando seu tipo.md",
     "00.Notes/Visual Typing - Cs Joseph.md",
     "00.Notes/Quadras - CsJoseph.md",
     "Readwise/Articles/The Manual What Women Want and How to Give It to Them.md",
     "00.Notes/Attomic atraction.md",
-    "00.Notes/Como ter sucesso usando seu tipo.md",
     "00.Notes/How to dating right - CsJoseph.md",
     "00.Notes/Funções Cognitivas - Cs Joseph.md",
     "01.Assets/Anexos/Pasted image 20250827093823.png",
@@ -334,11 +377,6 @@
     "Readwise/Books/Quick Passages.md",
     "Readwise/Books/Quebra Da Matrix.md",
     "Readwise/Books/Leonardo Davinci Genius.md",
-    "Readwise/Books/Pensamento Eficaz.md",
-    "Readwise/Books/Fora De Série Outliers.md",
-    "Readwise/Articles/Write to Escape Your Default Setting.md",
-    "Readwise/Tweets/Tweets From Js.md",
-    "Readwise/Tweets/Tweets From TrunQ.md",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
@@ -346,8 +384,6 @@
     "01.Assets/Anexos/Pasted image 20250811164118.png",
     "01.Assets/Anexos/Pasted image 20250811163940.png",
     "01.Assets/Anexos/Pasted image 20250811162735.png",
-    "01.Assets/Anexos/Pasted image 20250811162639.png",
-    "01.Assets/Anexos/Pasted image 20250811162554.png",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 1.canvas",
     "01.Assets/Untitled 2.canvas",
