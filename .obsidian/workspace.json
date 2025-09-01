@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7b3afbc3a2c8b1",
+        "id": "296172ac53b3f521",
         "type": "tabs",
         "children": [
           {
-            "id": "d8161f6aca393161",
+            "id": "1242c7c1f22793e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Companion Guide - Grade dos tipos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Companion Guide - Grade dos tipos"
-            }
-          },
-          {
-            "id": "370df5572e2c91a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Tipagem Heloisa IG.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tipagem Heloisa IG"
-            }
-          },
-          {
-            "id": "c90ef036a43b2b5c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01.Assets/Anexos/Pasted image 20250806183208.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250806183208"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -337,10 +286,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c90ef036a43b2b5c",
+  "active": "1242c7c1f22793e8",
   "lastOpenFiles": [
+    "01.Assets/PDF's/How to type your self guide csjoseph.pdf",
     "00.Notes/Tipagem Heloisa IG.md",
     "01.Assets/Anexos/Pasted image 20250806183208.png",
+    "01.Assets/Anexos/Companion Guide 2025-08-06 19.01.13.excalidraw.md",
     "00.Notes/Companion Guide - Grade dos tipos.md",
     "01.Assets/Anexos/Pasted image 20250901163545.png",
     "00.Notes/Fundamentos Psicologia Junguiana.md",
@@ -366,7 +317,6 @@
     "01.Assets/Livros PDF's/Se torne um homem melhor/Não Mais O Cara Bonzinho! -- Robert A_ Glover -- Prince Frederick, MD, ℗2004, [2003 -- Barnes&Noble -- 9781402580222 -- 43229c8be081944615851cc488ed91f4 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Nessahan Alita - O Magnetismo nas Rela◊\"es Sociais (Ed. 2008).pdf",
     "01.Assets/Livros PDF's/Relationships/Nessahan Alita - A Guerra da Paix'o (Ed. 2004).pdf",
-    "01.Assets/Livros PDF's/Relationships/Nessahan Alita - Como lidar com mulheres (Ed. 2007 revisada).pdf",
     "00.Notes/Octagram.md",
     "00.Notes/Assuntos Chick Crack.md",
     "00.Notes/Como se livrar da paixão by Js.md",
@@ -376,7 +326,6 @@
     "Readwise/Articles/A Guerra Da Paixão.md",
     "Readwise/Books/Quick Passages.md",
     "Readwise/Books/Quebra Da Matrix.md",
-    "Readwise/Books/Leonardo Davinci Genius.md",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
