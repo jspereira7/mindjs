@@ -3,9 +3,9 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 21898542,
+  "lastSavedStatusID": 21915238,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -52,7 +52,8 @@
     "Readwise/Articles/A Guerra Da Paixão.md": "54252630",
     "Readwise/Articles/Models Attract Women Through Honesty.md": "54384407",
     "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md": "54556576",
-    "Readwise/Articles/The Manual What Women Want and How to Give It to Them.md": "54618339"
+    "Readwise/Articles/The Manual What Women Want and How to Give It to Them.md": "54618339",
+    "Readwise/Books/O Mito Do Empreendedor.md": "54719816"
   },
   "reimportShowConfirmation": true
 }
