@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Curso Demarco - Framework Prático",
+      "path": "00.Notes/Curso Demarco - Framework Prático.md"
+    },
+    {
       "basename": "How to type your self guide csjoseph",
       "path": "01.Assets/PDF's/How to type your self guide csjoseph.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Como ficar Rico",
       "path": "00.Notes/Como ficar Rico.md"
-    },
-    {
-      "basename": "Como ficar mais Alto",
-      "path": "00.Notes/Como ficar mais Alto.md"
     }
   ],
   "omittedPaths": [

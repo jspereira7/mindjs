@@ -11,10 +11,24 @@
             "id": "1242c7c1f22793e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Curso Demarco - Framework Prático.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Curso Demarco - Framework Prático"
             }
           }
         ]
@@ -84,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -286,8 +301,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cf321efad4a60738",
+  "active": "1242c7c1f22793e8",
   "lastOpenFiles": [
+    "00.Notes/Curso Demarco - Framework Prático.md",
     "Readwise/Articles/Não Mais O Cara Bonzinho!.md",
     "Readwise/Books/O Mito Do Empreendedor.md",
     "01.Assets/PDF's/How to type your self guide csjoseph.pdf",
@@ -326,7 +342,6 @@
     "00.Notes/Red Pill é sobre mulheres ESTJ.md",
     "00.Notes/Anotações Nessaham Alita.md",
     "Readwise/Articles/A Guerra Da Paixão.md",
-    "Readwise/Books/Quick Passages.md",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
