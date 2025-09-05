@@ -6,3 +6,8 @@ Ideias de mecanismos para explorar:
 3) Agora que vc sabe o nicho mais lucrativo, peça ajuda para criar um produto de 3,000.00 reais para esse publico. Peça bem formatado a estrutura do produto.
 4) Peça pra tornar o produto de entrada um produto escalavel, que não dependa tanto do seu tempo.
 5) 
+
+---
+
+### Ideia central: Low ticket global é mais lucrativo do que low ticket no brasil 
+
