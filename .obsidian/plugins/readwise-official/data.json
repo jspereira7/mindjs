@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": false,
+  "isSyncing": true,
   "lastSyncFailed": false,
   "lastSavedStatusID": 21931349,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 21958854,
   "refreshBooks": false,
   "booksToRefresh": [
     "54618339"
@@ -55,7 +55,9 @@
     "Readwise/Books/O Mito Do Empreendedor.md": "54719816",
     "Readwise/Articles/Models Attract Women Through Honesty.md": "54384407",
     "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md": "54556576",
-    "Readwise/Articles/Não Mais O Cara Bonzinho!.md": "54726254"
+    "Readwise/Articles/Não Mais O Cara Bonzinho!.md": "54726254",
+    "Readwise/Books/Tipologia Junguiana.md": "54744144",
+    "Readwise/Books/Mark Mandon.md": "54768230"
   },
   "reimportShowConfirmation": true
 }
