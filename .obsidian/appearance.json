@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#8c00ff",
   "baseFontSize": 22,
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "translucency": false,
   "showRibbon": true,
   "showViewHeader": true

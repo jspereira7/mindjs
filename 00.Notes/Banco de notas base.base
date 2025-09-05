@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Todas as Notas
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: View
+    rowHeight: extra
+    cardSize: 50

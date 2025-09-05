@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "296172ac53b3f521",
+        "id": "085bde0f6544f309",
         "type": "tabs",
         "children": [
           {
-            "id": "1242c7c1f22793e8",
+            "id": "d5c596ae2c3b4fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Curso Demarco - Framework Prático.md",
+                "file": "00.Notes/Entp Development - Yt Video Cs Joseph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curso Demarco - Framework Prático"
+              "title": "Entp Development - Yt Video Cs Joseph"
             }
           },
           {
-            "id": "e1f4c594147a23f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Projeto Ig.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projeto Ig"
-            }
-          },
-          {
-            "id": "2afc4455b6f5b9ad",
+            "id": "b0f8a40af9679b37",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -66,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +74,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -133,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
+    "width": 486.5,
     "collapsed": true
   },
   "right": {
@@ -143,7 +119,6 @@
       {
         "id": "fbf5977ba876e0b9",
         "type": "tabs",
-        "dimension": 38.375,
         "children": [
           {
             "id": "45e13de20335d69e",
@@ -151,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Tipologia Junguiana - PhilOver.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +153,17 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tipologia Junguiana - PhilOver"
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ec863a83003b3d6e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-youtube",
+              "state": {},
+              "icon": "documents",
+              "title": "Youtube"
             }
           },
           {
@@ -188,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Notes/Chick Crack.md",
+                "file": "00.Notes/Insights Mark manson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chick Crack"
+              "title": "Backlinks for Insights Mark manson"
             }
           },
           {
@@ -236,8 +220,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -246,20 +230,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "96cc9edb9a411918",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalibrain.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -282,38 +254,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "eb86590ece60221a",
-        "type": "tabs",
-        "dimension": 61.625,
-        "children": [
-          {
-            "id": "40b21930ccd1f68a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00.Notes/Chick Crack.md",
-                "followCursor": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Chick Crack"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
+    "width": 900.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -336,8 +286,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2afc4455b6f5b9ad",
+  "active": "b0f8a40af9679b37",
   "lastOpenFiles": [
+    "00.Notes/Entp Development - Yt Video Cs Joseph.md",
+    "00.Notes/Banco de notas base.base",
+    "00.Notes/Insights Mark manson.md",
     "00.Notes/Projeto Ig.md",
     "00.Notes/Curso Demarco - Framework Prático.md",
     "Readwise/Books/Mark Mandon.md",
@@ -362,9 +315,7 @@
     "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
     "Readwise/Tweets/Tweets From Kas.md",
     "Readwise/Tweets/Tweets From Dmitrii Kovanikov.md",
-    "Readwise/Tweets/Tweets From Robert Greene.md",
     "Readwise/Tweets",
-    "Readwise/Articles/Como Lidar Com Mulheres.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
@@ -376,7 +327,6 @@
     "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Bang_ More Lays In 60 Days -- Roosh Valizadeh -- 0 -- 9dd9057bd3b9a0ae6044fb6338acfc73 -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Atomic Attraction_ The Psychology of Attraction -- Christopher Canwell -- 1, PS, 2017 -- Rampage Books -- 9781999872274 -- 3ac0d57521bb8c6be1ea50fbdebe0be7 -- Anna’s Archive.pdf",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
