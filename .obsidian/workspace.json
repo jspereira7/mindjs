@@ -35,10 +35,24 @@
             "id": "b0f8a40af9679b37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Ego Hacking By Text..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ego Hacking By Text."
             }
           }
         ],
@@ -126,6 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00.Notes/Ego Hacking By Text..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Ego Hacking By Text."
             }
           },
           {
@@ -257,6 +272,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c4eedcef2b6e00f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.Notes/Ego Hacking By Text..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ego Hacking By Text."
+            }
           }
         ],
         "currentTab": 1
@@ -288,6 +318,7 @@
   },
   "active": "b0f8a40af9679b37",
   "lastOpenFiles": [
+    "00.Notes/Ego Hacking By Text..md",
     "00.Notes/Entp Development - Yt Video Cs Joseph.md",
     "00.Notes/Banco de notas base.base",
     "00.Notes/Insights Mark manson.md",
@@ -314,7 +345,6 @@
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
     "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
     "Readwise/Tweets/Tweets From Kas.md",
-    "Readwise/Tweets/Tweets From Dmitrii Kovanikov.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
