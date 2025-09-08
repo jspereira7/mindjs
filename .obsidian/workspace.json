@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Ego Hacking By Text."
             }
+          },
+          {
+            "id": "3cffbdfbe4dc94e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Curso Demarco - Framework Prático.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Curso Demarco - Framework Prático"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,12 +143,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 486.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -316,8 +340,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b0f8a40af9679b37",
+  "active": "3cffbdfbe4dc94e1",
   "lastOpenFiles": [
+    "00.Notes/Estrátegia pra levantar caixa.md",
     "00.Notes/Ego Hacking By Text..md",
     "00.Notes/Entp Development - Yt Video Cs Joseph.md",
     "00.Notes/Banco de notas base.base",
@@ -344,7 +369,6 @@
     "Readwise/Articles/The 2 Productivity Habits That Changed My Work Routine Forever.md",
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
     "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
-    "Readwise/Tweets/Tweets From Kas.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
