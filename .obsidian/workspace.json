@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "Curso Demarco - Framework Prático"
             }
+          },
+          {
+            "id": "2fefb74e1e4c8d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Livros recomendados MarkManson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Livros recomendados MarkManson"
+            }
+          },
+          {
+            "id": "b0039d70dcad01c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Entp Octagram variants.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Entp Octagram variants"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 486.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -340,15 +389,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3cffbdfbe4dc94e1",
+  "active": "b0039d70dcad01c3",
   "lastOpenFiles": [
-    "00.Notes/Estrátegia pra levantar caixa.md",
+    "00.Notes/Entp Octagram variants.md",
+    "00.Notes/Livros recomendados MarkManson.md",
+    "00.Notes/Books Top 5 by member csjoseph.md",
+    "00.Notes/Curso Demarco - Framework Prático.md",
     "00.Notes/Ego Hacking By Text..md",
     "00.Notes/Entp Development - Yt Video Cs Joseph.md",
+    "00.Notes/Estrátegia pra levantar caixa.md",
     "00.Notes/Banco de notas base.base",
     "00.Notes/Insights Mark manson.md",
     "00.Notes/Projeto Ig.md",
-    "00.Notes/Curso Demarco - Framework Prático.md",
     "Readwise/Books/Mark Mandon.md",
     "Readwise/Books/Tipologia Junguiana.md",
     "Readwise/Articles/Não Mais O Cara Bonzinho!.md",
@@ -366,9 +418,6 @@
     "Readwise/Tweets/Tweets From TrunQ.md",
     "Readwise/Books/Paul Graham's Collection of Quotes.md",
     "Readwise/Tweets/Tweets From Naval.md",
-    "Readwise/Articles/The 2 Productivity Habits That Changed My Work Routine Forever.md",
-    "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
-    "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
