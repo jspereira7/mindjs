@@ -11,6 +11,16 @@ SF
 
 UF
 - inconcientemente focado
+
+
+### UD/SD definição
+- UD = emocionalmente explosivo é sacrificar a Harmonia social em troca de autenticidade. 
+- SD = Emocionalmente implosivo é sacrificar a autenticidade em troca de harmonia. 
+	- Essas pessoas estão dispostas a usar mascaras, a não expor realmente seus sentimentos, ou como elas se sentem realmente. 
+	- Esse tipo de pessoa geralmente não quer socializar, então quando estão em ambientes que são forçadas a socializar, elas usam mascaras.
+	- Essas pesssoas precisam sair e aprender a conviver com pessoas do sexo oposto, e se familiarizar com isso, e quando se apaixonarem por alguem, precisam confessar isso pra pessoa.
+	- 
+
 ----
 ### ENTP SDSF (Subconscious Developed Subconscious Focused) 
 
@@ -110,7 +120,10 @@ As 8 funções dentro da sua cabeça são ferramentas, as 4 primeiras (ego), sã
 
 ----
 
-Homens sub-concientemente desenvolvidos geralmente são virgens até os 27,29 anos...
+Virgindade Homem/Mulher
+- Homens sub-concientemente desenvolvidos geralmente são virgens até os 27,29 anos.
+- Mulhers geralmente são virgens até no máximo 16 anos. (SD mulheres estão procurando novas experiencias)
+
 
 Demora muito até que eles tenham um relacionamento sexual. 
 
@@ -118,4 +131,15 @@ Demora muito até que eles tenham um relacionamento sexual.
 - Mulheres de alto valor se relacionam com homens de alto valor, e os homens de alto valor geralmente possuem 34 a 44 anos. 
 	- E as mulhers de alto valor estão com 20-26 anos.
 - Isso se torna um grande problema porque homens q estão na juventude, não terão essa oportunidade, mas se fosse 30-40 anos atrás eles teriam a oportunidade.
-- 
+- Homens UD desenvolvem mais a masculinidade, e possuem mais oportunidades sexuais.
+
+O problema
+- Homens UD estão monopolizando o mercado sexual, ficando com todas as garotas SD, que eram pra ser dos caras SD.
+- Homens UD são mais lideres, homens SD são mais seguidores. 
+
+O problema com mulhers emocionalmente improsivas: 
+- Mulheres UD, não saem de casa, e como não saem de casa não podem conhecer homens.
+- O trabalho de homens e mulheres SD é cultivar paixões. Aprenda o valor de desenvolver uma paixão.
+- UD = emocionalmente explosivo é sacrificar a Harmonia social em troca de autenticidade. 
+- SD = Emocionalmente implosivo é sacrificar a autenticidade em troca de harmonia. 
+
