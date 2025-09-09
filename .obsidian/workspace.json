@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5c596ae2c3b4fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Entp Development - Yt Video Cs Joseph.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Entp Development - Yt Video Cs Joseph"
-            }
-          },
-          {
-            "id": "b0f8a40af9679b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Ego Hacking By Text..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ego Hacking By Text."
-            }
-          },
-          {
-            "id": "3cffbdfbe4dc94e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Curso Demarco - Framework Prático.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Curso Demarco - Framework Prático"
-            }
-          },
-          {
-            "id": "2fefb74e1e4c8d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Livros recomendados MarkManson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Livros recomendados MarkManson"
-            }
-          },
-          {
             "id": "b0039d70dcad01c3",
             "type": "leaf",
             "state": {
@@ -126,9 +30,33 @@
               "icon": "lucide-file",
               "title": "Entp Octagram variants"
             }
+          },
+          {
+            "id": "aa2125d6ecf6572d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exercicios Livro não mais o cara bonzinho."
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -389,13 +317,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b0039d70dcad01c3",
+  "active": "aa2125d6ecf6572d",
   "lastOpenFiles": [
+    "00.Notes/Exercicio 3 - N mais o cara bonzinho.md",
+    "00.Notes/Entp Octagram variants.md",
+    "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
     "00.Notes/Livros recomendados MarkManson.md",
     "00.Notes/Curso Demarco - Framework Prático.md",
     "00.Notes/Ego Hacking By Text..md",
     "00.Notes/Entp Development - Yt Video Cs Joseph.md",
-    "00.Notes/Entp Octagram variants.md",
     "00.Notes/Books Top 5 by member csjoseph.md",
     "00.Notes/Estrátegia pra levantar caixa.md",
     "00.Notes/Banco de notas base.base",
@@ -416,8 +346,6 @@
     "Readwise/Articles/Write to Escape Your Default Setting.md",
     "Readwise/Tweets/Tweets From Js.md",
     "Readwise/Tweets/Tweets From TrunQ.md",
-    "Readwise/Books/Paul Graham's Collection of Quotes.md",
-    "Readwise/Tweets/Tweets From Naval.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",

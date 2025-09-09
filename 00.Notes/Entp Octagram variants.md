@@ -12,14 +12,20 @@ SF
 UF
 - inconcientemente focado
 
-
 ### UD/SD definição
 - UD = emocionalmente explosivo é sacrificar a Harmonia social em troca de autenticidade. 
 - SD = Emocionalmente implosivo é sacrificar a autenticidade em troca de harmonia. 
 	- Essas pessoas estão dispostas a usar mascaras, a não expor realmente seus sentimentos, ou como elas se sentem realmente. 
 	- Esse tipo de pessoa geralmente não quer socializar, então quando estão em ambientes que são forçadas a socializar, elas usam mascaras.
 	- Essas pesssoas precisam sair e aprender a conviver com pessoas do sexo oposto, e se familiarizar com isso, e quando se apaixonarem por alguem, precisam confessar isso pra pessoa.
-	- 
+
+Exemplo: 
+
+O filho quer seguir uma carreira artística, mas os pais acham que isso não dá futuro.
+
+- **Filho emocionalmente explosivo**: discute com os pais, grita, bate a porta do quarto e diz coisas do tipo _“vocês não me entendem!”_.
+    
+- **Filho emocionalmente implosivo**: não fala nada, finge concordar, mas guarda a frustração. Por dentro, sente raiva e tristeza, e começa a se afastar emocionalmente, evitando conversar sobre seus sonhos.
 
 ----
 ### ENTP SDSF (Subconscious Developed Subconscious Focused) 
@@ -40,11 +46,11 @@ A independência vem menos naturalmente para eles, pois foram apoiados na infân
 
 Eles não tendem a ter uma mentalidade de vítima. 
 
-O extroverted feeling (Fe) como "função de Deus" tem forte influência neles
+O extroverted feeling (Fe) como "função de Deus" tem forte influência neles.
 
 ---
 
-### ENTP SDUF (Subconscious Developed Unconscious Focused) 
+### ENTP SDUF (Subconscious Developed / Unconscious Focused) 
 
 Esses entps foram capacitados na sua infancia, mas foram desabilitados em outros ambientes á medida que envelheciam. 
 
@@ -57,8 +63,9 @@ Desenvolver sua sombra INTJ se torna vital pra buscar novas satisfações.
 São fanáticos em relação ás coisas, pessoas e oportunidades que invejam.
 
 Valorizam a **liberdade pessoal** acima de tudo (influência da função de Deus introverted intuition - Ni) e seguem seus desejos para alcançar satisfação. 
+- A Ni deles diz que eles vão ter um futuro, ela é uma função otimista. 
 
-Eles querem manter tudo o que ganharam e buscam maneiras de proteger seus avanços
+Querem manter tudo o que ganharam e buscam maneiras de proteger seus avanços.
 
 ----
 ### ENTP UDSF 
@@ -79,11 +86,13 @@ Lideram com uma combinação de dever (Si) e seu desejo, impulso e busca por hab
 
 A extroverted feeling (Fe) como "função de Deus" tem forte influência, levando-os a buscar aumentar sua própria aceitabilidade e a dos outros. 
 
-Eles sofreram muito, mas ainda sorriem e têm esperança para um futuro melhor, buscando ajudar os outros a não sofrerem da mesma forma. Tony Stark (MCU) e Andrew Tate são exemplos citados.
+Eles sofreram muito, mas ainda sorriem e têm esperança para um futuro melhor, buscando ajudar os outros a não sofrerem da mesma forma. 
+
+Tony Stark (MCU) e Andrew Tate são exemplos citados.
 
 ---
 
-### ENTP UDSF 
+### ENTP UDUF 
 
 São ENTPs que foram **completamente desabilitados em seu ambiente inicial**; seu conforto foi violado e suas contribuições não foram apreciadas. 
 
@@ -109,7 +118,7 @@ CS Joseph, pessoalmente, identifica-se como UDUF e busca se tornar UDSF.
 
 Octagram, cada pessoa é um tri tipo. (EGO -> DEVELOPMENT, FOCUS)
 
-Focus = qual lado da minha mente estou trabalhando/usando nesse momento atual de vida ou vou trabalhar. E aqui é pra onde a pessoa está indo Ni
+**Focus** = Qual lado da minha mente estou trabalhando/usando nesse momento atual de vida ou vou trabalhar. E aqui é pra onde a pessoa está indo Ni
 
 Development = É aonde o meu trabalho mental já esteve esteve. Ou seja aqui é onde a Si de uma pessoa já esteve.
 
@@ -124,8 +133,7 @@ Virgindade Homem/Mulher
 - Homens sub-concientemente desenvolvidos geralmente são virgens até os 27,29 anos.
 - Mulhers geralmente são virgens até no máximo 16 anos. (SD mulheres estão procurando novas experiencias)
 
-
-Demora muito até que eles tenham um relacionamento sexual. 
+Homens SD levam muito até que eles tenham um relacionamento sexual. 
 
 - Mulheres dificilmente se relacionam com homens da sua propria idade.
 - Mulheres de alto valor se relacionam com homens de alto valor, e os homens de alto valor geralmente possuem 34 a 44 anos. 
@@ -133,13 +141,15 @@ Demora muito até que eles tenham um relacionamento sexual.
 - Isso se torna um grande problema porque homens q estão na juventude, não terão essa oportunidade, mas se fosse 30-40 anos atrás eles teriam a oportunidade.
 - Homens UD desenvolvem mais a masculinidade, e possuem mais oportunidades sexuais.
 
-O problema
+**O problema**
 - Homens UD estão monopolizando o mercado sexual, ficando com todas as garotas SD, que eram pra ser dos caras SD.
 - Homens UD são mais lideres, homens SD são mais seguidores. 
 
-O problema com mulhers emocionalmente improsivas: 
+**O problema com mulhers emocionalmente implosivas:** 
 - Mulheres UD, não saem de casa, e como não saem de casa não podem conhecer homens.
-- O trabalho de homens e mulheres SD é cultivar paixões. Aprenda o valor de desenvolver uma paixão.
-- UD = emocionalmente explosivo é sacrificar a Harmonia social em troca de autenticidade. 
-- SD = Emocionalmente implosivo é sacrificar a autenticidade em troca de harmonia. 
+- O trabalho de homens e mulheres SD é cultivar paixões. Aprender o valor de desenvolver uma paixão.
+- UD = emocionalmente explosivo, é sacrificar a Harmonia social em troca de autenticidade. 
+- SD = Emocionalmente implosivo, é sacrificar a autenticidade em troca de harmonia. 
+
+----
 
