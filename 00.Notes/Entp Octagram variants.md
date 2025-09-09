@@ -105,3 +105,17 @@ Development = É aonde o meu trabalho mental já esteve esteve. Ou seja aqui é 
 
 DEV = Si
 FOCUS = Ni 
+
+As 8 funções dentro da sua cabeça são ferramentas, as 4 primeiras (ego), são suas favoritas, as outras 4 são as que vc não usa com muita frequencia, essa é sua natureza. 
+
+----
+
+Homens sub-concientemente desenvolvidos geralmente são virgens até os 27,29 anos...
+
+Demora muito até que eles tenham um relacionamento sexual. 
+
+- Mulheres dificilmente se relacionam com homens da sua propria idade.
+- Mulheres de alto valor se relacionam com homens de alto valor, e os homens de alto valor geralmente possuem 34 a 44 anos. 
+	- E as mulhers de alto valor estão com 20-26 anos.
+- Isso se torna um grande problema porque homens q estão na juventude, não terão essa oportunidade, mas se fosse 30-40 anos atrás eles teriam a oportunidade.
+- 
