@@ -1,8 +1,6 @@
-### **Atividade 3** 
+### **Exercicio 3*** 
 
 Vergonha tóxica é o que cria um cara bonzinho. 
-- 
-
 
 Releia as historias de Alan, Jason e José. E pense em como essas historias são semelhantes as suas experiencias na infancia. 
 
@@ -37,13 +35,53 @@ O processo ocorre em 3 etapas:
 	- Eu internalizei a crença de que só sou amado ou adequado quando faço meu pai ou mãe felizes.
 3) Criação de mecanismos de sobrevivencia.
 	- Todos os caras bonzinhos criarão o seguinte paradigma de vida "Se eu puder esconder meus defeitos e tornar-me o que eu acho que os outros querem que eu seja, então serei amado."
-	- 
-
-
 
 R: 
-
 - Me identifico com a Historia de Alan, porque eu nunca briguei com minha mãe, e poucas vezes com meu pai, e sempre quis agradá-los.
 - Tambem me identifico com a historia de Jason, onde seu pai controlou sua vida, dizendo que carro deveria comprar, que moça deveria procurar pra casar e qual igreja deveria frequentar.
 - Eu acredito que eu tenho muito medo, de magoar meus pais, de ser um "ovelha negra da familia" um tirano, e magoar meus pais por não fazer ou seguir o que eles querem que eu siga. 
-- 
+
+---
+
+### **Exercicio 4** 
+
+Faça uma lista com exemplos de anexos, que você usa para obter aprovação dos outros. 
+
+Eu Josias como eu obtenho aprovação.
+- Ser inteligente
+- Evitando conflitos, tendo um ambiente agradavel. 
+- Ser diferente dos outros homens, não sendo um pau mandado. 
+- Ter um shape
+- Se vestir de maneira melhor do que os outros homens
+- Nunca ficar com raiva
+- Fazer as outras pessoas dar risada
+- Inventando ou exagerando historias para impressionar as pessoas. 
+- Tentando parecer um macho alpha ou que não está interresado.
+
+----
+### **Exercicio 5**
+
+Se você não se importasse com o que as pessoas pensam de você sua vida seria diferente ? 
+- R: Sim, acredito que muitas coisas eu não faria da forma que faço.
+
+Se você não se importasse com a aprovação das mulheres, seu relacionamento com o sexo oposto seria diferente ?
+- R: Sim, acredito que eu não sentira tanta raiva delas assim, e não agiria como "Homem Alpha"
+
+----
+
+### **Exercicio 6**
+
+Anote exemplos de situações em que vc escondeu suas falhas das pessoas que você ama, só para obter aprovação.
+
+- Quando eu quebrei totalmente o meu negocio online, e fiquei sem dinheiro, eu inventei desculpas que o dinheiro não estava caindo, somente pra não ser visto como um fracasso, e um cara fraco. 
+- Quando eu estava em um namoro com uma menina online e ela me deixou recentente, e eu estava muito triste, eu me fingia que estava feliz pros meus pais.
+- Quando para essa mesma namorada que amei, eu fiz inumeras mentiras sobre mim, só pra parecer um cara macho alpha e ganhar a atração dela.
+- Quando muitas vezes eu menti pros meus pais dizendo que eu estava comprando um caro e estava pagando as parcelas do consorcio. 
+- Quando eu menti sobre meus resultados na internet para as pessoas, para que eles me vissem como alguem que tinha resultados expressivos. 
+- Quando eu sempre fiz com as mulheres, de esconder meu desejo sexual por elas. 
+- Quando eu menti na igreja que eu derrubei a camera sem querer, mas na verdade foi uma falta de atenção minha. 
+- Quando eu menti pros meus amigos sobre nunca ter pegado nenhuma mulher realmente.
+
+-----
+
+### 
