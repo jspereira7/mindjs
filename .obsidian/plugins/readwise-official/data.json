@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": false,
+  "isSyncing": true,
   "lastSyncFailed": false,
   "lastSavedStatusID": 22018186,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 22032730,
   "refreshBooks": false,
   "booksToRefresh": [
     "54618339"
@@ -57,7 +57,8 @@
     "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md": "54556576",
     "Readwise/Articles/Não Mais O Cara Bonzinho!.md": "54726254",
     "Readwise/Books/Tipologia Junguiana.md": "54744144",
-    "Readwise/Books/Mark Mandon.md": "54768230"
+    "Readwise/Books/Mark Mandon.md": "54768230",
+    "Readwise/Books/O Clube Das 5 Da Manhã.md": "54879585"
   },
   "reimportShowConfirmation": true
 }
