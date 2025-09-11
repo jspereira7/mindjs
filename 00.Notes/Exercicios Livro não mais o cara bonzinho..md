@@ -84,4 +84,15 @@ Anote exemplos de situações em que vc escondeu suas falhas das pessoas que voc
 
 -----
 
-### 
+### Exercicio 11
+
+Planeje uma viagem sozinho para uma cidade onde ninguem te conheça, idealmente que seja de 1 semana, isso vai ser bom para que vc esteja no comando da sua vida, tome suas próprias decisões sem depender da aprovação de ninguem, exemplos: 
+- Conheça um pais novo sozinho 
+- Vá para praia ou montanhas. 
+- Leia um longo livro nesse lugar, e pratique as atividades de libertação.
+
+R: Preciso planejar fazer uma viagem sozinho de uma semana para algum pais estrangeiro da europa, idealmente que seja um evento do affiliate world, acho que vou fazer isso!
+
+---
+
+Parei na pagina 74.
