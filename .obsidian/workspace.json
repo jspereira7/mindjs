@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Pensamento Extrovertido (Te)"
             }
+          },
+          {
+            "id": "f67116b662e0b606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Sobre mim Tipologia Junguiana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sobre mim Tipologia Junguiana"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -412,8 +436,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4a345aeaa456ffdb",
+  "active": "f67116b662e0b606",
   "lastOpenFiles": [
+    "00.Notes/Sobre mim Tipologia Junguiana.md",
     "00.Notes/Pensamento Extrovertido (Te).md",
     "00.Notes/Sentimento Introvertido (Fi).md",
     "00.Notes/Intuição Introvertida (Ni).md",
@@ -440,7 +465,6 @@
     "Readwise/Books/O Mito Do Empreendedor.md",
     "Readwise/Articles/A Guerra Da Paixão.md",
     "Readwise/Books/Quick Passages.md",
-    "Readwise/Books/Quebra Da Matrix.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
