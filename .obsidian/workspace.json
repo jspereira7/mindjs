@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Video CsJoseph"
             }
+          },
+          {
+            "id": "6da44212873c44ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/80-20 do Youtube.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "80-20 do Youtube"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -436,8 +460,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f67116b662e0b606",
+  "active": "6da44212873c44ca",
   "lastOpenFiles": [
+    "00.Notes/80-20 do Youtube.md",
     "00.Notes/Video CsJoseph.md",
     "00.Notes/Pensamento Extrovertido (Te).md",
     "00.Notes/Sentimento Introvertido (Fi).md",
@@ -464,7 +489,6 @@
     "Readwise/Articles/Models Attract Women Through Honesty.md",
     "Readwise/Books/O Mito Do Empreendedor.md",
     "Readwise/Articles/A Guerra Da Paixão.md",
-    "Readwise/Books/Quick Passages.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
