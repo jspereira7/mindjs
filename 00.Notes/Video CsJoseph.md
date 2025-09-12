@@ -76,10 +76,18 @@ Homens UD e mulheres SD precisam cultivar paixões, sair em publico e se tornar 
 - Homes e mulheres fofos (SD/UD) precisam ser familiares da pessoa pra se apaixonarem.
 - Hot Girls and Hot Mens precisam cultivar paixoes nos outros e esperar que eles venham e confessem suas paixoes.  UD precisa cultivar mais paciencia na sua estrátegia de namoro. 
 - Aplicativos de namoro (Tinder) é basicamente sobre mulheres SD mostrando seus corpos, e homens SD correndo atrás delas. Não vale a pena pra homens UD.
-- 
-
-
-
-
 ----
+### Porque relacionamentos acabam 
+
+SD + UD
+
+UD + SD 
+
+Homem: 
+- SD = Estoico, emocionalmente implosivo, segura suas emoções é mais quieto. 
+- UD = Expressa suas emoções, fala bastante, é emocionalmente explosivo.
+
+Mulher: 
+- SD = Emocionalmente explosiva, expressa seus sentimentos, fala bastante. Encherga os homens emocionalmente implosivos como fortes.
+- UD = Emocionalmente implosiva, quieta, fala pouco, encherga os homens emocionalmente explosivos como fortes. 
 

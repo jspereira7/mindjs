@@ -243,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -433,7 +432,8 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "new-3d-graph:Open 3d graph": false
     }
   },
   "active": "f67116b662e0b606",
