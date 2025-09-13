@@ -1,4 +1,4 @@
-## Dominando a Economia Digital 
+# Dominando a Economia Digital 
 
 Ao expressar seus pensamentos na internet, em qualquer formato, o algoritimo das redes irá fazer o resto do trabalho, achar pessoas que vão consumir aquele seu conteudo. 
 
@@ -141,4 +141,6 @@ Crie uma audiencia de 1.000-10k e fique atento aos comentarios das pessoas sobre
 
 -----
 
-Parei na Aula 06
+# Conteudo que funciona
+
+

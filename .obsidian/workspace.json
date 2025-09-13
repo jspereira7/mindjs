@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Ego Hacking By Text..md",
+                "file": "00.Notes/Curso Criador Zen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ego Hacking By Text."
+              "title": "Graph of Curso Criador Zen"
             }
           },
           {
@@ -279,22 +279,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Ego Hacking By Text..md",
+                "file": "00.Notes/Curso Criador Zen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ego Hacking By Text."
+              "title": "Outline of Curso Criador Zen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 900.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,7 +316,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "6da44212873c44ca",
+  "active": "c4eedcef2b6e00f3",
   "lastOpenFiles": [
     "01.Assets/Anexos/Pasted image 20250912221213.png",
     "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
