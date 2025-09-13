@@ -1,2 +1,0 @@
-- Olhar oq deu certo dos ultimos 6 meses na gringa. 
-- 
