@@ -42,12 +42,6 @@
   "09.PDFS": "LiFilePlus",
   "10.Livros": "LiBook",
   "+Daily Notes": "LiCalendarCheck",
-  "01.Assets/Tipologia Junguiana": "LiVenetianMask",
-  "01.Assets/Citações": "LiQuote",
-  "01.Assets/Definições": "LiAlbum",
   "01.Assets/Projetos": "LiClipboardList",
-  "01.Assets/Prompts": "LiBrain",
-  "01.Assets/Midias": "LiVideo",
-  "01.Assets/Ideias": "LiLightbulb",
-  "01.Assets/Pessoas": "LiContact"
+  "01.Assets/Prompts": "LiBrain"
 }

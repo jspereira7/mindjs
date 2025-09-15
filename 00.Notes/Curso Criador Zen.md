@@ -139,8 +139,16 @@ A escrita persuasiva é a habilidade mais importante da nossa era (Criar roteiro
 Crie uma audiencia de 1.000-10k e fique atento aos comentarios das pessoas sobre seus problemas, e ofereça um serviço que atenda essa demanda. 
 - Se não souber a habilidade, aprenda, e venda depois.
 
------
+### Oportunidade do céculo 
 
+Ao criar conteudo, eu não vou apenas estar gerando audiencia e dinheiro, mas sim vou estar gerando uma comunidade e com isso vou ter status dentro de um grupo, oque naturalmente irá atrair mulheres. 
+
+E com isso eu resolvo tudo e uma vez. 
+- Minha vocação/Atingir a maestria. 
+- Relacionamentos.
+- Dinheiro. 
+
+-----
 # Conteudo que funciona
 
 

@@ -9,6 +9,14 @@
       "path": "00.Notes/Octagram 4.0 - Cs Joseph.md"
     },
     {
+      "basename": "ISFP",
+      "path": "00.Notes/ISFP.md"
+    },
+    {
+      "basename": "ISFJ",
+      "path": "00.Notes/ISFJ.md"
+    },
+    {
       "basename": "Exercicios Livro não mais o cara bonzinho.",
       "path": "00.Notes/Exercicios Livro não mais o cara bonzinho..md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Octagram",
       "path": "00.Notes/Octagram.md"
-    },
-    {
-      "basename": "Assuntos Chick Crack",
-      "path": "00.Notes/Assuntos Chick Crack.md"
-    },
-    {
-      "basename": "Como se livrar da paixão by Js",
-      "path": "00.Notes/Como se livrar da paixão by Js.md"
     }
   ],
   "omittedPaths": [
