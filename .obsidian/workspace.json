@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,13 +303,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Octagram 4.0 - Cs Joseph.md",
+                "file": "00.Notes/Curso Criador Zen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Octagram 4.0 - Cs Joseph"
+              "title": "Outline of Curso Criador Zen"
             }
           }
         ],
@@ -340,7 +340,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "e7e72d94bb8ecd7a",
+  "active": "6da44212873c44ca",
   "lastOpenFiles": [
     "00.Notes/Octagram 4.0 - Cs Joseph.md",
     "00.Notes/Curso Criador Zen.md",
