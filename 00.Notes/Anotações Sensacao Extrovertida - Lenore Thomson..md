@@ -11,7 +11,6 @@ Quando usamos a Sensação, é como quando estamos amassando pão e a pressão d
 Cada vez que nossas ações estão mudando imediatamente e diretamente de acordo com nossa perpeções superficiais, estamos usando a Sensação Extrovertida. 
 
 ----
-
 ## Como a Se funciona ? 
 
 Você age com base no que percebe agora.
@@ -22,9 +21,3 @@ Exemplos da Se em ação:
 - Exemplo quando alguem está dirigindo, ela não fica pensando, ah agora tenho que fazer x ou y, ou seila, ela apenas sente o carro e vai de acordo com isso.
 
 Porra então eu sou um estp caralho, ou tenho a Se muito forte em mim.
-
-Cheguei na conclusão, sou um estp. Talvez ainda não...
-
-
-
-
