@@ -63,6 +63,69 @@ Sempre verifique todas as possibilidades, tanto de comportamento, quanto de veto
 
 ---
 
+## Expression 
+
+Tenha em mente que um vetor pode significar a mesma coisa, por exemplo informativo x Direto, podem significar Outcome x Progression.
+
+### Informativo x Direto 
+
+- Informativo
+	- Um dos maiores sinais de alguem mais informativo é que eles expressão coisas em uma conversa sobre a qual não foram perguntandos.
+- Direto
+	- Conciso nas palavras.
+
+
+Initiating x responding
+- Responding se mantem no tópico, tem maior preferencia por se manter no mesmo rumo de conversa.
+- Initiating muda os topicos da conversa com frequencia, mantendo as pessoas no loop, observe, se uma pessoa muda os topicos de conversa com frequencia ela é initiating.
+
+### Progression x Outcome 
+
+- Progression 
+	- Está indo no flow ao longo do dia, uma coisa levando a outra. 
+	- É tudo sobre velocidade, fazer rápido, speed. 
+	- INTJ e ENFP são muito sobre velocidade, speed, speed.
+- Outcome
+	- Está sempre com o proximo passo em mente "Qual é o proximo passo e etc..." 
+	- São sobre controlar, acalmar o caos. 
+	- Planejar cada passo da jornada. 
+	- São muito sobre fazer o trabalho bem feito des do primeiro momento.
+	- São estagnados tambem, se mantendo na mesma coisa por muito tempo.
+
+Quando vc vai tipar uma pessoa, pergunte pra ela, vc prefere ir pro objetivo rapido ou lentamente, progression sempre vai responder "Rapido", Speed. 
+
+INTJ é o tipo mais rápido de todos, até mesmo que o ENFP. 
+- Porque o INTJ possui 3 tipos progression nos lados da mente dele. 
+
+Tipos progression são rápidos. 
+
+Tipos Outcome são mais lentos, trabalham de forma mais divagar.
+
+---
+
+## Temperament - World View
+
+### Abstrato x Concrete 
+
+**Abstract** 
+- Sobre conceitos, significados ocultos, visualizações.
+- Abstratos perguntam "E se". 
+- São hipotéticos, teorico, e idealista.
+- Antecipam. Imaginam.
+- As vezes são imprátivos.
+- Orientados para o futuro.
+- O que é possivel, acima do que é 
+
+**Concrete**
+- Voltados para o mundo fisico, experiencias sensoriais, observação, 5 sentidos. 
+- Perguntam " O que é "
+- Veem e depois só acreditam
+- Vivem no mundo real, hiper focados nos detalhes.
+- Serem presentes, calibrar as espectativas. 
+- Veem as coisas como elas são. 
+- O que é importa mais pra mim do que as possibilidades. 
+
+Um tipo concreto, ao perguntar pra ele se ele prefere um cookie agora, ou 2 cookies daqui 5 minutos, provalmente ele vai querer 1 cookie agora, porque o agora é o real pra ele. 
 
 
 
