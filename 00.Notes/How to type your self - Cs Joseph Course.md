@@ -127,8 +127,31 @@ Tipos Outcome são mais lentos, trabalham de forma mais divagar.
 
 Um tipo concreto, ao perguntar pra ele se ele prefere um cookie agora, ou 2 cookies daqui 5 minutos, provalmente ele vai querer 1 cookie agora, porque o agora é o real pra ele. 
 
+### Afiliative x Pragmatic 
 
+Afiliativo
+- Baseia o que é certo com base em valores vindos do grupo, ou considera o que o grupo acha como a verdade. 
+- Afiliativos pedem permissão antes de agir.
+- Afiliativos respeitam autoridades e metodologias provadas. 
+- Afiliativos valorizam a coperação com a familia, grupo, ou time.
+- Basicamente são pessoas que preferem trabalhar em grupo, ou sozinhas. 
+- Fazem as pessoas se tornar parte do grupo.
 
+Pragmatic
+- Prefere trabalhar sozinho. 
+- Tem a sua propria opnião independente do grupo. 
+- Foco no que funciona, independente do que o grupo acha.
+- Pede perdão em vez de permissão.
 
+### Systematic x Interrest 
 
+- Systematic 
+	-  É sobre procurar o melhor metodo para alcançar um objetivo ou completar uma tarefa.
+	- É tudo sobre processos, rotinas, frameworks.
+	- Construção de habitos, para sí ou para os outros.
+- Interrest 
+	- Lucro acima das pessoas. 
+	- Improvisação.
+	- Persuasivo.
+	- Ganhar vantagem em cima de outras pessoas.
 
