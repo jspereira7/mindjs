@@ -149,6 +149,104 @@ E com isso eu resolvo tudo e uma vez.
 - Dinheiro. 
 
 -----
-# Conteudo que funciona
+## Dominando o Algoritimo do Youtube 
+
+O youtube é a melhor plataforma pra criar conteudo, pelo seu algoritimo avançado de recomendação de conteudo.
+- Te recomendando um video no momento que voce pode estar mais interresado. 
+
+Antigamente o youtube era muito mais uma plataforma de busca, assim como o google. 
+
+Nos dias atuais, a página inicial do youtube é o meio dele te prender na plataforma. 
+
+A nossa estrátegia é usar esse algoritimo de recomendação ao nosso favor. Esqueça SEO e coisas do tipo. 
+
+O que vamos tentar fazer ao máximo é chamar a atenção na pagina inicial do youtube para que as pessoas cliquem no nosso video. 
+- Basicamente o ctr do nosso video.
+- Um video que está pegando muitas views, quer dizer que ele está chamando atenção o suficiente na pagina inicial de recomendação de videos.
+
+O numero de inscritos hoje em dia tambem é quase irelevante. 
+- Mas ainda sim os incritos influenciam em algumas coisas.
+- Autoridade perante o publico e etc... 
+- Mas não se preocupe com quantidade de inscritos. 
+
+### O ouro é o algoritimo de recomendação
+
+O seu foco deve ser fazer bons videos e chamar a atenção com sua thumb e titulo. 
+
+70% das views no youtube se originam do algoritimo de recomendação.
+- Seu objetivo é aparecer o máximo possivel na primeira pagina do youtube de pessoas que possam gostar do seu conteudo. 
+- Seu foco deve ser Ctr, Retenção, engajamento. 
+	- Você aumenta o ctr com um bom titulo e uma boa thumb.
+	- Retenção = O tempo que vc consegue manter o usuario assintindo 1 ou mais dos seus videos. Use técnicas de abertura de loops e storytelling... 
+	- Engajamento = Vc consegue isso falando de assuntos polemicos. 
+		- Quanto mais pessoas discutindo nos comentarios dos seus videos, melhor... 
+		- No inicio vc vai conseguir engajamento atraves da sua naturalidade, não tente copiar outros youtubers. 
+			- Seja quem você é. Imprima sua personalidade no conteudo. 
+			- Dessa forma as pessoas vão te enchergar como um amigo próximo que dá bom conselhos. 
+
+### Saindo da inercia 
+
+No inicio vc precisa sair da inercia inicial, onde o youtube não leva seu conteudo como relavante. E não entrega seus videos.
+- Solução ? Fale somente sobre um unico nicho no inicio. 
+- Escolha um dos seus interreses genuinos e fale somente sobre isso logo no inicio. 
+- Faça um video extremamente espesifico no inicio, para dessa forma o youtube entender seu conteudo. E você irá crescer mais rápido. 
+
+Seu trabalho como criador Zen é ser um filosofo moderno, viver, conectar ideias e compartilhar com o mundo. 
+
+### Métricas estratégicas
+
+No inicio o foco deve ser no titulo e thumbnail, o máximo possivel. Pra aumentar o CTR. 
+- Um bom ctr no inico é acima de 5%. 
+
+#### Titulo (Headline) e Thumbnail
+- Esqueça palavras chaves. Seu unico objetivo aqui é fazer a pessoa olhar e sentir a necessidade de assistir o video AGORA.
+- Use promps do chatGPT pra fazer um brainstorm de bons titulos. 
+- A thumb e headline são um pacote entre os dois.
+- Você deve pensar no seguinte, qual angulo eu posso empacotar meu conteudo para ele ser o mais curioso possivel. 
+- Thumb
+	- A sua capa jamais deve explicar sobre o que é o seu video. Ela não pode satisfazer a curiosidade.
+	- O objetivo da thumb é fazer com que a pessoa queira ler a headline do video.
+	- Ela deve pensar: Do que será que se trata esse video. 
+	- Na thumb, use pouco ou nenhum texto, não deixe sua capa poluida.
+	-  Texto Grande se for usar.
+	- Use e abuse de expressoes faciais exageradas. Principalmente quando é o rosto de alguem famoso. 
+		- Faça com que a parte branca do olho do personagem da thumb apareça até mesmo em dispositivos moveis. 
+
+#### Os 30 primeiros segundos
+- Os 30 primeiros segundos do seu video são importantes.
+	- Eles precisam confirmar a suspeita que a pessoa tinha ao se deparar com seu video. 
+		- Exemplo video sobre baladas: Baladas o golpe do céculo. Inicio do video seria assim "As baladas são um golpe e eu posso provar"
+	- Vá direto ao ponto o máximo quanto for possivel. As pessoas não querem saber de enrolação. 
+	- Confirme que a pessoa vai receber o que ela clicou pra ver 
+
+#### Não caia na armadilha da frequencia
+- O youtube ganha em cima dos criadores, indiretamente vc trabalha pro youtube, por isso em determinado momento, ele vai colocar uma bomba de views em um video seu, na intenção de ter fazer querer criar mais videos, naturalmente vc vai ser tentado a querer mais daquela dopamina, te fazendo querer criar mais e mais videos. 
+- Mas a verdade é que vc precisa focar na qualidade, na qualidade de ideias, não cair nessa armadilha do youtube, de videos de 5 dicas e etc... 
+- Seu trabalho é ser um filosofo moderno, viver a vida, aprender sobre seus interreses, refletir e compartilhar seus pensamentos em obras de arte, seus videos... 
+- Como o James Jani, que seus videos demoram 1 mes para serem criados.
+#### Exemplo de Filosofos Modernos ENTP'S Youtubers
+- https://www.youtube.com/@JamesJani
+	- https://www.youtube.com/watch?v=LGtitmMwsB8 
+	- Esse cara é MUITO parecido comigo, acho que meus interresses e habilidades batem muito com as desse cara, pesquisa, encontrar verdades e compartilhas com os outros através de documentarios ou videos interresantes. Intuição Absurda.
+	- 
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
