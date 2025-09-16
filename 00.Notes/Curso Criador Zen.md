@@ -228,7 +228,8 @@ No inicio o foco deve ser no titulo e thumbnail, o máximo possivel. Pra aumenta
 - https://www.youtube.com/@JamesJani
 	- https://www.youtube.com/watch?v=LGtitmMwsB8 
 	- Esse cara é MUITO parecido comigo, acho que meus interresses e habilidades batem muito com as desse cara, pesquisa, encontrar verdades e compartilhas com os outros através de documentarios ou videos interresantes. Intuição Absurda.
-	- 
+- Outro canal que pode ser modelado o formato do video: https://www.youtube.com/watch?v=wyZzm5gtkA4
+- 
 
 
 
