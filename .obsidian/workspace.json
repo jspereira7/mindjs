@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Curso Criador Zen.md",
+                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curso Criador Zen"
+              "title": "How to type your self - Cs Joseph Course"
             }
           }
         ]
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -255,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Curso Criador Zen.md",
+                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curso Criador Zen"
+              "title": "Outline of How to type your self - Cs Joseph Course"
             }
           }
         ],
@@ -294,6 +293,7 @@
   },
   "active": "6da44212873c44ca",
   "lastOpenFiles": [
+    "00.Notes/Curso Criador Zen.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
     "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
     "Readwise/Books/Maestria.md",
@@ -319,7 +319,6 @@
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
     "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
     "Readwise/Tweets/Tweets From Kas.md",
-    "Readwise/Tweets/Tweets From Dmitrii Kovanikov.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",

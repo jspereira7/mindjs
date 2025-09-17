@@ -155,3 +155,94 @@ Pragmatic
 	- Persuasivo.
 	- Ganhar vantagem em cima de outras pessoas.
 
+---
+## Perception 
+
+Muito importante utilizar os "Legos", representam palavras espesificas que determinada função é mais apegada.
+- Quando as pessoas falam, elas utilizam as funções cognitivas para se comunicar.
+	- E as funções cognitivas são representadas com várias palavras que nós escolhemos, ou a palavra lego em sí.
+
+### Fire & Wind User
+
+Fire & Wind x Earth x Water são funções de percepção. 
+- Função de percepção = É como você coleta informações do mundo.
+
+#### Fire (Ni)
+- Lego "Will"
+- Arquetipo dos seguintes conceitos:
+	- Determination = Determinação
+	- Will Power = Força de vontade
+	- Choice = Escolher
+	- Destiny = Destino
+	- Goals = Objetivos/Metas
+	- Focus = Foco
+	- Hope = Esperança
+	- Freedom = Liberdade
+	- Direction = Direção
+- Função de Processamento
+
+#### Wind (Se)
+ - Lego: "Is" 
+ - Arquetipo dos seguintes conceitos:
+	 - Reations = Reações
+	 - Force = Força
+	 - Observation = Observação
+	 - Demonstration = Demonstração
+	 - History = Historia 
+	 - Finesse = Sofisticação, Delicadeza, Capricho (Tipo a chapada colocada no futebol)
+	 - Variety = Variedade
+	 - Performance = Desempenho
+	 - Conhecimento do que está acontecendo agora, no momento atual.
+ - O que é essa coisa ? O que é isso ? "What is" "What is" "Is" "Is right" 
+
+
+- Usuarios de Se são mais sobre ações ao inves de palavras.
+- Fire users são sobre correr riscos. Earth users são sobre ficarem seguros.
+- " Sem riscos, sem ganhos " 
+
+### Earth & Water 
+
+#### Earth (Si)
+- Lego "Was" = Era 
+- Arquetipo dos conceitos:
+	- Resistencia, Obrigação, Concetração, Habitos, Atenção, Experiencias, Compartilhar, Fé, Segurança, Esforço.
+		- É tudo sobre sí, a minha resistencia, obrigação, habitos, atenção, experiencia, meu esforço..
+- Conceitos relacionados: 
+	- Lealdade aos outros.
+	- Experimentação. 
+	- Tentativa e falha.
+	- Estabilidade.
+	- Paciencia.
+	- Assistir.
+	- Conciencia pessoal.
+	- Procurando conforto.
+
+#### Water (Ne)
+- Lego "Cold" = Pode ser, Cold be.
+- Water (Ne) é uma representação arquetipa pelos seguintes conceitos: 
+	- Existe uma conciencia das ramificações que uma determinada ação pode vir a acontecer. 
+	- Water não se limita apenas ao mundo fisico concreto, mas percebe padroes, energias, significados ocultos.
+		- Lida com possiblidades que muitas vezes são podem ser provadas empiricamente. 
+	- **Desejabilidade:** Lida com aquilo que atrai e fascina.
+		- Water percebe o que é atraente ou desejavel, seja em ideias, experiencias ou pessoas. Não somente sobre beleza fisica, é sobre a qualidade magnética ou cativante das coisas. 
+	- **Expectativas**: Conciente do que pode ser esperado, tanto dos outros, quanto do futuro. 
+		- Sente tendencias e padrões, antecipando cenarios sem precisar de dados concretos - lendo o clima da situação.
+	- **Potencial**: O que *pode* se tornar, não apenas o que é. 
+		- Water (Ne) olha para o futuro e vê possibilidades, oportunidades, evoluções - tudo em potencial, não necessariamente em realidade imediata.
+	- **Magnetismo:** Há algo naturalmente atraente nesse arquetipo.
+		- Water (Ne) exerce influencia sem esforço, porque percebe o que move as pessoas e as situações. Ligado tanto a empatia, quanto a intuição refinada.
+	- **Possibilidades:** Relacionado ao potencial, mas no macro
+		- Water é o explorador de futuros possiveis, de caminhos não tomados, de alternativas. Não se prende a uma linha de ação, tudo é visto como maleavel.
+	- **Astuto:** Não é ingenuamente idealista. 
+		- Combina percepção de padroes/possibilidades com estrátegia e sagacidade, entendendo como navegar e influenciar o fluxo de acontecimentos. 
+	- **Presciente:** Visão antecipatoria.
+		- Radar intuitivo que capta tendencias e consequencias antes que se manifestem plenamente. 
+- Mais atento ao que poderia ser do que ao que é
+- " Pra mim a vida 
+
+
+
+
+
+---
+
