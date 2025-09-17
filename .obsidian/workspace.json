@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "How to type your self - Cs Joseph Course"
             }
+          },
+          {
+            "id": "743999d0e5e718fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Tipagem Ana Vitoria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tipagem Ana Vitoria"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
+                "file": "00.Notes/Tipagem Ana Vitoria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to type your self - Cs Joseph Course"
+              "title": "Outline of Tipagem Ana Vitoria"
             }
           }
         ],
@@ -291,10 +316,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "6da44212873c44ca",
+  "active": "743999d0e5e718fd",
   "lastOpenFiles": [
-    "00.Notes/Curso Criador Zen.md",
+    "00.Notes/Tipagem Ana Vitoria.md",
+    "00.Notes/Tipagem Heloisa Ig 2.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
+    "00.Notes/Curso Criador Zen.md",
     "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
     "Readwise/Books/Maestria.md",
     "Readwise/Articles/Não Mais O Cara Bonzinho!.md",
@@ -317,8 +344,6 @@
     "Readwise/Tweets/Tweets From Naval.md",
     "Readwise/Articles/The 2 Productivity Habits That Changed My Work Routine Forever.md",
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
-    "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
-    "Readwise/Tweets/Tweets From Kas.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",

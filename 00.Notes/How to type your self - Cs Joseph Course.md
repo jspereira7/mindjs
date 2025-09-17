@@ -207,7 +207,7 @@ Fire & Wind x Earth x Water são funções de percepção.
 ==*" Pra mim a vida é sobre estar confortavel com minhas obrigações, e depois ser procurado por outras pessoas "* 
 
 #### Earth (Si)
-- Lego "Was" = Era 
+- Lego "Was" = Era (Eu Fui)
 - Arquetipo dos conceitos:
 	- Resistencia, Obrigação, Concetração, Habitos, Atenção, Experiencias, Compartilhar, Fé, Segurança, Esforço.
 		- É tudo sobre sí, a minha resistencia, obrigação, habitos, atenção, experiencia, meu esforço..
@@ -250,8 +250,8 @@ Funções de julgamento são como as pessoas tomam decisões, são funções usa
 
 #### Spear (Fi) & Bow (Te)
 
-#### **Spear (Fi)** 
-- Lego = Value (Valor)
+##### **Spear (Fi)** 
+- Lego = Value (Valor) (Eu não faço isso, eu valorizo, eu me sinto bem)
 - Spear (Fi) é representado pelo arquetipo dos seguintes conceitos: 
 	- **Simpatia** = Se conecta emocionalmente porque entende como os outros se sentem a partir do que ele mesmo sente. 
 	- **Moral** = Há um forte senso de certo e errado inteiro, avalia as ações de acordo com o que ressoa no coração. 
@@ -263,7 +263,7 @@ Funções de julgamento são como as pessoas tomam decisões, são funções usa
 	- Dignidade = Spear (Fi) determina o que é **digno de respeito, cuidado ou dedicação**.
 - Tomam decisões com base no que pesam de valores.
 - Busca por autenticidade a alinhamento emocional. 
-#### **Bow (Te)**
+##### **Bow (Te)**
 - Lego "Understand" (Entender)
 - Bow é representado pelos seguintes arquetipos: 
 	- **Racionalidade** = Bow (Te) age com base em **lógica prática e justificativa clara**. Ele busca razões objetivas para decisões e ações, não apenas intuições ou sentimentos.
@@ -283,6 +283,8 @@ Funções de julgamento são como as pessoas tomam decisões, são funções usa
 
 
 #### Sword & Mace 
+
+##### Ti (Sword)
 - Lego "Know" I Know this, i know that.
 	- É representada nos arquetipos dos conceitos abaixo: 
 	- **Dedução:** Sword (Ti) trabalha com **raciocínio lógico interno**, aplicando regras gerais a casos específicos.  
@@ -291,5 +293,26 @@ Funções de julgamento são como as pessoas tomam decisões, são funções usa
 		- Ti users filtram as ideias até restar o que é logico internamente. 
 	- **Franqueza**: Ti é direto, honesto, cru em sua avaliação. 
 		- Ele não efeita, apenas diz isso é lógico, isso não é. 
-	- Separar em peças menores: 
+	- Separar em peças menores.
+		- Ti divide conceitos e ideias em peças menores, desmontando ideias em partes menores para entender a estrutura inteira.
+	- Verificar: Busca concistencia e exatidão lógica.
+		- Não aceita algo só parece correto, precisa checar internamente se é verdadeiro. 
+	- Fatos: Embora não dependa de dados externos, Sword (Ti) valoriza fatos como pontos de referencia pra testar a lógica.
+	- Dureza fria: Soa fria e cortante, porque não se preocupa com o conforto emocional mas sim com clareza e precisão. 
+	- Critica: Identifica falhas, incoerencias e inconsistencias.
+
+##### Mace (Fe)
+- Lego: "Accept" 
+	- Mace (Fe) é representada pelo arquetipo dos seguintes conceitos: 
+		- **Empatia**: Mace (Fe) sente junto com o outro. É a função de **compartilhar emoções coletivas**, criando ressonância emocional com o ambiente social.
+		- **Ética**: Age segundo princípios éticos que mantêm **harmonia e respeito coletivo**, baseando-se no impacto das ações sobre os outros.
+		- **Inclusivo**: Busca **integrar pessoas** em vez de separar. Valoriza participação, acolhimento e senso de comunidade.
+		- **Aceitação:** Mace (Fe) cria espaço para **aceitar e validar** os sentimentos e experiências dos outros, tornando-os parte de algo maior.
+		- **Vinculo:** Conecta-se através de **relacionamentos significativos**, onde laços emocionais sustentam confiança e cooperação.
+		- **Merecimento:** Julga não só pela lógica, mas pelo **sentimento de justiça social**: quem merece cuidado, reconhecimento, inclusão ou apoio.
+		- **Equilibrio:** Procura **equilibrar emoções no grupo**, ajustando seu próprio comportamento para manter harmonia e evitar rupturas.
+		- **Cultura:** Fe se ancora em normas, tradições e valores compartilhados, construindo **coesão social** através de símbolos culturais.
+		- **Suporte:** É a função que oferece **suporte emocional e social**, garantindo que ninguém fique de fora ou se sinta isolado.
+
+
 
