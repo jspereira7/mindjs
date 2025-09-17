@@ -194,13 +194,17 @@ Fire & Wind x Earth x Water são funções de percepção.
 	 - Performance = Desempenho
 	 - Conhecimento do que está acontecendo agora, no momento atual.
  - O que é essa coisa ? O que é isso ? "What is" "What is" "Is" "Is right" 
-
-
 - Usuarios de Se são mais sobre ações ao inves de palavras.
 - Fire users são sobre correr riscos. Earth users são sobre ficarem seguros.
 - " Sem riscos, sem ganhos " 
+- Essas pessoas só querem pessoas ao redor, mesmo que eles falhem, 
+- Estão muito conciente de que eles vão falhar, porque não são muito competentes, competencia é mais algo de Si & Ne. 
+- Se users querem pessoa que são competentes ao redor deles quando falham. 
+- Se são sobre suas proprias escolhas, não sobre as escolhas dos outros. 
 
 ### Earth & Water 
+
+==*" Pra mim a vida é sobre estar confortavel com minhas obrigações, e depois ser procurado por outras pessoas "* 
 
 #### Earth (Si)
 - Lego "Was" = Era 
@@ -238,11 +242,54 @@ Fire & Wind x Earth x Water são funções de percepção.
 	- **Presciente:** Visão antecipatoria.
 		- Radar intuitivo que capta tendencias e consequencias antes que se manifestem plenamente. 
 - Mais atento ao que poderia ser do que ao que é
-- " Pra mim a vida 
-
-
-
-
-
+- Mais propensos a dar escolhas aos outros, do que escolher sí mesmo.
 ---
+### Judments 
+
+Funções de julgamento são como as pessoas tomam decisões, são funções usadas para tomar decisões. 
+
+#### Spear (Fi) & Bow (Te)
+
+#### **Spear (Fi)** 
+- Lego = Value (Valor)
+- Spear (Fi) é representado pelo arquetipo dos seguintes conceitos: 
+	- **Simpatia** = Se conecta emocionalmente porque entende como os outros se sentem a partir do que ele mesmo sente. 
+	- **Moral** = Há um forte senso de certo e errado inteiro, avalia as ações de acordo com o que ressoa no coração. 
+	- **Valores** = Decide e age com base naquilo que sente internamente ter mais valor 
+	- **Peso** = Mede tudo com base na intensidade de sua ressonancia interior.
+	- Principios = Mais do que regras externas, são regras internas que dão consistencia para as escolhas. 
+	- Mood/Humor/Estado Emocional = O julgamento é altamente ligado ao estado emocional interno, que funciona como um barometro subjetivo para avaliar as situações.
+	- Subscrever/Aderir = escolhe a que **causas, pessoas ou ideias se aliar** com base no alinhamento aos próprios valores.
+	- Dignidade = Spear (Fi) determina o que é **digno de respeito, cuidado ou dedicação**.
+- Tomam decisões com base no que pesam de valores.
+- Busca por autenticidade a alinhamento emocional. 
+#### **Bow (Te)**
+- Lego "Understand" (Entender)
+- Bow é representado pelos seguintes arquetipos: 
+	- **Racionalidade** = Bow (Te) age com base em **lógica prática e justificativa clara**. Ele busca razões objetivas para decisões e ações, não apenas intuições ou sentimentos.
+	- **Indução** = Capacidade de **observar padrões externos** e extrair conclusões gerais. Bow (Te) coleta dados, experiências e evidências, transformando-os em sistemas ou métodos aplicáveis.
+	- **Métricas** = Esse arquétipo mede e quantifica. Tudo pode ser avaliado em termos de **resultados, números e desempenho mensurável**.
+	- **Regras** = Bow (Te) opera a partir de **estruturas organizadas**, estabelecendo normas e protocolos que mantêm a ordem e a eficiência.
+	- **Conquistas** = Valoriza **resultados concretos e verificáveis**. O sucesso é demonstrado por objetivos atingidos, projetos concluídos e impacto observável.
+	- **Status** = Há uma consciência sobre **posição social e funcional**. Bow (Te) reconhece hierarquias e entende o peso que status tem na organização das relações e instituições.
+	- **Reputação** = Mais do que status, Bow (Te) se preocupa com a **imagem e credibilidade pública**, pois isso impacta influência e legitimidade.
+	- **Crenças** = Embora seja lógico, Bow (Te) também constrói sistemas de **convicções estruturadas**, muitas vezes coletivas, que guiam julgamentos e ações.
+	- **Rotulação**: Bow (Te) organiza o mundo classificando, nomeando e categorizando. É a função que dá **rótulos objetivos** às coisas, para facilitar entendimento e coordenação.
+- Pensam racionalmente com base em indução, rotulando. 
+	- "Se pensa como pato, nada como pato, anda como pato, é um pato"
+	- Pensar por indução é somar evidencias, até que certo padrão seja claro o suficiente para chegar a uma conclusão. 
+	- Se a maioria pensa assim, então isso deve ser verdade.
+	- Viés de confirmação.
+
+
+#### Sword & Mace 
+- Lego "Know" I Know this, i know that.
+	- É representada nos arquetipos dos conceitos abaixo: 
+	- **Dedução:** Sword (Ti) trabalha com **raciocínio lógico interno**, aplicando regras gerais a casos específicos.  
+		- Ex.: “Todos os mamíferos respiram ar → um gato é mamífero → logo, respira ar.”
+	- **Filtro**: Seleciona o que é logico e consistente, descarta o que é contraditório.
+		- Ti users filtram as ideias até restar o que é logico internamente. 
+	- **Franqueza**: Ti é direto, honesto, cru em sua avaliação. 
+		- Ele não efeita, apenas diz isso é lógico, isso não é. 
+	- Separar em peças menores: 
 
