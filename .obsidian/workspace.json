@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "How to type your self - Cs Joseph Course"
             }
-          },
-          {
-            "id": "743999d0e5e718fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Tipagem Ana Vitoria.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tipagem Ana Vitoria"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Tipagem Ana Vitoria.md",
+                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tipagem Ana Vitoria"
+              "title": "Outline of How to type your self - Cs Joseph Course"
             }
           }
         ],
@@ -316,7 +291,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "743999d0e5e718fd",
+  "active": "6da44212873c44ca",
   "lastOpenFiles": [
     "00.Notes/Tipagem Ana Vitoria.md",
     "00.Notes/Tipagem Heloisa Ig 2.md",
