@@ -47,6 +47,8 @@ Funções otimistas são usadas com maior frequencia. Funções pessimistas são
 ---
 ## 3 Lei - Fluxo de conciencia
 
+A ideia é fazer a pessoa falar o máximo de tempo possivel, e a melhor forma de fazer isso é fazendo ela falar sobre sí mesma.
+
 Quando você for tipar alguem, você precisa induzir um fluxo de conciencia, para fazer a pessoa falar sobre sí mesma, e depois fazer uma transcrição do que ela disse, e fazer uma tipagem apartir de uma visão de typing by text.
 
 E literalmente identificar funções cognitivas, bem como estilos de expressão, world view e etc... 
@@ -166,7 +168,6 @@ Muito importante utilizar os "Legos", representam palavras espesificas que deter
 
 Fire & Wind x Earth x Water são funções de percepção. 
 - Função de percepção = É como você coleta informações do mundo.
-
 #### Fire (Ni)
 - Lego "Will"
 - Arquetipo dos seguintes conceitos:
@@ -314,5 +315,113 @@ Funções de julgamento são como as pessoas tomam decisões, são funções usa
 		- **Cultura:** Fe se ancora em normas, tradições e valores compartilhados, construindo **coesão social** através de símbolos culturais.
 		- **Suporte:** É a função que oferece **suporte emocional e social**, garantindo que ninguém fique de fora ou se sinta isolado.
 
+---
+## Quadras 
+
+O que são as quadras ? 
+- Basicamente 4 tipos são muito parecidos entre sí. Formando uma "Quadra".
+- Tipos da mesma quadra usam as mesmas funções no ego, em diferente ordem.
+	- Por isso eles exibem comportamentos similares.
+
+Mas esse vetor da quadra é dificil de identificar, o mais facil é identificar as funções cognitivas e se chegar a quadra. 
+#### Crusaders 
+- Stack de funções dos crusaders
+	- Water (Ne)
+	- Sword (Ti)
+	- Mace (Fe)
+	- Earth (Si)
+
+House Virtue: Justice
+House Vice: Injustice 
+
+Os cruzados são diligentes campeões da justiça e da proteção dos inocentes. 
+
+Colocam sua fé na verdade e buscam trazer um mundo justo. Os cruzados procuram fazer os outros felizes, mas têm dificuldade em aceitar a felicidade para si mesmos. 
+
+Através da adversidade, eles alcançam a felicidade. Os cruzados veem a dificuldade como algo a ser perseverado e exercem alta resistência, mas correm o risco de se tornarem amargos ou frios demais ao lidar com a justiça.
+
+Os cruzados correm o risco da hipocrisia ao considerar inocentes como culpados e podem se tornar uma fonte de injustiça.
+
+---
+#### Templar 
+
+Stack: 
+- Fire (Ni)
+- Wind (Se)
+- Sword (Ti)
+- Mace (Fe)
+
+House virtue: 
+House Vice: Hiprocrisia
+
+Comportamento abusivo: Abandono 
+
+Os templários procuram pessoas de caráter ou constroem caráter naqueles que não o têm. 
+
+Eles estão interessados em fortalecer o bem-estar e o caráter dos outros. 
+
+Os templários precisam de liberdade para fazer suas próprias escolhas e encontrar seu próprio caminho na vida.
+
+Eles ensinam, orientam e aconselham. Eles perdoam e ajudam as pessoas a se curarem, ignorando traidores ou pessoas que se recusam a assumir responsabilidade por si mesmas. 
+
+Os templários correm o risco da hipocrisia ao criticar outros por serem irresponsáveis, enquanto eles próprios são irresponsáveis.
+
+---
+
+### Wayfarers
+
+Stack =
+- Fire (Ni)
+- Wind (Se)
+- Bow (Te)
+- Spear (Fi)
+
+House Virtue: Earning
+House Vice: Stealing
+
+Comportamento abusivo: Sanguessuga
+
+Os viajantes são independentes, realistas e objetivos. Eles desafiam o status quo em favor de encontrar um caminho melhor. 
+
+Os viajantes precisam de liberdade para perseguir seus próprios interesses e modo de vida. 
+
+Eles são autoconfiantes e se expressam por meio do desempenho pessoal, muitas vezes de forma competitiva. Eles buscam admiração e lealdade, mas duvidam da capacidade dos outros de oferecê-las. 
+
+Seu propósito é buscar tesouros e o status que estes trazem, escolhendo com quem irão compartilhá-los. Os viajantes correm o risco de roubar tesouros, em vez de conquistá-los por conta própria.
+
+---
+### Philophers
+
+Stack: 
+- Water (Ne)
+- Earth (Si)
+- Bow (Te)
+- Spear (Fi)
+
+House Virtue: Sacrificar a sí mesmo.
+House Vice: Sacrificio Humano
+
+Comportamento abusivo: Direito (ou Sentimento de direito)  
+
+Os filósofos são academicamente inclinados a descobrir segredos para o sucesso. 
+
+Eles elaboram uma visão de mundo para compartilhar crença, ideologia e reputação. 
+
+Os filósofos são atraídos pelo dever cívico, voluntariado e política, para fortalecer sua voz. 
+
+Através das dificuldades enfrentadas, os filósofos estabelecem regras e diretrizes que acreditam serem justas. 
+
+Eles cuidam de sua própria felicidade e conforto, mas podem ser desatentos à dos outros. 
+
+Os filósofos correm o risco de sacrificar outros seres humanos em prol do próprio sucesso, em vez de alcançar o sucesso por meio do autossacrifício.
+
+---
+
+## Temples 
+
+Um templo é formado por 4 tipos. 
+
+O templo é criado devido a origin cognitiva do tipo.
+- A origem cognitiva é o que a pessoa deseja da vida. 
 
 
