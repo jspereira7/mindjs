@@ -74,7 +74,6 @@ O segredo dá internet é não ter vergonha de mostrar oque você sabe, e tambem
 - Seja honesto sobre o seu nivel de esperiencia e conhecimento sobre o conteudo que vc está criando. 
 
 -----
-
 ### Garimpo de ideias.
 
 Por mais que eu fale sobre criador de conteudo, na verdade o que devemos fazer é ser um sintetizador de conteudo, ou até destilador de conteudo. 
