@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db1df8df54459ba9",
+        "id": "3f9bfba424d6f459",
         "type": "tabs",
         "children": [
           {
-            "id": "da7d10ee1183e4cf",
+            "id": "84c819570ade819c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
+                "file": "00.Notes/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curso Comunicador Digital - Abraham"
-            }
-          },
-          {
-            "id": "9c18588692ef29b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Produtividade ENTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Produtividade ENTP"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Produtividade ENTP.md",
+                "file": "00.Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Produtividade ENTP"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -316,8 +291,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "9c18588692ef29b2",
+  "active": "84c819570ade819c",
   "lastOpenFiles": [
+    "00.Notes/Untitled.md",
+    "01.Assets/Untitled.canvas",
     "00.Notes/Produtividade ENTP.md",
     "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
     "01.Assets/Cursos/Pentester JR - Try Hack Me.md",
@@ -344,7 +321,6 @@
     "Readwise/Books/Fora De Série Outliers.md",
     "Readwise/Articles/Write to Escape Your Default Setting.md",
     "Readwise/Tweets/Tweets From Js.md",
-    "Readwise/Tweets/Tweets From TrunQ.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
@@ -367,7 +343,6 @@
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 1.canvas",
     "01.Assets/Untitled 2.canvas",
-    "01.Assets/Untitled.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
     "01.Assets/DataBaseTikTok.canvas",
