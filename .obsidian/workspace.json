@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84c819570ade819c",
+            "id": "72c93269abe00d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Untitled.md",
+                "file": "00.Notes/Entps precisam de frameworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Entps precisam de frameworks"
             }
           }
         ]
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Untitled.md",
+                "file": "00.Notes/Entps precisam de frameworks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Entps precisam de frameworks"
             }
           }
         ],
@@ -291,9 +291,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "84c819570ade819c",
+  "active": "72c93269abe00d93",
   "lastOpenFiles": [
-    "00.Notes/Untitled.md",
+    "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
+    "00.Notes/Entps precisam de frameworks.md",
     "01.Assets/Untitled.canvas",
     "00.Notes/Produtividade ENTP.md",
     "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
@@ -320,7 +321,6 @@
     "Readwise/Books/Pensamento Eficaz.md",
     "Readwise/Books/Fora De Série Outliers.md",
     "Readwise/Articles/Write to Escape Your Default Setting.md",
-    "Readwise/Tweets/Tweets From Js.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
