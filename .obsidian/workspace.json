@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Entps precisam de frameworks"
             }
+          },
+          {
+            "id": "47890d85512259dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Administração de Tempo dos Bilionarios..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Administração de Tempo dos Bilionarios."
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Entps precisam de frameworks.md",
+                "file": "00.Notes/Administração de Tempo dos Bilionarios..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entps precisam de frameworks"
+              "title": "Outline of Administração de Tempo dos Bilionarios."
             }
           }
         ],
@@ -291,10 +316,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "72c93269abe00d93",
+  "active": "47890d85512259dd",
   "lastOpenFiles": [
-    "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
+    "00.Notes/Planejamento Segunda Feira.md",
+    "00.Notes/Administração de Tempo dos Bilionarios..md",
     "00.Notes/Entps precisam de frameworks.md",
+    "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
     "01.Assets/Untitled.canvas",
     "00.Notes/Produtividade ENTP.md",
     "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
@@ -319,8 +346,6 @@
     "Readwise/Books/Quebra Da Matrix.md",
     "Readwise/Books/Leonardo Davinci Genius.md",
     "Readwise/Books/Pensamento Eficaz.md",
-    "Readwise/Books/Fora De Série Outliers.md",
-    "Readwise/Articles/Write to Escape Your Default Setting.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",

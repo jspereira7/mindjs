@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": false,
+  "isSyncing": true,
   "lastSyncFailed": false,
   "lastSavedStatusID": 22179372,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 22210738,
   "refreshBooks": false,
   "booksToRefresh": [
     "54618339"
@@ -59,7 +59,8 @@
     "Readwise/Books/Mark Mandon.md": "54768230",
     "Readwise/Books/O Clube Das 5 Da Manhã.md": "54879585",
     "Readwise/Articles/Não Mais O Cara Bonzinho!.md": "54726254",
-    "Readwise/Books/Maestria.md": "54992710"
+    "Readwise/Books/Maestria.md": "54992710",
+    "Readwise/Books/A Máquina Definitiva De Vendas.md": "55118511"
   },
   "reimportShowConfirmation": true
 }
