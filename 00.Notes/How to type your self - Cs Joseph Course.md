@@ -407,7 +407,6 @@ Eles cuidam de sua própria felicidade e conforto, mas podem ser desatentos à d
 Os filósofos correm o risco de sacrificar outros seres humanos em prol do próprio sucesso, em vez de alcançar o sucesso por meio do autossacrifício.
 
 ---
-
 ## Temples 
 
 Um templo é formado por 4 tipos. 
