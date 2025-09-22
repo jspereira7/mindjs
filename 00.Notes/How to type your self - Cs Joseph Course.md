@@ -16,10 +16,6 @@
 
 Funções otimistas são usadas com maior frequencia. Funções pessimistas são usadas com menor frequencia. 
 
-- Ninguem conhece seu próprio tipo, porque ninguem realmente se entende.
-	- Então não confie na palavra de uma pessoa em relação as suas proprias ações.
-	- Não confie quando disserem "Eu sou desse tipo x" eles não sabem, principalmente os Ti Critics.
-
 - Mulheres são dificeis de tipar. 
 	- Por causa do seu emocional caótico, que as fazem mudar de ideia muitas vezes no dia. 
 	- Você precisa ver o panorama geral, verificar todos os vetores na grade dos tipos, todos os vetores no octagram, para que vc tenha um tipo preciso. 
@@ -75,11 +71,6 @@ Tenha em mente que um vetor pode significar a mesma coisa, por exemplo informati
 	- Um dos maiores sinais de alguem mais informativo é que eles expressão coisas em uma conversa sobre a qual não foram perguntandos.
 - Direto
 	- Conciso nas palavras.
-
-
-Initiating x responding
-- Responding se mantem no tópico, tem maior preferencia por se manter no mesmo rumo de conversa.
-- Initiating muda os topicos da conversa com frequencia, mantendo as pessoas no loop, observe, se uma pessoa muda os topicos de conversa com frequencia ela é initiating.
 
 ### Progression x Outcome 
 

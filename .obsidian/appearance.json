@@ -5,5 +5,8 @@
   "cssTheme": "Minimal",
   "translucency": false,
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "cursor-smooth-obsidian"
+  ]
 }

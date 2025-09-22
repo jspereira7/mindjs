@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9bfba424d6f459",
+        "id": "89416e70a14c55c6",
         "type": "tabs",
         "children": [
           {
-            "id": "72c93269abe00d93",
+            "id": "dd16ea09662f346d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Entps precisam de frameworks.md",
+                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entps precisam de frameworks"
-            }
-          },
-          {
-            "id": "47890d85512259dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Administração de Tempo dos Bilionarios..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Administração de Tempo dos Bilionarios."
-            }
-          },
-          {
-            "id": "c15238532eb6c7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dominio de Habilidades - Livro A maquina definitiva de Vendas"
-            }
-          },
-          {
-            "id": "322de120f1819ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Soft Locking - Cs Joseph.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Soft Locking - Cs Joseph"
+              "title": "How to type your self - Cs Joseph Course"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
+                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dominio de Habilidades - Livro A maquina definitiva de Vendas"
+              "title": "Outline of How to type your self - Cs Joseph Course"
             }
           }
         ],
@@ -364,13 +291,18 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "c15238532eb6c7f2",
+  "active": "dd16ea09662f346d",
   "lastOpenFiles": [
+    "00.Notes/ESFP - Cs Joseph.md",
+    "00.Notes/How to type your self - Cs Joseph Course.md",
+    "00.Notes/Checklist Apps MacOs.md",
+    "00.Notes/Blind Mind.md",
+    "00.Notes/Autoconhecimento - Personalidade Entp.md",
+    "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
     "00.Notes/Administração de Tempo dos Bilionarios..md",
-    "00.Notes/Daily Plan.md",
-    "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Entps precisam de frameworks.md",
+    "00.Notes/Daily Plan.md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
     "00.Notes/Planejamento Segunda Feira.md",
     "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
@@ -379,7 +311,6 @@
     "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
     "01.Assets/Cursos/Pentester JR - Try Hack Me.md",
     "01.Assets/Cursos/Mente Lendaria..md",
-    "00.Notes/How to type your self - Cs Joseph Course.md",
     "00.Notes/Untitled.base",
     "00.Notes/Tipagem Ana Vitoria.md",
     "00.Notes/Tipagem Heloisa Ig 2.md",
@@ -390,10 +321,6 @@
     "Readwise/Books/O Clube Das 5 Da Manhã.md",
     "Readwise/Books/Mark Mandon.md",
     "Readwise/Books/Tipologia Junguiana.md",
-    "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md",
-    "Readwise/Articles/Models Attract Women Through Honesty.md",
-    "Readwise/Books/O Mito Do Empreendedor.md",
-    "Readwise/Articles/A Guerra Da Paixão.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
