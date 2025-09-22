@@ -1,0 +1,4 @@
+It's being stuck often being in a specific side of mind long term, often to accommodate people of specific types. An istj who is expected to provide Ti and Fe regularly for a family of Fi-Te users will naturally use estp unconcious more often, and may find it difficult to shake
+
+- É ficar preso, muitas vezes, em um lado específico da mente por muito tempo, muitas vezes para acomodar pessoas de tipos específicos. 
+- Um ISTJ que deve fornecer Ti e Fe regularmente para uma família de usuários de Fi-Te naturalmente usará ESTP inconsciente com mais frequência e pode ter dificuldade para se livrar dele.
