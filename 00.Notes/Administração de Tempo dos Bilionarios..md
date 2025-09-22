@@ -17,7 +17,7 @@ Framework de 6 passos
 
 Masterize esse framework. 
 
-Quando algo interferir no seu planejamento, resolva-o e em seguida retorne ao seu planejameno. 
+Quando algo interferir no seu planejamento, resolva-o e em seguida retorne ao seu planejamento. 
 
 ---
 

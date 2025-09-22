@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "c15238532eb6c7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dominio de Habilidades - Livro A maquina definitiva de Vendas"
+            }
+          },
+          {
             "id": "322de120f1819ad6",
             "type": "leaf",
             "state": {
@@ -303,13 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Soft Locking - Cs Joseph.md",
+                "file": "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Soft Locking - Cs Joseph"
+              "title": "Outline of Dominio de Habilidades - Livro A maquina definitiva de Vendas"
             }
           }
         ],
@@ -317,7 +341,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,11 +364,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "322de120f1819ad6",
+  "active": "c15238532eb6c7f2",
   "lastOpenFiles": [
+    "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
+    "00.Notes/Administração de Tempo dos Bilionarios..md",
+    "00.Notes/Daily Plan.md",
     "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Entps precisam de frameworks.md",
-    "00.Notes/Administração de Tempo dos Bilionarios..md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
     "00.Notes/Planejamento Segunda Feira.md",
     "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
@@ -368,8 +394,6 @@
     "Readwise/Articles/Models Attract Women Through Honesty.md",
     "Readwise/Books/O Mito Do Empreendedor.md",
     "Readwise/Articles/A Guerra Da Paixão.md",
-    "Readwise/Books/Quick Passages.md",
-    "Readwise/Books/Quebra Da Matrix.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
