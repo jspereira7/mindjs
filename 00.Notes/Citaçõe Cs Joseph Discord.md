@@ -36,9 +36,5 @@ I never said 100%, you just have to be capable of satisfying yourself more than 
 
 money attracts SD girls.
 
-
-
-
 ---
-
 
