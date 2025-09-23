@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd16ea09662f346d",
+            "id": "b0ffb4e2270ed2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/How to type your self - Cs Joseph Course.md",
+                "file": "00.Notes/Entps precisam de frameworks - Processos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to type your self - Cs Joseph Course"
-            }
-          },
-          {
-            "id": "e6eec2343d1e813e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/A falácia da grande ideia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A falácia da grande ideia"
-            }
-          },
-          {
-            "id": "9d716bb25ab8af23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/O sistema Zen - Abraham.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "O sistema Zen - Abraham"
+              "title": "Entps precisam de frameworks - Processos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 958.5
+    "width": 949.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,11 +270,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "e6eec2343d1e813e",
+  "active": "b0ffb4e2270ed2a9",
   "lastOpenFiles": [
+    "00.Notes/Entp Octagram variants.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
-    "00.Notes/A falácia da grande ideia.md",
     "00.Notes/O sistema Zen - Abraham.md",
+    "00.Notes/A falácia da grande ideia.md",
     "00.Notes/Perfil de Usuario que assiste Abraham.md",
     "00.Notes/Canais para se inspirar no modelo de negocio.md",
     "00.Notes/Canais do youtube.base",
@@ -338,7 +290,7 @@
     "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
     "00.Notes/Administração de Tempo dos Bilionarios..md",
-    "00.Notes/Entps precisam de frameworks.md",
+    "00.Notes/Entps precisam de frameworks - Processos.md",
     "00.Notes/Daily Plan.md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
     "00.Notes/Planejamento Segunda Feira.md",
