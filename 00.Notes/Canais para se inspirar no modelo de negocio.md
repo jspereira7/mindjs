@@ -1,0 +1,2 @@
+- https://www.youtube.com/@chadify007/videos (Copiar modelo de edição)
+- 

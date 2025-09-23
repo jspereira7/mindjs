@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "O sistema Zen - Abraham"
             }
+          },
+          {
+            "id": "34b830d069b67a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Perfil de Usuario que assiste Abraham.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Perfil de Usuario que assiste Abraham"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -320,8 +343,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "9d716bb25ab8af23",
+  "active": "34b830d069b67a7f",
   "lastOpenFiles": [
+    "00.Notes/Canais para se inspirar no modelo de negocio.md",
+    "00.Notes/Canais do youtube.base",
+    "00.Notes/Perfil de Usuario que assiste Abraham.md",
     "00.Notes/O sistema Zen - Abraham.md",
     "00.Notes/A falácia da grande ideia.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
@@ -346,11 +372,7 @@
     "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
     "01.Assets/Cursos/Pentester JR - Try Hack Me.md",
     "01.Assets/Cursos/Mente Lendaria..md",
-    "00.Notes/Untitled.base",
     "00.Notes/Tipagem Ana Vitoria.md",
-    "00.Notes/Tipagem Heloisa Ig 2.md",
-    "00.Notes/Curso Criador Zen.md",
-    "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",

@@ -20,7 +20,10 @@ Após isso, você irá pesquisar videos que são relacionados ao tema que você 
 
 Seu unico trabalho nesse dia é se expor ao conteudo, somente isso. 
 
-Assista todos os videos,e elimine os que não tem nada interresante, e deixe somente os que você acha que tem algo interresante pro video. 
+Assista todos os videos,e elimine os que não tem nada interresante, e deixe somente os que você acha que tem algo interresante para ser usado no seu video futuro.
+
+---
+
 
 
 
