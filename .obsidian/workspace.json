@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Curso Youtube Lutz.md",
+                "file": "00.Notes/Site com cursos ouros gringos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curso Youtube Lutz"
+              "title": "Site com cursos ouros gringos"
+            }
+          },
+          {
+            "id": "a8fb8367d7935ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Facelles youtube grow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Facelles youtube grow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,12 +297,15 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "9cf1b4e3399b3376",
+  "active": "a8fb8367d7935ccb",
   "lastOpenFiles": [
+    "00.Notes/Wanner Cash Cow Course.md",
+    "00.Notes/Site com cursos ouros gringos.md",
+    "00.Notes/Curso Youtube Lutz.md",
+    "00.Notes/Facelles youtube grow.md",
     "00.Notes/Companion Guide - Grade dos tipos.md",
     "00.Notes/Video CsJoseph - Porque a maioria dos relacionamentos falham.md",
     "Readwise/Books/Mark Manson.md",
-    "00.Notes/Curso Youtube Lutz.md",
     "00.Notes/Entp Produtividade - Cs Joseph.md",
     "00.Notes/Dicas para fazer Vlogs.md",
     "00.Notes/Framework ganhar dinheiro com live.md",
@@ -299,9 +327,6 @@
     "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
     "00.Notes/Administração de Tempo dos Bilionarios..md",
-    "00.Notes/Daily Plan.md",
-    "Readwise/Books/A Máquina Definitiva De Vendas.md",
-    "00.Notes/Planejamento Segunda Feira.md",
     "01.Assets/Untitled.canvas",
     "Readwise/Tweets",
     "Readwise/Articles",
