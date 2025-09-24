@@ -62,7 +62,19 @@ Então como fazer as coisas ? Como tomar a melhor decisão ?
 
 ---
 
-## Niche Research Document Explained
+## Pesquisa de Nicho 
+
+O primeiro passo para criar Youtube Automations é pesquisar os nichos, fazer uma espionagem das oportunidades. 
+
+Então a primeira coisa que devemos fazer é criar uma planilha, e fazer uma pesquisa de canais com nichos lucrativos... 
+
+E vamos aplicar esse conteudo no brazil e ganhar dinheiro sem se esforçar muito. 
+
+É Isso. 
+
+---
+
+
 
 
 
