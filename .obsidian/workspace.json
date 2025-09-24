@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Entps precisam de frameworks - Processos"
             }
+          },
+          {
+            "id": "9cf1b4e3399b3376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -247,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 949.5
+    "width": 800.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,8 +297,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b0ffb4e2270ed2a9",
+  "active": "9cf1b4e3399b3376",
   "lastOpenFiles": [
+    "00.Notes/Untitled.md",
+    "00.Notes/Entps precisam de frameworks - Processos.md",
+    "00.Notes/Dicas para fazer Vlogs.md",
+    "00.Notes/Framework ganhar dinheiro com live.md",
     "00.Notes/Entp Octagram variants.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
     "00.Notes/O sistema Zen - Abraham.md",
@@ -290,7 +321,6 @@
     "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
     "00.Notes/Administração de Tempo dos Bilionarios..md",
-    "00.Notes/Entps precisam de frameworks - Processos.md",
     "00.Notes/Daily Plan.md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
     "00.Notes/Planejamento Segunda Feira.md",
@@ -298,9 +328,6 @@
     "01.Assets/Untitled.canvas",
     "00.Notes/Produtividade ENTP.md",
     "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
-    "01.Assets/Cursos/Pentester JR - Try Hack Me.md",
-    "01.Assets/Cursos/Mente Lendaria..md",
-    "00.Notes/Tipagem Ana Vitoria.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",

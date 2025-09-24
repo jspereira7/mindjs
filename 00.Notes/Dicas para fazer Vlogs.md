@@ -1,0 +1,2 @@
+- Sempre fale mais alto do que o normal, fale pra fora, falar pra camera é diferente de falar com alguem. 
+- 
