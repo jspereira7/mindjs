@@ -1,3 +1,10 @@
+---
+tags:
+  - csjoseph
+author:
+  - csjoseph
+description: Porque relacionamentos falham nos tempos atuais
+---
 Homens e mulheres precisam saber o desenvolvimento cognitivo um do outro, para que saibam se possuem compatibilidade ou não. 
 
 SD's devem estar com SD's 

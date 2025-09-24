@@ -1,3 +1,8 @@
+---
+tags:
+  - autoconhecimento/entp
+  - csjoseph
+---
 Os entps precisam de frameworks para trabalhar com as coisas da vida. 
 - Porque são pessoas do temperamento de system's. 
 - Se não possuem uma estrutra ao qual seguir, um processo, um passo a passo. elas ficam travadas. 

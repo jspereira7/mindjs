@@ -1,3 +1,10 @@
+---
+tags:
+  - csjoseph
+author:
+  - csjoseph
+description: Essa é uma nota de uma tradução do companion guide do cs joseph
+---
 Essa é uma versão traduzida do companion guide, feita por Js Pereira. 
 
 ## Sumario 
