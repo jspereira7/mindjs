@@ -258,23 +258,14 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "ad45c07660682199",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 800.5
+    "width": 800.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,7 +288,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "ad45c07660682199",
+  "active": "a8fb8367d7935ccb",
   "lastOpenFiles": [
     "00.Notes/Wanner Cash Cow Course.md",
     "00.Notes/Site com cursos ouros gringos.md",
