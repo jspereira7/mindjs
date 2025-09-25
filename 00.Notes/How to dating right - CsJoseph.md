@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 O certo é você participar de lugares que tenham coisas em comum com seus interreses. 
 - Meetup.com
 - Servidores de Discord com assuntos que vc gosta. 

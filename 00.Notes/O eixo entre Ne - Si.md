@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 ## O que é um Eixo Cognitivo?
 
 Um **eixo cognitivo** é a comunicação entre duas funções que trabalham juntas na mente. No caso, Si (Sensação Introvertida) e Ne (Intuição Extrovertida) são ambas funções de percepção e ficam no mesmo "lado" da mente.

@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 Octagram 4 – Definições dos Medos Centrais (Atualizado)
 
 **Medos Centrais Explosivos**

@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 ### Livros para ganhar dinheiro
 
 As escolhas do Chase para livros de Vendas & Marketing:  

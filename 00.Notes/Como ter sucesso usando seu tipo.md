@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 Se você quer ter sucesso em determinada area, apenas encontre alguem do seu tipo que tem sucesso na area que vc quer, e apenas faça o que ele faz. 
 
 **Exemplos** 

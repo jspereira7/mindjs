@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 Lembre-se entp, você é 3x sistematico, você precisa jogar com as suas maiores forças e vantagens. 
 
 Tudo o que vc faz na sua carreira precisa ser baseado em sistemas, ou você precisa ter o espaço para criar um sistema. 

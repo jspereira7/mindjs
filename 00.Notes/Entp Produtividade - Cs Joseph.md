@@ -20,8 +20,6 @@ Então você precisa achar uma maneira de ganhar com esse seu comportamento.
 
 Na verdade entp precisa criar algoritimo para cada tarefa, anotando o passo a passo da tarefa até chegar no resultado. 
 
-
-
 -----
 
 Entps usam seu raciocínio para mudar os valores dos outros. 

@@ -50,7 +50,6 @@ Lista atualizada:
 - Sucesso depende de persistência, qualidade e encontrar nichos sustentáveis.  
 
 ----
-
 ## Paixão x Lucro 
 
 Se você quer fazer um canal de marca pessoal para se divertir no processo, esse curso ainda vai servir pra você, você irá aprender muito sobre youtube. 
@@ -61,7 +60,6 @@ Então como fazer as coisas ? Como tomar a melhor decisão ?
 - Tome a decisão de que algo vai funcionar ou não com base em DADOS.
 
 ---
-
 ## Pesquisa de Nicho 
 
 O primeiro passo para criar Youtube Automations é pesquisar os nichos, fazer uma espionagem das oportunidades. 

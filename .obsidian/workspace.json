@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cf1b4e3399b3376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Site com cursos ouros gringos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Site com cursos ouros gringos"
-            }
-          },
-          {
-            "id": "a8fb8367d7935ccb",
+            "id": "f9ce954353bba1e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Facelles youtube grow"
+            }
+          },
+          {
+            "id": "cde0ec1dc2201a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Wanner Cash Cow Course.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wanner Cash Cow Course"
             }
           }
         ],
@@ -119,12 +119,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
+    "width": 362.5,
     "collapsed": true
   },
   "right": {
@@ -258,14 +257,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "71719c8f9499e909",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "ChatGpt"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 800.5,
-    "collapsed": true
+    "width": 872.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,36 +296,37 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "a8fb8367d7935ccb",
+  "active": "71719c8f9499e909",
   "lastOpenFiles": [
+    "00.Notes/Facelles youtube grow.md",
     "00.Notes/Wanner Cash Cow Course.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Curso Youtube Lutz.md",
-    "00.Notes/Facelles youtube grow.md",
-    "00.Notes/Companion Guide - Grade dos tipos.md",
-    "00.Notes/Video CsJoseph - Porque a maioria dos relacionamentos falham.md",
-    "Readwise/Books/Mark Manson.md",
-    "00.Notes/Entp Produtividade - Cs Joseph.md",
     "00.Notes/Dicas para fazer Vlogs.md",
-    "00.Notes/Framework ganhar dinheiro com live.md",
-    "00.Notes/Entp Octagram variants.md",
-    "00.Notes/How to type your self - Cs Joseph Course.md",
-    "00.Notes/O sistema Zen - Abraham.md",
-    "00.Notes/A falácia da grande ideia.md",
-    "00.Notes/Perfil de Usuario que assiste Abraham.md",
-    "00.Notes/Canais para se inspirar no modelo de negocio.md",
-    "00.Notes/Canais do youtube.base",
-    "00.Notes/Framework OCT 4.0.md",
-    "00.Notes/Octagram 4 - Core Fears.md",
+    "00.Notes/O eixo entre Ne - Si.md",
+    "00.Notes/Ne dominante.md",
+    "00.Notes/Como ter sucesso usando seu tipo.md",
+    "00.Notes/Funções Cognitivas - Cs Joseph.md",
+    "00.Notes/How to dating right - CsJoseph.md",
+    "00.Notes/Entp Development - Yt Video Cs Joseph.md",
+    "00.Notes/Books Top 5 by member csjoseph.md",
+    "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
+    "00.Notes/Exercicio 3 - N mais o cara bonzinho.md",
+    "00.Notes/Observações Aleatorias.md",
+    "00.Notes/Sensação Introvertida (Se).md",
+    "00.Notes/Produtividade ENTP.md",
     "00.Notes/Citaçõe Cs Joseph Discord.md",
-    "01.Assets/Anexos/Pasted image 20250922165711.png",
+    "00.Notes/Entp Octagram variants.md",
+    "00.Notes/O sistema Zen - Abraham.md",
     "00.Notes/ESFP - Cs Joseph.md",
-    "00.Notes/Checklist Apps MacOs.md",
     "00.Notes/Blind Mind.md",
-    "00.Notes/Autoconhecimento - Personalidade Entp.md",
-    "00.Notes/Soft Locking - Cs Joseph.md",
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
-    "00.Notes/Administração de Tempo dos Bilionarios..md",
+    "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
+    "00.Notes/ISFJ.md",
+    "00.Notes/Anotações ESTP.md",
+    "01.Assets/Untitled 1.canvas",
+    "00.Notes/Canais do youtube.base",
+    "01.Assets/Anexos/Pasted image 20250922165711.png",
     "01.Assets/Untitled.canvas",
     "Readwise/Tweets",
     "Readwise/Articles",
@@ -338,7 +347,6 @@
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
     "00.Notes/Visual Thinking Canva.canvas",
-    "01.Assets/Untitled 1.canvas",
     "01.Assets/Untitled 2.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
