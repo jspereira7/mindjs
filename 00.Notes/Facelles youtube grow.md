@@ -19,8 +19,6 @@ Lista atualizada:
 	- Canal muito bom, redendo dinheiro atualmente.
 
 ---
-## Algoritmo do YouTube 
-
 ## Como o algoritmo do YouTube funciona
 
 ### AVD (Average View Duration)

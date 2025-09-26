@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "01.Assets/Untitled.canvas"
+    },
+    {
+      "basename": "Framework 4C",
+      "path": "01.Assets/Excalidraw/Framework 4C.md"
+    },
+    {
       "basename": "Facelles youtube grow",
       "path": "00.Notes/Facelles youtube grow.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Curso Criador Zen",
       "path": "00.Notes/Curso Criador Zen.md"
-    },
-    {
-      "basename": "Automação e WebScraping (Ouro)",
-      "path": "00.Notes/Automação e WebScraping (Ouro).md"
-    },
-    {
-      "basename": "Automação usando API não oficial",
-      "path": "00.Notes/Automação usando API não oficial.md"
     }
   ],
   "omittedPaths": [

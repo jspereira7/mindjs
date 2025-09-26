@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "89416e70a14c55c6",
+        "id": "07e951f8d7eec18e",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ce954353bba1e0",
+            "id": "153aec9d43cc02d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Facelles youtube grow.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Facelles youtube grow"
+              "title": "New tab"
             }
           }
         ]
@@ -98,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -232,18 +217,29 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "463565ba772586f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 872.5,
+    "width": 629.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
@@ -251,7 +247,6 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": true,
       "audio-recorder:Start/stop recording": true,
-      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -262,11 +257,14 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f9ce954353bba1e0",
+  "active": "153aec9d43cc02d8",
   "lastOpenFiles": [
+    "01.Assets/Untitled.canvas",
+    "01.Assets/Excalidraw/Framework 4C.md",
+    "00.Notes/Facelles youtube grow.md",
+    "01.Assets/Untitled 1.canvas",
     "00.Notes/Wanner Cash Cow Course.md",
     "00.Notes/Ne Hero Productivity.md",
-    "00.Notes/Facelles youtube grow.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Curso Youtube Lutz.md",
     "00.Notes/Dicas para fazer Vlogs.md",
@@ -288,12 +286,8 @@
     "00.Notes/ESFP - Cs Joseph.md",
     "00.Notes/Blind Mind.md",
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
-    "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
-    "00.Notes/ISFJ.md",
-    "01.Assets/Untitled 1.canvas",
     "00.Notes/Canais do youtube.base",
     "01.Assets/Anexos/Pasted image 20250922165711.png",
-    "01.Assets/Untitled.canvas",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
