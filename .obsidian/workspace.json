@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Facelles youtube grow"
             }
-          },
-          {
-            "id": "cde0ec1dc2201a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Wanner Cash Cow Course.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wanner Cash Cow Course"
-            }
-          },
-          {
-            "id": "e0f72ad4869839e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Ne Hero Productivity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ne Hero Productivity"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,23 +232,14 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "71719c8f9499e909",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 872.5
+    "width": 872.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,10 +262,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "e0f72ad4869839e5",
+  "active": "f9ce954353bba1e0",
   "lastOpenFiles": [
-    "00.Notes/Ne Hero Productivity.md",
     "00.Notes/Wanner Cash Cow Course.md",
+    "00.Notes/Ne Hero Productivity.md",
     "00.Notes/Facelles youtube grow.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Curso Youtube Lutz.md",
