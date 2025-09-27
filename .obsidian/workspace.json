@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07e951f8d7eec18e",
+        "id": "a6b136ada2c12239",
         "type": "tabs",
         "children": [
           {
-            "id": "153aec9d43cc02d8",
+            "id": "4cf85a645cd692b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 248.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -257,7 +257,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "153aec9d43cc02d8",
+  "active": "4cf85a645cd692b0",
   "lastOpenFiles": [
     "01.Assets/Untitled.canvas",
     "01.Assets/Excalidraw/Framework 4C.md",
