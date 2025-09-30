@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -243,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1365.5
+    "width": 1536,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +268,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2c4e93ec041c133c",
+  "active": "4cf85a645cd692b0",
   "lastOpenFiles": [
     "Readwise/Books/Maestria.md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
