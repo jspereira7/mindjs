@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5797a32ada82d281",
+            "id": "55234034c7d6909c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -244,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1536
+    "width": 1027.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,8 +267,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "5797a32ada82d281",
+  "active": "55234034c7d6909c",
   "lastOpenFiles": [
+    "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "Readwise/Books/Maestria.md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
@@ -294,7 +295,6 @@
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
     "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
     "Readwise/Tweets/Tweets From Kas.md",
-    "Readwise/Tweets/Tweets From Dmitrii Kovanikov.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
