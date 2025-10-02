@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55234034c7d6909c",
+            "id": "b50158814a2111f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Entp Laws of the life.md",
+                "file": "00.Notes/Leis de vida para um ENTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entp Laws of the life"
+              "title": "Leis de vida para um ENTP"
             }
           }
         ]
@@ -258,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1027.5,
-    "collapsed": true
+    "width": 1027.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,9 +281,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "55234034c7d6909c",
+  "active": "b50158814a2111f2",
   "lastOpenFiles": [
     "00.Notes/Entp Laws of the life.md",
+    "00.Notes/Leis de vida para um ENTP.md",
     "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "Readwise/Books/Maestria.md",
@@ -309,7 +309,6 @@
     "Readwise/Tweets/Tweets From Naval.md",
     "Readwise/Articles/The 2 Productivity Habits That Changed My Work Routine Forever.md",
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
-    "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
