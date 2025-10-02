@@ -11,10 +11,24 @@
             "id": "55234034c7d6909c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Entp Laws of the life.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entp Laws of the life"
             }
           }
         ]
@@ -244,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1027.5
+    "width": 1027.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,6 +284,7 @@
   },
   "active": "55234034c7d6909c",
   "lastOpenFiles": [
+    "00.Notes/Entp Laws of the life.md",
     "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "Readwise/Books/Maestria.md",
@@ -294,7 +310,6 @@
     "Readwise/Articles/The 2 Productivity Habits That Changed My Work Routine Forever.md",
     "Readwise/Articles/Parkinson's Law It's Real, So Use It.md",
     "Readwise/Articles/Por que troquei o Obsidian a história de um desenvolvedor real e o que estou usando agora.md",
-    "Readwise/Tweets/Tweets From Kas.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
