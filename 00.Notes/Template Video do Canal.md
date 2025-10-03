@@ -1,4 +1,4 @@
-Tema: Você não é preguiçoso - só está no lugar errado. 
+Tema: 
 
 **1 - Impacto:** Uma frase ou introdução que faça a pessoa ficar no video.
 

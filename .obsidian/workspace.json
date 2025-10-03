@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Primeiro video do canal.md",
+                "file": "00.Notes/Template Video do Canal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Primeiro video do canal"
+              "title": "Template Video do Canal"
             }
           }
         ],
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -133,57 +132,21 @@
       {
         "id": "fbf5977ba876e0b9",
         "type": "tabs",
+        "dimension": 55.35545023696683,
         "children": [
-          {
-            "id": "45e13de20335d69e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "00.Notes/Facelles youtube grow.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6954585914699223,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Facelles youtube grow"
-            }
-          },
           {
             "id": "c4eedcef2b6e00f3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Curso Youtube Lutz.md",
+                "file": "00.Notes/Template Video do Canal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curso Youtube Lutz"
+              "title": "Outline of Template Video do Canal"
             }
           },
           {
@@ -192,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Notes/Insights Mark manson.md",
+                "file": "00.Notes/Template Video do Canal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Insights Mark manson"
+              "title": "Backlinks for Template Video do Canal"
             }
           },
           {
@@ -211,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Projeto DayOne analise de dados.md",
+                "file": "00.Notes/Template Video do Canal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Projeto DayOne analise de dados"
+              "title": "Outgoing links from Template Video do Canal"
             }
           },
           {
@@ -279,11 +242,55 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
+      },
+      {
+        "id": "c154da15853d5f00",
+        "type": "tabs",
+        "dimension": 44.644549763033176,
+        "children": [
+          {
+            "id": "45e13de20335d69e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00.Notes/Template Video do Canal.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7297772055796999,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Template Video do Canal"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1027.5
+    "width": 591.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,8 +315,13 @@
   },
   "active": "77dec0151dc59c14",
   "lastOpenFiles": [
-    "00.Notes/Primeiro video do canal.md",
+    "01.Assets/Anexos/Recording 20251003145223.m4a",
     "00.Notes/Leis de vida para um ENTP.md",
+    "00.Notes/Template Video do Canal.md",
+    "+Daily Notes/2025-10-03 Friday.md",
+    "01.Assets/Untitled.canvas",
+    "+Daily Notes",
+    "00.Notes/Systema de Vida ENTP.md",
     "00.Notes/Entp Laws of the life.md",
     "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Site com cursos ouros gringos.md",
@@ -331,14 +343,10 @@
     "Readwise/Articles/Write to Escape Your Default Setting.md",
     "Readwise/Tweets/Tweets From Js.md",
     "Readwise/Tweets/Tweets From TrunQ.md",
-    "Readwise/Books/Paul Graham's Collection of Quotes.md",
-    "Readwise/Tweets/Tweets From Naval.md",
-    "Readwise/Articles/The 2 Productivity Habits That Changed My Work Routine Forever.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
-    "01.Assets/Untitled.canvas",
     "01.Assets/Untitled 1.canvas",
     "00.Notes/Canais do youtube.base",
     "01.Assets/Anexos/Pasted image 20250922165711.png",
@@ -352,7 +360,6 @@
     "01.Assets/Anexos/Pasted image 20250827093823.png",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
