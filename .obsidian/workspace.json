@@ -79,8 +79,7 @@
               "title": "2025-10-03 Friday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
       {
         "id": "fbf5977ba876e0b9",
         "type": "tabs",
-        "dimension": 55.35545023696683,
+        "dimension": 55.35545023696684,
         "children": [
           {
             "id": "c4eedcef2b6e00f3",
@@ -272,7 +271,7 @@
       {
         "id": "c154da15853d5f00",
         "type": "tabs",
-        "dimension": 44.64454976303317,
+        "dimension": 44.64454976303316,
         "children": [
           {
             "id": "45e13de20335d69e",
@@ -339,12 +338,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "6e9bdbdf4a79fff2",
+  "active": "b50158814a2111f2",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Recording 20251003145223.m4a",
-    "00.Notes/Leis de vida para um ENTP.md",
     "00.Notes/Template Video do Canal.md",
     "+Daily Notes/2025-10-03 Friday.md",
+    "01.Assets/Anexos/Recording 20251003145223.m4a",
+    "00.Notes/Leis de vida para um ENTP.md",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
     "00.Notes/Systema de Vida ENTP.md",
@@ -385,7 +384,6 @@
     "01.Assets/Anexos/Pasted image 20250901163545.png",
     "01.Assets/Anexos/Pasted image 20250827093823.png",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
     "01.Assets/Anexos/Pasted image 20250813222945.png",
     "01.Assets/Anexos/Pasted image 20250812202945.png",
     "01.Assets/Anexos/Pasted image 20250812202911.png",
