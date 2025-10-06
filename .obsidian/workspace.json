@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Template Video do Canal.md",
+                "file": "00.Notes/Ne Hero Productivity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template Video do Canal"
+              "title": "Ne Hero Productivity"
+            }
+          },
+          {
+            "id": "882483b035d32b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -231,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+Daily Notes/2025-10-03 Friday.md",
+                "file": "00.Notes/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,15 +283,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-10-03 Friday"
+              "title": "Graph of Untitled"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
-    "collapsed": true
+    "width": 591.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,17 +313,19 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "77dec0151dc59c14",
+  "active": "882483b035d32b5f",
   "lastOpenFiles": [
-    "+Daily Notes/2025-10-03 Friday.md",
-    "00.Notes/Template Video do Canal.md",
+    "00.Notes/Untitled.md",
+    "00.Notes/Ne Hero Productivity.md",
+    "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Leis de vida para um ENTP.md",
+    "00.Notes/Template Video do Canal.md",
+    "+Daily Notes/2025-10-03 Friday.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
     "00.Notes/Systema de Vida ENTP.md",
     "00.Notes/Entp Laws of the life.md",
-    "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "Readwise/Books/Maestria.md",
     "Readwise/Books/A Máquina Definitiva De Vendas.md",
@@ -319,7 +344,6 @@
     "Readwise/Books/Fora De Série Outliers.md",
     "Readwise/Articles/Write to Escape Your Default Setting.md",
     "Readwise/Tweets/Tweets From Js.md",
-    "Readwise/Tweets/Tweets From TrunQ.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
