@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77dec0151dc59c14",
+            "id": "95719b6ce74c3a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Ne Hero Productivity.md",
+                "file": "00.Notes/Funções Cognitivas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ne Hero Productivity"
-            }
-          },
-          {
-            "id": "882483b035d32b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Funções Cognitivas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 341.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -255,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Untitled.md",
+                "file": "00.Notes/Funções Cognitivas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +238,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -278,19 +253,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7297772055796999,
-                  "close": true
+                  "scale": 0.6440142681624785,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Funções Cognitivas"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 742.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,14 +288,24 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "882483b035d32b5f",
+  "active": "cf321efad4a60738",
   "lastOpenFiles": [
-    "00.Notes/Untitled.md",
+    "00.Notes/Video CsJoseph - Porque a maioria dos relacionamentos falham.md",
+    "00.Notes/Curso Criador Zen.md",
+    "00.Notes/Si - Csjoseph.md",
+    "01.Assets/Prompts/Prompt Cheat Code.md",
+    "01.Assets/Templates/ideia.md.md",
+    "01.Assets/Templates/Livro.md",
+    "01.Assets/Templates/Tracker de Hábitos..md",
+    "01.Assets/Templates/book.md.md",
+    "01.Assets/Templates/daily.md.md",
+    "00.Notes/Funções Cognitivas.md",
+    "+Daily Notes/2025-10-03 Friday.md",
     "00.Notes/Ne Hero Productivity.md",
+    "00.Notes/Ti - Cs Joseph.md",
     "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Leis de vida para um ENTP.md",
     "00.Notes/Template Video do Canal.md",
-    "+Daily Notes/2025-10-03 Friday.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
@@ -334,16 +319,6 @@
     "Readwise/Books/Mark Mandon.md",
     "Readwise/Books/Tipologia Junguiana.md",
     "Readwise/Articles/O Mapa Um Guia Para a Dominação Do Mundo.md",
-    "Readwise/Articles/Models Attract Women Through Honesty.md",
-    "Readwise/Books/O Mito Do Empreendedor.md",
-    "Readwise/Articles/A Guerra Da Paixão.md",
-    "Readwise/Books/Quick Passages.md",
-    "Readwise/Books/Quebra Da Matrix.md",
-    "Readwise/Books/Leonardo Davinci Genius.md",
-    "Readwise/Books/Pensamento Eficaz.md",
-    "Readwise/Books/Fora De Série Outliers.md",
-    "Readwise/Articles/Write to Escape Your Default Setting.md",
-    "Readwise/Tweets/Tweets From Js.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
