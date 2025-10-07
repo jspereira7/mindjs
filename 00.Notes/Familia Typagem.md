@@ -1,0 +1,9 @@
+Essa é uma nota que mostra os tipos de personalidade da minha familia. 
+
+- Pai:  [[Sebastião Pereira - Typar]]
+- Mãe: [[Ana Paula - INFP UDSF]]
+- Filho 1: [[Josias Pereira - ENTP]]
+- Filho 2: [[Gideão Pereira - Tipar]]
+- Filho 3: [[Jéssica Pereira - Typar]]
+- Filho 4: [[Gislaine Pereira - Typar]]
+
