@@ -1,4 +1,4 @@
-INFP. 
+INFP ✅
 
 Como são os tipos INFP: 
 
