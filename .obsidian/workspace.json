@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Call Gato Ads - Caixa Rápido com Delivery"
             }
+          },
+          {
+            "id": "66f872280890e6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Te users.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Te users"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +268,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "67f543eb92db5d9c",
+  "active": "66f872280890e6bf",
   "lastOpenFiles": [
+    "00.Notes/Te users.md",
     "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
     "00.Notes/Modulo 2 - Flow.md",
     "00.Notes/MOC - ENTP Owner - Course..md",
@@ -270,7 +296,6 @@
     "01.Assets/Templates/ideia.md.md",
     "01.Assets/Templates/Livro.md",
     "01.Assets/Templates/Tracker de Hábitos..md",
-    "01.Assets/Templates/book.md.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
