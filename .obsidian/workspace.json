@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40cc18279302ef4b",
+        "id": "19743ad329968fba",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7ae70e6b54645b",
+            "id": "e83c08ed9c99f90e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Site com cursos ouros gringos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Site com cursos ouros gringos"
+              "title": "New tab"
             }
           }
         ]
@@ -94,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632.5,
-    "collapsed": true
+    "width": 632.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,15 +229,15 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "cf7ae70e6b54645b",
+  "active": "e83c08ed9c99f90e",
   "lastOpenFiles": [
+    "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Gideão Pereira - Tipar.md",
     "00.Notes/Familia Typagem.md",
     "00.Notes/Sebastião Pereira - ESFP.md",
     "00.Notes/Jéssica Pereira - Typar.md",
     "00.Notes/Si - Csjoseph.md",
     "00.Notes/Ana Paula - INFP UDSF.md",
-    "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Wanner Cash Cow Course.md",
     "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Funções Cognitivas.md",
