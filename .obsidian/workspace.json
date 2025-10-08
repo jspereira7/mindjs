@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "19743ad329968fba",
+        "id": "6c80320168e0dac5",
         "type": "tabs",
         "children": [
           {
-            "id": "e83c08ed9c99f90e",
+            "id": "67f543eb92db5d9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Call Gato Ads - Caixa Rápido com Delivery"
             }
           }
         ]
@@ -229,8 +243,17 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "e83c08ed9c99f90e",
+  "active": "67f543eb92db5d9c",
   "lastOpenFiles": [
+    "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
+    "00.Notes/Modulo 2 - Flow.md",
+    "00.Notes/MOC - ENTP Owner - Course..md",
+    "00.Notes/Forças e fraquezas de usuarios de Ne.md",
+    "00.Notes/How to type your self - Cs Joseph Course.md",
+    "00.Notes/Entp Behind the mask.md",
+    "00.Notes/Função Demon.md",
+    "00.Notes/Ne - Intuição Extrovertida.md",
+    "00.Notes/Resumo sobre o modelo de carro das funcoes cognitivas.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Gideão Pereira - Tipar.md",
     "00.Notes/Familia Typagem.md",
@@ -248,18 +271,9 @@
     "01.Assets/Templates/Livro.md",
     "01.Assets/Templates/Tracker de Hábitos..md",
     "01.Assets/Templates/book.md.md",
-    "01.Assets/Templates/daily.md.md",
-    "+Daily Notes/2025-10-03 Friday.md",
-    "00.Notes/Ne Hero Productivity.md",
-    "00.Notes/Ti - Cs Joseph.md",
-    "00.Notes/Leis de vida para um ENTP.md",
-    "00.Notes/Template Video do Canal.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
-    "00.Notes/Systema de Vida ENTP.md",
-    "00.Notes/Entp Laws of the life.md",
-    "Readwise/Books/Maestria.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
