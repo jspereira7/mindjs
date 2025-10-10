@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67f543eb92db5d9c",
+            "id": "5a23ec08875aeb6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
+                "file": "00.Notes/Origem Cognitiva.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Call Gato Ads - Caixa Rápido com Delivery"
-            }
-          },
-          {
-            "id": "66f872280890e6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Te users.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Te users"
+              "title": "Origem Cognitiva"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -132,6 +108,7 @@
       {
         "id": "fbf5977ba876e0b9",
         "type": "tabs",
+        "dimension": 38.971428571428575,
         "children": [
           {
             "id": "c4eedcef2b6e00f3",
@@ -242,10 +219,55 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "1143f841a0df1108",
+        "type": "tabs",
+        "dimension": 61.02857142857143,
+        "children": [
+          {
+            "id": "5b5f8e835a643a5b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00.Notes/Origem Cognitiva.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9061188656497832,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Origem Cognitiva"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 550.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,8 +290,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "66f872280890e6bf",
+  "active": "5a23ec08875aeb6a",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20251010135958.png",
+    "00.Notes/Origem Cognitiva.md",
+    "00.Notes/Entp Produtividade - Cs Joseph.md",
+    "00.Notes/Funções Cognitivas CsJoseph.md",
     "00.Notes/Te users.md",
     "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
     "00.Notes/Modulo 2 - Flow.md",
@@ -292,10 +318,6 @@
     "00.Notes/Funções Cognitivas.md",
     "00.Notes/Video CsJoseph - Porque a maioria dos relacionamentos falham.md",
     "00.Notes/Curso Criador Zen.md",
-    "01.Assets/Prompts/Prompt Cheat Code.md",
-    "01.Assets/Templates/ideia.md.md",
-    "01.Assets/Templates/Livro.md",
-    "01.Assets/Templates/Tracker de Hábitos..md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
