@@ -168,16 +168,6 @@
             }
           },
           {
-            "id": "2c4e93ec041c133c",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
-            }
-          },
-          {
             "id": "5b5f8e835a643a5b",
             "type": "leaf",
             "state": {
@@ -229,6 +219,16 @@
             }
           },
           {
+            "id": "2c4e93ec041c133c",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "ChatGpt"
+            }
+          },
+          {
             "id": "f6467a91cb8fdf72",
             "type": "leaf",
             "state": {
@@ -274,11 +274,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 841.5
+    "width": 1064.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,7 +298,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b18171310411ec96",
+  "active": "f6467a91cb8fdf72",
   "lastOpenFiles": [
     "00.Notes/Planejamento próximos passos.md",
     "00.Notes/Newest way to label types!.md",
