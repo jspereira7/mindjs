@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Hero"
             }
+          },
+          {
+            "id": "a760b88e1813ba9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Sobre Sistemas - Hábitos Atomicos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sobre Sistemas - Hábitos Atomicos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Hero.md",
+                "file": "00.Notes/Sobre Sistemas - Hábitos Atomicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hero"
+              "title": "Graph of Sobre Sistemas - Hábitos Atomicos"
             }
           }
         ]
@@ -289,10 +314,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "3972ab18ce350012",
+  "active": "a760b88e1813ba9d",
   "lastOpenFiles": [
-    "00.Notes/Cognitive Atitudes - Ego Hackers.md",
+    "00.Notes/Sobre Sistemas - Hábitos Atomicos.md",
     "00.Notes/Hero.md",
+    "00.Notes/Cognitive Atitudes - Ego Hackers.md",
     "00.Notes/Origem Cognitiva.md",
     "01.Assets/Anexos/Pasted image 20251010135958.png",
     "00.Notes/Entp Produtividade - Cs Joseph.md",
@@ -317,7 +343,6 @@
     "00.Notes/Wanner Cash Cow Course.md",
     "00.Notes/Login Skool - Cursos de edição de video.md",
     "00.Notes/Funções Cognitivas.md",
-    "00.Notes/Video CsJoseph - Porque a maioria dos relacionamentos falham.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "01.Assets/Untitled.canvas",
     "+Daily Notes",
