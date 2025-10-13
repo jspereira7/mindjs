@@ -4,59 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "6c80320168e0dac5",
-        "type": "tabs",
+        "id": "8207d129d9c58b8f",
+        "type": "split",
         "children": [
           {
-            "id": "3972ab18ce350012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Hero.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "6c80320168e0dac5",
+            "type": "tabs",
+            "dimension": 62.02651515151515,
+            "children": [
+              {
+                "id": "3972ab18ce350012",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "01.Assets/Untitled.canvas",
+                    "viewState": {
+                      "x": -974.7688768394958,
+                      "y": -38.85844612049364,
+                      "zoom": -1.2370927700120384
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Untitled"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Hero"
-            }
+              {
+                "id": "855793760ab8b4d9",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-reader",
+                  "state": {},
+                  "icon": "lucide-book-open",
+                  "title": "Reader"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "a760b88e1813ba9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Sobre Sistemas - Hábitos Atomicos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "cd898a69ba38ec2e",
+            "type": "tabs",
+            "dimension": 37.97348484848485,
+            "children": [
+              {
+                "id": "a760b88e1813ba9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00.Notes/Hábitos Atomicos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hábitos Atomicos"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "Sobre Sistemas - Hábitos Atomicos"
-            }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -119,11 +137,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
+    "width": 910.5,
     "collapsed": true
   },
   "right": {
@@ -133,23 +152,7 @@
       {
         "id": "fbf5977ba876e0b9",
         "type": "tabs",
-        "dimension": 70.04739336492891,
         "children": [
-          {
-            "id": "c4eedcef2b6e00f3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00.Notes/Template Video do Canal.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Template Video do Canal"
-            }
-          },
           {
             "id": "fe1e70afd3fd63d6",
             "type": "leaf",
@@ -209,30 +212,6 @@
             }
           },
           {
-            "id": "2d07c829a3bc6db5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "463565ba772586f7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "2c4e93ec041c133c",
             "type": "leaf",
             "state": {
@@ -241,22 +220,14 @@
               "icon": "lucide-bot",
               "title": "ChatGpt"
             }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "1143f841a0df1108",
-        "type": "tabs",
-        "dimension": 29.95260663507109,
-        "children": [
+          },
           {
             "id": "5b5f8e835a643a5b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Sobre Sistemas - Hábitos Atomicos.md",
+                "file": "00.Notes/Hábitos Atomicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,14 +255,49 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sobre Sistemas - Hábitos Atomicos"
+              "title": "Graph of Hábitos Atomicos"
+            }
+          },
+          {
+            "id": "3202e9b8cf66cf4a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f6467a91cb8fdf72",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-miro-",
+              "state": {},
+              "icon": "lucide-notebook-pen",
+              "title": "Miro"
+            }
+          },
+          {
+            "id": "b18171310411ec96",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {},
+              "icon": "lucide-list-checks",
+              "title": "Todoist"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 550.5
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,16 +314,18 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "new-3d-graph:Open 3d graph": false
     }
   },
   "active": "a760b88e1813ba9d",
   "lastOpenFiles": [
-    "00.Notes/Sobre Sistemas - Hábitos Atomicos.md",
+    "01.Assets/Untitled.canvas",
+    "00.Notes/Hábitos Atomicos.md",
+    "00.Notes/Nota Teste 3.md",
+    "01.Assets/TextGenerator/oalanicolas/_fackchecking.md",
     "00.Notes/Hero.md",
+    "Readwise/Books/Hábitos Atômicos.md",
+    "01.Assets/Excalidraw/Drawing 2025-10-13 12.55.59.excalidraw.md",
     "00.Notes/Cognitive Atitudes - Ego Hackers.md",
     "00.Notes/Origem Cognitiva.md",
     "01.Assets/Anexos/Pasted image 20251010135958.png",
@@ -338,13 +346,7 @@
     "00.Notes/Familia Typagem.md",
     "00.Notes/Sebastião Pereira - ESFP.md",
     "00.Notes/Jéssica Pereira - Typar.md",
-    "00.Notes/Si - Csjoseph.md",
-    "00.Notes/Ana Paula - INFP UDSF.md",
-    "00.Notes/Wanner Cash Cow Course.md",
-    "00.Notes/Login Skool - Cursos de edição de video.md",
-    "00.Notes/Funções Cognitivas.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
-    "01.Assets/Untitled.canvas",
     "+Daily Notes",
     "Readwise/Tweets",
     "Readwise/Articles",
@@ -357,7 +359,7 @@
     "01.Assets/Anexos/Pasted image 20250915132259.png",
     "01.Assets/Anexos/Pasted image 20250912221213.png",
     "00.Notes/Banco de notas base.base",
-    "01.Assets/PDF's/How to type your self guide csjoseph.pdf",
+    "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/Pasted image 20250806183208.png",
     "01.Assets/Anexos/Pasted image 20250901163545.png",
     "01.Assets/Anexos/Pasted image 20250827093823.png",
