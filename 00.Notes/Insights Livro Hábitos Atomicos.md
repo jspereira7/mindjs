@@ -99,7 +99,14 @@ Habitos não são sobre *ter* algo mas sim sobre se *tornar* alguém.
 
 ---
 
+## O processo de construção de um hábito. 
 
+Ciclo do hábito 
+1. Estimulo
+2. Desejo
+3. Resposta
+4. Recompensa
 
-
+Instagram. 
+- 
 

@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "Planejamento próximos passos"
             }
+          },
+          {
+            "id": "cacb37a426534739",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-reader",
+              "state": {},
+              "icon": "lucide-book-open",
+              "title": "Reader"
+            }
+          },
+          {
+            "id": "26cce720e1db8a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Insights Livro Hábitos Atomicos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Insights Livro Hábitos Atomicos"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Planejamento próximos passos.md",
+                "file": "00.Notes/Insights Livro Hábitos Atomicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planejamento próximos passos"
+              "title": "Outline of Insights Livro Hábitos Atomicos"
             }
           },
           {
@@ -274,11 +309,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 1064.5
+    "width": 931.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,9 +334,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f6467a91cb8fdf72",
+  "active": "26cce720e1db8a66",
   "lastOpenFiles": [
     "00.Notes/Planejamento próximos passos.md",
+    "00.Notes/Untitled.md",
+    "00.Notes/Ana Vitoria - Tipagem.md",
     "00.Notes/Newest way to label types!.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/Breakdown of UCT, Function's Genders, and the dynamics and relationships between them..md",
@@ -328,8 +366,6 @@
     "00.Notes/Ne - Intuição Extrovertida.md",
     "00.Notes/Resumo sobre o modelo de carro das funcoes cognitivas.md",
     "00.Notes/Site com cursos ouros gringos.md",
-    "00.Notes/Gideão Pereira - Tipar.md",
-    "00.Notes/Familia Typagem.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",
