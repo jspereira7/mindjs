@@ -108,5 +108,11 @@ Ciclo do hábito
 4. Recompensa
 
 Instagram. 
-- 
+- Vc se sente entediado 
+- Surge o desejo de sair do tedio
+- Você abre o instagram pra se entreter, como resposta ao estimulo de tédio.
+- Você satisfaz o seu desejo de sair do tédio rolando o reels do instagram 
 
+E assim, o instagram se associou ao estimulo de se sentir no tédio.
+
+![[Pasted image 20251014111944.png]]
