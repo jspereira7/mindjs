@@ -6,6 +6,7 @@
       {
         "id": "f6a0d26bde8766a1",
         "type": "tabs",
+        "dimension": 47.707889125799575,
         "children": [
           {
             "id": "5519c95d127ea0f5",
@@ -32,17 +33,50 @@
             }
           },
           {
-            "id": "d385e2536944e60d",
+            "id": "88b5dbbd1a338a74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tradução Livro People Patterns Pt-Br"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "18263feb80eb9dbb",
+        "type": "tabs",
+        "dimension": 52.292110874200425,
+        "children": [
+          {
+            "id": "d385e2536944e60d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,11 +328,11 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 1097.5
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,8 +352,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "c9381af1a87e3f1d",
+  "active": "36ddfeaf58f2a178",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20251015112945.png",
+    "01.Assets/Anexos/Pasted image 20251015110713.png",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
+    "00.Notes/Tradução Livro People Patterns Pt-Br.md",
     "00.Notes/Planejamento próximos passos.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Octagram 4.1.md",
@@ -352,8 +390,6 @@
     "00.Notes/Forças e fraquezas de usuarios de Ne.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
     "00.Notes/Entp Behind the mask.md",
-    "00.Notes/Função Demon.md",
-    "00.Notes/Ne - Intuição Extrovertida.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",
@@ -365,9 +401,7 @@
     "01.Assets/Anexos/Pasted image 20250922165711.png",
     "01.Assets/Anexos/Pasted image 20250915133654.png",
     "01.Assets/Anexos/Pasted image 20250915132259.png",
-    "01.Assets/Anexos/Pasted image 20250912221213.png",
     "00.Notes/Banco de notas base.base",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Models -- Mark Manson -- Mark Manson -- 6cb324d125bbb422c673fc48ccd6c915 -- Anna’s Archive.pdf",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 2.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
