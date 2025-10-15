@@ -306,18 +306,126 @@ O que é **“Sensação”,** por exemplo, e como exatamente ela difere de **�
 
 ---
 
-## Traços Diferentes...
+### Traços Diferentes...
 
 Mas há outro problema. Como as palavras de Jung/Myers representam conceitos tão amplos, elas tendem a obscurecer diferenças importantes entre os temperamentos.
 
-Veja, a palavra-base “Sensação” sugere algo significativamente diferente para os Artesãos (_SPs_) do que para os Guardiões (_SJs_). Os Artesãos certamente desejam experimentar fortes sensações, e alguns gostam de criar uma sensação onde quer que vão. Mas o mais importante de se entender sobre os Artesãos é que eles querem que suas sensações sejam sempre novas, empolgantes e impulsivas — e, portanto, uma palavra mais precisa para eles é _Espontâneos_. Por outro lado, para os Guardiões, a noção de “senso” significa algo totalmente diferente, algo mais próximo de “bom senso” ou “prudência”, como em “ter senso comum” ou “mostrar bom juízo”, e por isso são mais bem descritos como pessoas _Sensatas_.
+Veja, a palavra-base “Sensação” sugere algo significativamente diferente para os Artesãos (_SPs_) do que para os Guardiões (_SJs_). 
 
-Da mesma forma, a palavra-base “Intuição” caracteriza fortemente os Idealistas (_NFs_), mas não se aplica tão bem aos Racionais (_NTs_), pelo menos não no significado comum da palavra, algo como “uma sensação nos ossos”. O dicionário _American Heritage_ define “Intuição” como “saber ou sentir sem o uso de processos racionais”, e por isso o termo descreve erroneamente a maioria dos Racionais logo de início. Os Racionais querem conhecer tudo o que lhes é útil, mas confiam muito mais em processos racionais — analisando dados, fazendo deduções lógicas, elaborando experimentos etc. — do que em algum tipo de sexto sentido misterioso, e assim são mais bem descritos como pessoas _Engenhosas_.
+Os Artesãos certamente desejam experimentar fortes sensações, e alguns gostam de criar uma sensação onde quer que vão. 
 
-E o mesmo vale para o grupo de palavras de apoio. “Percepção” e “Julgamento”, de um lado, e “Sentimento” e “Pensamento”, do outro, são termos tão gerais que capturam muito pouco da...
+Mas o mais importante de se entender sobre os **Artesãos** é que eles querem que suas sensações sejam sempre novas, empolgantes e impulsivas — e, portanto, uma palavra mais precisa para eles é **_Espontâneos_**. 
 
+Por outro lado, para os **Guardiões**, a noção de “senso” significa algo totalmente diferente, algo mais próximo de “bom senso” ou “prudência”, como em “ter senso comum” ou “mostrar bom juízo”, e por isso são mais bem descritos como pessoas **_Sensatas_**.
+
+Da mesma forma, a palavra-base “Intuição” caracteriza fortemente os **Idealistas (_NFs_)**, mas não se aplica tão bem aos Racionais (_NTs_), pelo menos não no significado comum da palavra, algo como “uma sensação nos ossos”. 
+
+O dicionário _American Heritage_ define “Intuição” como “saber ou sentir sem o uso de processos racionais”, e por isso o termo descreve erroneamente a maioria dos Racionais logo de início. 
+
+Os Racionais querem conhecer tudo o que lhes é útil, mas confiam muito mais em processos racionais — analisando dados, fazendo deduções lógicas, elaborando experimentos etc. — do que em algum tipo de sexto sentido misterioso, e assim são mais bem descritos como pessoas **_Engenhosas_**.
+
+E o mesmo vale para o grupo de palavras de apoio. 
+
+“Percepção” e “Julgamento”, de um lado, e “Sentimento” e “Pensamento”, do outro, são termos tão gerais que capturam muito pouco da caracteristica unica dos 4 temperamentos.
+
+Se pudéssemos escolher novas palavras específicas para cada temperamento:
+- os Artesãos poderiam ser melhor descritos como _Brincalhões_ em suas percepções; 
+- os Guardiões como _Judiciosos_ em seus julgamentos;
+- os Idealistas como _Fervorosos_ em seus sentimentos; 
+- e os Racionais como _Teóricos_ em seus pensamentos.
+
+O ponto principal é que, para descrever os quatro temperamentos com mais precisão — e também para lhes dar vida e personalidade — precisamos dar uma nova olhada nas letras de Jung/Myers e nas palavras que elas representam:
+
+**Artesãos (SPs):** Espontâneos e Brincalhões.  
+**Guardiões (SJs):** Sensatos e Judiciosos.  
+**Idealistas (NFs):** Intuitivos e Fervorosos.  
+**Racionais (NTs):** Engenhosos e Teóricos.
+
+Para aqueles leitores familiarizados com a terminologia de Jung/Myers e que usam as letras de Myers-Briggs como uma abreviação de tipo de personalidade, essas novas palavras estão muito mais próximas de transmitir o verdadeiro sentido dos quatro temperamentos de Keirsey.
+
+---
+
+## A Matriz dos Temperamentos
+
+Mas sejamos francos: geral ou específica, precisa ou imprecisa, nova ou antiga, todas essas letras e palavras são difíceis de lembrar e manter em ordem. 
+
+Então, vamos agora nos voltar para uma maneira diferente de classificar as dimensões básicas dos quatro temperamentos — uma abordagem de matriz muito mais simples introduzida por Keirsey em _Please Understand Me II_.
+
+Em essência, Keirsey sustenta que os quatro temperamentos são os padrões subjacentes da personalidade porque refletem as duas partes fundamentais da vida — o que _dizemos_ e o que _fazemos_.
+
+Primeiro, as pessoas não conseguem evitar falar sobre o que lhes interessa, e Keirsey observou que as conversas de algumas pessoas são principalmente sobre coisas externas, concretas e práticas — coisas que podem ver, tocar, conduzir, chutar, cozinhar, contar, polir e assim por diante. 
+
+Enquanto isso, as palavras de outras pessoas são principalmente sobre ideias internas, abstratas e “nas nuvens” — teorias e especulações, sonhos e experimentos, filosofias e fantasias, e assim por diante. 
+
+É claro que todos fazem ambos às vezes, mas, para colocar em termos simples, algumas pessoas falam mais sobre _o que é_ e outras falam mais sobre _o que é possível_.
+
+Em segundo lugar, as pessoas naturalmente tentam realizar coisas, e Keirsey observou que, ao conduzir seus negócios, algumas pessoas pensam primeiro em fazer o que é eficaz e gera resultados, verificando apenas depois se estão obedecendo às regras. 
+
+Outras pessoas pensam primeiro em fazer o que é certo, em conformidade com leis e regras aceitas, ou com seu próprio código moral ou ético, e só então se preocupam com a eficácia ou produtividade de suas ações. 
+
+Esses aspectos podem se sobrepor, é claro, mas, novamente em termos simples, algumas pessoas instintivamente fazem _o que funciona_, enquanto outras instintivamente fazem _o que é certo_.
+
+Agora, as combinações de _Dizer_ e _Fazer_ podem ser melhor organizadas em uma matriz de quatro células:
+
+![[Pasted image 20251015123813.png]]
+
+Ao observar cada célula, uma de cada vez, podemos ter uma boa noção da natureza dos quatro temperamentos. Assim, de modo geral:
+
+- **Artesãos** falam sobre o que podem ver bem diante deles e podem colocar as mãos na massa, e estão dispostos a fazer o que quer que traga um resultado rápido e eficaz — mesmo que precisem dobrar as regras.
+    
+- **Guardiões** falam sobre o que podem observar e cuidar bem, e ao realizar tarefas são cuidadosos em obedecer às leis, seguir as regras e respeitar os direitos dos outros.
+
+- **Idealistas** falam sobre o que esperam e imaginam que _pode ser_, e desejam agir com boa consciência, sempre tentando alcançar seus objetivos sem comprometer seu código pessoal de ética.
+    
+- **Racionais** falam sobre o que querem aprender e planejam realizar, e agem com a máxima eficiência possível para alcançar seus objetivos, deixando de lado regras e convenções, se necessário.
+
+Portanto, quer ter uma leitura rápida dos quatro temperamentos e ser capaz de identificá-los em outras pessoas? O método de Keirsey é o mais fácil e preciso que encontrei:
+
+1. **Ouça sobre o que as pessoas falam:** coisas concretas e experiências (_o que é_), ou ideias e imaginações abstratas (_o que é possível_).
+    
+2. **Observe o que as pessoas fazem:** o que dá resultados (_o que funciona_), ou o que é bom ou moralmente correto (_o que é certo_).
+    
+
+Aprender a observar esses padrões de comportamento nas pessoas é o primeiro passo no caminho para desenvolver a _Quarta Visão_.
+
+### Four Different Folks
+
+Como mencionei no início, as quatro casas de Hogwarts nos livros de _Harry Potter_ se alinham surpreendentemente bem com o caráter básico dos quatro temperamentos de Keirsey.
+
+- **Sonserina** é a casa dos alunos conhecidos por serem “astutos... com certo desrespeito pelas regras”, também “perspicazes” e “astutos” — pessoas “que usam quaisquer meios para alcançar seus fins”. Soa suspeitosamente como os _Artesãos_ de Keirsey.
+    
+- **Lufa-Lufa** é o lar de alunos que são “trabalhadores”, também “justos e leais,... pacientes,... verdadeiros e destemidos diante do trabalho árduo”. Quem mais senão os _Guardiões_ de Keirsey?
+    
+- **Grifinória** acolhe aqueles alunos conhecidos por sua “cavalaria”, e que estão dispostos a lutar pelo que é “certo e bom”. Muito parecidos com os _Idealistas_ de Keirsey.
+    
+- **Corvinal** é a “casa dos sábios anciãos”, reservada apenas para os alunos mais “inteligentes”, aqueles de “mente ágil,... sagacidade e aprendizado”. Definitivamente, os _Racionais_ de Keirsey.
+
+Nem todos os alunos com o mesmo temperamento são classificados na mesma casa. J. K. Rowling claramente quer estabelecer quatro tipos diferentes de personalidade em suas histórias, mas ela toma cuidado para não segregá-los rigidamente. De fato, os quatro heróis dos primeiros livros — quatro amigos quase inseparáveis — são todos da Grifinória, e cada um representa um dos quatro temperamentos:
+
+- **Hagrid** é um _Artesão_ impulsivo, um gigante gentil expulso no seu terceiro ano por desobedecer às regras.
+    
+- **Ron Weasley** é um _Guardião_ leal cuja ambição secreta é ser monitor da casa Grifinória, como seu irmão mais velho.
+    
+- **Harry** é um _Idealista_ cheio de espírito, que deve lutar contra o mal que destruiu sua família enquanto tenta compreender sua própria natureza dividida.
+    
+- **Hermione Granger** é uma pequena _Racional_ determinada que mantém o nariz nos livros e sabe todas as respostas.
+    
+
+De Hipócrates a _Harry Potter_, esses quatro padrões de personalidade aparecem repetidas vezes — quase, diz Keirsey, como se estivessem tecidos na própria estrutura da natureza humana.
+
+---
+
+O próximo capítulo analisa os quatro temperamentos com muito mais detalhes. Em seguida, vêm três capítulos que explicam como conhecer algo sobre o temperamento pode ajudar em relacionamentos e namoro (Capítulo 3), na criação de filhos (Capítulo 4) e na escolha da carreira certa (Capítulo 5). 
+
+Finalmente, os dezesseis retratos de tipos de personalidade (as quatro variações de cada temperamento) podem ser encontrados no Apêndice.
+
+Há várias maneiras de prosseguir. Alguns leitores podem preferir ler direto, da primeira à última página, enquanto outros vão querer pular e explorar à vontade. Alguns podem apenas folhear em busca das ideias principais, enquanto outros examinarão cada palavra cuidadosamente.
+
+Mas lembre-se: somos todos diferentes, e lemos livros assim como fazemos quase tudo o mais — de acordo com o nosso temperamento.
 
 ## Capítulo 2: Retratos do Temperamento
+
+
 
 ## Capítulo 3: Namoro e Acasalamento
 

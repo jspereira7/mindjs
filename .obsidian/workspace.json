@@ -6,7 +6,7 @@
       {
         "id": "f6a0d26bde8766a1",
         "type": "tabs",
-        "dimension": 47.707889125799575,
+        "dimension": 48.89705882352941,
         "children": [
           {
             "id": "5519c95d127ea0f5",
@@ -62,7 +62,7 @@
       {
         "id": "18263feb80eb9dbb",
         "type": "tabs",
-        "dimension": 52.292110874200425,
+        "dimension": 51.10294117647059,
         "children": [
           {
             "id": "d385e2536944e60d",
@@ -332,7 +332,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 705.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,12 +352,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "36ddfeaf58f2a178",
+  "active": "88b5dbbd1a338a74",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20251015112945.png",
-    "01.Assets/Anexos/Pasted image 20251015110713.png",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+    "01.Assets/Anexos/Pasted image 20251015123813.png",
+    "01.Assets/Anexos/Pasted image 20251015112945.png",
+    "01.Assets/Anexos/Pasted image 20251015110713.png",
     "00.Notes/Planejamento próximos passos.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Octagram 4.1.md",
@@ -399,8 +400,6 @@
     "01.Assets/Untitled 1.canvas",
     "00.Notes/Canais do youtube.base",
     "01.Assets/Anexos/Pasted image 20250922165711.png",
-    "01.Assets/Anexos/Pasted image 20250915133654.png",
-    "01.Assets/Anexos/Pasted image 20250915132259.png",
     "00.Notes/Banco de notas base.base",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 2.canvas",
