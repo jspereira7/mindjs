@@ -841,7 +841,6 @@ Quer estejam projetando um arranha-céu ou um experimento, desenvolvendo uma teo
     
 - **Foco na tarefa**  
     Os Racionais geralmente não entendem ou experimentam o tempo como uma linha contínua — uma sucessão de segundos, minutos, horas e anos —, mas como algo que se estende indefinidamente, dia após dia, ano após ano. Para eles, o tempo vem em...
-### Página 13
 
 - **Interseções**  
     Os Racionais não pensam em um lugar como um ponto isolado no espaço, mas como um ponto onde duas linhas se cruzam — em outras palavras, na interseção de duas coordenadas. Olhe qualquer atlas ou globo e você verá linhas de latitude e longitude. Ou olhe através da ocular de muitos instrumentos ópticos (como uma mira telescópica) e verá linhas cruzadas — retículas — fixando o alvo. Ver o espaço dessa forma provavelmente explica por que os Racionais parecem tão certeiros em seu pensamento e por que tantas vezes têm um senso preciso de direção, como se carregassem um mapa em suas mentes.
@@ -856,11 +855,6 @@ Quer estejam projetando um arranha-céu ou um experimento, desenvolvendo uma teo
     Tanto quanto possível, os Racionais pensam e agem de forma independente, autônoma — vivendo segundo suas próprias leis e vendo o mundo à sua própria maneira. Resistirão a qualquer tentativa de impor-lhes regras ou restrições, e questionarão qualquer regulamento ou convenção que busque controlá-los. Tampouco aceitarão ideias de outros sem antes examiná-las em busca de erros.  
     Não importa se a pessoa é uma autoridade amplamente reconhecida ou não — título, reputação, posição e credenciais não importam. Ideias, como pessoas, devem se sustentar por conta própria.
     
-
----
-
-### Página 14
-
 - **Calmos**  
     Os Racionais preferem permanecer calmos, serenos e controlados, especialmente em situações estressantes, quando as coisas ao redor parecem fugir ao controle. Entretanto, em assuntos sob seu domínio, podem se tornar bastante tensos, como uma corda de arco esticada, quando concentram a mente em resolver um problema. Mesmo quando ficam emocionais, os Racionais tentam não demonstrar, e por isso são frequentemente criticados como frios e insensíveis. Mas, na verdade, são românticos contidos, com sentimentos tão variados e fortes quanto os de qualquer outra pessoa — apenas rigidamente controlados.
     
@@ -905,7 +899,85 @@ Mais interessados em aprender do que em receber aclamação pública, os Raciona
 
 Os Racionais são raros, tanto na vida real quanto no cinema, compreendendo apenas cerca de 10% da população geral. Mas, por causa de sua fome de desvendar os segredos da natureza e de seu impulso para desenvolver novas tecnologias, contribuíram muito mais do que sua parte na construção do nosso mundo.
 
+### Comparações e constrastes
+
+![[Pasted image 20251015182606.png]]
+
+## Oz Nunca Deu Nada
+
+Embora os quatro viajantes em _O Mágico de Oz_ quisessem que o Mágico lhes desse o que acreditavam lhes faltar — coragem, segurança, coração ou cérebro — na verdade, eles nunca estiveram realmente sem essas qualidades. Ou, como a banda _America_ colocou em sua música de 1974 _“Tin Man”_:
+
+> _Oz never did give nothin’ to the Tin Man, that he didn’t, didn’t already have._
+
+(_Oz nunca deu nada ao Homem de Lata, que ele já não tivesse._)
+
+Em outras palavras, o Leão sempre foi uma criatura poderosa e magnífica, e mostrou sua coragem durante toda a jornada. Dorothy nunca esteve realmente perdida — apenas adormecida no milharal da tia Em. O Homem de Lata foi um amigo terno e amoroso, até mesmo com as menores criaturas pelo caminho. E o Espantalho, repetidas vezes, encontrou maneiras engenhosas de manter seus companheiros em movimento em direção ao objetivo.
+
+O ponto é que nosso temperamento está sempre conosco, e deixa sua marca em tudo o que dizemos e fazemos, mesmo que tenhamos perdido o rumo ou a confiança em nosso estilo pessoal. Artesão, Guardião, Idealista ou Racional — cada um de nós vive de acordo com seu próprio padrão, e todos nós nos daremos melhor na estrada de tijolos amarelos se começarmos a ver essas diferenças como forças, e não como fraquezas.
+
 ## Capítulo 3: Namoro e Acasalamento
+
+### Falta capitulus anteriores
+
+### Idealistas e Racionais — _A Bela e a Fera_
+
+O mesmo padrão se aplica aos Idealistas e aos Racionais. Esses dois temperamentos têm uma semelhança essencial e vital: ambos compartilham um profundo interesse pelo mundo abstrato das ideias (teorias, interpretações, livros, símbolos, análises, histórias etc.), e, assim, falam a linguagem do _que é possível_.  
+Quando se conhecem, Idealistas e Racionais percebem imediatamente — e com prazer — que encontraram um espírito afim, alguém com amor semelhante pelas ideias, uma fascinação compartilhada por filosofia e fantasia, até mesmo a mesma paixão por palavras e livros.  
+
+É justo, portanto, que na maravilhosa versão animada da Disney de _A Bela e a Fera_, Bela e a Fera derretam sua hostilidade e se apaixonem enquanto dançam na magnífica biblioteca da Fera.
+
+Entretanto, isso é apenas um lado da história. Idealistas e Racionais podem falar a mesma linguagem, mas são opostos na maneira como se conduzem e em seus relacionamentos. Os Idealistas tentam fazer _o que é certo_, deixando que sua consciência seja seu guia e desejando ajudar os outros, enquanto os Racionais insistem em fazer _o que funciona_, para alcançar o que querem, independentemente de regras e convenções sociais. Assim, em _A Bela e a Fera_, Bela se oferece em troca de seu pai, enquanto a Fera mantém sua cativa tentando se libertar da maldição que amaldiçoou sua vida.
+
+Ainda assim, essa diferença parece, no fim das contas, alimentar sua atração. Os Idealistas admiram profundamente a independência orgulhosa e a clareza de pensamento dos Racionais — duas características que lhes dão uma força de caráter e um firme domínio sobre quem são — algo que os Idealistas, em sua busca interior, gostariam de encontrar em si mesmos.  
+
+Por sua vez, os Racionais se encantam com o brilho emocional dos Idealistas e seu modo caloroso e amoroso de lidar com as pessoas, tão diferente de sua própria objetividade calma.
+
+No casamento, também, essas forças funcionam para a compatibilidade ao longo do tempo. Os Idealistas trazem calor humano e percepção a esse casamento, ajudando os Racionais analíticos e autossuficientes a deixarem seus livros de lado e reservarem tempo para a família e a vida pessoal. Da mesma forma, os Racionais trazem pragmatismo e foco, ajudando os Idealistas às vezes dispersos a se estabilizarem e alcançarem metas de longo prazo.  
+Mas a verdadeira base de seu sucesso está em seu profundo e satisfatório interesse mútuo em ideias. Desde o início, Idealistas e Racionais sabem que encontraram um no outro alguém com quem podem sonhar o mundo, ver grandes distâncias com os olhos da mente e, como _A Bela e a Fera_, viver felizes para sempre.
+
+Relacionamentos entre Idealistas e Racionais nem sempre permanecem harmoniosos, infelizmente. Conflitos de expressividade emocional versus autocontrole, de intuição versus lógica, e de ética versus pragmatismo podem ser desafiadores, mesmo nos melhores casamentos. Ainda assim, tão poderoso é o foco compartilhado no _que é possível_ que Idealistas e Racionais oferecem um ao outro a melhor chance de sucesso.
+
+## _We Can Work It Out_
+
+Permitam-me enfatizar novamente que as várias outras combinações de temperamentos também podem resultar em casamentos bem-sucedidos, mesmo que possam precisar trabalhar um pouco mais do que os dois relacionamentos descritos acima.  
+
+Aqui estão alguns pontos fortes e fracos proeminentes nas outras combinações.
+
+### Artesão–Artesão
+
+**Força:**  
+Dois Artesãos habitam o mesmo mundo de realidade concreta e externa, falando a mesma linguagem das coisas físicas, do _que é_, e compartilhando uma necessidade e um talento para a ação eficaz, para o _que funciona_.  
+Além disso, Artesãos casados entre si têm tantos interesses e atividades em comum — viagens, esportes, festas, espetáculos, roupas, joias etc. — que formam excelentes companheiros de diversão.
+
+**Fraqueza:**  
+Infelizmente, com ambos os parceiros vivendo e jogando tão intensamente — indo tão rápido na mesma direção — eles podem rapidamente se esgotar e seguir para novos interesses. Esse padrão de dois Artesãos iluminando o céu e depois se queimando e desmoronando é bem conhecido.
+
+### Artesão–Racional
+
+**Força:**  
+Artesãos e Racionais ambos pensam primeiro em fazer _o que funciona_, o que lhes dá um terreno comum valioso em um relacionamento. Ambos os temperamentos são irreverentes e não convencionais, e ambos adoram usar as ferramentas certas para obter resultados, especialmente se isso significar frustrar burocratas e melhorar procedimentos operacionais padrão.  
+Os Racionais também apreciam a alegria e a espontaneidade dos Artesãos, admirando sua naturalidade e despreocupação em ação. Por sua vez, os Artesãos podem se impressionar com o vasto conhecimento e a visão estratégica dos Racionais e frequentemente gostam de animá-los um pouco, tentando impedi-los de se tornarem obsessivos com o trabalho.
+
+**Fraqueza:**  
+Por outro lado, os Artesãos do tipo “apenas faça” podem ficar impacientes com a preparação e o planejamento intermináveis dos Racionais. E os Racionais podem ficar igualmente frustrados com a impulsividade e falta de reflexão dos Artesãos, desejando ter um parceiro com quem pudessem discutir ideias de forma mais séria.
+
+### Guardião–Guardião
+
+**Força:**  
+Dois Guardiões vivem no mesmo mundo factual e material do _que é_, com os pés firmemente no chão, e ambos veem o mundo em termos morais, onde Certos e Errados são importantes. De fato, compartilham tanto na vida — atitudes em relação ao trabalho, finanças, cronogramas, autoridade, lar e família etc. — que não se incomodam com a previsibilidade em seu relacionamento. Ser “duas ervilhas na mesma vagem” parece-lhes bastante confortável.
+
+**Fraqueza:**  
+Mas essa semelhança também apresenta problemas. Dois Guardiões podem se atropelar tentando administrar a casa e fazer tudo um pelo outro, ambos insistindo que sua rotina é a correta. Pior ainda, a atitude crítica e julgadora de um é refletida na mesma atitude do outro. Imagine dois árbitros de beisebol tentando chamar as bolas e os strikes um do outro.
+
+### Guardião–Idealista
+
+**Força:**  
+Guardiões e Idealistas ambos querem fazer _o que é certo_ e são tipos prestativos, compartilhando uma visão moral da vida e um desejo de ajudar os outros. Os Guardiões admiram a espiritualidade, o entusiasmo e a imaginação vívida dos Idealistas, enquanto os Idealistas, com a cabeça nas nuvens, sentem-se seguros nas mãos dos Guardiões, ancorados por seus valores diretos e conhecimento do mundo.
+
+**Fraqueza:**  
+Os Guardiões podem considerar a busca dos Idealistas por autoconhecimento como volúvel e autoindulgente — uma mera afetação.
+
+
 
 ## Capítulo 4: Pai e Filho
 
