@@ -294,11 +294,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 886.5
+    "width": 1097.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,7 +318,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "d385e2536944e60d",
+  "active": "c9381af1a87e3f1d",
   "lastOpenFiles": [
     "00.Notes/Planejamento próximos passos.md",
     "00.Notes/Site com cursos ouros gringos.md",

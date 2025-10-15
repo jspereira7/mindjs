@@ -29,4 +29,12 @@ A melhor forma de fazer isso é aplicar o livro dos hábitos atomicos
 
 ---
 
+## Forças do ENTP 
 
+- Inovação  
+- Inventor 
+- Mult-tasking
+- Criação de Sistemas. 
+
+Caracteristicas do ENTP
+- 
