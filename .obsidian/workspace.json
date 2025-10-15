@@ -6,7 +6,7 @@
       {
         "id": "f6a0d26bde8766a1",
         "type": "tabs",
-        "dimension": 48.89705882352941,
+        "dimension": 54.91935483870968,
         "children": [
           {
             "id": "5519c95d127ea0f5",
@@ -62,7 +62,7 @@
       {
         "id": "18263feb80eb9dbb",
         "type": "tabs",
-        "dimension": 51.10294117647059,
+        "dimension": 45.08064516129032,
         "children": [
           {
             "id": "d385e2536944e60d",
@@ -138,12 +138,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "746679b26d449cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tradução Livro People Patterns Pt-Br"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 910.5,
+    "width": 237.5,
     "collapsed": true
   },
   "right": {
@@ -294,20 +310,6 @@
             }
           },
           {
-            "id": "746679b26d449cbc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "36ddfeaf58f2a178",
             "type": "leaf",
             "state": {
@@ -328,11 +330,11 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 513.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,10 +354,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "88b5dbbd1a338a74",
+  "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+    "01.Assets/Anexos/Pasted image 20251015143242.png",
+    "01.Assets/Anexos/Pasted image 20251015143202.png",
     "01.Assets/Anexos/Pasted image 20251015123813.png",
     "01.Assets/Anexos/Pasted image 20251015112945.png",
     "01.Assets/Anexos/Pasted image 20251015110713.png",
@@ -381,7 +385,6 @@
     "01.Assets/Excalidraw/Drawing 2025-10-13 12.55.59.excalidraw.md",
     "00.Notes/Cognitive Atitudes - Ego Hackers.md",
     "00.Notes/Origem Cognitiva.md",
-    "01.Assets/Anexos/Pasted image 20251010135958.png",
     "00.Notes/Entp Produtividade - Cs Joseph.md",
     "00.Notes/Funções Cognitivas CsJoseph.md",
     "00.Notes/Te users.md",
@@ -399,7 +402,6 @@
     "Readwise",
     "01.Assets/Untitled 1.canvas",
     "00.Notes/Canais do youtube.base",
-    "01.Assets/Anexos/Pasted image 20250922165711.png",
     "00.Notes/Banco de notas base.base",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 2.canvas",

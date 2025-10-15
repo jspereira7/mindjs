@@ -425,8 +425,178 @@ Mas lembre-se: somos todos diferentes, e lemos livros assim como fazemos quase t
 
 ## Capítulo 2: Retratos do Temperamento
 
+Era uma vez, na terra de _Oz_, quatro personagens partiram em uma jornada estranha e difícil. Cada um deles carecia de algo essencial na vida, e cada um queria encontrar o poderoso Mago de _Oz_ e pedir sua ajuda.
 
+- **O Leão** havia perdido sua coragem, e ele queria que _Oz_ lhe devolvesse a bravura. “Enquanto eu souber que sou covarde, serei infeliz”, disse ele.
+    
+- **Dorothy** havia perdido o caminho de casa, e ela queria que _Oz_ a fizesse retornar em segurança à fazenda de seu Tio e Tia. “Não há lugar como o lar”, disse ela.
+    
+- **O Homem de Lata** estava enferrujado, e ele queria que o Mago lhe desse um coração quente e amoroso batendo em seu peito. “Ninguém pode amar quem não tem coração”, suspirou ele.
+    
+- **O Espantalho** tinha a cabeça recheada de palha, e ele queria que _Oz_ lhe desse um cérebro. “Cérebros são as únicas coisas que valem a pena ter neste mundo”, disse ele.
+    
 
+Coragem, Segurança, Coração e Cérebro: os quatro desejos dos personagens de _O Mágico de Oz_ refletem a natureza dos quatro temperamentos — os quatro padrões muito diferentes de personalidade que têm sido descritos na humanidade repetidas vezes, por mais de dois mil anos.
+
+### O Que É Temperamento?
+
+Mas antes de começarmos a explorar os quatro temperamentos, tentemos esclarecer o que é essa coisa chamada “temperamento”.
+
+Em essência, temperamento é um estilo pessoal inerente, uma pre-disposição que forma a base de todas as nossas inclinações naturais: o que pensamos e sentimos, o que queremos e precisamos, o que dizemos e fazemos. 
+
+Em outras palavras, temperamento é a base inata, arraigada, instalada de fábrica, dada por Deus e de estrutura rígida da nossa personalidade.
+
+Na visão de _Keirsey_, os sinais dessa estrutura subjacente podem ser observados desde cedo (algumas características mais cedo que outras), muito antes de famílias, grupos de colegas ou forças sociais deixarem sua marca em nosso caráter.
+
+Isso significa que todos nós, no decorrer do crescimento — e a menos que sejamos seriamente interferidos — desenvolveremos um padrão consistente de atitudes e ações que expressam nosso temperamento.
+
+---
+### Uma Breve História
+
+A ideia de que os seres humanos existem em quatro padrões básicos tem existido há muito tempo. 
+
+Há muito, muito tempo. 
+
+Na Grécia Antiga, _Platão_ e _Aristóteles_ viam a sociedade composta por quatro tipos de pessoas desempenhando quatro papéis diferentes na sociedade, mas foi _Hipócrates_, frequentemente chamado de “pai” da medicina ocidental, quem primeiro falou de quatro disposições mentais ou morais. 
+
+Por volta de 370 a.C., Hipócrates propôs que nosso temperamento é determinado pelo equilíbrio de nossos quatro fluidos corporais essenciais: se nosso sangue domina, somos “alegres” em temperamento; se nossa bílis negra domina, somos “sombrios” em temperamento; se nossa bílis amarela domina, somos “entusiásticos” em temperamento; e se nosso fleuma domina, somos “calmos” em temperamento.
+
+Embora a ciência moderna há muito tenha descartado essa fisiologia antiga, os quatro fluidos (posteriormente chamados de _humores_) e seus temperamentos correspondentes descreveram padrões tão universais nas pessoas que se tornaram a base da medicina e psicologia gregas e romanas. 
+
+De fato, foi o médico romano _Galen_ (c. 190 d.C.) quem deu aos quatro temperamentos os nomes pelos quais eles são conhecidos através das eras: “Sanguíneo”, “Melancólico”, “Colérico” e “Fleumático”.
+
+A observação de uma natureza humana dividida em quatro partes remonta ainda mais nas tradições judaico-cristãs. 
+
+Já em 590 a.C., o profeta do Antigo Testamento _Ezequiel_ via a humanidade incorporada em “quatro criaturas viventes”, cada uma com “quatro faces” — a de um leão, a de um boi, a de um homem e a de uma águia — uma visão repetida por volta de 96 d.C. em _O Apocalipse_ de São João. 
+
+Também a Igreja escolheu ter quatro Evangelhos no Novo Testamento, escritos por homens de quatro temperamentos: o espontâneo _Marcos_, o histórico _Mateus_, o espiritual, João, e o erudito Lucas. 
+
+_Ireneu_, Bispo de Lyon, explicou (em 185 d.C.) por que quatro Evangelhos eram necessários: “As Criaturas Vivas são quadriformes”, ele escreveu, e assim “o Evangelho também é quadriforme.”
+
+Essa noção dos quatro temperamentos básicos, enraizada na tradição greco-romana da medicina e da Bíblia, floresceu na ciência e literatura da Europa Renascentista. 
+
+Referências aos quatro _humores_ aparecem na poesia de _Chaucer_, nos ensaios de _Montaigne_, nos escritos científicos de _Francis Bacon_ e _William Harvey_, e em toda a obra de _Shakespeare_. 
+
+E _Paracelso_, um médico vienense do século XVI, criou sua própria mitologia temperamental, caracterizando as pessoas com quatro espíritos totêmicos: mutáveis _Salamandras_, industriosos _Gnomos_, inspiradoras _Ninfas_ e curiosas _Sílfides_.
+
+À medida que a Era da Razão avançou na Europa do século XVIII, filósofos como _Hume_ na Escócia, _Voltaire_ e _Rousseau_ na França, e _Kant_ na Alemanha, consideraram os quatro temperamentos um assunto de conhecimento comum. 
+
+Romancistas do século XIX, de _Jane Austen_ e as irmãs _Brontë_ a _George Eliot_ e _Tolstói_, construíram personagens baseados nesses quatro padrões de personalidade. 
+
+E alguns artistas do início do século XX também pensavam nesses termos. Em 1901, o compositor dinamarquês _Carl Nielsen_ intitulou sua segunda sinfonia “Os Quatro Temperamentos”, e em 1921 _D. H. Lawrence_ escreveu sobre a natureza humana sendo organizada em torno de “quatro polos de consciência dinâmica.”
+
+Mesmo assim, a antiga ideia de que a humanidade é um organismo vital animado por quatro espíritos diferentes foi praticamente extinta no início do século XX, devido (argumenta _Keirsey_) à poderosa influência de _Freud_ e _Pavlov_, cujos trabalhos sugeriam que todas as pessoas basicamente têm os mesmos impulsos. 
+
+A teoria dos temperamentos foi mantida viva apenas por um punhado de cientistas comportamentais obscuros (_Keirsey_ credita _Eric Adickes_, _Eduard Spränger_ e _Ernst Kretschmer_).
+
+Então, no final da década de 1950, _Isabel Myers_ surgiu e, baseando-se nas teorias de _Jung_, desenvolveu o trabalho sobre tipos de personalidade que levou _Keirsey_ a escrever _Please Understand Me_, o livro que reviveu o interesse popular pelos quatro temperamentos — ou, como _Keirsey_ os chamou em 1978, os artísticos _Dionisíacos_, os responsáveis _Epimeteanos_, os espirituais _Apolíneos_ e os tecnológicos _Prometeanos_.
+
+A tabela na próxima página apresenta apenas alguns dos destaques na longa história dos quatro temperamentos. Examinando a lista, é convincente perceber o quão consistente e fiel à observação os quatro temperamentos têm sido ao longo dos séculos. Certamente essa ideia não teria sido aceita por tanto tempo, por tantas pessoas, em tantos países, se não houvesse algum tipo de reconhecimento amplamente compartilhado de sua validade.
+
+![[Pasted image 20251015143242.png]]
+
+Vamos agora observar os resumos dos retratos de _Keirsey_ sobre os quatro temperamentos, começando com aquele que ele nomeou como os “_Artesãos_” em _Please Understand Me II_.
+
+---
+
+## Artesãos
+
+>A grande aranha estava deitada adormecida quando o Leão a encontrou. Suas pernas eram longas e seu corpo coberto por pelos negros e ásperos. Tinha uma grande boca, com uma fileira de dentes afiados de um pé de comprimento; mas sua cabeça estava ligada ao corpo roliço por um pescoço fino como a cintura de uma vespa. Isso deu ao Leão uma dica da melhor maneira de atacar a criatura e, sabendo que seria mais fácil lutar com ela dormindo do que acordada, ele deu um grande salto e aterrissou diretamente sobre as costas do monstro. Então, com um único golpe de sua pesada pata, toda armada com garras afiadas, ele separou a cabeça da aranha de seu corpo. Saltando para o chão, observou até que as longas pernas parassem de se contorcer, quando soube que ela estava completamente morta.
+
+O Leão voltou... e disse, orgulhosamente: “Você não precisa mais temer seu inimigo.”
+
+Apenas alguns _Artesãos_ têm a oportunidade de agir tão heroicamente na vida, mas todos fazem parte do que pode ser chamado de temperamento da _ação_. 
+
+_Artesãos_ nascem para a ação, particularmente para a ação artística — em outras palavras, para realizar movimentos livres e espontâneos que geram resultados rápidos e eficazes. Com o que parece ser uma habilidade instintiva de encontrar o movimento certo no momento certo, os _Artesãos_ têm um talento natural para todas as artes — não apenas as belas-artes, mas também as artes dramáticas, atléticas, militares, políticas e financeiras. 
+
+Pense nisso: quem são os pintores, músicos, atores, atletas, políticos, guerreiros e negociadores mais famosos? — todos claramente pessoas de ação no momento — se não os _Artesãos_?
+
+---
+### Artesãos: em resumo
+
+Os _Artesãos_ sentem-se mais à vontade no mundo externo dos objetos sólidos que podem ser feitos e manipulados, e de eventos reais que podem ser vivenciados aqui e agora. _Artesãos_ têm sentidos aguçados e adoram trabalhar com as mãos. Sentem-se à vontade com ferramentas, instrumentos e veículos de todos os tipos, e suas ações geralmente visam levá-los aonde querem ir — e o mais rápido possível. 
+
+Assim, _Artesãos_ se lançam ousadamente por caminhos que outros podem considerar arriscados ou impossíveis, fazendo o que for necessário, com ou sem regras, para alcançar seus objetivos. 
+
+_Artesãos_ têm essa mesma atitude despreocupada, otimista e acelerada, e isso os torna muitas vezes irresistivelmente encantadores com a família, amigos e colegas de trabalho.
+
+_Artesãos_ querem estar onde a ação acontece; buscam aventura e têm fome de prazer e estimulação. 
+
+Acreditam que a variedade é o tempero da vida, e que fazer coisas que não são divertidas ou emocionantes é uma perda de tempo.
+
+_Artesãos_ são impulsivos, adaptáveis, competitivos, ousados e acreditam que a próxima jogada de sorte será a vencedora. 
+
+Também podem ser generosos em excesso, sempre prontos para compartilhar com os amigos as recompensas da vida. Acima de tudo, _Artesãos_ querem ser livres para fazer o que desejam, quando desejam. Resistindo a serem amarrados, confinados ou obrigados, preferem não esperar, poupar ou guardar — nem viver para o amanhã. 
+
+No ponto de vista dos _Artesãos_, o hoje deve ser desfrutado, pois o amanhã pode nunca chegar.
+
+### Artesãos: um olhar mais profundo
+
+- **Colorido:** a fala dos _Artesãos_ é cheia de descrições vívidas e coloridas.
+
+- **Eficaz:** _Artesãos_ fazem o que for preciso — _o que funcionar_ — para realizar o trabalho. Métodos e meios precisam ser eficazes para lhes interessar; eles devem funcionar imediatamente, caso contrário, de que servem? Se alguma ação não os aproxima de seu objetivo, então por que fazê-la? _Artesãos_ não se preocupam muito em cometer erros, quebrar regras ou pisar nos calos das pessoas. Simplesmente testam algo, colocam em prática. Se funciona, mantêm; se não, deixam de lado sem hesitação e tentam outra coisa.
+    
+- **Tático:** “Tática” é a arte de fazer os movimentos certos para melhorar sua posição, aqui e agora — e _Artesãos_ nascem táticos. Seja promovendo empreendimentos, trabalhando com ferramentas, apresentando-se para um público ou compondo obras de arte, _Artesãos_ estão sempre atentos a oportunidades, sempre procurando uma vantagem ou um ângulo — qualquer coisa que possa ajudá-los a conseguir o golpe certeiro ou a manobra astuta.
+    
+- **Físico:** _Artesãos_ gostam de se envolver fisicamente em seu trabalho, usando as mãos e os pés e seus sentidos para operar praticamente qualquer tipo de equipamento: máquinas, armas, ferramentas e instrumentos, de caças a jato a serras elétricas, de pincéis a patins de gelo, de bisturis a rifles de caça, de computadores a guitarras elétricas. Operar todo esse equipamento é algo empolgante para os _Artesãos_, ampliando seus poderes e ampliando seu impacto — e aqueles que dedicam tempo para desenvolver suas habilidades acabam se tornando virtuosos em seu campo.
+    
+- **Brincalhão:** _Artesãos_ estão sempre buscando se divertir. Com seus amigos, têm um espírito brincalhão, amante da diversão, com uma atitude de “deixe os bons tempos rolarem”: jogos devem ser jogados, comida deve ser comida, vinho deve ser bebido e dinheiro deve ser gasto — tudo apenas pelo prazer. Mas até mesmo no trabalho, eles tentarão encontrar diversão e transformar suas tarefas em brincadeira; **perdem o interesse rapidamente em qualquer atividade que se torne muito séria.** “A vida é curta”, dizem, “então é melhor aproveitar enquanto pode.”
+    
+
+- **Otimista:** _Artesãos_ são os otimistas supremos, encarando o futuro com a expectativa positiva de que as coisas darão certo. Mesmo quando os tempos são difíceis, acreditam que a sorte está prestes a mudar, que as coisas vão melhorar, que o próximo lançamento dos dados trará um sete duplo. E quando têm uma chance e começam a progredir, estão certos de que sua sorte continuará — e a levarão ao limite. Esse otimismo incorrigível também alimenta sua autoconfiança. Não importa quão ruins estejam as coisas, _Artesãos_ acreditam que podem lidar com a situação, que podem dar um jeito, se erguer à ocasião, encontrar uma forma de reverter tudo.
+    
+- **“É a vida”:** Todos nós temos momentos em que precisamos lidar com perdas e contratempos sérios, e _Artesãos_ encaram essas dificuldades de maneira prática e até cínica. Para eles, a vida é arriscada, um salto no escuro, um jogo de azar. Não há grandes planos nem ilusões reconfortantes para suavizar os golpes. Quando a sorte está boa, eles seguem o fluxo; quando a sorte muda, apenas encolhem os ombros e seguem em frente, aceitando a adversidade com uma atitude de “é a vida” ou “é assim que a bola quica”.
+    
+- **Hoje:** _Artesãos_ vivem o hoje com uma intensidade que poucos conseguem igualar. Para um _Artesão_, o ontem já passou — então esqueça. O amanhã está longe — então não perca tempo planejando. O que importa é o agora. Este é o tempo dos _Artesãos_, razão pela qual estão sempre prontos para aproveitar o dia, agir enquanto o ferro está quente e tirar o melhor do momento. Por isso, também são tão contemporâneos em seus gostos, sempre acompanhando as últimas tendências em roupas, música, comida etc., e muitas vezes estabelecendo novos padrões nessas áreas.
+    
+- **Centrais:** _Artesãos_ querem estar no centro das coisas, bem no meio do que está acontecendo, onde a ação está — “onde tudo acontece”, como diz o ditado. Não contentes em ficar nas arquibancadas ou mesmo à margem, querem estar no jogo, de preferência com as mãos na massa, totalmente envolvidos na ação — e seu desempenho é vital para vencer ou perder.
+    
+- **Graciosos:** _Artesãos_ se orgulham de si mesmos quando são graciosos em ação — isto é, quando são capazes de performar artisticamente, com fluidez e maestria, em qualquer forma de arte que escolheram seguir. _Artesãos_ dedicarão todo o seu tempo e energia praticando sua técnica, aperfeiçoando seu estilo e refinando sua performance, levando seu talento artístico ao limite até que atuem com liberdade sem esforço.
+
+- **Ousados** O autorrespeito dos Artesãos depende de sua capacidade de agir destemidamente, com audácia e ousadia, provando a si mesmos, e aos outros, que podem encarar o perigo de frente e vencê-lo com nervos de aço. Isso faz dos Artesãos os maiores destemidos e aventureiros do mundo, dispostos a correr enormes riscos para demonstrar sua coragem. De fato, os Artesãos muitas vezes acham a busca por riscos tão viciante que tentam novamente e novamente, ultrapassando os limites e se aproximando cada vez mais da beira do desastre.
+    
+- **Adaptáveis** Os Artesãos têm a capacidade de se adaptar rápida e flexivelmente a mudanças repentinas, moldando seu comportamento no momento, a fim de aproveitar ao máximo uma oportunidade ou, no mínimo, cair de pé. Essa adaptabilidade é o motivo pelo qual os Artesãos se saem tão bem em crises: estão sempre abertos à mudança, prontos para seguir o fluxo e se curvar ao vento, e assim são capazes de superar obstáculos que poderiam paralisar outros em seu caminho.
+    
+- **Entusiasmados** Os Artesãos se empolgam facilmente quando são crianças e mostram a mesma energia inquieta à medida que crescem. Eles adoram estar ligados, energizados, animados, estimulados e conseguem tolerar muita empolgação por longos períodos de tempo — _“nunca um momento entediante”_ é o seu lema. Diferente dos outros temperamentos, os Artesãos na verdade se saem melhor quanto mais animados ficam, e frequentemente realizam suas ações mais espetaculares no calor da empolgação. Escalam montanhas pela adrenalina, dirigem carros de corrida pela emoção da velocidade e potência, saltam de bungee jump pela descarga de adrenalina.
+    
+- **Impulsivos** Os Artesãos são impulsivos e não gostariam que fosse diferente. Eles gostam de sentir seus impulsos tomarem conta, de sentir os desejos súbitos subindo de dentro. Eles adoram agir por impulso, como uma explosão. E acima de tudo, confiam em seus impulsos. “Não pense nisso”, dizem eles, “apenas faça.” De fato, para os Artesãos — o temperamento da _ação_ — uma vida de impulso, de ação no momento, é a vida em seu estado mais livre e espontâneo, não importa o quão perigosa seja a atividade.
+    
+- **Impactantes** Os Artesãos querem causar impacto nas pessoas, querem ser sentidos como uma presença forte, querem fazer algo acontecer, talvez fechando um grande negócio ou marcando o touchdown da vitória, mas mesmo que seja necessário, desafiando ou chocando o sistema. Os Artesãos estão quase famintos por fazer algo marcante, deixar sua marca, seja no mundo da arte ou dos negócios corporativos, no campo de batalha, no campo de jogo, no palco ou na arena política.
+    
+
+- **Generosos** Os Artesãos têm uma natureza verdadeiramente generosa. Eles veem o mundo como um lugar de fartura e abundância — o copo está sempre meio cheio — e nunca perdem o prazer que vem da generosidade espontânea e livre, do tipo _“o que é meu é seu”_. Mesmo que não tenham muito, eles dariam a camisa das costas, simplesmente porque têm vontade, a qualquer pessoa que esteja passando por um momento difícil.
+    
+
+### Artesãos: no cinema
+
+Para ajudar a dar vida a este retrato em palavras, aqui estão uma dúzia de personagens Artesãos inesquecíveis do cinema:
+
+- Muhammad Ali (Will Smith) em _Ali_
+    
+- James Bond (Sean Connery) em _Goldfinger_, etc.
+    
+- Fanny Brice (Barbra Streisand) em _Funny Girl_
+    
+- Erin Brockovich (Julia Roberts) em _Erin Brockovich_
+    
+- Harry Callahan (Clint Eastwood) em _Dirty Harry_
+    
+- Jack Dawson (Leonardo DiCaprio) em _Titanic_
+    
+- Pete “Maverick” Mitchell (Tom Cruise) em _Top Gun_
+    
+- Shirley Muldowney (Bonnie Bedelia) em _Heart Like a Wheel_
+    
+- Alexandra Owens (Jennifer Beals) em _Flashdance_
+    
+- Hawkeye Pierce (Donald Sutherland) em _M_A_S_H*
+    
+- Satine (Nicole Kidman) em _Moulin Rouge!_
+    
+- Oskar Schindler (Liam Neeson) em _Schindler’s List_
+    
+
+Como os Artesãos dominam os filmes populares e também têm um perfil tão destacado no entretenimento, nos esportes e na política, podem parecer mais numerosos do que realmente são. Ainda assim, há muitos Artesãos, representando algo entre 30 a 35% da população em geral. E, na verdade, temos sorte de existirem em tal número, pois os Artesãos criam grande parte da beleza, graça, diversão e emoção que o resto de nós desfruta na vida.
 ## Capítulo 3: Namoro e Acasalamento
 
 ## Capítulo 4: Pai e Filho
