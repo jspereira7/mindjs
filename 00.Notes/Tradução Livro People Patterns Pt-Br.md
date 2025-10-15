@@ -597,6 +597,314 @@ Para ajudar a dar vida a este retrato em palavras, aqui estão uma dúzia de per
     
 
 Como os Artesãos dominam os filmes populares e também têm um perfil tão destacado no entretenimento, nos esportes e na política, podem parecer mais numerosos do que realmente são. Ainda assim, há muitos Artesãos, representando algo entre 30 a 35% da população em geral. E, na verdade, temos sorte de existirem em tal número, pois os Artesãos criam grande parte da beleza, graça, diversão e emoção que o resto de nós desfruta na vida.
+
+## Guardiões
+
+_Dorothy lavou-se cuidadosamente, vestiu-se com o tecido de algodão limpo, e amarrou o seu chapéu-de-sol cor-de-rosa na cabeça. Ela pegou uma pequena cesta e a encheu com pão do armário, colocando um pano branco sobre o topo. Então ela viu sobre a mesa os sapatos prateados que haviam pertencido à Bruxa do Leste. Ela tirou seus velhos sapatos de couro e experimentou os prateados, que lhe serviram como se tivessem sido feitos para ela. Finalmente, ela pegou sua cesta._  
+“Venha, Toto,” disse ela, “iremos para a Cidade das Esmeraldas.”  
+_Ela fechou a porta, trancou-a, e colocou a chave cuidadosamente no bolso do vestido. E assim, com Toto trotando sobriamente atrás dela, ela partiu em sua jornada._
+
+O lar e a família são a base da vida dos Guardiões, e eles empreendem jornadas e aventuras com cautela, e sempre com cuidadosa preparação. De fato, os Guardiões podem ser considerados o temperamento _cornerstone_ (pedra angular), pois são os cidadãos sólidos dedicados a estabelecer e sustentar as instituições mais importantes da sociedade: não apenas lares e famílias, mas escolas, igrejas, hospitais, negócios, vizinhanças e comunidades.
+
+#### Guardiões: em resumo
+
+Os Guardiões são pessoas sensatas, práticas, que são a espinha dorsal das instituições e os verdadeiros estabilizadores da sociedade. 
+
+Eles acreditam em seguir regras e cooperar com autoridades; na verdade, não se sentem nada à vontade em desafiar isso ou abalar o sistema. 
+
+Trabalhar firmemente dentro do sistema é o modo Guardião, pois acreditam que, a longo prazo, lealdade, disciplina e trabalho em equipe garantem que o trabalho seja feito corretamente. 
+
+Os Guardiões têm um talento natural para trabalhar com bens e serviços, produtos e suprimentos. São cuidadosos com cronogramas e têm um olhar atento para excessos e escassez. 
+
+E são cautelosos com mudanças, mesmo sabendo que a mudança pode ser saudável. “Melhor ir devagar”, dizem eles, “e olhar antes de pular.”
+
+Os Guardiões são provavelmente os mais sociáveis dos quatro temperamentos e se divertem muito com sua família e amigos. 
+
+Ao mesmo tempo, são sérios quanto a seus deveres e responsabilidades. Os Guardiões se orgulham de ser confiáveis e trabalhadores; se há um trabalho a ser feito, pode-se contar com eles para colocar o ombro à roda. 
+
+Os Guardiões também acreditam na lei e na ordem, e às vezes se preocupam que o respeito pela autoridade, até mesmo um senso fundamental de certo e errado, esteja sendo perdido. 
+
+Talvez seja por isso que os Guardiões valorizam tanto costumes e tradições — são padrões familiares que ajudam a trazer estabilidade ao nosso mundo moderno e acelerado.
+
+### Página 2
+
+#### Guardiões: um olhar mais aprofundado
+
+- **Fatuais**  
+    Os Guardiões falam, em sua maior parte, sobre os fatos e números da vida cotidiana, qualquer coisa que possam observar, avaliar e garantir. Os Guardiões podem gostar de discussões de ideias (particularmente sobre política, história ou lei), mas são mais frequentemente pessoas simples que tendem a usar palavras e ditados comuns para falar sobre _o que é_ — coisas concretas como bens e preços, comida e vestuário, saúde e finanças, lar e família, nomes, datas e horários, notícias, esportes e clima.
+    
+- **Cumpridores da lei**  
+    Ao governar suas ações, os Guardiões se preocupam muito em fazer _o que é certo_, e para eles isso significa obedecer à lei — tanto os ensinamentos morais de sua fé quanto as regras e regulamentos de sua comunidade. Os Guardiões acreditam que fortes códigos morais e legais são a base de nossa sociedade civilizada, e fazem todo o possível para garantir que todos respeitem as leis que nos protegem.
+    
+- **Logísticos**  
+    Os Guardiões parecem ter um talento inato para “logística”, que é a parte de qualquer negócio que lida com serviço e fornecimento. Seja supervisionando desempenho ou inspecionando produtos, prestando serviços ou protegendo pessoas e propriedades, os Guardiões garantem que as medidas de segurança estejam em vigor, que o equipamento esteja em boas condições e pronto para uso, e que as pessoas certas recebam os suprimentos certos, no lugar certo, na hora certa.
+    
+- **Gerenciais**  
+    Em casa ou no trabalho, os Guardiões demonstram grande habilidade em gerenciar o lado comercial das operações. Os Guardiões realmente não têm iguais quando se trata de lidar com todos os detalhes de agendamento, inventário, envio e faturamento, compras, folha de pagamento, conformidade regulatória — todas essas coisas que mantêm um local de trabalho funcionando sem problemas. E os Guardiões também se destacam em administrar o lar, cuidando das compras, orçamento, limpeza, cozinha, reparos, trabalho no quintal, contas, impostos, e assim por diante.
+
+- **Estoicos**  
+    Os Guardiões tendem a ter uma visão estoica da vida, o que significa que acreditam que, para ter sucesso, é preciso trabalhar duro e cumprir seu dever sem reclamar. “Aproveite o que há de melhor”, diz o Guardião, “e mantenha o queixo erguido.” A vida não é um piquenique, e é preciso trabalhar e não se queixar de quão difíceis as coisas são.
+    
+- **Cautelosos**  
+    Os Guardiões encaram o futuro com bastante cautela, até mesmo com um pouco de preocupação. Sabem muito bem que nossos “melhores planos” frequentemente “dão errado” — ou, nas palavras da _Lei de Murphy_, “tudo o que pode dar errado, dará errado.” Assim, os Guardiões acreditam que a única atitude sensata é esperar o pior. Isso pode fazê-los parecer pessimistas, mas a verdade é que estão apenas sendo realistas quanto a acidentes e contratempos.
+    
+- **É a vontade de Deus**  
+    Em tempos de perda e sofrimento, os Guardiões tendem a acreditar que os acontecimentos estão fora de seu controle, que algumas coisas são guiadas por uma fonte superior — é simplesmente a vontade de Deus. Em suas palavras, os Guardiões compreendem que fazem parte de um plano maior, e não têm escolha senão aceitar seu destino, aceitando os infortúnios da vida com humildade, bravura e paciência.
+    
+- **Ontem**  
+    Mesmo que isso possa fazê-los parecer antiquados, os Guardiões se inclinam a voltar seus pensamentos ao passado, a olhar com carinho para as tradições amadas e os costumes consagrados pelo tempo dos “bons e velhos tempos”. De certo modo, os Guardiões são os historiadores de sua sociedade ou de sua família, pois o historiador honra o passado, valoriza as lições da história e transmite as tradições. Como dizem os Guardiões: “Os velhos modos são os melhores.”
+    
+- **Portais**  
+    Os Guardiões pensam no espaço em termos de segurança e controle e, naturalmente, assumem o papel de sentinelas ou guardiões, vigiando as portas das instituições e mantendo um olhar atento sobre as idas e vindas das pessoas. Aqueles com credenciais adequadas, ou que seguem os procedimentos corretos, são permitidos, mas os não autorizados ou ilegais são parados e questionados.
+    
+- **Confiáveis**  
+    Os Guardiões se orgulham de serem confiáveis e dignos de confiança ao assumirem suas responsabilidades. “Não importa o quê”, dizem eles, “você pode contar comigo para cumprir minhas obrigações e honrar meus compromissos.” Se há um trabalho a ser feito, um dever a ser cumprido, os Guardiões sentem-se quase obrigados a fazer sua parte — e assim acabam frequentemente fazendo mais do que sua justa parte.
+    
+
+- **Prestativos**  
+    Os Guardiões estão sempre à procura de maneiras de fazer boas ações e ajudar o próximo. Verdadeiros bons samaritanos natos, participam muito de trabalhos comunitários e voluntariado, ajudando escoteiros ou a Cruz Vermelha, organizando campanhas de doces nos hospitais, e auxiliando os necessitados através da coleta e distribuição de alimentos, cobertores, brinquedos e assim por diante.
+    
+- **Respeitáveis**  
+    Os Guardiões são tímidos quanto a se autopromover, mas serem respeitados por outros em seus negócios, comunidades, igrejas ou famílias é uma grande fonte de confiança para eles. Seus escritórios ou salas de estar geralmente possuem paredes decoradas com símbolos de respeito, como placas, certificados e prêmios, ao lado de troféus, honrarias, fotos autografadas de políticos e retratos de cônjuges, filhos e netos.
+    
+- **Preocupados**  
+    Os Guardiões são verdadeiros “cidadãos preocupados”. Eles se preocupam com suas casas, seus empregos, suas famílias, suas vizinhanças. Preocupam-se com sua saúde, finanças, aparência e pontualidade. Estão preocupados com grandes questões, como taxas de criminalidade, padrões escolares, moralidade pública. E também com pequenas coisas, como lavar a louça, pulgões nas roseiras, ou o consumo de combustível do carro. No entanto, os Guardiões têm ombros largos, e todas as muitas preocupações que carregam raramente os deprimem seriamente.
+    
+- **Autoridade**  
+    Os Guardiões confiam na autoridade, demonstrando grande respeito por oficiais, dignitários, diretores, comandantes, magistrados, etc., e também valorizam as palavras de especialistas e técnicos. O poder investido nos títulos e insígnias das pessoas em autoridade causa forte impressão nos Guardiões, mas eles também têm grande respeito pela autoridade da idade e da experiência. No trabalho, valorizam a senioridade e os direitos e privilégios correspondentes. E em suas famílias, acreditam em respeitar seus mais velhos, como se a própria idade conferisse um tipo de autoridade.
+    
+- **Pertencimento**  
+    Os Guardiões têm uma vida social plena, construída em torno do pertencimento a vários grupos. São pessoas de família, e a família costuma ser o centro de sua vida social. Mas também tendem a desenvolver grupos de amigos — um _“bando”_ favorito com quem se divertir, talvez um grupo da igreja, um grupo de casais, um grupo de ponte. E os Guardiões também se unem a diversos grupos cívicos e profissionais: a PTA, o clube de serviços comunitários, o partido político, a associação comercial. É extremamente importante para os Guardiões serem membros ativos de qualquer um — ou de todos — esses grupos.
+    
+- **Constantes**  
+    É da natureza dos Guardiões serem a força estabilizadora da sociedade, a base firme das instituições — a Rocha de Gibraltar. Como o temperamento _cornerstone_, os Guardiões acreditam em manter os pés firmes no chão, mantendo as coisas equilibradas e a cabeça fria. Tendem a desconfiar de mudanças, a serem conservadores em seus valores e cuidadosos com o dinheiro. Sabem muito bem que se deixar levar pela empolgação e ir rápido demais pode fazê-los perder o controle. “Devagar e sempre vence a corrida”, dizem eles.
+    
+#### Guardiões: no cinema
+
+Para ajudar a dar rostos familiares a este retrato em palavras, aqui estão uma dúzia de personagens Guardiões maravilhosos em filmes bem conhecidos:
+
+- Stanley Banks (Spencer Tracy) em _Father of the Bride_
+    
+- Loretta Castorini (Cher) em _Moonstruck_
+    
+- Hoke Colburn (Morgan Freeman) em _Driving Miss Daisy_
+    
+- Sam Gamgee (Sean Astin) em _The Lord of the Rings_
+    
+- Marge Gunderson (Frances McDormand) em _Fargo_
+    
+- Clark Kent (Christopher Reeve) em _Superman_
+    
+- Macon Leary (William Hurt) em _The Accidental Tourist_
+    
+- Tenente-Coronel Hal Moore (Mel Gibson) em _We Were Soldiers_
+    
+- Eliot Ness (Kevin Costner) em _The Untouchables_
+    
+- Tevye (Topol) em _Fiddler on the Roof_
+    
+- Rainha Vitória (Judi Dench) em _Mrs. Brown_
+    
+- Homer Wells (Tobey Maguire) em _The Cider House Rules_
+    
+
+Nos filmes, como na vida real, os Guardiões nem sempre são as estrelas, mas tendem a assumir papéis menores, ou até a fazer parte da equipe que trabalha nos bastidores. Por isso, muitas vezes não percebemos que os Guardiões estão por toda parte, representando até 40 a 45% da população — geralmente realizando todos os trabalhos ingratos que mantêm o mundo em funcionamento.
+
+## Idealistas
+
+>_Uma vez, o Homem de Lata pisou em um besouro que estava rastejando pela estrada e matou o pobre bichinho. Isso o deixou muito infeliz, pois ele sempre tomava cuidado para não ferir nenhuma criatura viva; e, enquanto caminhava, chorou várias lágrimas de tristeza e arrependimento._  
+_Daí em diante, ele andava com muito cuidado, com os olhos na estrada, e quando via uma formiguinha trabalhando, desviava o passo para não machucá-la. O Homem de Lata... tomava grande cuidado para nunca ser cruel ou indelicado com nada._
+
+Os Idealistas podem realmente se aborrecer tanto com o ato de ferir um inseto, mas se importam ainda mais profundamente em serem gentis com seus semelhantes e ajudá-los na jornada da vida. Os Idealistas podem até ser considerados o temperamento do _crescimento pessoal_, pois são apaixonados não apenas por se tornarem seres humanos melhores, mas também por fomentar o desenvolvimento pessoal em seus familiares, amigos, colegas, estudantes, paroquianos, pacientes, clientes — assim como em suas comunidades e até no mundo em geral.
+
+#### Idealistas: em resumo
+
+Os Idealistas acreditam que a cooperação amigável é a melhor maneira de as pessoas alcançarem seus objetivos. Sonham em remover os muros de conflito e egoísmo que dividem as pessoas, e têm um talento único para ajudar os outros a resolverem suas diferenças e trabalharem juntos. Tal harmonia interpessoal pode parecer um ideal romântico, mas os Idealistas são românticos incuráveis que preferem se concentrar no que _pode ser_, em vez do que _é_.  
+O mundo concreto e prático é apenas um ponto de partida para os Idealistas; acreditam que a vida está repleta de possibilidades desconhecidas e potenciais não explorados. Assim, eles se esforçam para descobrir quem são e como podem se tornar suas melhores versões, inspirando os outros a se desenvolverem como indivíduos e a realizarem seu próprio potencial.  
+Essa noção de uma dimensão mística ou espiritual da vida — o “não visível” ou o “ainda não conhecido” através apenas da intuição ou de um salto de fé — é muito mais importante para os Idealistas do que o mundo das coisas físicas ou factuais.
+
+Altamente éticos em suas ações, os Idealistas mantêm um padrão rigoroso de integridade pessoal. Devem ser fiéis a si mesmos, em suas carreiras. Mas também atuando em escolas, igrejas, serviços sociais, direito, medicina, jornalismo etc., os Idealistas se preocupam com os outros e demonstram disposição genuína em se envolver pessoalmente.
+
+- **Humanitários**  
+    Os Idealistas acreditam em doar de si mesmos para o bem dos outros, mesmo que isso exija algum sacrifício pessoal. Eles veem todas as pessoas como decentes e dignas, e estão dispostos a doar seu tempo e energia — e, se possível, seu dinheiro — para ajudar o próximo a encontrar uma vida melhor. É por isso que o ensino e o ministério os atraem, assim como os esforços humanitários, o trabalho missionário, a filantropia, o voluntariado comunitário e o _Peace Corps_.
+    
+- **Confiantes**  
+    Os Idealistas confiam com facilidade e de todo o coração. Veem o bem em toda parte e em todos, o que os torna prontos para acreditar na boa fé das pessoas e aceitar o que lhes é dito. Às vezes, os Idealistas podem parecer inocentes, até ingênuos em sua confiança, mas acham muito mais satisfatório acreditar nas pessoas do que ser cínicos ou céticos.
+    
+- **É um mistério**  
+    Ao enfrentar as tragédias da vida, alguns Idealistas acreditam que os acidentes são misteriosos e impossíveis de explicar — que certas razões simplesmente não podem ser conhecidas. Outros Idealistas acreditam que deve haver algo mais, alguma força misteriosa ou espiritual em ação. As religiões tradicionais — Cristianismo, Judaísmo, Budismo, Islamismo, Hinduísmo — ajudam a explicar a origem do mal para muitos Idealistas, mas alguns procuram respostas em religiões menos tradicionais e sistemas metafísicos como teosofia, astrologia, parapsicologia, dianética, ciência religiosa, transcendentalismo, espiritualismo etc.
+    
+- **Amanhã**  
+    Os Idealistas olham para o futuro e acreditam na promessa do amanhã. Veem a vida como repleta de significados ocultos que pedem para ser compreendidos, e as pessoas como ricas em potenciais ainda não realizados. Com os olhos sempre voltados para o que pode ser, os Idealistas buscam descobrir esses significados mais profundos e ajudar os outros a realizarem seu próprio potencial.
+    
+- **Caminhos**  
+    Os Idealistas se sentem mais à vontade nos caminhos que os conduzem em direção ao significado da existência ou que os levam em uma jornada a algum estágio superior de desenvolvimento pessoal. A noção da odisseia espiritual, da cruzada, da peregrinação ou da...
+
+- **Empáticos**  
+    Os Idealistas têm uma habilidade extraordinária para empatizar com outras pessoas, isto é, conseguem se identificar facilmente com os outros, colocando-se em sua pele e vendo com seus olhos. Essa empatia poderosa é motivo de orgulho para os Idealistas, pois está no coração de suas habilidades interpessoais. Sua empatia lhes dá uma grande e sensível percepção sobre os outros, e também os ajuda a formar relacionamentos pessoais muito próximos — tão próximos que a própria consciência parece ser compartilhada.
+    
+- **Bondosos de coração**  
+    O mais bondoso dos temperamentos, os Idealistas estão cheios de boa vontade por sua família e amigos — e pela humanidade em geral. Perturbam-se facilmente com a hostilidade e a crueldade nos outros, assim como com seus próprios sentimentos negativos, e tentam viver no espírito da amizade e da benevolência. Para os Idealistas, sentir bondade em relação às pessoas é uma virtude cardinal, enquanto sentir ódio ou maldade é uma falha humana triste.
+    
+- **Autênticos**  
+    Ser autêntico é ter integridade, soar verdadeiro, ser realmente a pessoa que se aparenta ser. Os Idealistas precisam se sentir verdadeiros consigo mesmos, vivendo uma vida genuína, livre de fachada, máscara ou fingimento. E se por acaso se pegam sendo falsos ou insinceros — representando um papel — podem se sentir profundamente envergonhados de si mesmos.
+    
+- **Entusiastas**  
+    Os Idealistas são altamente emocionais, rápidos em sentir emoções e igualmente rápidos em expressá-las. Felizmente, tendem a ser pessoas calorosas e amorosas, de modo que sua intensidade emocional geralmente se manifesta como entusiasmo ilimitado. Especialmente ao discutir ideias ou compartilhar percepções pessoais, seu entusiasmo pode ser encantador e contagioso, transbordando enquanto tentam expressar tudo, frequentemente inspirando os outros em seus grupos.
+    
+- **Intuitivos**  
+    Os Idealistas têm uma grande sensibilidade a primeiras impressões, sugestões, pressentimentos, insinuações e símbolos. Seguem seus instintos e ouvem seus sentimentos, confiando em sua intuição ou em seu “sexto sentido” para lhes dizer tudo o que precisam saber. Os saltos intuitivos de um Idealista podem ser surpreendentemente precisos e maravilhosos para os outros.
+    
+- **Românticos**  
+    Uma das coisas mais importantes a entender sobre os Idealistas é que todos, sem exceção, são românticos incuráveis. Em todas as áreas da vida, os Idealistas se preocupam não tanto com realidades práticas, mas com ideais românticos. Porém, especialmente quando estão apaixonados, os Idealistas têm um apetite intenso pelo romance — estão verdadeiramente “apaixonados pelo amor” — e querem que seus relacionamentos sejam profundos e significativos, cheios de beleza e poesia.
+    
+- **Introspectivos**  
+    Os Idealistas têm uma natureza introspectiva, uma necessidade premente de olhar para dentro de si mesmos a fim de descobrir sua identidade. “Quem sou eu?”, perguntam, “E como posso me tornar meu verdadeiro eu?” Os Idealistas são profundamente comprometidos com essa busca interior de autorrealização, procurando entrar em contato consigo mesmos e se tornarem a pessoa que foram destinados a ser. Essa é, de fato, a base de seu idealismo.  
+    Os Idealistas — o temperamento do _crescimento pessoal_ — não se contentam com a pessoa que são ou com o mundo como é. Certamente deve haver algo mais perfeito, mais nobre. Se ao menos pudessem encontrar isso...
+    
+
+#### Idealistas: no cinema
+
+Para ajudar a dar vida a esse temperamento cheio de alma, aqui estão uma dúzia de personagens Idealistas notáveis em grandes filmes:
+
+- Frodo Baggins (Elijah Wood) em _The Lord of the Rings_
+    
+- Li Mu Bai (Yun-Fat Chow) em _Crouching Tiger, Hidden Dragon_
+    
+- Karen Blixen-Finecke (Meryl Streep) em _Out of Africa_
+    
+- Mohandas K. Gandhi (Ben Kingsley) em _Gandhi_
+    
+- Hamlet (Laurence Olivier, Mel Gibson, etc.) em _Hamlet_
+    
+- Viola de Lesseps (Gwyneth Paltrow) em _Shakespeare in Love_
+    
+- Irmã Luke (Audrey Hepburn) em _The Nun’s Story_
+    
+- Sarah Miles (Julianne Moore) em _The End of the Affair_
+    
+- Dom Quixote (Peter O’Toole) em _Man of La Mancha_
+    
+- Jefferson Smith (James Stewart) em _Mr. Smith Goes to Washington_
+    
+- Soldado Witt (James Caviezel) em _The Thin Red Line_
+    
+
+Os Idealistas são raros, representando não mais que 15% da população. Mas o fervor de seus ideais, assim como sua capacidade de inspirar as pessoas com seu entusiasmo, lhes conferiu influência muito além de seus números.
+
+## Racionais
+
+_De repente, eles se depararam com um rio largo, fluindo rapidamente bem diante deles. Do outro lado da água, podiam ver a estrada de tijolos amarelos atravessando um belo país, com prados verdes pontilhados de flores brilhantes e toda a estrada ladeada por árvores carregadas de frutos deliciosos._
+
+“Como devemos atravessar o rio?”, perguntou Dorothy.  
+“Isso é fácil de resolver,” respondeu o Espantalho. “O Homem de Lata deve construir uma jangada, para que possamos flutuar até o outro lado.”  
+“Essa é uma ótima ideia,” disse o Leão. “Quase se suspeitaria que você tem cérebro na cabeça, em vez de palha.”
+
+A ideia de construir um dispositivo — como uma jangada — para resolver um problema e seguir em direção ao objetivo é típica dos Racionais, que podem ser considerados o temperamento da _tecnologia_.  
+Os Racionais instintivamente procuram meios tecnológicos e formas de superar obstáculos. Têm um desejo poderoso de entender como as coisas funcionam, como fazer as coisas e, especialmente, como construir coisas. Os Racionais iniciam sua busca por conhecimento tecnológico cedo, assim que desenvolvem linguagem suficiente para fazer perguntas. E, pelo resto de suas vidas, continuam investigando os padrões da natureza e da sociedade, quase compelidos a aprender tudo o que podem sobre ciência e tecnologia.
+
+#### Racionais: em resumo
+
+Em qualquer campo, os Racionais buscam compreender o mundo natural em toda a sua complexidade. Querem aprender sobre os princípios abstratos ou leis naturais que regem o mundo, mas se interessam ainda mais por descobrir a estrutura e o funcionamento dos sistemas complexos — sejam eles mecânicos, orgânicos ou sociais.  
+
+São completamente pragmáticos quanto à maneira de adquirir conhecimento. Os Racionais não se importam em ser politicamente corretos; querem encontrar as soluções mais eficientes ou elegantes para os problemas, e ouvirão qualquer pessoa que tenha algo útil a ensinar, ignorando qualquer autoridade ou rotina que desperdice tempo e recursos.
+
+Os Racionais têm um desejo ardente de alcançar seus objetivos e trabalharão incansavelmente, com determinação silenciosa, em qualquer projeto que decidam realizar. 
+
+São rigorosamente lógicos e ferozmente independentes em seu pensamento — de fato, céticos em relação a todas as ideias, exceto às próprias — e sempre tentarão esclarecer qualquer discussão com sua razão.
+
+Quer estejam projetando um arranha-céu ou um experimento, desenvolvendo uma teoria ou um modelo de negócios, construindo uma aeronave ou um departamento acadêmico, os Racionais valorizam a competência e se orgulham da engenhosidade que trazem ao seu trabalho.
+#### Racionais: um olhar mais aprofundado
+
+- **Teóricos**  
+    Os Racionais passam grande parte do tempo no reino abstrato das teorias e conjecturas — sempre elaborando ideias e imaginando novas maneiras de configurar o mundo. Concentrados em conceitos e visões que têm em mente, tendem a falar em termos técnicos e, frequentemente, em frases dedutivas do tipo “se... então”, sobre _o que é possível_: planos, estratégias, inovações, hipóteses, inferências, probabilidades, contingências, e assim por diante — tudo o que envolve lidar com os muitos problemas teóricos que os fascinam.
+    
+- **Eficientes**  
+    Os Racionais consideram o que é útil ou eficaz — _o que funciona_ — mais importante do que o que é socialmente aceitável. Mas, ainda mais do que eficazes, os Racionais buscam ser eficientes em suas ações. Procuram o que pode ser chamado de operações “minimax”, que trazem o máximo de resultados com o mínimo de esforço. Esforço mínimo, não por serem preguiçosos — longe disso —, mas porque o desperdício de esforço os incomoda profundamente. Eficiência é sempre a questão para os Racionais: querem obter o máximo resultado com o mínimo de investimento, em tudo o que fazem.
+    
+- **Estratégicos**  
+    Os Racionais são talentosos em visualizar metas bem definidas de longo prazo e em elaborar planos estratégicos detalhados para alcançá-las. Alguns são especialmente bons em operações estratégicas, seja coordenando pessoas e recursos, seja criando projetos arquitetônicos e modelos de novas tecnologias, inventando e construindo protótipos funcionais.  
+    De qualquer forma, os Racionais olham longe e ao redor, mantendo o objetivo sempre à vista, com estratégias que não deixam nada ao acaso.
+    
+- **Analíticos**  
+    Os Racionais invariavelmente adotam uma visão crítica e analítica de qualquer coisa em que estejam trabalhando. Pode ser um experimento, uma invenção, um argumento, uma metodologia, uma frase ou um livro, um ecossistema, uma rede de computadores ou uma campanha política — não importa o campo, os Racionais são movidos a identificar falhas no sistema e partes que precisam ser aprimoradas.  
+    Pode-se até dizer que os Racionais são “superativados”: quando encontram uma falha em qualquer sistema sob sua análise, imediatamente (e às vezes obsessivamente) começam a redesenhá-lo, buscando torná-lo mais eficiente.
+    
+- **Pragmáticos**  
+    Uma das coisas mais importantes a saber sobre os Racionais é que são pragmáticos até o núcleo. Isso significa que, ao trabalharem em direção aos seus objetivos, estão sempre analisando a relação entre meios e fins, tentando antecipar os resultados práticos de suas ações. Antes de iniciar qualquer tarefa, os Racionais asseguram-se de ter o objetivo claramente definido em mente; só então escolhem ou criam os meios mais eficientes possíveis — ferramentas, materiais e ações — para garantir que atinjam sua meta.
+    
+- **Céticos**  
+    Como se nascessem “Tomés duvidosos”, os Racionais instintivamente questionam tudo o que lhes é dito e olham com ceticismo para todos e tudo com que lidam. “Nada deve ser tomado como garantido, nada deve ser aceito pela fé”, diz o Racional, pois todos os esforços humanos, por melhores que sejam, provavelmente contêm erros. É melhor, portanto, examinar tudo de importância com um olhar longo e duvidoso — todas as evidências e argumentos, todas as propostas e procedimentos, todos os meios e fins, todas as observações e conclusões.
+    
+- **Depende de você**  
+    Os Racionais enfrentam a perda ou a adversidade com uma autossuficiência poderosa. Para eles, os eventos não são bons ou maus em si; são apenas eventos, e cabe a cada um decidir como reagir a eles. Essa atitude também reflete o profundo senso de privacidade dos Racionais. Mesmo nos melhores momentos, sentem-se sozinhos no universo, isolados em seus pensamentos e emoções, incapazes de compartilhar suas mentes e sentimentos com outros. Assim, nos piores tempos, reagem de forma silenciosa e reservada, mantendo a força de suas emoções conhecida apenas por si mesmos.
+    
+- **Foco na tarefa**  
+    Os Racionais geralmente não entendem ou experimentam o tempo como uma linha contínua — uma sucessão de segundos, minutos, horas e anos —, mas como algo que se estende indefinidamente, dia após dia, ano após ano. Para eles, o tempo vem em...
+### Página 13
+
+- **Interseções**  
+    Os Racionais não pensam em um lugar como um ponto isolado no espaço, mas como um ponto onde duas linhas se cruzam — em outras palavras, na interseção de duas coordenadas. Olhe qualquer atlas ou globo e você verá linhas de latitude e longitude. Ou olhe através da ocular de muitos instrumentos ópticos (como uma mira telescópica) e verá linhas cruzadas — retículas — fixando o alvo. Ver o espaço dessa forma provavelmente explica por que os Racionais parecem tão certeiros em seu pensamento e por que tantas vezes têm um senso preciso de direção, como se carregassem um mapa em suas mentes.
+    
+- **Engenhosos**  
+    Os Racionais se orgulham de sua engenhosidade em realizar qualquer coisa a que se proponham. Não importa se estão projetando máquinas ou coordenando operações, os Racionais querem ser brilhantes em tudo o que consideram sua área de competência. Mesmo jogando seus jogos ou esportes favoritos, esperam melhoria contínua — e se punem quando cometem muitos erros. A engenhosidade que trazem ao domínio de qualquer tarefa é a medida de sua autoestima.
+    
+- **Determinados**  
+    Os Racionais constroem seu autorrespeito sobre uma determinação férrea. Uma vez que dão sua palavra, não voltam atrás; uma vez que se comprometem com uma tarefa, não serão desviados até concluí-la. No entanto, os Racionais nunca consideram sua força de vontade algo garantido, por mais forte que tenha se mostrado no passado. De fato, seu maior medo é que sua determinação enfraqueça, que sua vontade falhe ou até desabe. Sabem que não podem controlar muitos aspectos involuntários da vida (como a fala, por exemplo), mas ainda assim, sob pressão, costumam reunir determinação e se esforçar ainda mais para fazer acontecer.
+    
+- **Independentes**  
+    Tanto quanto possível, os Racionais pensam e agem de forma independente, autônoma — vivendo segundo suas próprias leis e vendo o mundo à sua própria maneira. Resistirão a qualquer tentativa de impor-lhes regras ou restrições, e questionarão qualquer regulamento ou convenção que busque controlá-los. Tampouco aceitarão ideias de outros sem antes examiná-las em busca de erros.  
+    Não importa se a pessoa é uma autoridade amplamente reconhecida ou não — título, reputação, posição e credenciais não importam. Ideias, como pessoas, devem se sustentar por conta própria.
+    
+
+---
+
+### Página 14
+
+- **Calmos**  
+    Os Racionais preferem permanecer calmos, serenos e controlados, especialmente em situações estressantes, quando as coisas ao redor parecem fugir ao controle. Entretanto, em assuntos sob seu domínio, podem se tornar bastante tensos, como uma corda de arco esticada, quando concentram a mente em resolver um problema. Mesmo quando ficam emocionais, os Racionais tentam não demonstrar, e por isso são frequentemente criticados como frios e insensíveis. Mas, na verdade, são românticos contidos, com sentimentos tão variados e fortes quanto os de qualquer outra pessoa — apenas rigidamente controlados.
+    
+- **Lógicos**  
+    A única coisa em que os Racionais confiam completamente é a lógica. A lógica, dizem eles, é universal e atemporal; suas leis estão além de disputa. Ouvirão novas ideias atentamente, desde que sejam lógicas — razoáveis, bem argumentadas ou baseadas em uma justificativa racional. Contudo, têm pouca paciência para ideias que não façam sentido e não se deixarão influenciar por apelos emocionais ou argumentos irracionais.
+    
+- **Realização**  
+    Os Racionais têm um intenso desejo de realização — uma fome constante de conquistar grandes feitos, que os impulsiona a trabalhar cada vez mais. Vivem através de seu trabalho: para eles, trabalho é trabalho e lazer também é trabalho. Uma vez envolvidos em um projeto, mal conseguem limitar o tempo e energia que investem. Infelizmente, têm padrões tão altos de desempenho que às vezes têm dificuldade em satisfazê-los. Frequentemente acreditam que o que fazem não é bom o bastante e são assombrados pela sensação de estar à beira do fracasso. Então, o que fazem? Redobram os esforços e trabalham ainda mais.
+    
+- **Curiosos**  
+    Os Racionais têm uma natureza curiosa e investigativa. Estão sempre analisando problemas, fazendo perguntas e querendo aprender mais sobre como o mundo funciona e como melhorar a estrutura e o funcionamento de seus muitos sistemas. São o temperamento da _tecnologia_, e desde cedo sua curiosidade ativa os leva não apenas a investigar problemas cada vez mais complexos, mas também a adquirir novas tecnologias e habilidades para resolvê-los. Parecem impulsionados a acumular conhecimento útil e a trabalhar longas horas todos os dias tentando responder às muitas perguntas que os intrigam.
+    
+
+#### Racionais: no cinema
+
+Mais interessados em aprender do que em receber aclamação pública, os Racionais raramente recebem os holofotes. Para torná-los um pouco mais visíveis, aqui estão uma dúzia de grandes retratos cinematográficos de Racionais:
+
+- Ellie Arroway (Jodie Foster) em _Contact_
+    
+- Seth Brundle (Jeff Goldblum) em _The Fly_
+    
+- Eleanor (Katherine Hepburn) em _The Lion in Winter_
+    
+- Gandalf (Ian McKellen) em _The Lord of the Rings_
+    
+- Ginger em _Chicken Run_
+    
+- Henry Higgins (Rex Harrison) em _My Fair Lady_
+    
+- Eddie Jessup (William Hurt) em _Altered States_
+    
+- Professor Kingsfield (John Houseman) em _The Paper Chase_
+    
+- Jo March (Winona Ryder) em _Little Women_
+    
+- Morpheus (Laurence Fishburne) em _The Matrix_
+    
+- Annie Sullivan (Anne Bancroft) em _The Miracle Worker_
+    
+- William Wallace (Mel Gibson) em _Braveheart_
+    
+
+Os Racionais são raros, tanto na vida real quanto no cinema, compreendendo apenas cerca de 10% da população geral. Mas, por causa de sua fome de desvendar os segredos da natureza e de seu impulso para desenvolver novas tecnologias, contribuíram muito mais do que sua parte na construção do nosso mundo.
+
 ## Capítulo 3: Namoro e Acasalamento
 
 ## Capítulo 4: Pai e Filho

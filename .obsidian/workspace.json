@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -354,10 +353,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2c4e93ec041c133c",
+  "active": "88b5dbbd1a338a74",
   "lastOpenFiles": [
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+    "01.Assets/Anexos/Pasted image 20251015175902.png",
     "01.Assets/Anexos/Pasted image 20251015143242.png",
     "01.Assets/Anexos/Pasted image 20251015143202.png",
     "01.Assets/Anexos/Pasted image 20251015123813.png",
@@ -377,7 +377,6 @@
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/Breakdown of UCT, Function's Genders, and the dynamics and relationships between them..md",
     "01.Assets/Untitled.canvas",
-    "01.Assets/Anexos/Pasted image 20251013143643.png",
     "00.Notes/Nota Teste 3.md",
     "01.Assets/TextGenerator/oalanicolas/_fackchecking.md",
     "00.Notes/Hero.md",
