@@ -8,51 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88b5dbbd1a338a74",
+            "id": "13c57ad257214490",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00.Notes/Tradução Livro People Patterns Pt-Br.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tradução Livro People Patterns Pt-Br"
-            }
-          },
-          {
-            "id": "afd9d691316d0686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Insight Carreiras pra ENTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Insight Carreiras pra ENTP"
+              "icon": "lucide-file-text",
+              "title": "Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
             }
           }
         ]
@@ -124,21 +88,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tradução Livro People Patterns Pt-Br"
+              "title": "Outline of Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -308,11 +272,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 1141.5
+    "width": 838.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,10 +296,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "88b5dbbd1a338a74",
+  "active": "36ddfeaf58f2a178",
   "lastOpenFiles": [
-    "00.Notes/Insight Carreiras pra ENTP.md",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+    "00.Notes/Insight Carreiras pra ENTP.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Planejamento próximos passos.md",
     "01.Assets/Anexos/Pasted image 20251016095233.png",
@@ -372,7 +339,6 @@
     "00.Notes/MOC - ENTP Owner - Course..md",
     "00.Notes/Forças e fraquezas de usuarios de Ne.md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
-    "00.Notes/Entp Behind the mask.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",
@@ -380,8 +346,6 @@
     "Readwise/Books",
     "Readwise",
     "01.Assets/Untitled 1.canvas",
-    "00.Notes/Canais do youtube.base",
-    "00.Notes/Banco de notas base.base",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 2.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
