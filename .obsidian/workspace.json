@@ -32,15 +32,27 @@
             }
           },
           {
-            "id": "5ae888a7d7e846e9",
+            "id": "afd9d691316d0686",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf"
+                "file": "00.Notes/Insight Carreiras pra ENTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "Insight Carreiras pra ENTP"
             }
           }
         ]
@@ -296,11 +308,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 1141.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,8 +334,9 @@
   },
   "active": "88b5dbbd1a338a74",
   "lastOpenFiles": [
-    "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
+    "00.Notes/Insight Carreiras pra ENTP.md",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Planejamento próximos passos.md",
     "01.Assets/Anexos/Pasted image 20251016095233.png",
     "01.Assets/Anexos/Pasted image 20251016095153.png",

@@ -5,6 +5,10 @@
       "path": "00.Notes/Tradução Livro People Patterns Pt-Br.md"
     },
     {
+      "basename": "Insight Carreiras pra ENTP",
+      "path": "00.Notes/Insight Carreiras pra ENTP.md"
+    },
+    {
       "basename": "People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive",
       "path": "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ne Hero Productivity",
       "path": "00.Notes/Ne Hero Productivity.md"
-    },
-    {
-      "basename": "Ti - Cs Joseph",
-      "path": "00.Notes/Ti - Cs Joseph.md"
     }
   ],
   "omittedPaths": [

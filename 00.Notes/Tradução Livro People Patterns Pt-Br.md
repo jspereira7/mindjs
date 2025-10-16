@@ -1146,63 +1146,78 @@ E nem todos vão dedicar as muitas horas de prática necessárias para tirar o m
 
 Mas, não importa o tipo ou nível do trabalho que aceitemos, o **desejo de fazer aquilo que vem naturalmente** é forte dentro de nós.
 
----
+Isso significa que, quando um Guardião é contratado como engenheiro, ele ou ela trabalhará duro por longas horas e fará um bom trabalho, mas dificilmente buscará promoção para alguma função administrativa no departamento de engenharia. 
 
+Por outro lado, quando um engenheiro Racional é promovido a chefe do departamento, ele ou ela pode se orgulhar do avanço, e talvez com o tempo se torne um administrador decente, mas muito provavelmente, mais cedo ou mais tarde, perderá o interesse e desejará voltar ao laboratório — mesmo que para ganhar menos.
+
+Se possível, então, nossa melhor e mais satisfatória escolha de carreira é aquela que se ajusta ao nosso maior talento. 
+
+E nosso talento está intrinsecamente ligado ao nosso estilo de temperamento. 
+
+Então vamos observar mais de perto os quatro tipos de talento e os diferentes tipos de trabalho que se encaixam com os quatro temperamentos.
+
+---
 ## **Artesãos: Fazendo Acontecer**
-
-
-
-
-
-Isso significa que, quando um Guardião é contratado como engenheiro, ele ou ela trabalhará duro por longas horas e fará um bom trabalho, mas dificilmente buscará promoção para alguma função administrativa no departamento de engenharia. Por outro lado, quando um engenheiro Racional é promovido a chefe do departamento, ele ou ela pode se orgulhar do avanço, e talvez com o tempo se torne um administrador decente, mas muito provavelmente, mais cedo ou mais tarde, perderá o interesse e desejará voltar ao laboratório — mesmo que para ganhar menos.
-
-Se possível, então, nossa melhor e mais satisfatória escolha de carreira é aquela que se ajusta ao nosso maior talento. E nosso talento está intrinsecamente ligado ao nosso estilo de temperamento. Então vamos observar mais de perto os quatro tipos de talento e os diferentes tipos de trabalho que se encaixam com os quatro temperamentos.
-
----
 
 ### **Talento Artesão**
 
-O “talento tático” é o mais visível dos quatro tipos de talento, porque táticas são manobras que melhoram a posição **imediata** de uma pessoa — que fazem as coisas acontecerem no **aqui e agora**. Ágeis no corpo e na mente, os Artesãos realmente não têm rivais quando se trata de movimentos táticos. Primeiro, têm a habilidade inata de aprender a usar qualquer ferramenta, instrumento ou equipamento que chame sua atenção — praticam até dominá-lo, e então o utilizam para alcançar os resultados que desejam.
+O “talento tático” é o mais visível dos quatro tipos de talento, porque táticas são manobras que melhoram a posição **imediata** de uma pessoa — que fazem as coisas acontecerem no **aqui e agora**. 
 
-Mas Artesãos também são excelentes **improvisadores**. Estão sempre atentos a uma nova abordagem, sempre buscando alguma brecha que lhes dê uma vantagem em ação, ou uma vantagem sobre a concorrência. Em outras palavras, os Artesãos sempre mantêm o olhar fixo no lugar aonde querem chegar, e **instintivamente** descobrem a forma mais rápida de chegar lá.
+Ágeis no corpo e na mente, os Artesãos realmente não têm rivais quando se trata de movimentos táticos. 
+
+Primeiro, têm a habilidade inata de aprender a usar qualquer ferramenta, instrumento ou equipamento que chame sua atenção — praticam até dominá-lo, e então o utilizam para alcançar os resultados que desejam.
+
+Mas Artesãos também são excelentes **improvisadores**. 
+
+Estão sempre atentos a uma nova abordagem, sempre buscando alguma brecha que lhes dê uma vantagem em ação, ou uma vantagem sobre a concorrência. 
+
+Em outras palavras, os Artesãos sempre mantêm o olhar fixo no lugar aonde querem chegar, e **instintivamente** descobrem a forma mais rápida de chegar lá.
 
 ---
 
 ### **Educação do Artesão**
 
-Na escola, os Artesãos se saem melhor em programas de artes, escolas técnicas ou em aulas de treinamento técnico onde podem praticar movimentos e técnicas com várias ferramentas, instrumentos, máquinas etc., que despertam seu interesse. Artesãos geralmente **ficam entediados** quando precisam sentar e estudar matérias acadêmicas, como ciências humanas ou teóricas. Mas dê a eles a chance de trabalhar livremente com as mãos e com os sentidos, e eles ganham vida.
+Na escola, os Artesãos se saem melhor em programas de artes, escolas técnicas ou em aulas de treinamento técnico onde podem praticar movimentos e técnicas com várias ferramentas, instrumentos, máquinas etc., que despertam seu interesse. 
 
-Lembre-se, no entanto, de que “**arte**” não deve se limitar às belas artes, como pintura e escultura, ou às artes performáticas, como atuação e dança. Na verdade, inclui também **artes atléticas, culinárias, marciais, mecânicas e industriais**, sem falar do que se chama de **“a arte de negociar”** no mundo dos negócios.
+Artesãos geralmente **ficam entediados** quando precisam sentar e estudar matérias acadêmicas, como ciências humanas ou teóricas. 
+
+Mas dê a eles a chance de trabalhar livremente com as mãos e com os sentidos, e eles ganham vida.
+
+Lembre-se, no entanto, de que “**arte**” não deve se limitar às belas artes, como pintura e escultura, ou às artes performáticas, como atuação e dança. 
+
+Na verdade, inclui também **artes atléticas, culinárias, marciais, mecânicas e industriais**, sem falar do que se chama de **“a arte de negociar”** no mundo dos negócios.
 
 ---
-
 ### **Carreiras e Profissões para Artesãos**
 
 Existem quatro áreas gerais de carreira que fazem bom uso desse talento para manobras táticas, e que, portanto, se encaixam com perfeição para os Artesãos (“T” de Tático):
 
 - **Marketing**, no sentido mais amplo — fazer o que for necessário para avançar nos interesses comerciais — é algo natural para muitos Artesãos.  
+
     No governo, nos negócios, nos esportes, no entretenimento etc., esses Artesãos sabem como aproveitar oportunidades e conquistar a confiança das pessoas, usando todas as suas habilidades táticas para se posicionarem — ou posicionar sua empresa, clientes, produtos etc. — da melhor forma possível. Artesãos que são bons nisso, e que **gostam** do jogo duro e competitivo da “arte da negociação”, vão se destacar em funções como:
 
-**Publicidade executiva**  
-**Promotor de concertos**  
-**Negociador de contratos**  
-**Recrutador corporativo**  
-**Empreendedor**  
-**Lobista**  
-**Diretor de marketing**  
-**Gerente de promoções**  
-**Especialista em relações públicas**  
-**Corretor de imóveis**  
-**Representante de vendas**  
-**Produtor de shows**  
-**Organizador de eventos especiais**  
-**Corretor da bolsa (investimentos de alto risco)**  
-**Agente de talentos/esportes**  
-**Agente de viagens**
+- **Publicidade executiva**  
+- **Promotor de concertos**  
+- **Negociador de contratos**  
+- **Recrutador corporativo**  
+- **Empreendedor**  
+- **Lobista**  
+- **Diretor de marketing**  
+- **Gerente de promoções**  
+- **Especialista em relações públicas**  
+- **Corretor de imóveis**  
+- **Representante de vendas**  
+- **Produtor de shows**  
+- **Organizador de eventos especiais**  
+- **Corretor da bolsa (investimentos de alto risco)**  
+- **Agente de talentos/esportes**  
+- **Agente de viagens**
 
 ---
 
-**Trabalho Manual (Toolwork)** está relacionado ao manuseio habilidoso de ferramentas, utensílios, instrumentos, máquinas, veículos etc. Muitos Artesãos são naturalmente atraídos por esses dispositivos e muitas vezes aprendem a usá-los com uma maestria inacreditável. Artesãos que têm esse talento para trabalhar com “ferramentas do ofício” devem direcionar-se a empregos como:
+**Trabalho Manual (Toolwork)** está relacionado ao manuseio habilidoso de ferramentas, utensílios, instrumentos, máquinas, veículos etc. Muitos Artesãos são naturalmente atraídos por esses dispositivos e muitas vezes aprendem a usá-los com uma maestria inacreditável. 
+
+Artesãos que têm esse talento para trabalhar com “ferramentas do ofício” devem direcionar-se a empregos como:
 
 - Técnico em conserto de eletrodomésticos
     
@@ -1239,7 +1254,11 @@ Existem quatro áreas gerais de carreira que fazem bom uso desse talento para ma
 
 ---
 
-**Entretenimento** envolve fazer um show de algum tipo com o objetivo de dar prazer aos outros. Muitos Artesãos extrovertidos sentem-se à vontade no palco, onde quer que estejam, e adoram estar em destaque, improvisando no momento para encantar o público. Artesãos que têm esse interesse por pessoas e esse tipo de teatralidade espontânea no sangue mostrarão verdadeiro talento para empregos como:
+**Entretenimento** envolve fazer um show de algum tipo com o objetivo de dar prazer aos outros. 
+
+Muitos Artesãos extrovertidos sentem-se à vontade no palco, onde quer que estejam, e adoram estar em destaque, improvisando no momento para encantar o público. 
+
+Artesãos que têm esse interesse por pessoas e esse tipo de teatralidade espontânea no sangue mostrarão verdadeiro talento para empregos como:
 
 - Diretor de atividades
     
@@ -1276,7 +1295,9 @@ Existem quatro áreas gerais de carreira que fazem bom uso desse talento para ma
 
 ---
 
-**Arte (Artwork)** é o trabalho de design artístico, ou seja, a união de elementos sensoriais, ingredientes, fragmentos (sons, formas, cores, texturas, sabores, movimentos etc.) e a combinação deles em arranjos atraentes ou marcantes — também chamados de “obras de arte”. Artesãos que têm um olhar apurado para esse tipo de composição artística poderão expressar sua criatividade com muito prazer em profissões como:
+**Arte (Artwork)** é o trabalho de design artístico, ou seja, a união de elementos sensoriais, ingredientes, fragmentos (sons, formas, cores, texturas, sabores, movimentos etc.) e a combinação deles em arranjos atraentes ou marcantes — também chamados de “obras de arte”. 
+
+Artesãos que têm um olhar apurado para esse tipo de composição artística poderão expressar sua criatividade com muito prazer em profissões como:
 
 - Diretor de arte
     
@@ -1318,14 +1339,20 @@ Existem quatro áreas gerais de carreira que fazem bom uso desse talento para ma
 Seja qual for a carreira que escolham, quando os Artesãos acabam assumindo cargos de liderança, eles comandam à sua maneira.
 
 **Ponto forte**: Como gerentes, os Artesãos são tanto táticos quanto práticos. Impacientes com papeladas rotineiras, manutenção de registros e definição de metas globais, eles procuram escapar do escritório e lidar com os problemas e emergências das operações do dia a dia.  
-Os gerentes Artesãos geralmente sabem exatamente o que está acontecendo em seu ambiente de trabalho. Observam de perto as pessoas e operações, e com um olhar atento, rapidamente detectam falhas à medida que elas ocorrem — e farão o que for preciso para corrigi-las. São adaptáveis, mente aberta, fáceis de lidar e receptivos a novas ideias e mudanças de posição conforme surgem fatos e situações novas.  
+
+Os gerentes Artesãos geralmente sabem exatamente o que está acontecendo em seu ambiente de trabalho. Observam de perto as pessoas e operações, e com um olhar atento, rapidamente detectam falhas à medida que elas ocorrem — e farão o que for preciso para corrigi-las. 
+
+São adaptáveis, mente aberta, fáceis de lidar e receptivos a novas ideias e mudanças de posição conforme surgem fatos e situações novas.  
+
 Desinteressados em lutar contra o sistema ou julgar seus funcionários, os gerentes Artesãos se destacam ao improvisar ações e tomar decisões imediatas, usando as pessoas e os recursos à mão para apagar incêndios e retomar o funcionamento das operações.
 
 **Ponto fraco**: Artesãos tendem a ser impulsivos, agindo no calor do momento, o que pode torná-los gerentes imprevisíveis. Vivendo intensamente o presente, podem ser negligentes com horários e cronogramas, e às vezes não estão preparados quando a situação exige planejamento prévio — podendo surpreender negativamente seus funcionários. 
 
 Como as demandas atuais receber toda a sua atenção, gerentes Artesãos podem esquecer compromissos e decisões anteriores, às vezes falham em cumprir acordos e podem até esquecer de avisar sobre mudanças de tarefa ou cronograma.
 
-**A verdade é que uma organização formada por Artesãos habilidosos é incomparável em situações de crise que exigem suas incríveis habilidades táticas.** Keirsey os chama de “Solucionadores de Problemas” (_Troubleshooters_) e aconselha que permaneçam móveis e sejam usados principalmente para colocar as operações em funcionamento e resolver problemas rapidamente quando surgirem.
+**A verdade é que uma organização formada por Artesãos habilidosos é incomparável em situações de crise que exigem suas incríveis habilidades táticas.** 
+
+Keirsey os chama de “Solucionadores de Problemas” (_Troubleshooters_) e aconselha que permaneçam móveis e sejam usados principalmente para colocar as operações em funcionamento e resolver problemas rapidamente quando surgirem.
 
 ---
 
@@ -1342,7 +1369,11 @@ Com seu forte respeito pela autoridade, crença em regras e regulamentos, e um o
 ### Educação dos Guardiões
 
 Guardiões geralmente se saem bem na escola e costumam cursar o ensino superior para obter diplomas e certificações — embora muitos encontrem suas lições mais valiosas na “escola da vida”.  
-Independentemente da área que escolham na faculdade, os Guardiões mantêm o foco nos benefícios práticos de aprender sobre negócios e comércio. Frequentam faculdades de administração (inclusive cursos noturnos), onde se destacam em habilidades de secretariado e funções administrativas, e seguem para departamentos de contabilidade e administração empresarial.  
+
+Independentemente da área que escolham na faculdade, os Guardiões mantêm o foco nos benefícios práticos de aprender sobre negócios e comércio. 
+
+Frequentam faculdades de administração (inclusive cursos noturnos), onde se destacam em habilidades de secretariado e funções administrativas, e seguem para departamentos de contabilidade e administração empresarial.  
+
 Muitos Guardiões ambiciosos também seguem para a faculdade de direito, onde tendem a se especializar em áreas como negócios, impostos e seguros.
 
 ---
@@ -1518,15 +1549,23 @@ Independentemente da área de atuação, Guardiões frequentemente assumem **pos
 ### Ponto forte:
 
 Com interesses profundamente enraizados em fornecimento de materiais, inspeção, manutenção e segurança — na **logística** — líderes Guardiões tendem a ter um efeito estabilizador e consolidante sobre suas organizações.  
+
 São bons em estabelecer rotinas, regras e protocolos, em elaborar cronogramas e prazos, e em acompanhar projetos até sua conclusão.  
+
 Podem ser líderes extremamente confiáveis e trabalhadores extraordinariamente dedicados, minuciosos, metódicos, confiáveis e organizados.  
-Valorizam contratos, regulamentos administrativos e tradições institucionais sólidas. Pessoas sob a gestão de Guardiões sabem que podem contar com a constância e familiaridade do ambiente. Sabem que o local de trabalho será seguro e que políticas e pessoal serão bem gerenciados sob o olhar atento do Guardião.
+
+Valorizam contratos, regulamentos administrativos e tradições institucionais sólidas. 
+
+Pessoas sob a gestão de Guardiões sabem que podem contar com a constância e familiaridade do ambiente. Sabem que o local de trabalho será seguro e que políticas e pessoal serão bem gerenciados sob o olhar atento do Guardião.
 
 ### Ponto fraco:
 
 A estabilização é uma etapa essencial na vida de qualquer organização, mas há uma tendência, com o tempo, de que isso leve à burocratização excessiva.  
+
 Gerentes Guardiões podem ter dificuldades aqui: com seu desejo sincero de seguir regras, regulamentos e tradições, tendem a **resistir a mudanças**, o que pode se tornar um obstáculo para o crescimento saudável da organização.  
+
 Podem se irritar com funcionários independentes, não conformistas ou que desrespeitam os procedimentos estabelecidos.  
+
 Se acharem que alguém está negligenciando suas funções ou desafiando a autoridade, o impulso dos Guardiões é chamar atenção para isso — às vezes em público e com palavras excessivamente críticas.
 
 ---
@@ -1555,18 +1594,16 @@ Com sua percepção e entusiasmo, habilidades de comunicação incomparáveis e 
 ## Educação dos Idealistas
 
 Idealistas geralmente se saem excepcionalmente bem em todos os níveis escolares, pois como estudantes, possuem uma combinação única de traços: demonstram sincero interesse em cooperar com professores e colegas, e também desenvolvem habilidades linguísticas precoces.  
+
 Mesmo ainda crianças, Idealistas já demonstram uma paixão ardente por palavras, começando a ler e escrever bem antes da maioria.  
+
 Com essa habilidade verbal, o ensino médio tende a ser fácil para eles, e muitos seguem para a universidade, onde normalmente escolhem cursos nas **humanidades** — mas podem optar por qualquer área: literatura, filosofia, teologia, direito, teatro, escrita criativa, jornalismo — que envolvam **expressar ideias através de palavras**.
 
 Também se interessam pelas ciências sociais, especialmente **psicologia, sociologia e antropologia social**, e muitos seguem para cursos avançados, tornando-se professores ou profissionais nessas áreas.
 
----
-
 ## Carreiras e Profissões dos Idealistas
 
 Com seu talento para a diplomacia e com palavras, Idealistas se destacam em quatro áreas de carreira:
-
----
 
 ### **Educação**
 
@@ -1687,7 +1724,7 @@ Idealistas que desejam levantar questões, defender causas e **falar pelos outro
     
 - Produtor de documentário para TV
 
-## Relações Pessoais
+### Relações Pessoais
 
 **Relações Pessoais** é o campo da cooperação humana — de pessoas aprendendo a se dar bem no trabalho, na família, nas comunidades e assim por diante.  
 Idealistas que são sensíveis aos relacionamentos tensos ao seu redor, e que se comprometem a resolver conflitos, reconciliar diferenças e construir pontes entre as pessoas, encontrarão satisfação profissional em cargos como:
@@ -1734,7 +1771,9 @@ Tendo habilidades tão fortes com pessoas, Idealistas frequentemente se tornam l
 ### Ponto forte:
 
 Idealistas são, acima de tudo, **voltados para as pessoas**, e tendem a se comprometer pessoalmente com o progresso de seus funcionários, alunos, fiéis, etc.  
+
 São empáticos, dispostos a ouvir os problemas dos outros, e se importam genuinamente com suas dificuldades.  
+
 Ao mesmo tempo, focam **no potencial**, sempre buscando e reagindo ao que há de melhor nas pessoas, sempre prontos a oferecer palavras de incentivo.
 
 Essa atenção pessoal dos Idealistas — tentando entender e ajudar todos ao seu redor — pode ser **muito inspiradora**, motivando a equipe não só a dar o seu melhor, mas também a trabalhar em harmonia num clima de respeito mútuo.
@@ -1742,14 +1781,16 @@ Essa atenção pessoal dos Idealistas — tentando entender e ajudar todos ao se
 ### Ponto fraco:
 
 Mas esse envolvimento pessoal também pode trazer **problemas**.  
+
 Idealistas, por serem tão próximos de quem lideram, às vezes dependem demais do apoio e validação dos outros, e têm pouca defesa contra os problemas alheios — absorvendo-os como se fossem seus.
 
 Além disso, ao focar apenas nos aspectos positivos das pessoas, podem **ignorar falhas reais**, o que pode gerar problemas sérios com o tempo.  
+
 E se forem criticados — especialmente por chefes ou subordinados — é comum que Idealistas **levem para o lado pessoal** e fiquem bastante desanimados.
 
----
-
 Apesar dessas limitações, Idealistas podem ser líderes **extraordinários** — visíveis, carismáticos, que representam bem sua equipe e organização.  
+
+
 São líderes **cuidadosos, entusiasmados e acolhedores**. Keirsey os chama de **líderes "Inspiradores"**, que enxergam o melhor nos outros e valorizam contribuições de todos.
 
 ---
@@ -1758,10 +1799,13 @@ São líderes **cuidadosos, entusiasmados e acolhedores**. Keirsey os chama de *
 
 ### Talento dos Racionais
 
-O talento **“estratégico”** dos Racionais pode ser definido como a capacidade de resolver planos complexos para alcançar metas **bem definidas e de longo prazo**.  
+O talento **“estratégico”** dos Racionais pode ser definido como a capacidade de resolver planos complexos para alcançar metas **bem definidas e de longo prazo**. 
+
+
 Esses planos estratégicos podem incluir estruturas de comando, diretrizes que coordenam projetos ou mesmo servir de modelos para sistemas de engenharia.
 
 Seja qual for o projeto, Racionais sempre avançam **eficientemente rumo ao objetivo**.  
+
 Para isso, olham para o futuro, visualizando como será a organização e seu desempenho a longo prazo, considerando todo dado relevante — nada é deixado ao acaso.
 
 Com clareza de visão e lógica nos meios e métodos, Racionais conseguem envolver outras pessoas em seus planos de futuro, ganhando apoio para suas lideranças.
@@ -1770,7 +1814,9 @@ Com clareza de visão e lógica nos meios e métodos, Racionais conseguem envolv
 
 ### Educação dos Racionais
 
-É difícil fazer Racionais estudarem algo **que não esteja relacionado à matemática, ciência ou filosofia**. Eles querem entender **como funcionam os sistemas complexos**, sejam:
+É difícil fazer Racionais estudarem algo **que não esteja relacionado à matemática, ciência ou filosofia**. 
+
+Eles querem entender **como funcionam os sistemas complexos**, sejam:
 
 - Sistemas orgânicos (plantas, animais, galáxias)
     
@@ -1782,20 +1828,17 @@ Com clareza de visão e lógica nos meios e métodos, Racionais conseguem envolv
     
 
 Desde o ensino médio, Racionais buscam todas as aulas possíveis de ciência, matemática e computação.  
+
 Na faculdade, focam nas **ciências físicas e sociais**, especialmente computação, matemática, economia e engenharia — muitas vezes com **filosofia** como disciplina secundária.  
+
 E se inscrevem em massa em programas de pós-graduação nessas áreas.
-
----
-
 ## Carreiras e Profissões dos Racionais
 
 O talento estratégico dos Racionais lhes dá **vantagem** em quatro áreas principais:
-
----
-
 ### Liderança
 
-Liderança em qualquer setor (comercial, educacional, político, militar etc.) envolve **criar e executar um plano estratégico** — designar tarefas, mobilizar recursos e alcançar metas.  
+Liderança em qualquer setor (comercial, educacional, político, militar etc.) envolve **criar e executar um plano estratégico** — designar tarefas, mobilizar recursos e alcançar metas.
+
 Racionais com assertividade e capacidade de decisão se destacam em funções como:
 
 - Diretor esportivo
@@ -1830,20 +1873,13 @@ Racionais com assertividade e capacidade de decisão se destacam em funções co
     
 - Investidor de capital de risco
     
-
----
-
 ### Coordenação
 
 Coordenação envolve **coletar dados**, determinar a sequência de tarefas e organizar pessoas e cronogramas da forma mais eficiente possível — ou seja, com **máxima produtividade e mínimo desperdício**.  
+
 Isso geralmente requer planos de contingência (“se... então...”) para manter os projetos nos trilhos.
 
 Racionais, com seu faro apurado para o que precisa ser feito, quando, por quem, e o que pode dar errado, serão valiosos em cargos como:
-
-A coordenação envolve **coletar dados, definir a sequência de tarefas** e organizar pessoas e cronogramas da forma mais eficiente possível — ou seja, alcançar **máxima produtividade com mínimo desperdício** de tempo e recursos.  
-Frequentemente exige criar planos de contingência do tipo “se... então...” para manter projetos no rumo certo e lidar com falhas ou carências previsíveis.
-
-Racionais, com seu olhar preciso para o que precisa ser feito, quando e por quem, serão valiosos em cargos como:
 
 - Analista de sistemas de computador
     
@@ -1878,11 +1914,10 @@ Racionais, com seu olhar preciso para o que precisa ser feito, quando e por quem
 - Planejador urbano
     
 
----
-
 ## Engenharia
 
 **Engenharia** envolve inventar e construir tecnologias novas e complexas com um objetivo prático: **fazer sistemas funcionarem melhor**.  
+
 Racionais que desejam colocar em prática sua engenhosidade tecnológica — para “construir uma ratoeira melhor” — devem mirar profissões como:
 
 - Consultor de construção
@@ -1923,6 +1958,7 @@ Racionais que desejam colocar em prática sua engenhosidade tecnológica — par
 ## Design Estrutural
 
 **Design estrutural** é a criação de planos, esquemas e modelos para construir grande parte da **infraestrutura e tecnologia complexa** que nos cerca.  
+
 Também envolve o design de **novos sistemas teóricos** nas ciências sociais, matemática, ciências físicas e até nos negócios e humanidades.
 
 Racionais com esse desejo de reorganizar o mundo com mais coerência se destacarão em cargos como:
@@ -1959,25 +1995,23 @@ Racionais com esse desejo de reorganizar o mundo com mais coerência se destacar
     
 - Físico teórico
     
-
----
-
 ## Racionais no Comando
 
 Racionais têm uma força de vontade tão poderosa para alcançar e avançar em suas carreiras que costumam chegar a **posições de liderança**.  
+
 E quando lideram, o fazem à sua maneira única.
-
----
-
 ### Ponto forte:
 
 Racionais são **agentes da mudança estratégica**. Estão sempre buscando formas novas e mais eficientes de fazer as coisas.  
+
 Frequentemente são pioneiros em inovação técnica e acadêmica.
 
 Definem suas metas com clareza, questionam regras e estruturas tradicionais, mantendo apenas o que realmente serve aos objetivos.  
+
 Com visão “raio-x” para ver fatores e coordenadas, são mestres em **planejar e implementar novos sistemas operacionais**.
 
 Entendem os sistemas e subsistemas a fundo, assim como os impactos de curto e longo prazo das mudanças que propõem.  
+
 Usam métodos de avaliação como **análise de sistemas** e **mapeamento de processos**, fornecendo às organizações uma visão poderosa do todo e estratégias eficazes para atingir os objetivos.
 
 ---
@@ -1985,6 +2019,7 @@ Usam métodos de avaliação como **análise de sistemas** e **mapeamento de pro
 ### Ponto fraco:
 
 Por focarem tanto em objetivos de longo prazo — a **“grande visão”** — Racionais podem não perceber os sentimentos das pessoas e parecer **distantes ou insensíveis**.  
+
 Têm pouca habilidade com demonstrações de apreço e geralmente são impacientes com erros — tanto os próprios quanto os alheios.
 
 Seu jeito técnico de falar, com vocabulário altamente especializado, pode dificultar a **comunicação pessoal**, o que pode **isolá-los** dos colegas.
@@ -1992,7 +2027,9 @@ Seu jeito técnico de falar, com vocabulário altamente especializado, pode difi
 ---
 
 Apesar dessas limitações interpessoais, Racionais são os **“líderes Visionários”** de Keirsey.  
+
 Têm a rara habilidade de **visualizar metas organizacionais**, criar estratégias e montar planos de ação.  
+
 São engenhosos, inovadores, eficientes e mestres em:
 
 - Construir cadeias de comando
@@ -2003,32 +2040,23 @@ São engenhosos, inovadores, eficientes e mestres em:
     
 
 Tudo isso para **enfrentar os desafios do progresso tecnológico.**
-
----
-
-**Ajustes não literais explicados:**
-
-- “To build a better mousetrap” foi adaptado como **“construir uma ratoeira melhor”**, expressão idiomática que simboliza criar soluções melhores — mantida para preservar o tom original.
-    
-- “Flow-charting” foi traduzido como **mapeamento de processos**, termo técnico mais conhecido no português do Brasil, equivalente ao uso de fluxogramas.
-    
-- “Big picture” traduzido como **“grande visão”**, expressão usada para se referir à perspectiva estratégica de longo prazo.
-
 ## Encontre Sua Vocação (Find Your Bliss)
 
 Joseph Campbell, o mitólogo que nos anos 1980 foi tema da série _The Power of Myth_ na TV pública americana, cunhou uma frase que poderia muito bem resumir a visão de David Keirsey sobre temperamento e carreira.  
+
 Campbell disse, em uma entrevista, que a chave para a satisfação profissional — e para o crescimento na carreira — é **“encontrar sua felicidade” (find your bliss)**.
 
 Hoje, Keirsey talvez chamasse isso de **“combinar talento com tarefa”**, e a linguagem moderna poderia colocar como “seguir seu próprio caminho”, mas o ponto é o mesmo:  
-**se alguém encontra uma carreira que utiliza seus melhores talentos, essa carreira será prazerosa e abrirá portas naturalmente.**
+
+**Se alguém encontra uma carreira que utiliza seus melhores talentos, essa carreira será prazerosa e abrirá portas naturalmente.**
 
 Mas... por onde começar a procurar?  
+
 É aí que a teoria de temperamento de Keirsey pode ajudar.  
+
 Sua grande contribuição para o direcionamento profissional está em identificar os **talentos inatos dos quatro temperamentos**, e assim, os tipos de trabalho que vêm mais naturalmente para cada um.
 
 Com esse conhecimento, as pessoas passam a ter uma ideia muito mais clara do tipo de trabalho que combina com elas — e, portanto, **uma chance muito maior de escolher a carreira certa.**
-
----
 
 ### Em resumo:
 
@@ -2040,9 +2068,6 @@ Com esse conhecimento, as pessoas passam a ter uma ideia muito mais clara do tip
     
 - **Racionais** são **estratégicos**, especialistas em visualizar o futuro de uma organização, liderar pesquisas e organizar o design de projetos em evolução.
     
-
----
-
 ## Que a Força Esteja com Você
 
 O nome de **Joseph Campbell** remete a outro exemplo famoso da mitologia moderna americana: não _Star Trek_, mas sim a franquia _Star Wars_ (1977), criada por **George Lucas**.  
@@ -2050,11 +2075,10 @@ Lucas afirmou que a trama de _Star Wars_ foi inspirada pelo livro de Campbell **
 
 Talvez até sem saber, Lucas tenha sido influenciado pela teoria dos **temperamentos**, e podemos dizer que os heróis de _Star Wars_ vêm em quatro formatos distintos:
 
----
-
 ### **Han Solo**
 
 É impulsivo, ousado, contrabandista freelancer, também piloto habilidoso, mestre em blasters e apostador profissional.  
+
 Escapando dos stormtroopers em Tatooine, Han fala como um verdadeiro **Artesão tático**:
 
 > “Ficaremos bem assim que saltarmos para o hiperespaço. Além disso, conheço algumas manobras. Vamos despistá-los. É aí que a diversão começa.”
@@ -2118,7 +2142,6 @@ Mas o ponto de _Star Wars_, e também de Keirsey em _Please Understand Me II_, �
     
 - E a força da **visão estratégica**
 
-
 # Apêndice: Os 16 Tipos
 
 ## Inventores (ENTP)
@@ -2153,7 +2176,7 @@ Tendem a ser líderes eficazes em projetos-piloto que testam sua **criatividade*
 
 São bons em **organizar sistemas humanos**, compreendendo rapidamente a **dinâmica política das instituições** e conseguindo entender as pessoas de dentro para fora (em vez de julgá-las superficialmente).
 
-Independentemente da profissão, Inventores demonstram uma **capacidade extraordinária de superar obstáculos**, mesmo os mais difíceis.  
+==Independentemente da profissão, Inventores demonstram uma **capacidade extraordinária de superar obstáculos**, mesmo os mais difíceis.  
 
 Diante de um “isso não pode ser feito”, o Inventor tende a responder: **“Eu consigo.”**
 
@@ -2169,3 +2192,39 @@ Podem ser **conversadores fascinantes**, capazes de explicar ideias complicadas 
 
 ---
 
+## Compositores (ISFP)
+
+**(Um dos quatro tipos Artesãos)**
+
+Compositores não apenas escrevem música — eles **criam todos os tipos de formas artísticas**.  
+Enquanto outros Artesãos se destacam com pessoas, ferramentas e entretenimento, os Compositores estão profundamente ligados aos **cinco sentidos**, o que lhes dá uma habilidade excepcional — aparentemente inata — de **trabalhar e brincar com as diferenças mais sutis** de cor, tom, textura, aroma e sabor.
+
+---
+
+Compositores são quase tão numerosos quanto os outros Artesãos (cerca de **5–7% da população**), mas, em geral, **são muito difíceis de perceber** e **profundamente incompreendidos**, provavelmente porque **evitam se expressar verbalmente**, preferindo **viver plenamente através dos sentidos**.
+
+Mas não se engane: Compositores são tão interessados quanto qualquer outro tipo em compartilhar sua **visão de mundo**, e alguns conseguem se expressar com grande eloquência por meio de sua **arte**.  
+No entanto, muitos Compositores bem-sucedidos permanecem praticamente **desconhecidos pelo grande público**, sua natureza reservada os tornando **quase invisíveis** para os outros.
+
+---
+
+Apesar de muitas vezes passarem longas horas a sós com suas criações, os Compositores são tão **impulsivos e brincalhões** quanto os demais Artesãos.  
+Eles **não ficam refletindo muito sobre suas ideias**; preferem agir **espontaneamente**, no **aqui e agora**, quando o impulso criativo os atinge — quase sempre com **pouca ou nenhuma preparação**.
+
+São **dominados pelo ato de criar**, como se fossem arrastados por um redemoinho.  
+A criação artística se torna seu mestre, e eles **sentem-se obrigados a obedecer**.  
+Compositores pintam, esculpem, escrevem melodias, desenham roupas, inventam receitas — simplesmente **porque sentem vontade**.
+
+---
+
+Presos a essas ações físicas, **se absorvem completamente na arte**, muitas vezes **ignorando o cansaço ou a dor** que o trabalho possa causar.  
+São também especialmente **sensíveis ao sofrimento dos outros**, e muitos demonstram grande **espírito filantrópico**, buscando aliviar o infortúnio e a angústia das pessoas.
+
+---
+
+Alguns Compositores têm **afinidade especial com crianças**, como se existisse uma ligação natural de simpatia e confiança.  
+Outros têm uma ligação semelhante com **animais**, até mesmo com animais selvagens, e muitos sentem um **afeto instintivo pela natureza e vida ao ar livre**.
+
+---
+
+**Retrato no cinema:** _Wolfgang Amadeus Mozart_ (Tom Hulce) no filme **Amadeus**
