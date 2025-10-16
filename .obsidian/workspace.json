@@ -97,7 +97,8 @@
               "title": "Outline of Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -272,11 +273,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 838.5
+    "width": 942.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,13 +297,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "36ddfeaf58f2a178",
+  "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
+    "00.Notes/Insight Carreiras pra ENTP.md",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
-    "00.Notes/Insight Carreiras pra ENTP.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Planejamento próximos passos.md",
     "01.Assets/Anexos/Pasted image 20251016095233.png",
@@ -344,7 +345,6 @@
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise/Books",
-    "Readwise",
     "01.Assets/Untitled 1.canvas",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Untitled 2.canvas",
