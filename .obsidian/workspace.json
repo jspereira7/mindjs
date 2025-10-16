@@ -6,32 +6,7 @@
       {
         "id": "f6a0d26bde8766a1",
         "type": "tabs",
-        "dimension": 42.86764705882353,
         "children": [
-          {
-            "id": "5519c95d127ea0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Planejamento próximos passos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento próximos passos"
-            }
-          },
           {
             "id": "88b5dbbd1a338a74",
             "type": "leaf",
@@ -55,17 +30,9 @@
               "icon": "lucide-file",
               "title": "Tradução Livro People Patterns Pt-Br"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "18263feb80eb9dbb",
-        "type": "tabs",
-        "dimension": 57.132352941176464,
-        "children": [
+          },
           {
-            "id": "d385e2536944e60d",
+            "id": "5ae888a7d7e846e9",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -159,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 354.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -333,7 +300,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,9 +322,12 @@
   },
   "active": "88b5dbbd1a338a74",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20251015200656.png",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
+    "00.Notes/Planejamento próximos passos.md",
+    "01.Assets/Anexos/Pasted image 20251016095233.png",
+    "01.Assets/Anexos/Pasted image 20251016095153.png",
+    "01.Assets/Anexos/Pasted image 20251015200656.png",
     "01.Assets/Anexos/Pasted image 20251015182606.png",
     "01.Assets/Anexos/Pasted image 20251015175902.png",
     "01.Assets/Anexos/Pasted image 20251015143242.png",
@@ -365,12 +335,8 @@
     "01.Assets/Anexos/Pasted image 20251015123813.png",
     "01.Assets/Anexos/Pasted image 20251015112945.png",
     "01.Assets/Anexos/Pasted image 20251015110713.png",
-    "00.Notes/Planejamento próximos passos.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Octagram 4.1.md",
-    "01.Assets/Anexos/Pasted image 20251014114718.png",
-    "01.Assets/Anexos/Pasted image 20251014114350.png",
-    "01.Assets/Anexos/Screenshot 2025-10-14 at 11.41.52.png",
     "00.Notes/Insights Livro Hábitos Atomicos.md",
     "00.Notes/Untitled.md",
     "00.Notes/Ana Vitoria - Tipagem.md",

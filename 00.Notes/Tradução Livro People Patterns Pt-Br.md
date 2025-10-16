@@ -83,7 +83,7 @@ Mas primeiro as pessoas precisam desenvolver o que gosto de chamar de _Foursight
 
 Ou, como os Beatles disseram em outra grande canção, tanto “_within you and without you_” — “dentro de você e fora de você”.
 
-## Capítulo 1: Classificando as coisas
+# Capítulo 1: Classificando as coisas
 
 Ao chegar à escola de bruxaria de Hogwarts, e antes de se sentar para o banquete de boas-vindas, Harry Potter e todos os outros alunos do primeiro ano (na maravilhosa série de romances _Harry Potter_ de J.K. Rowling) são convidados a participar do sério e assustador negócio da Cerimônia de Seleção.
 
@@ -227,7 +227,7 @@ Decida entre a resposta **a** ou **b** e marque um sinal de verificação ao lad
 ![[Pasted image 20251015112945.png]]
 
 ---
-## Temperamentos e Tipos
+### Temperamentos e Tipos
 
 Seu temperamento é indicado pelas duas letras escritas em uma das grandes caixas na parte inferior do formulário de respostas. Você deve ser um _SP_, um _SJ_, um _NF_ ou um _NT_. 
 
@@ -272,7 +272,7 @@ Na década de 1950, Isabel Myers deu continuidade ao trabalho de Jung sobre pers
 
 No sistema Myers-Briggs, as letras representam os seguintes elementos da personalidade:
 
-## O Que as Palavras Significam
+### O Que as Palavras Significam
 
 E = Extroversão     ou I = Introversão  
 S = Sensação      ou N = Intuição  
@@ -345,7 +345,7 @@ Para aqueles leitores familiarizados com a terminologia de Jung/Myers e que usam
 
 ---
 
-## A Matriz dos Temperamentos
+### A Matriz dos Temperamentos
 
 Mas sejamos francos: geral ou específica, precisa ou imprecisa, nova ou antiga, todas essas letras e palavras são difíceis de lembrar e manter em ordem. 
 
@@ -423,7 +423,7 @@ Há várias maneiras de prosseguir. Alguns leitores podem preferir ler direto, d
 
 Mas lembre-se: somos todos diferentes, e lemos livros assim como fazemos quase tudo o mais — de acordo com o nosso temperamento.
 
-## Capítulo 2: Retratos do Temperamento
+# Capítulo 2: Retratos do Temperamento
 
 Era uma vez, na terra de _Oz_, quatro personagens partiram em uma jornada estranha e difícil. Cada um deles carecia de algo essencial na vida, e cada um queria encontrar o poderoso Mago de _Oz_ e pedir sua ajuda.
 
@@ -915,9 +915,9 @@ Em outras palavras, o Leão sempre foi uma criatura poderosa e magnífica, e mos
 
 O ponto é que nosso temperamento está sempre conosco, e deixa sua marca em tudo o que dizemos e fazemos, mesmo que tenhamos perdido o rumo ou a confiança em nosso estilo pessoal. Artesão, Guardião, Idealista ou Racional — cada um de nós vive de acordo com seu próprio padrão, e todos nós nos daremos melhor na estrada de tijolos amarelos se começarmos a ver essas diferenças como forças, e não como fraquezas.
 
-## Capítulo 3: Namoro e Acasalamento
+# Capítulo 3: Namoro e Compatibilidade
 
-### Falta capitulus anteriores
+### Falta capitulus anteriores aqui 
 
 ### Idealistas e Racionais — _A Bela e a Fera_
 
@@ -977,10 +977,1195 @@ Guardiões e Idealistas ambos querem fazer _o que é certo_ e são tipos prestat
 **Fraqueza:**  
 Os Guardiões podem considerar a busca dos Idealistas por autoconhecimento como volúvel e autoindulgente — uma mera afetação.
 
+### Página 19
+
+### Guardião–Idealista (continuação)
+
+E os Guardiões podem se sentir profundamente magoados e frustrados quando os Idealistas pedem que o relacionamento se torne mais profundo e significativo, sem ter a menor ideia de como proceder — e seus esforços redobrados para estabilizar o casamento acabam piorando as coisas.
+
+---
+
+### Idealista–Idealista
+
+**Força:**  
+Dois Idealistas falam a mesma linguagem de ideias e imaginação — _o que é possível_ — e ambos veem o mundo como um lugar ético, onde fazer _o que é certo_ é a parte nobre. Podem encontrar profunda satisfação em compartilhar o mundo interior um do outro e explorar o desenvolvimento pessoal mútuo, cada um ajudando o outro ao longo do caminho da autorrealização.
+
+**Fraqueza:**  
+Por outro lado, se o casal for muito parecido em suas preocupações éticas ou buscar as mesmas metas espirituais por muito tempo, pode se tornar excessivamente voltado para a jornada interior e acabar se exaurindo no processo. Além disso, dois Idealistas podem criar um vínculo maravilhosamente empático por um tempo, mas eventualmente podem começar a invadir a privacidade psíquica um do outro. Estar constantemente “sob a pele” um do outro pode resultar em irritação mútua.
+
+---
+
+### Idealista–Artesão
+
+**Força:**  
+Idealistas e Artesãos, embora opostos em ação e expressão — entre o _dizer_ e o _fazer_ —, ainda podem se divertir muito juntos. Os Idealistas adoram a espontaneidade dos Artesãos, a maneira instintiva e artística como vivem o momento. A coragem e a generosidade dos Artesãos também inflamam a imaginação romântica dos Idealistas, que projetam neles sua própria imagem de líder altruísta ou poeta inspirado.  
+Os Artesãos, por sua vez, sentem-se atraídos pelo entusiasmo e romantismo dos Idealistas, que em muitos aspectos se assemelham (pelo menos na superfície) à sua própria excitabilidade e sensualidade.
+
+**Fraqueza:**  
+A diversão e os jogos dos Artesãos raramente mantêm os Idealistas satisfeitos por muito tempo em um casamento. Os Idealistas geralmente querem mais do que apenas um companheiro de brincadeiras; tentarão conduzir o _que é_ dos Artesãos para as águas mais profundas do _que é possível_, especialmente rumo a uma exploração de crescimento pessoal. Infelizmente, os Artesãos têm pouco interesse em discutir a vida interior ou o crescimento espiritual. Assim, quando os Idealistas começam a falar sobre “autorrealização”, “consciência superior” ou “despertar espiritual”, os Artesãos não entendem realmente o que querem dizer — e podem até se sentir diminuídos por serem mais físicos do que espirituais.
+
+---
+
+### Página 20
+
+### Racional–Racional
+
+**Força:**  
+Dois Racionais não têm problema em se estimular mutuamente com novas ideias e métodos, já que ambos falam a linguagem do _que é possível_ — o mundo das teorias e conjecturas — e estão sempre ocupados em descobrir _o que funciona_ de forma mais eficiente para alcançar o que desejam.  
+São propensos a se interessar pelas pesquisas e descobertas um do outro, e quando encontram tempo para se reunir, podem ter discussões revigorantes, lógicas, críticas e competitivas.
+
+**Fraqueza:**  
+Essa competição pode se tornar acirrada às vezes — os Racionais podem ir direto “à jugular” em debates acalorados. Mas o maior problema nesses casamentos é quase o oposto: absorvidos em seus próprios mundos mentais, ambos esquecem de perceber o outro, dobrando a distância a ser superada no relacionamento. Racionais casados com Racionais precisam aprender a se desligar do trabalho e a se encontrar em um nível mais pessoal.
+
+---
+
+### Racional–Guardião
+
+**Força:**  
+Embora sejam opostos diametrais, Racionais e Guardiões ainda podem construir casamentos sólidos. Acima de tudo, os parceiros Guardiões oferecem aos Racionais um presente inestimável: um centro estável e confiável no lar.  
+Imersos em suas ideias e especulações sobre _o que é possível_, os Racionais frequentemente perdem o contato com a vida familiar cotidiana, e precisam de um Guardião, com seu olhar sobre _o que é_, para intervir e manter as coisas funcionando.  
+Os Guardiões também garantem que os Racionais mantenham uma vida social com família e amigos. Os Racionais precisam ser lembrados de se relacionar com pessoas, e os Guardiões adoram ajudar seus parceiros a lembrar-se das obrigações sociais.
+
+**Fraqueza:**  
+Se pressionados demais, os lembretes dos Guardiões podem soar como implicância, e os Racionais se irritam com a ideia de serem instruídos sobre _o que é certo_. Um problema ainda maior é que a maioria dos Guardiões — por mais inteligentes que sejam — tem pouco interesse no mundo abstrato dos Racionais, de ciência, tecnologia e estratégia.  
+Os Racionais podem não precisar compartilhar muitas ideias com seus parceiros colegas, especialmente se puderem discutir o seu trabalho com os colegas. Uma vida social, familiar e sexual satisfatória pode ser suficiente para eles. Mas os Racionais casados ​​com Guardiões podem sentir que estão perdendo alguma conexão vital.
+
+### O Projeto Pigmaleão
+
+Quero encerrar este capítulo com um resumo de uma das maiores fontes de conflito em **todos** os casamentos — o que Keirsey chama de _“Projeto Pigmaleão.”_
+
+Na mitologia grega, um jovem escultor brilhante chamado Pigmaleão decide esculpir uma estátua de sua mulher ideal, incorporando toda a graça e virtude femininas. 
+
+Por meses ele trabalha com toda a sua habilidade, moldando a mais bela estátua já concebida pelo homem — uma figura tão perfeita que Pigmaleão se apaixona perdidamente por sua própria criação.  
+
+Logo, porém, ele fica desesperadamente infeliz, pois o mármore sem vida não pode retribuir o calor de seu amor. Ele de fato moldou sua mulher ideal, mas o resultado é apenas sua própria frustração e desespero.
+
+É uma história bastante familiar. Frequentemente nos apaixonamos por pessoas bem diferentes de nós — e, como vimos, achamos essas diferenças atraentes —, mas, uma vez casados, começamos a tentar transformá-las em nossa ideia do que _deveriam ser_.  
+
+A licença do casamento, como diz Keirsey, parece quase uma licença de escultor, que nos dá permissão para esculpir, tentando tornar nossos parceiros versões mais “aperfeiçoadas” de si mesmos.  
+
+Não que queiramos que abandonem completamente sua própria natureza — apenas queremos que sejam mais parecidos conosco, já que todos presumimos que nosso modo particular de viver é o melhor para todos.
+
+O que deixamos de perceber, porém, é que nossos parceiros não podem seguir nosso caminho como se fosse o deles, pelo menos não sem violar sua própria personalidade.  
+
+O Artesão que vive por impulso não está realmente interessado em obedecer à autoridade Guardiã, em se perder na introspecção Idealista, ou em seguir a lógica Racional. E assim é com todos os temperamentos. Podem até tentar adotar outros estilos para agradar seus parceiros — por um tempo —, mas nunca se tornarão pessoas diferentes. Um leopardo não muda suas manchas.
+
+Embora não possamos ter sucesso em transformar nossos parceiros em versões de nós mesmos, todos parecemos querer tentar — e isso causa grande dano aos nossos casamentos. Ao “esculpir” em nosso cônjuge, estamos, na verdade, dizendo:  
+“Você não é bom o bastante. Quero você diferente do que é.”
+
+Ainda assim, considere a ironia: se realmente tivéssemos sucesso em remodelar nossos entes queridos, seríamos outra coisa senão insatisfeitos por tê-los transformado em cópias de nós mesmos?  
+
+Em outras palavras, se vencermos a batalha — e é uma batalha — para moldar nossos parceiros, não perdemos grande parte da satisfação que vem dos relacionamentos? Ou nosso desejo de controlar é mais satisfatório do que simplesmente aceitar e amar as pessoas como são?
+
+Todos os temperamentos tendem a agir como Pigmaleão:
+
+- **Artesãos** incentivam seus parceiros a relaxar, se divertir e correr alguns riscos.
+    
+- **Guardiões** trabalham para que seus parceiros levem as responsabilidades mais a sério e respeitem mais a autoridade.
+    
+- **Idealistas** tentam ensinar seus parceiros a serem mais reflexivos e sensíveis na vida pessoal.
+    
+- **Racionais** tentam argumentar com seus parceiros para que sejam mais lógicos no pensamento e mais eficientes nas ações.
+    
+
+E assim, se aceitarmos que os Projetos Pigmaleão são uma parte natural de todo casamento, nossa tarefa deve ser manter essa “manipulação” o mais amorosa, compreensiva e bem-humorada possível.  
+
+Se não conseguirmos — se recorrermos à coerção, reclamação, sermão ou intimidação — devemos esperar que nossos parceiros se defendam, e o que pode ser chamado de “batalha dos temperamentos” se inicia, tornando-se um conflito muito mais sério do que a “batalha dos sexos”.
+
+Mas o que aconteceria, pergunta Keirsey, se pudéssemos reconhecer essa necessidade de “moldar” nossos parceiros, fazer uma pausa toda vez que a oportunidade surgisse e conter nossa língua?  
+
+Então talvez — só talvez — pudéssemos nos lembrar do que realmente nos atraiu a eles no começo. E, até certo ponto, diferentes temperamentos poderiam viver felizes para sempre... talvez.
+
+# Capítulo 4: Pai e Filho (Criação de Filhos)
+
+# Capítulo 5: Talento e Carreira
+
+Estreando em 8 de setembro de 1966, com cinco séries de televisão, nove filmes derivados — e ainda firme e forte — _Star Trek_, de Gene Roddenberry, provou ser uma das sagas mais populares e duradouras da história do entretenimento. As razões para esse sucesso são muitas, mas duas se destacam aqui. Certamente, a interação entre personalidades fortes e distintas nas diversas tripulações tem sido um deleite ao longo dos anos. Mas também é fascinante ver esses diferentes tipos de personagens, todos altamente competentes em seus trabalhos, unindo seus diferentes talentos em um esforço comum.
+
+Agora, os estilos de temperamento em _Star Trek_ não estão por toda parte, mesmo que a Frota Estelar empregue diversas raças alienígenas e as viagens nos levem a todos os quadrantes da galáxia. De fato, se olharmos para padrões de personalidade entre os diferentes elencos e tripulações, os quatro temperamentos de Keirsey surgem com nitidez, quase como se estivessem escritos diretamente nas descrições dos personagens.
+
+- **Artesãos** são abundantes em _Star Trek_ — afinal, trata-se de "ousadamente ir onde nenhum homem jamais esteve." Artesãos são os aventureiros das histórias: impulsivos, engenhosos, propensos a assumir riscos, não seguem regras e regulamentos à risca, e geralmente têm um olhar atento para o sexo oposto. O original foi o **Capitão James T. Kirk**, explorador, combatente, amante, e uma lenda por conseguir pensar rápido e usar alguma manobra ou artimanha para salvar sua nave e tripulação de algum desastre certo. Mas há também o mecânico genial Scotty, a sensual e destemida especialista em armamentos Tasha Yar, o piloto de elite Tom Paris, o astuto empreendedor Quark, e o mais novo Artesão, o impetuoso, insubordinado e bondoso **Capitão Jonathan Archer**.
+    
+- **Guardiões** atuam como um contrapeso estabilizador a esses cowboys espaciais de _Star Trek_. Guardiões costumam ser os médicos de bordo e oficiais de segurança, preocupados em defender a tripulação de perigos e doenças. São pessoas cautelosas e tradicionais que respeitam as regras e geralmente são um pouco desajeitadas perto do sexo oposto. **Dr. Leonard McCoy** ("Magro") — o médico ranzinza, sensato, com senso comum do interior — definiu esse tipo, mas a protetora **Beverly Crusher** e o meticuloso e sofredor **EMH** seguem a mesma linha. Entre os oficiais de segurança, o padrão é o severo, ritualístico e honrado **Sr. Worf**, mas pense também no rude e desconfiado **Odo**, e no novo Guardião, o certinho **Tenente Malcolm Reed**.
+    
+- **Idealistas** são a fonte de bem-estar emocional, espiritualidade e diplomacia pessoal nas histórias. A primeira Idealista em _Star Trek_ foi a conselheira da nave **Deanna Troi**, uma empata cuja habilidade de ler os sentimentos dos outros trouxe uma nova dimensão de personalidade para a _Nova Geração_. Troi foi acompanhada por **Guinan**, com sua sabedoria e presciência sem idade, depois por **Benjamin Sisko**, em sua jornada de iluminação, por **Julian Bashir**, com seu romantismo suave e amor pela humanidade, por **Chakotay**, com suas visões espirituais, por **Kes**, o espírito gentil e curadora (que evolui para uma forma de luz), e finalmente pelo Idealista mais recente, **Dr. Phlox**, um místico alegre que cura seus pacientes com medicina exótica e uma dose saudável de entusiasmo.
+    
+- **Racionais** representam a voz da razão e do conhecimento tecnológico em _Star Trek_. O protótipo é, claro, **Sr. Spock**, o oficial de ciências vulcano famoso por sua observação calma, dados precisos e lógica impecável. Mas outros Racionais incluem o sempre curioso androide cientista **Data**, o remoto e analítico **Capitão Jean-Luc Picard**, e a focada **Capitã Kathryn Janeway**, uma brilhante física cujo herói é **Leonardo da Vinci**. Há também a engenheira-chefe **B’Elanna Torres**, a eficiente e impiedosa **7 de 9**, o austero e autodisciplinado **Tuvok**, e a mais nova Racional, **T’Pol**, outra oficial de ciências vulcana logicamente quieta, designada para observar o que seu povo chama de seres humanos “**primitivos e irracionais**”.
+    
+
+Aventureiros, Defensores, Conselheiros e Cientistas: cada tripulação de _Star Trek_ nos mostra quatro tipos de personalidade vivendo e trabalhando juntos nas missões mais desafiadoras e perigosas. Sua sobrevivência não depende apenas dos laços de amizade, mas das contribuições de seus quatro tipos de talento.
+
+## **Temperamento, Talento e Trabalho**
+
+Os termos de David Keirsey para os quatro tipos de talento têm um certo tom militar à la Frota Estelar, provavelmente porque ele mesmo serviu nas Forças Armadas, como piloto de caça dos Fuzileiros Navais no Pacífico durante a Segunda Guerra Mundial. 
+
+Na visão de Keirsey, os quatro estilos de temperamento demonstram consistentemente quatro tipos gerais de talento, descritos em termos militares como: 
+- ***Tático, Logístico, Diplomático e Estratégico.*** 
+  Keirsey ainda argumenta que esses quatro talentos tendem a se adequar de forma notavelmente boa ao seu respectivo tipo de trabalho. Veja a correspondência abaixo:
+
+![[Pasted image 20251016095153.png]]
+
+![[Pasted image 20251016095233.png]]
+
+Em termos gerais, isso significa que:
+
+- **Artesãos** têm talento para o trabalho **tático**, usando uma variedade de ferramentas e operando todos os tipos de equipamentos para fazer as coisas acontecerem **agora mesmo**.
+    
+- **Guardiões** se destacam no trabalho **logístico**, lidando com suprimentos e estabelecendo cronogramas para estabilizar operações.
+    
+- **Idealistas** brilham no trabalho **diplomático**, ajudando pessoas no caminho do desenvolvimento pessoal e na comunicação mais eficaz.
+    
+- **Racionais** se destacam no trabalho **estratégico**, elaborando planos e construindo tecnologias para alcançar objetivos bem definidos.
+    
+
+Mas os quatro temperamentos não apenas se diferenciam pelo tipo de trabalho em que seu talento natural é mais aproveitado — eles também encontram sua maior **satisfação profissional** ao fazer aquilo que sabem fazer melhor. 
+
+Assim, Artesãos se realizam ao aplicar suas habilidades físicas e improvisar em ação. 
+
+Guardiões sabem que estão contribuindo ao máximo quando administram bens e serviços e fazem cumprir regras. 
+
+Idealistas se sentem inspirados quando guiam o crescimento pessoal e ajudam pessoas a trabalharem juntas. 
+
+E Racionais sentem sua maior realização quando coordenam operações e projetam meios e métodos.
+
+É claro que essas conexões entre temperamento, talento e trabalho se sobrepõem um pouco, já que cada temperamento certamente pode desempenhar mais de um tipo de função. 
+
+Por exemplo, engenheiros Racionais, verdadeiros magos em laboratórios ou em pranchetas de desenho, também podem ser muito bons com ferramentas e construção de invenções. 
+
+Da mesma forma, construtores Artesãos, craques em serras elétricas e soldas, podem se sair bem ao desenhar plantas arquitetônicas simples. Embora funções estratégicas e táticas sejam diferentes, uma pessoa pode, com certeza, tornar-se competente em ambas.
+
+Competente, mas não necessariamente especialista. 
+
+Por quê? Porque é preciso mais do que esforço ou prática para se tornar **realmente** especialista em algo. 
+
+Na maioria dos casos, a expertise (brilho, virtuosismo) exige ter um talento natural naquela área, além da oportunidade e da motivação para desenvolver esse talento. 
+
+É claro, nem todos nós podemos esperar por um trabalho que aproveite nosso melhor talento — precisamos ganhar a vida. 
+
+E nem todos vão dedicar as muitas horas de prática necessárias para tirar o máximo proveito de um talento inato. 
+
+Mas, não importa o tipo ou nível do trabalho que aceitemos, o **desejo de fazer aquilo que vem naturalmente** é forte dentro de nós.
+
+---
+
+## **Artesãos: Fazendo Acontecer**
 
 
-## Capítulo 4: Pai e Filho
 
-## Capítulo 5: Talento e Carreira
 
-## Apêndice: Os 16 Tipos
+
+Isso significa que, quando um Guardião é contratado como engenheiro, ele ou ela trabalhará duro por longas horas e fará um bom trabalho, mas dificilmente buscará promoção para alguma função administrativa no departamento de engenharia. Por outro lado, quando um engenheiro Racional é promovido a chefe do departamento, ele ou ela pode se orgulhar do avanço, e talvez com o tempo se torne um administrador decente, mas muito provavelmente, mais cedo ou mais tarde, perderá o interesse e desejará voltar ao laboratório — mesmo que para ganhar menos.
+
+Se possível, então, nossa melhor e mais satisfatória escolha de carreira é aquela que se ajusta ao nosso maior talento. E nosso talento está intrinsecamente ligado ao nosso estilo de temperamento. Então vamos observar mais de perto os quatro tipos de talento e os diferentes tipos de trabalho que se encaixam com os quatro temperamentos.
+
+---
+
+### **Talento Artesão**
+
+O “talento tático” é o mais visível dos quatro tipos de talento, porque táticas são manobras que melhoram a posição **imediata** de uma pessoa — que fazem as coisas acontecerem no **aqui e agora**. Ágeis no corpo e na mente, os Artesãos realmente não têm rivais quando se trata de movimentos táticos. Primeiro, têm a habilidade inata de aprender a usar qualquer ferramenta, instrumento ou equipamento que chame sua atenção — praticam até dominá-lo, e então o utilizam para alcançar os resultados que desejam.
+
+Mas Artesãos também são excelentes **improvisadores**. Estão sempre atentos a uma nova abordagem, sempre buscando alguma brecha que lhes dê uma vantagem em ação, ou uma vantagem sobre a concorrência. Em outras palavras, os Artesãos sempre mantêm o olhar fixo no lugar aonde querem chegar, e **instintivamente** descobrem a forma mais rápida de chegar lá.
+
+---
+
+### **Educação do Artesão**
+
+Na escola, os Artesãos se saem melhor em programas de artes, escolas técnicas ou em aulas de treinamento técnico onde podem praticar movimentos e técnicas com várias ferramentas, instrumentos, máquinas etc., que despertam seu interesse. Artesãos geralmente **ficam entediados** quando precisam sentar e estudar matérias acadêmicas, como ciências humanas ou teóricas. Mas dê a eles a chance de trabalhar livremente com as mãos e com os sentidos, e eles ganham vida.
+
+Lembre-se, no entanto, de que “**arte**” não deve se limitar às belas artes, como pintura e escultura, ou às artes performáticas, como atuação e dança. Na verdade, inclui também **artes atléticas, culinárias, marciais, mecânicas e industriais**, sem falar do que se chama de **“a arte de negociar”** no mundo dos negócios.
+
+---
+
+### **Carreiras e Profissões para Artesãos**
+
+Existem quatro áreas gerais de carreira que fazem bom uso desse talento para manobras táticas, e que, portanto, se encaixam com perfeição para os Artesãos (“T” de Tático):
+
+- **Marketing**, no sentido mais amplo — fazer o que for necessário para avançar nos interesses comerciais — é algo natural para muitos Artesãos.  
+    No governo, nos negócios, nos esportes, no entretenimento etc., esses Artesãos sabem como aproveitar oportunidades e conquistar a confiança das pessoas, usando todas as suas habilidades táticas para se posicionarem — ou posicionar sua empresa, clientes, produtos etc. — da melhor forma possível. Artesãos que são bons nisso, e que **gostam** do jogo duro e competitivo da “arte da negociação”, vão se destacar em funções como:
+
+**Publicidade executiva**  
+**Promotor de concertos**  
+**Negociador de contratos**  
+**Recrutador corporativo**  
+**Empreendedor**  
+**Lobista**  
+**Diretor de marketing**  
+**Gerente de promoções**  
+**Especialista em relações públicas**  
+**Corretor de imóveis**  
+**Representante de vendas**  
+**Produtor de shows**  
+**Organizador de eventos especiais**  
+**Corretor da bolsa (investimentos de alto risco)**  
+**Agente de talentos/esportes**  
+**Agente de viagens**
+
+---
+
+**Trabalho Manual (Toolwork)** está relacionado ao manuseio habilidoso de ferramentas, utensílios, instrumentos, máquinas, veículos etc. Muitos Artesãos são naturalmente atraídos por esses dispositivos e muitas vezes aprendem a usá-los com uma maestria inacreditável. Artesãos que têm esse talento para trabalhar com “ferramentas do ofício” devem direcionar-se a empregos como:
+
+- Técnico em conserto de eletrodomésticos
+    
+- Carpinteiro
+    
+- Técnico em informática
+    
+- Operário da construção civil
+    
+- Cozinheiro/Barman
+    
+- Bombeiro/Paramédico
+    
+- Operador de equipamentos pesados
+    
+- Mecânico de máquinas/Metalúrgico
+    
+- Mecânico (carros, aviões etc.)
+    
+- Músico
+    
+- Piloto/Instrutor de voo
+    
+- Encanador/Eletricista
+    
+- Atirador de elite da polícia
+    
+- Oleiro/Tecelão
+    
+- Cirurgião
+    
+- Caminhoneiro
+    
+
+---
+
+**Entretenimento** envolve fazer um show de algum tipo com o objetivo de dar prazer aos outros. Muitos Artesãos extrovertidos sentem-se à vontade no palco, onde quer que estejam, e adoram estar em destaque, improvisando no momento para encantar o público. Artesãos que têm esse interesse por pessoas e esse tipo de teatralidade espontânea no sangue mostrarão verdadeiro talento para empregos como:
+
+- Diretor de atividades
+    
+- Ator/Comediante
+    
+- Instrutor de aeróbica/fitness
+    
+- Leiloeiro
+    
+- Porta-voz corporativo
+    
+- DJ (Disc Jockey)
+    
+- Mestre de cerimônias
+    
+- Demonstrador de novos produtos
+    
+- Apresentador de telejornal
+    
+- Diretor de resort
+    
+- Restaurateur (Dono/gerente de restaurante)
+    
+- Treinador de equipe de vendas
+    
+- Cantor/Dançarino
+    
+- Locutor esportivo
+    
+- Apresentador de talk show
+    
+- Guia turístico
+    
+
+---
+
+**Arte (Artwork)** é o trabalho de design artístico, ou seja, a união de elementos sensoriais, ingredientes, fragmentos (sons, formas, cores, texturas, sabores, movimentos etc.) e a combinação deles em arranjos atraentes ou marcantes — também chamados de “obras de arte”. Artesãos que têm um olhar apurado para esse tipo de composição artística poderão expressar sua criatividade com muito prazer em profissões como:
+
+- Diretor de arte
+    
+- Cabeleireiro/Estilista
+    
+- Chef
+    
+- Coreógrafo
+    
+- Artista comercial
+    
+- Compositor/Autor de músicas
+    
+- Designer de moda/fantasias
+    
+- Diretor de cinema/teatro
+    
+- Editor de vídeo/filme
+    
+- Designer gráfico
+    
+- Decorador de interiores
+    
+- Romancista/Dramaturgo/Poeta
+    
+- Pintor/Escultor
+    
+- Fotógrafo
+    
+- Cenógrafo
+    
+- Técnico de som de estúdio
+    
+
+---
+
+### Artesãos no Comando (Artisans in Charge)
+
+Seja qual for a carreira que escolham, quando os Artesãos acabam assumindo cargos de liderança, eles comandam à sua maneira.
+
+**Ponto forte**: Como gerentes, os Artesãos são tanto táticos quanto práticos. Impacientes com papeladas rotineiras, manutenção de registros e definição de metas globais, eles procuram escapar do escritório e lidar com os problemas e emergências das operações do dia a dia.  
+Os gerentes Artesãos geralmente sabem exatamente o que está acontecendo em seu ambiente de trabalho. Observam de perto as pessoas e operações, e com um olhar atento, rapidamente detectam falhas à medida que elas ocorrem — e farão o que for preciso para corrigi-las. São adaptáveis, mente aberta, fáceis de lidar e receptivos a novas ideias e mudanças de posição conforme surgem fatos e situações novas.  
+Desinteressados em lutar contra o sistema ou julgar seus funcionários, os gerentes Artesãos se destacam ao improvisar ações e tomar decisões imediatas, usando as pessoas e os recursos à mão para apagar incêndios e retomar o funcionamento das operações.
+
+**Ponto fraco**: Artesãos tendem a ser impulsivos, agindo no calor do momento, o que pode torná-los gerentes imprevisíveis. Vivendo intensamente o presente, podem ser negligentes com horários e cronogramas, e às vezes não estão preparados quando a situação exige planejamento prévio — podendo surpreender negativamente seus funcionários. 
+
+Como as demandas atuais receber toda a sua atenção, gerentes Artesãos podem esquecer compromissos e decisões anteriores, às vezes falham em cumprir acordos e podem até esquecer de avisar sobre mudanças de tarefa ou cronograma.
+
+**A verdade é que uma organização formada por Artesãos habilidosos é incomparável em situações de crise que exigem suas incríveis habilidades táticas.** Keirsey os chama de “Solucionadores de Problemas” (_Troubleshooters_) e aconselha que permaneçam móveis e sejam usados principalmente para colocar as operações em funcionamento e resolver problemas rapidamente quando surgirem.
+
+---
+
+## Guardiões: Cuidando do Armazém
+
+### Talento do Guardião
+
+O grande talento dos Guardiões está na **“logística”**, ou seja, no cuidado e gerenciamento de suprimentos e cronogramas. Rotinas logísticas podem não ser tão chamativas quanto manobras táticas, mas são igualmente importantes para manter o ambiente de trabalho funcionando com eficiência. Para que qualquer empresa ou instituição funcione bem — especialmente ao realizar tarefas difíceis — é preciso estabelecer e cumprir prazos, definir e monitorar procedimentos, publicar e aplicar políticas. Também é necessário reunir, armazenar, inventariar e distribuir suprimentos; além de cuidar de impostos, folha de pagamento e benefícios; garantir que os equipamentos estejam em boas condições; proteger propriedades e garantir um ambiente de trabalho seguro para as pessoas.
+
+Com seu forte respeito pela autoridade, crença em regras e regulamentos, e um olhar afiado para colocar “tudo em seu devido lugar”, **os Guardiões são indispensáveis para lidar com todas essas tarefas.**
+
+---
+
+### Educação dos Guardiões
+
+Guardiões geralmente se saem bem na escola e costumam cursar o ensino superior para obter diplomas e certificações — embora muitos encontrem suas lições mais valiosas na “escola da vida”.  
+Independentemente da área que escolham na faculdade, os Guardiões mantêm o foco nos benefícios práticos de aprender sobre negócios e comércio. Frequentam faculdades de administração (inclusive cursos noturnos), onde se destacam em habilidades de secretariado e funções administrativas, e seguem para departamentos de contabilidade e administração empresarial.  
+Muitos Guardiões ambiciosos também seguem para a faculdade de direito, onde tendem a se especializar em áreas como negócios, impostos e seguros.
+
+---
+
+## Carreiras e Profissões para Guardiões
+
+O talento logístico dos Guardiões — lidar com materiais e aplicar regras e cronogramas — se encaixa perfeitamente em quatro grandes áreas profissionais:
+
+---
+
+### Administração
+
+Administração é o trabalho de **gerenciar pessoas e dirigir operações**, mantendo um olho no desempenho das pessoas e o outro nas políticas e procedimentos que regem suas atividades.  
+Esse pode ser um trabalho difícil e ingrato, pois exige aplicar padrões ao trabalho das pessoas e apontar se estão ou não atingindo os resultados esperados.  
+**Guardiões que desejam assumir essa responsabilidade de supervisão se sairão muito bem em cargos como:**
+
+- Diretor esportivo
+    
+- Gerente de negócios
+    
+- Administrador municipal
+    
+- Supervisor de fábrica/planta
+    
+- Diretor funerário
+    
+- Empreiteiro geral
+    
+- Administrador hospitalar
+    
+- Juiz
+    
+- Maitre/diretor de restaurante
+    
+- Curador de museu
+    
+- Gerente de escritório
+    
+- Chefe de polícia/bombeiros
+    
+- Político
+    
+- Diretor escolar
+    
+- Sargento
+    
+- Gerente de supermercado
+    
+
+---
+
+### Regulação
+
+**Regulação** significa observar de perto pessoas, produtos e contas para garantir que irregularidades sejam identificadas e corrigidas, e que os padrões legais e tolerâncias da empresa sejam estritamente respeitados.  
+**Guardiões com atenção a controle de qualidade e conformidade regulatória devem considerar cargos como:**
+
+- Contador/Auditor
+    
+- Oficial de admissões/Secretário acadêmico
+    
+- Advogado (tributário, contratual, antitruste)
+    
+- Inspetor bancário
+    
+- Contador auxiliar (bookkeeper)
+    
+- Inspetor de obras
+    
+- Agente alfandegário
+    
+- Agente fiduciário (escrow officer)
+    
+- Inspetor da FDA/Saúde
+    
+- Especialista em gestão de subsídios
+    
+- Agente de imigração
+    
+- Avaliador de seguros
+    
+- Agente da Receita Federal (IRS)
+    
+- Técnico de laboratório
+    
+- Avaliador de imóveis
+    
+- Inspetor de controle de qualidade
+
+### Serviço & Suprimentos
+
+**Serviço & suprimentos** está relacionado a fornecer às empresas e seus funcionários os bens e serviços de que precisam — fundos, móveis, alimentos, materiais de escritório, moradia, equipamentos, limpeza, etc. — para manter o ritmo das operações e garantir que o trabalho seja feito corretamente.  
+Guardiões que se interessam por apoiar e abastecer instituições e atender às pessoas provavelmente terão sucesso em cargos como:
+
+- Banqueiro / Agente de empréstimos
+    
+- Conselheiro de crédito
+    
+- Agricultor / Pecuarista
+    
+- Comissário de bordo
+    
+- Gerente de serviços ao hóspede
+    
+- Bibliotecário
+    
+- Assistente jurídico (Paralegal)
+    
+- Farmacêutico
+    
+- Agente de compras
+    
+- Corretor de imóveis
+    
+- Recepcionista
+    
+- Vendedor(a)
+    
+- Professor(a)
+    
+- Secretário(a)
+    
+- Agente de transporte
+    
+- Estoquista
+    
+
+---
+
+### Segurança
+
+**Segurança** envolve proteger pessoas e propriedades: cuidar da saúde física e do bem-estar daqueles que precisam de cuidados, garantindo que seus lares, empresas e comunidades estejam seguras e protegidas.  
+Guardiões especialmente interessados em proteger pessoas e contribuir para seu bem-estar encontrarão seu lugar em funções como:
+
+- Agente de segurança de voo (Air marshal)
+    
+- Agente da patrulha de fronteira
+    
+- Agente penitenciário
+    
+- Dentista / Ortodontista
+    
+- Planejador patrimonial
+    
+- Exterminador
+    
+- Agente do FBI
+    
+- Fiscal de pesca e caça
+    
+- Agente de seguros
+    
+- Enfermeiro(a)
+    
+- Oftalmologista
+    
+- Fisioterapeuta
+    
+- Policial
+    
+- Promotor público
+    
+- Segurança
+    
+- Assistente social
+    
+
+---
+
+## Guardiões no Comando
+
+Independentemente da área de atuação, Guardiões frequentemente assumem **posições de liderança** — acabam “tocando o negócio” — e fazem isso com seus pontos fortes e fracos característicos.
+
+### Ponto forte:
+
+Com interesses profundamente enraizados em fornecimento de materiais, inspeção, manutenção e segurança — na **logística** — líderes Guardiões tendem a ter um efeito estabilizador e consolidante sobre suas organizações.  
+São bons em estabelecer rotinas, regras e protocolos, em elaborar cronogramas e prazos, e em acompanhar projetos até sua conclusão.  
+Podem ser líderes extremamente confiáveis e trabalhadores extraordinariamente dedicados, minuciosos, metódicos, confiáveis e organizados.  
+Valorizam contratos, regulamentos administrativos e tradições institucionais sólidas. Pessoas sob a gestão de Guardiões sabem que podem contar com a constância e familiaridade do ambiente. Sabem que o local de trabalho será seguro e que políticas e pessoal serão bem gerenciados sob o olhar atento do Guardião.
+
+### Ponto fraco:
+
+A estabilização é uma etapa essencial na vida de qualquer organização, mas há uma tendência, com o tempo, de que isso leve à burocratização excessiva.  
+Gerentes Guardiões podem ter dificuldades aqui: com seu desejo sincero de seguir regras, regulamentos e tradições, tendem a **resistir a mudanças**, o que pode se tornar um obstáculo para o crescimento saudável da organização.  
+Podem se irritar com funcionários independentes, não conformistas ou que desrespeitam os procedimentos estabelecidos.  
+Se acharem que alguém está negligenciando suas funções ou desafiando a autoridade, o impulso dos Guardiões é chamar atenção para isso — às vezes em público e com palavras excessivamente críticas.
+
+---
+
+**Resumindo**, gerentes Guardiões são melhores em **consolidar** uma organização do que em promover mudanças ou lidar com crises. Esses “**Estabilizadores**”, como Keirsey os chama, são leais aos valores e ao pessoal da empresa, e se esforçam para conservar suas tradições.  
+Antes de concordarem com mudanças, Guardiões **pesam bem as consequências** — sempre olham antes de pular — e então baseiam suas ações em julgamento sólido. Neste ponto, são decisivos e confiáveis para cumprir compromissos.
+
+---
+
+## Idealistas: Trabalhando com Pessoas
+
+### Talento dos Idealistas
+
+Idealistas demonstram seu maior talento na **“diplomacia”**, ou seja, têm o dom de trabalhar de forma positiva e sensível com pessoas e relacionamentos pessoais — tanto em orientar o desenvolvimento humano quanto em melhorar a comunicação entre as pessoas.
+
+Idealistas são incomparáveis em criar **ambientes de aprendizado criativos** e em ajudar as pessoas a se comunicarem de forma mais aberta e honesta umas com as outras.  
+
+Ensinar, aconselhar, pastorear e atuar em serviços sociais vêm naturalmente para eles, sendo áreas altamente gratificantes.  
+
+No mundo dos negócios, Idealistas podem fazer maravilhas com recrutamento, entrevistas, treinamento, tutoria, posicionamento, promoção e aconselhamento de pessoal.
+
+Com sua percepção e entusiasmo, habilidades de comunicação incomparáveis e olhar aguçado para o potencial humano, Idealistas podem ter uma influência positiva imensa sobre os outros — frequentemente inspirando as pessoas a crescer como indivíduos e a se relacionar melhor com quem está ao seu redor.
+
+---
+
+## Educação dos Idealistas
+
+Idealistas geralmente se saem excepcionalmente bem em todos os níveis escolares, pois como estudantes, possuem uma combinação única de traços: demonstram sincero interesse em cooperar com professores e colegas, e também desenvolvem habilidades linguísticas precoces.  
+Mesmo ainda crianças, Idealistas já demonstram uma paixão ardente por palavras, começando a ler e escrever bem antes da maioria.  
+Com essa habilidade verbal, o ensino médio tende a ser fácil para eles, e muitos seguem para a universidade, onde normalmente escolhem cursos nas **humanidades** — mas podem optar por qualquer área: literatura, filosofia, teologia, direito, teatro, escrita criativa, jornalismo — que envolvam **expressar ideias através de palavras**.
+
+Também se interessam pelas ciências sociais, especialmente **psicologia, sociologia e antropologia social**, e muitos seguem para cursos avançados, tornando-se professores ou profissionais nessas áreas.
+
+---
+
+## Carreiras e Profissões dos Idealistas
+
+Com seu talento para a diplomacia e com palavras, Idealistas se destacam em quatro áreas de carreira:
+
+---
+
+### **Educação**
+
+Para os Idealistas, educar não é apenas ministrar aulas ou instruir, mas sim **imaginar experiências criativas** que despertem nos alunos uma paixão por aprender e os ajudem a desenvolver potenciais ainda ocultos.
+
+Idealistas querem fazer a diferença na vida das pessoas, e aqueles com confiança e imaginação para conduzir outros nessa jornada de descoberta florescerão em cargos como:
+
+- Diretor de creche
+    
+- Facilitador de treinamentos corporativos
+    
+- Instrutor de software corporativo
+    
+- Diretor educacional
+    
+- Diretor de teatro / Dramaturgo
+    
+- Editor (livros, revistas)
+    
+- Desenvolvedor de software educacional
+    
+- Gerente de recursos humanos
+    
+- Designer instrucional
+    
+- Especialista em aprendizagem
+    
+- Palestrante motivacional
+    
+- Apresentador de seminários
+    
+- Professor de educação especial
+    
+- Professor (a)
+    
+- Líder de equipe de treinamentos
+    
+- Diretor de serviços à juventude
+    
+
+---
+
+### **Orientação**
+
+Orientar tem a ver com **facilitar o crescimento pessoal**, ajudar as pessoas em seus caminhos de saúde física, bem-estar espiritual e autodescoberta, para que possam levar uma vida saudável e feliz.  
+Idealistas com sensibilidade e compaixão para guiar os outros em sua jornada — para se sentirem bem, se encontrarem e explorarem seus talentos — encontrarão seu chamado em funções como:
+
+- Orientador vocacional
+    
+- Conselheiro de bem-estar infantil
+    
+- Nutricionista/Dietista
+    
+- Médico holístico
+    
+- Coach de vida
+    
+- Profissional de saúde mental
+    
+- Ministro / Padre / Rabino
+    
+- Terapeuta ocupacional
+    
+- Pediatra
+    
+- Psiquiatra
+    
+- Psicólogo
+    
+- Orientador escolar
+    
+- Terapeuta da fala / linguagem
+    
+- Terapeuta de redução de estresse
+    
+- Conselheiro em dependência química
+    
+- Instrutor de yoga
+    
+
+---
+
+### **Ativismo (Advocacy)**
+
+Ativismo aqui significa **"dar voz" a ideias, sentimentos, opiniões e crenças** — especialmente para aqueles que têm dificuldade em expressá-los — tudo com o objetivo de melhorar o entendimento entre as pessoas e promover justiça.
+
+Idealistas que desejam levantar questões, defender causas e **falar pelos outros** se destacarão em cargos como:
+
+- Advogado de direitos civis
+    
+- Fiscal de direitos do consumidor
+    
+- Defensor do atendimento ao cliente
+    
+- Colunista editorial
+    
+- Ativista ambiental
+    
+- Cineasta independente
+    
+- Entrevistador
+    
+- Jornalista / Correspondente
+    
+- Professor universitário
+    
+- Missionário
+    
+- Romancista / Dramaturgo
+    
+- Recrutador de pessoal
+    
+- Secretário de imprensa
+    
+- Defensor público
+    
+- Redator de discursos
+    
+- Produtor de documentário para TV
+
+## Relações Pessoais
+
+**Relações Pessoais** é o campo da cooperação humana — de pessoas aprendendo a se dar bem no trabalho, na família, nas comunidades e assim por diante.  
+Idealistas que são sensíveis aos relacionamentos tensos ao seu redor, e que se comprometem a resolver conflitos, reconciliar diferenças e construir pontes entre as pessoas, encontrarão satisfação profissional em cargos como:
+
+- Coordenador de adoções
+    
+- Especialista em comunicação
+    
+- Diretor de relações comunitárias
+    
+- Mediador de conflitos
+    
+- Reitor de estudantes
+    
+- Diplomata
+    
+- Gerente de diversidade
+    
+- Terapeuta familiar
+    
+- Mediador trabalhista
+    
+- Conselheiro matrimonial
+    
+- Gerente de pessoal
+    
+- Coordenador de serviços sociais
+    
+- Assistente social
+    
+- Coordenador de intercâmbio estudantil
+    
+- Tradutor/Intérprete
+    
+- Tutor (idiomas, redação etc.)
+    
+
+---
+
+## Idealistas no Comando
+
+Tendo habilidades tão fortes com pessoas, Idealistas frequentemente se tornam líderes em suas áreas, onde lideram de um jeito único e especial.
+
+### Ponto forte:
+
+Idealistas são, acima de tudo, **voltados para as pessoas**, e tendem a se comprometer pessoalmente com o progresso de seus funcionários, alunos, fiéis, etc.  
+São empáticos, dispostos a ouvir os problemas dos outros, e se importam genuinamente com suas dificuldades.  
+Ao mesmo tempo, focam **no potencial**, sempre buscando e reagindo ao que há de melhor nas pessoas, sempre prontos a oferecer palavras de incentivo.
+
+Essa atenção pessoal dos Idealistas — tentando entender e ajudar todos ao seu redor — pode ser **muito inspiradora**, motivando a equipe não só a dar o seu melhor, mas também a trabalhar em harmonia num clima de respeito mútuo.
+
+### Ponto fraco:
+
+Mas esse envolvimento pessoal também pode trazer **problemas**.  
+Idealistas, por serem tão próximos de quem lideram, às vezes dependem demais do apoio e validação dos outros, e têm pouca defesa contra os problemas alheios — absorvendo-os como se fossem seus.
+
+Além disso, ao focar apenas nos aspectos positivos das pessoas, podem **ignorar falhas reais**, o que pode gerar problemas sérios com o tempo.  
+E se forem criticados — especialmente por chefes ou subordinados — é comum que Idealistas **levem para o lado pessoal** e fiquem bastante desanimados.
+
+---
+
+Apesar dessas limitações, Idealistas podem ser líderes **extraordinários** — visíveis, carismáticos, que representam bem sua equipe e organização.  
+São líderes **cuidadosos, entusiasmados e acolhedores**. Keirsey os chama de **líderes "Inspiradores"**, que enxergam o melhor nos outros e valorizam contribuições de todos.
+
+---
+
+## Racionais: Desvendando as Coisas
+
+### Talento dos Racionais
+
+O talento **“estratégico”** dos Racionais pode ser definido como a capacidade de resolver planos complexos para alcançar metas **bem definidas e de longo prazo**.  
+Esses planos estratégicos podem incluir estruturas de comando, diretrizes que coordenam projetos ou mesmo servir de modelos para sistemas de engenharia.
+
+Seja qual for o projeto, Racionais sempre avançam **eficientemente rumo ao objetivo**.  
+Para isso, olham para o futuro, visualizando como será a organização e seu desempenho a longo prazo, considerando todo dado relevante — nada é deixado ao acaso.
+
+Com clareza de visão e lógica nos meios e métodos, Racionais conseguem envolver outras pessoas em seus planos de futuro, ganhando apoio para suas lideranças.
+
+---
+
+### Educação dos Racionais
+
+É difícil fazer Racionais estudarem algo **que não esteja relacionado à matemática, ciência ou filosofia**. Eles querem entender **como funcionam os sistemas complexos**, sejam:
+
+- Sistemas orgânicos (plantas, animais, galáxias)
+    
+- Sistemas mecânicos (computadores, aeronaves, telecomunicações)
+    
+- Sistemas sociais (famílias, empresas, economias)
+    
+- Sistemas cognitivos (como lógica e epistemologia)
+    
+
+Desde o ensino médio, Racionais buscam todas as aulas possíveis de ciência, matemática e computação.  
+Na faculdade, focam nas **ciências físicas e sociais**, especialmente computação, matemática, economia e engenharia — muitas vezes com **filosofia** como disciplina secundária.  
+E se inscrevem em massa em programas de pós-graduação nessas áreas.
+
+---
+
+## Carreiras e Profissões dos Racionais
+
+O talento estratégico dos Racionais lhes dá **vantagem** em quatro áreas principais:
+
+---
+
+### Liderança
+
+Liderança em qualquer setor (comercial, educacional, político, militar etc.) envolve **criar e executar um plano estratégico** — designar tarefas, mobilizar recursos e alcançar metas.  
+Racionais com assertividade e capacidade de decisão se destacam em funções como:
+
+- Diretor esportivo
+    
+- Executivo de negócios / CEO
+    
+- Gerente de campanha
+    
+- Reitor universitário
+    
+- Maestro / Diretor musical
+    
+- Líder de equipe corporativa
+    
+- Diretor de cinema
+    
+- Financiador internacional
+    
+- Consultor de gestão
+    
+- Comandante militar
+    
+- Político
+    
+- Comissário de obras públicas
+    
+- Superintendente escolar
+    
+- Advogado de litígio sênior
+    
+- Gerente geral de franquia esportiva
+    
+- Investidor de capital de risco
+    
+
+---
+
+### Coordenação
+
+Coordenação envolve **coletar dados**, determinar a sequência de tarefas e organizar pessoas e cronogramas da forma mais eficiente possível — ou seja, com **máxima produtividade e mínimo desperdício**.  
+Isso geralmente requer planos de contingência (“se... então...”) para manter os projetos nos trilhos.
+
+Racionais, com seu faro apurado para o que precisa ser feito, quando, por quem, e o que pode dar errado, serão valiosos em cargos como:
+
+A coordenação envolve **coletar dados, definir a sequência de tarefas** e organizar pessoas e cronogramas da forma mais eficiente possível — ou seja, alcançar **máxima produtividade com mínimo desperdício** de tempo e recursos.  
+Frequentemente exige criar planos de contingência do tipo “se... então...” para manter projetos no rumo certo e lidar com falhas ou carências previsíveis.
+
+Racionais, com seu olhar preciso para o que precisa ser feito, quando e por quem, serão valiosos em cargos como:
+
+- Analista de sistemas de computador
+    
+- Gerente de projeto de construção
+    
+- Designer de currículo
+    
+- Gerente de fluxo de dados
+    
+- Especialista em eficiência
+    
+- Engenheiro de ergonomia
+    
+- Criminologista forense
+    
+- Consultor em fatores humanos
+    
+- Especialista em validação de métodos
+    
+- Integrador de redes
+    
+- Designer de sistemas de pessoal
+    
+- Designer de produção
+    
+- Cientista pesquisador
+    
+- Sociólogo
+    
+- Coordenador de alianças estratégicas
+    
+- Planejador urbano
+    
+
+---
+
+## Engenharia
+
+**Engenharia** envolve inventar e construir tecnologias novas e complexas com um objetivo prático: **fazer sistemas funcionarem melhor**.  
+Racionais que desejam colocar em prática sua engenhosidade tecnológica — para “construir uma ratoeira melhor” — devem mirar profissões como:
+
+- Consultor de construção
+    
+- Engenheiro químico (desenvolvimento de produtos)
+    
+- Empreendedor
+    
+- Cientista de formulações
+    
+- Engenheiro genético
+    
+- Designer de sistemas de hardware
+    
+- Inventor
+    
+- Tecnólogo de manufatura
+    
+- Engenheiro mecânico
+    
+- Oceanógrafo
+    
+- Analista de desempenho
+    
+- Físico (mecânica, cinética)
+    
+- Desenvolvedor de projetos piloto
+    
+- Designer de protótipos
+    
+- Engenheiro de software
+    
+- Analista de dinâmica estrutural
+    
+
+---
+
+## Design Estrutural
+
+**Design estrutural** é a criação de planos, esquemas e modelos para construir grande parte da **infraestrutura e tecnologia complexa** que nos cerca.  
+Também envolve o design de **novos sistemas teóricos** nas ciências sociais, matemática, ciências físicas e até nos negócios e humanidades.
+
+Racionais com esse desejo de reorganizar o mundo com mais coerência se destacarão em cargos como:
+
+- Antropólogo
+    
+- Astrônomo
+    
+- Arquiteto de construção
+    
+- Cientista da computação
+    
+- Estrategista corporativo
+    
+- Economista
+    
+- Futurista
+    
+- Analista de informações
+    
+- Estrategista de investimentos
+    
+- Lógico
+    
+- Matemático
+    
+- Filósofo
+    
+- Cientista político
+    
+- Psicólogo
+    
+- Analista de sistemas
+    
+- Físico teórico
+    
+
+---
+
+## Racionais no Comando
+
+Racionais têm uma força de vontade tão poderosa para alcançar e avançar em suas carreiras que costumam chegar a **posições de liderança**.  
+E quando lideram, o fazem à sua maneira única.
+
+---
+
+### Ponto forte:
+
+Racionais são **agentes da mudança estratégica**. Estão sempre buscando formas novas e mais eficientes de fazer as coisas.  
+Frequentemente são pioneiros em inovação técnica e acadêmica.
+
+Definem suas metas com clareza, questionam regras e estruturas tradicionais, mantendo apenas o que realmente serve aos objetivos.  
+Com visão “raio-x” para ver fatores e coordenadas, são mestres em **planejar e implementar novos sistemas operacionais**.
+
+Entendem os sistemas e subsistemas a fundo, assim como os impactos de curto e longo prazo das mudanças que propõem.  
+Usam métodos de avaliação como **análise de sistemas** e **mapeamento de processos**, fornecendo às organizações uma visão poderosa do todo e estratégias eficazes para atingir os objetivos.
+
+---
+
+### Ponto fraco:
+
+Por focarem tanto em objetivos de longo prazo — a **“grande visão”** — Racionais podem não perceber os sentimentos das pessoas e parecer **distantes ou insensíveis**.  
+Têm pouca habilidade com demonstrações de apreço e geralmente são impacientes com erros — tanto os próprios quanto os alheios.
+
+Seu jeito técnico de falar, com vocabulário altamente especializado, pode dificultar a **comunicação pessoal**, o que pode **isolá-los** dos colegas.
+
+---
+
+Apesar dessas limitações interpessoais, Racionais são os **“líderes Visionários”** de Keirsey.  
+Têm a rara habilidade de **visualizar metas organizacionais**, criar estratégias e montar planos de ação.  
+São engenhosos, inovadores, eficientes e mestres em:
+
+- Construir cadeias de comando
+    
+- Criar planos de contingência
+    
+- Produzir modelos e protótipos
+    
+
+Tudo isso para **enfrentar os desafios do progresso tecnológico.**
+
+---
+
+**Ajustes não literais explicados:**
+
+- “To build a better mousetrap” foi adaptado como **“construir uma ratoeira melhor”**, expressão idiomática que simboliza criar soluções melhores — mantida para preservar o tom original.
+    
+- “Flow-charting” foi traduzido como **mapeamento de processos**, termo técnico mais conhecido no português do Brasil, equivalente ao uso de fluxogramas.
+    
+- “Big picture” traduzido como **“grande visão”**, expressão usada para se referir à perspectiva estratégica de longo prazo.
+
+## Encontre Sua Vocação (Find Your Bliss)
+
+Joseph Campbell, o mitólogo que nos anos 1980 foi tema da série _The Power of Myth_ na TV pública americana, cunhou uma frase que poderia muito bem resumir a visão de David Keirsey sobre temperamento e carreira.  
+Campbell disse, em uma entrevista, que a chave para a satisfação profissional — e para o crescimento na carreira — é **“encontrar sua felicidade” (find your bliss)**.
+
+Hoje, Keirsey talvez chamasse isso de **“combinar talento com tarefa”**, e a linguagem moderna poderia colocar como “seguir seu próprio caminho”, mas o ponto é o mesmo:  
+**se alguém encontra uma carreira que utiliza seus melhores talentos, essa carreira será prazerosa e abrirá portas naturalmente.**
+
+Mas... por onde começar a procurar?  
+É aí que a teoria de temperamento de Keirsey pode ajudar.  
+Sua grande contribuição para o direcionamento profissional está em identificar os **talentos inatos dos quatro temperamentos**, e assim, os tipos de trabalho que vêm mais naturalmente para cada um.
+
+Com esse conhecimento, as pessoas passam a ter uma ideia muito mais clara do tipo de trabalho que combina com elas — e, portanto, **uma chance muito maior de escolher a carreira certa.**
+
+---
+
+### Em resumo:
+
+- **Artesãos** são **táticos**, os melhores em tomar decisões rápidas que geram resultados imediatos, improvisando para promover negócios, lidar com emergências e garantir diversão no caminho.
+    
+- **Guardiões** são **logísticos**, especialistas em administrar bens e serviços, programar horários e tarefas com precisão e proteger pessoas e propriedades com confiabilidade.
+    
+- **Idealistas** são **diplomáticos**, ótimos em guiar os outros no desenvolvimento pessoal e em nutrir boas relações, saúde emocional e motivação no trabalho, na família e entre amigos.
+    
+- **Racionais** são **estratégicos**, especialistas em visualizar o futuro de uma organização, liderar pesquisas e organizar o design de projetos em evolução.
+    
+
+---
+
+## Que a Força Esteja com Você
+
+O nome de **Joseph Campbell** remete a outro exemplo famoso da mitologia moderna americana: não _Star Trek_, mas sim a franquia _Star Wars_ (1977), criada por **George Lucas**.  
+Lucas afirmou que a trama de _Star Wars_ foi inspirada pelo livro de Campbell **The Hero With a Thousand Faces**, um estudo sobre a jornada do herói em mitologias do mundo todo.
+
+Talvez até sem saber, Lucas tenha sido influenciado pela teoria dos **temperamentos**, e podemos dizer que os heróis de _Star Wars_ vêm em quatro formatos distintos:
+
+---
+
+### **Han Solo**
+
+É impulsivo, ousado, contrabandista freelancer, também piloto habilidoso, mestre em blasters e apostador profissional.  
+Escapando dos stormtroopers em Tatooine, Han fala como um verdadeiro **Artesão tático**:
+
+> “Ficaremos bem assim que saltarmos para o hiperespaço. Além disso, conheço algumas manobras. Vamos despistá-los. É aí que a diversão começa.”
+
+---
+
+### **C-3PO**
+
+É um androide leal, trabalhador, com preocupações cômicas sobre perigos e desconfortos. Mas também é peça-chave na Rebelião, ajudando a entregar os planos da Estrela da Morte aos Rebeldes.
+
+Ao se despedir de R2-D2, C-3PO expressa sua preocupação típica de **Guardião**:
+
+> “Aguente firme. Você precisa voltar. Você não gostaria que minha vida fosse entediante, gostaria?”
+
+E quando R2-D2 retorna danificado, C-3PO mostra seu verdadeiro lado logístico:
+
+> “Se algum dos meus circuitos ou peças ajudasse, eu as doaria com prazer.”
+
+---
+
+### **Luke Skywalker**
+
+Como o nome sugere, é um sonhador romântico e herdeiro da ordem mística dos Cavaleiros Jedi — defensores espirituais da República.
+
+Quando decide **“aprender os caminhos da Força e se tornar um Jedi como seu pai”**, Luke embarca na jornada de um **Idealista**, aprendendo a:
+
+> “Deixar o ego de lado”,  
+> “Ouvir seus sentimentos”  
+> e “Confiar em seus sentimentos”.
+
+---
+
+### **Princesa Leia**
+
+É dinâmica, determinada e uma verdadeira **Racional**.  
+Antes senadora, agora líder da Aliança Rebelde, acredita firmemente que **a liberdade pessoal vencerá a tirania**.
+
+Diz a Tarkin:
+
+> “Quanto mais você apertar seu punho, Tarkin, mais sistemas estelares escaparão por entre seus dedos.”
+
+Ela arrisca a vida para salvar:
+
+> “As leituras técnicas daquela estação de batalha”
+
+E como boa Racional, confia na análise estratégica:
+
+> “Só espero que, ao analisar os dados, possamos encontrar uma fraqueza.”
+
+---
+### Conclusão
+
+No fim, claro, **a Estrela da Morte tem uma falha fatal** e o **Bem triunfa sobre o Mal** —  
+Mas o ponto de _Star Wars_, e também de Keirsey em _Please Understand Me II_, é que **para vencer grandes desafios, precisamos de todos os quatro temperamentos**:
+
+- A força da **ação ousada**
+    
+- A força do **serviço fiel**
+    
+- A força dos **sentimentos humanos**
+    
+- E a força da **visão estratégica**
+
+
+# Apêndice: Os 16 Tipos
+
+## Inventores (ENTP)
+
+**Inventores** começam a construir engenhocas e mecanismos desde crianças — e nunca realmente param.  
+
+Quando adultos, direcionam sua inventividade para vários tipos de organizações, tanto sociais quanto tecnológicas.  
+
+Inventores são raros (apenas 2–3% da população), mas têm um grande impacto em nossas vidas cotidianas.
+
+Com seu espírito **inovador**, estão sempre em busca de maneiras melhores de fazer as coisas, sempre refletindo sobre **novos métodos** e explorando **novos empreendimentos**.
+
+**Inventores são profundamente pragmáticos** e costumam se destacar em criar formas **eficientes** de alcançar seus objetivos.  
+
+São os **mais relutantes entre todos os tipos** a fazer algo de uma forma **só porque sempre foi feito assim**.
+
+Por isso, costumam trazer abordagens **engenhosas** tanto para o trabalho quanto para a diversão.  
+
+São extremamente **curiosos** e investigam constantemente **alternativas e possibilidades**, especialmente ao tentar resolver **problemas complexos**.
+
+Inventores estão sempre tendo novas **ideias**, mas valorizam aquelas que **levam a ações concretas e produtos reais**.  
+
+Vêm o design técnico não como um fim em si mesmo, mas como **meio para um fim** — um jeito de criar **protótipos funcionais** que podem ser levados ao mercado.  
+
+Costumam confiar em sua habilidade de resolver problemas conforme eles aparecem, sem criar um plano fixo com antecedência.  
+
+**Uma ideia vaga já é o suficiente** para que sintam que podem começar a agir.
+
+==Inventores geralmente são **não conformistas** no ambiente de trabalho e podem ter sucesso em várias áreas, desde que o cargo **não exija rotinas repetitivas**.  
+
+Tendem a ser líderes eficazes em projetos-piloto que testam sua **criatividade**.  
+
+São bons em **organizar sistemas humanos**, compreendendo rapidamente a **dinâmica política das instituições** e conseguindo entender as pessoas de dentro para fora (em vez de julgá-las superficialmente).
+
+Independentemente da profissão, Inventores demonstram uma **capacidade extraordinária de superar obstáculos**, mesmo os mais difíceis.  
+
+Diante de um “isso não pode ser feito”, o Inventor tende a responder: **“Eu consigo.”**
+
+Inventores geralmente têm um **círculo social ativo**, com interesse sincero nas ideias e atividades dos outros.  
+
+São normalmente **divertidos e envolventes**, raramente críticos ou ríspidos. 
+
+Podem ser **conversadores fascinantes**, capazes de explicar ideias complicadas e também de ouvir as ideias alheias.
+
+**Mas cuidado**: ao debater, Inventores podem se tornar **competitivos** e tentar garantir a **posição final vencedora na conversa.**
+
+**Retrato no cinema:** _Preston Tucker (Jeff Bridges) em_ **Tucker: Um Homem e Seu Sonho**
+
+---
+
