@@ -18,8 +18,33 @@
               "icon": "lucide-file-text",
               "title": "Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
             }
+          },
+          {
+            "id": "37f255a20cd7f67c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/The War between the atitudes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The War between the atitudes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+                "file": "00.Notes/The War between the atitudes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
+              "title": "Outline of The War between the atitudes"
             }
           }
         ],
@@ -277,7 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 942.5
+    "width": 929.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,10 +322,18 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2c4e93ec041c133c",
+  "active": "37f255a20cd7f67c",
   "lastOpenFiles": [
-    "00.Notes/Insight Carreiras pra ENTP.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+    "00.Notes/The War between the atitudes.md",
+    "01.Assets/Anexos/Pasted image 20251017130356.png",
+    "01.Assets/Anexos/Pasted image 20251017130322.png",
+    "01.Assets/Anexos/Pasted image 20251017125011.png",
+    "00.Notes/Can greatness and happy coexist ?.md",
+    "00.Notes/A guide to recovering instinct.md",
+    "01.Assets/Anexos/Pasted image 20251017123307.png",
+    "01.Assets/Anexos/Pasted image 20251017120329.png",
+    "00.Notes/Insight Carreiras pra ENTP.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
@@ -311,11 +344,6 @@
     "01.Assets/Anexos/Pasted image 20251015200656.png",
     "01.Assets/Anexos/Pasted image 20251015182606.png",
     "01.Assets/Anexos/Pasted image 20251015175902.png",
-    "01.Assets/Anexos/Pasted image 20251015143242.png",
-    "01.Assets/Anexos/Pasted image 20251015143202.png",
-    "01.Assets/Anexos/Pasted image 20251015123813.png",
-    "01.Assets/Anexos/Pasted image 20251015112945.png",
-    "01.Assets/Anexos/Pasted image 20251015110713.png",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Octagram 4.1.md",
     "00.Notes/Insights Livro Hábitos Atomicos.md",
@@ -337,9 +365,6 @@
     "00.Notes/Te users.md",
     "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
     "00.Notes/Modulo 2 - Flow.md",
-    "00.Notes/MOC - ENTP Owner - Course..md",
-    "00.Notes/Forças e fraquezas de usuarios de Ne.md",
-    "00.Notes/How to type your self - Cs Joseph Course.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",
