@@ -44,32 +44,102 @@ No entanto, a descoberta do grupo de Osmond levou a muitas simplificações exce
 
 Por que alguns tipos NF se dão bem entre si enquanto outros entram em intenso conflito? Por que alguns STs interagem de forma fluida, enquanto outros simplesmente não conseguem se entender? O modelo de Beebe, quando foi publicado (1988; 2004/2017), respondeu a essa questão.
 
-Por exemplo, um INFP e um INFJ parecem ter muito em comum se considerarmos apenas o código de quatro letras — eles compartilham três. No entanto, pode haver um conflito considerável entre esses dois tipos. O modelo de Myers-Briggs explica as diferenças entre eles principalmente como um conflito J/P, ou seja, uma diferença nos estilos de organização, o que não é incorreto, até certo ponto. Mas o modelo de Beebe fornece uma explicação muito mais profunda.
+Por exemplo, um INFP e um INFJ parecem ter muito em comum se considerarmos apenas o código de quatro letras — eles compartilham três. 
+
+No entanto, pode haver um conflito considerável entre esses dois tipos. O modelo de Myers-Briggs explica as diferenças entre eles principalmente como um conflito J/P, ou seja, uma diferença nos estilos de organização, o que não é incorreto, até certo ponto. 
+
+Mas o modelo de Beebe fornece uma explicação muito mais profunda.
 
 ![[Pasted image 20251017130356.png]]
 
-Uma comparação entre toda a hierarquia funcional dos dois tipos (Fig. 5.4) mostra que o Fi dominante (herói/heroína) de um INFP ocupa uma posição de sombra — a sexta — para um INFJ, e o Ni dominante de um INFJ cai exatamente na mesma posição de sombra para um INFP. Os arquétipos da “bruxa” e do “senex” (velho sábio rígido) que Beebe associou à sexta posição sugerem que, quando uma INFJ utiliza sua função superior, ela pode ativar inadvertidamente as defesas de bruxa/senex de um INFP — e vice-versa —, levando cada um a defender seu território “recusando e menosprezando” as tentativas de aproximação do outro (Parte II, Tabela 5, _Os arquétipos de Beebe em resumo_).
+Uma comparação entre toda a hierarquia funcional dos dois tipos (Fig. 5.4) mostra que o Fi dominante (herói/heroína) de um INFP ocupa uma posição de sombra — a sexta — para um INFJ, e o Ni dominante de um INFJ cai exatamente na mesma posição de sombra para um INFP. 
 
-Na verdade, uma comparação entre todas as outras funções desses dois tipos mostra uma oposição semelhante: todas as funções egossintônicas de um INFP são egodistônicas para um INFJ. Isso sugere uma área de potencial incompreensão surpreendentemente ampla — muito maior do que aquela prevista pelo modelo de Myers-Briggs, que os vê como tendo três das quatro letras em comum.
+Os arquétipos da “bruxa” e do “senex” (velho sábio rígido) que Beebe associou à sexta posição sugerem que, quando uma INFJ utiliza sua função superior, ela pode ativar inadvertidamente as defesas de bruxa/senex de um INFP — e vice-versa —, levando cada um a defender seu território “recusando e menosprezando” as tentativas de aproximação do outro (Parte II, Tabela 5, _Os arquétipos de Beebe em resumo_).
 
-O tipo de díade que talvez seja mais suscetível ao componente de atração-repulsão das atitudes opostas é aquele que Bob McAlpine chamou de “opostos dinâmicos” (Shumate, 2008–2009). Esse termo se refere a uma interação entre dois indivíduos de tipos específicos, e, portanto, não deve ser confundido com o arquétipo de personalidade oposta de Beebe, que indica uma dinâmica intrapsíquica e se refere à personalidade parcial representada pela quinta função-atitude em qualquer perfil de tipo. No entanto, compreender a dinâmica interpessoal dessa díade de tipos ilustra a importância de conhecer a sequência de funções e arquétipos de Beebe.
+Na verdade, uma comparação entre todas as outras funções desses dois tipos mostra uma oposição semelhante: todas as funções egossintônicas de um INFP são egodistônicas para um INFJ. 
 
-Nessa díade, os dois tipos têm em comum as duas letras internas do código de tipo — o acoplamento funcional, como NT, SF etc. — mas diferem nas primeiras e últimas letras, I/E e J/P. Tipos com essa configuração possuem as mesmas funções em toda a hierarquia, porém com atitudes opostas (ver Parte II, Tabela 8, Os opostos dinâmicos). Por compartilharem as mesmas funções, esses tipos são frequentemente considerados tipos cognatos. Eles podem interagir com frequência por serem atraídos para as mesmas profissões e, por isso, tendem a presumir que se compreendem — até que chegam a um impasse. Marie-Louise von Franz (1971) comentou exatamente esse tipo de interação ao dizer: “A coisa mais difícil de entender não é o seu tipo oposto... mas... o mesmo tipo funcional com atitude oposta” (p. 52). O menor dos eventos pode acender grandes conflitos entre indivíduos com essas hierarquias funcionais, mas pequenos eventos também podem levar as partes além do conflito. Um entendimento profundo pode nunca ocorrer entre tais indivíduos, mas, felizmente, nem sempre a compreensão é necessária para a resolução.
+Isso sugere uma área de potencial incompreensão surpreendentemente ampla — muito maior do que aquela prevista pelo modelo de Myers-Briggs, que os vê como tendo três das quatro letras em comum.
 
-Apesar de suas simplificações, o sistema de código de tipos de Myers-Briggs revelou uma nova polaridade, uma que não é fácil de identificar no esquema de Jung, associada ao julgamento e à percepção. Myers e Briggs são frequentemente mal interpretadas como tendo inventado a dicotomia julgamento/percepção, quando, na verdade, o que elas inventaram foi a escala psicométrica que identifica essa dicotomia. A classificação julgamento/percepção, que Jung também chamou de racional e irracional, era intrínseca ao seu esquema de tipos. Myers e Briggs acrescentaram as letras J e P ao código de tipo para resolver um problema psicométrico: como identificar a função extravertida.
+O tipo de díade que talvez seja mais suscetível ao componente de atração-repulsão das atitudes opostas é aquele que Bob McAlpine chamou de “opostos dinâmicos” (Shumate, 2008–2009). 
 
-Infelizmente, ao chamarem os tipos cujo código termina em J de “tipos julgadores” (XXXJ) e os que terminam em P de “tipos perceptivos” (XXXP), elas introduziram inadvertidamente uma confusão na nomenclatura de Jung. Enquanto Jung usava esses termos para se referir à função dominante, os termos de Myers, “tipos julgadores” e “tipos perceptivos”, eram abreviações para “tipos com função julgadora extravertida” e “tipos com função perceptiva extravertida”. O termo “tipo julgador extravertido” não significa que a orientação primária do tipo é extravertida, apenas que a função de julgamento é extravertida. Pela definição de Jung de “julgamento” e “percepção”, todos os tipos introvertidos no gráfico de tipos de Myers-Briggs são o oposto do que a letra final do código implica. Por exemplo, a função dominante de sentimento do INFP é uma função de julgamento e, portanto, Jung considerava esse tipo um tipo julgador, não um tipo perceptivo, como muitos interpretam erroneamente o código.
+Esse termo se refere a uma interação entre dois indivíduos de tipos específicos, e, portanto, não deve ser confundido com o arquétipo de personalidade oposta de Beebe, que indica uma dinâmica intrapsíquica e se refere à personalidade parcial representada pela quinta função-atitude em qualquer perfil de tipo. 
+
+No entanto, compreender a dinâmica interpessoal dessa díade de tipos ilustra a importância de conhecer a sequência de funções e arquétipos de Beebe.
+
+Nessa díade, os dois tipos têm em comum as duas letras internas do código de tipo — o acoplamento funcional, como NT, SF etc. — mas diferem nas primeiras e últimas letras, I/E e J/P. 
+
+Tipos com essa configuração possuem as mesmas funções em toda a hierarquia, porém com atitudes opostas (ver Parte II, Tabela 8, Os opostos dinâmicos). 
+
+Por compartilharem as mesmas funções, esses tipos são frequentemente considerados tipos cognatos. 
+
+Eles podem interagir com frequência por serem atraídos para as mesmas profissões e, por isso, tendem a presumir que se compreendem — até que chegam a um impasse. 
+
+Marie-Louise von Franz (1971) comentou exatamente esse tipo de interação ao dizer: 
+
+“A coisa mais difícil de entender não é o seu tipo oposto... mas... o mesmo tipo funcional com atitude oposta” (p. 52). 
+
+O menor dos eventos pode acender grandes conflitos entre indivíduos com essas hierarquias funcionais, mas pequenos eventos também podem levar as partes além do conflito. 
+
+Um entendimento profundo pode nunca ocorrer entre tais indivíduos, mas, felizmente, nem sempre a compreensão é necessária para a resolução.
+
+Apesar de suas simplificações, o sistema de código de tipos de Myers-Briggs revelou uma nova polaridade, uma que não é fácil de identificar no esquema de Jung, associada ao julgamento e à percepção. 
+
+Myers e Briggs são frequentemente mal interpretadas como tendo inventado a dicotomia julgamento/percepção, quando, na verdade, o que elas inventaram foi a escala psicométrica que identifica essa dicotomia. 
+
+A classificação julgamento/percepção, que Jung também chamou de racional e irracional, era intrínseca ao seu esquema de tipos. 
+
+Myers e Briggs acrescentaram as letras J e P ao código de tipo para resolver um problema psicométrico: como identificar a função extravertida.
+
+Infelizmente, ao chamarem os tipos cujo código termina em J de “tipos julgadores” (XXXJ) e os que terminam em P de “tipos perceptivos” (XXXP), elas introduziram inadvertidamente uma confusão na nomenclatura de Jung. 
+
+Enquanto Jung usava esses termos para se referir à função dominante, os termos de Myers, “tipos julgadores” e “tipos perceptivos”, eram abreviações para “tipos com função julgadora extravertida” e “tipos com função perceptiva extravertida”. 
+
+O termo “tipo julgador extravertido” não significa que a orientação primária do tipo é extravertida, apenas que a função de julgamento é extravertida. 
+
+Pela definição de Jung de “julgamento” e “percepção”, todos os tipos introvertidos no gráfico de tipos de Myers-Briggs são o oposto do que a letra final do código implica. 
+
+Por exemplo, a função dominante de sentimento do INFP é uma função de julgamento e, portanto, Jung considerava esse tipo um tipo julgador, não um tipo perceptivo, como muitos interpretam erroneamente o código.
 
 ![[Pasted image 20251017125011.png]]
 
-Ainda assim, ao introduzirem a dimensão J/P no código tipológico, Myers e Briggs revelaram um padrão no esquema de tipos de Jung que antes passava amplamente despercebido: mostrou-se que, se a função de julgamento é extravertida, a personalidade buscará encerramento no mundo exterior (indicado pelo “J” final), e, se a função de percepção é extravertida, a personalidade buscará abertura no mundo exterior (indicado pelo “P” final). Essas diferenças mentais geram diferenças na expressão corporal (Fig. 5.5). O padrão J/P enriqueceu significativamente os processos de avaliação e tornou o esquema de Jung particularmente útil para facilitar a comunicação e mediar conflitos.
+![[Pasted image 20251017132657.png]]
 
-Embora a escala J/P tenha sido mal compreendida, gerando uma tendência a enxergar os tipos J como organizados e os tipos P como desorganizados, o conceito de organização como algo visível ou invisível ajuda a distinguir entre os tipos. Talvez por conta de sua popularidade, o modelo Myers-Briggs teve que enfrentar uma batalha em duas frentes: dos psicólogos acadêmicos e dos analistas junguianos, que muitas vezes ignoravam a tipologia por completo (Giannini, 2004). Muitos analistas junguianos usavam a tipologia em suas práticas e entendiam seu valor para investigar o inconsciente, como demonstrou Vicky Jo Varner (2017). No entanto, com o tempo, o uso da tipologia declinou na comunidade analítica.
+Ainda assim, ao introduzirem a dimensão J/P no código tipológico, Myers e Briggs revelaram um padrão no esquema de tipos de Jung que antes passava amplamente despercebido: mostrou-se que, se a função de julgamento é extravertida, a personalidade buscará encerramento no mundo exterior (indicado pelo “J” final), e, se a função de percepção é extravertida, a personalidade buscará abertura no mundo exterior (indicado pelo “P” final). 
 
-Existem várias razões possíveis para esse declínio, incluindo críticas legítimas às limitações do modelo Myers-Briggs (Myers, 2019), mas John Giannini e John Beebe apontam outra razão: o viés de tipo. Giannini observou que o modelo de Myers, com sua “consciência estatística e tabular” (típica da sensação introvertida, Si), entra em conflito com a preferência por intuição que predomina nos círculos analíticos (2004, p. 488). Esse viés cultural se estendeu também ao modelo tipológico de Jung, como observou Beebe (2017, p. 187). A função de sensação introvertida monitora o ambiente interno do indivíduo — o corpo e suas memórias, o lar e seus arquivos. Trata-se de uma função incorporada, como observou a analista junguiana Anita Greene, ela própria um tipo com sensação introvertida. Greene também encontrou indícios de resistência à sensação introvertida na comunidade analítica, observando que “uma função de sensação não desenvolvida pode contribuir para a relativa falta de consciência de alguns analistas quanto à sua própria comunicação não verbal e à dos outros, mais sensorial e tangível” (2001, p. 572).
+Essas diferenças mentais geram diferenças na expressão corporal (Fig. 5.5). O padrão J/P enriqueceu significativamente os processos de avaliação e tornou o esquema de Jung particularmente útil para facilitar a comunicação e mediar conflitos.
 
-Tipos com função de sensação tendem a se concentrar na realidade tangível e superficial das coisas, no nível literal do texto, enquanto os tipos com função de intuição — que compõem a maioria da comunidade da psicologia profunda — procuram o que está abaixo da superfície para compreender os indivíduos. Além disso, o exercício da análise junguiana é predominantemente uma atividade introvertida, focada na atividade mental do indivíduo, enquanto o modelo Myers-Briggs tem sido usado principalmente de forma extravertida para lidar com interações entre pessoas. Como observou Robin Brown (2014), Jung é por vezes incorretamente visto pelos junguianos como um validador da introversão e de seu próprio foco introvertido (p. 250). Isso é compreensível, pois, como observou Giannini, “Jung minimizou a importância da participação extravertida na sociedade” (2004, p. 477), um viés expresso em sua aversão a instituições, organizações ou grupos sociais de qualquer tipo. Quando Joseph Wheelwright (1982) disse a Jung que queria fundar um instituto de treinamento para analistas junguianos, Jung respondeu com resignação que, se Wheelwright precisava mesmo de uma organização, deveria tentar “fazê-la o mais desorganizada possível” (p. 59).
+Embora a escala J/P tenha sido mal compreendida, gerando uma tendência a enxergar os tipos J como organizados e os tipos P como desorganizados, o conceito de organização como algo visível ou invisível ajuda a distinguir entre os tipos. 
 
-Diante desse histórico de negligência ao sistema tipológico de Jung, o modelo de Beebe instigou uma série de mudanças, primeiro perceptíveis nos treinamentos de certificação do MBTI (McAlpine, 2012). Para tornar o modelo de Jung compreensível e palatável, Myers focou nos aspectos positivos, destacando as qualidades de cada tipo. Já as descrições de Jung focavam nas disfunções de cada tipo em excesso, mostrando como as funções mais conscientes eram equilibradas — ou até sobrepujadas — por suas funções opostas ou inferiores.
+Talvez por conta de sua popularidade, o modelo Myers-Briggs teve que enfrentar uma batalha em duas frentes: dos psicólogos acadêmicos e dos analistas junguianos, que muitas vezes ignoravam a tipologia por completo (Giannini, 2004). 
 
-O modelo de Beebe uniu os modelos de Jung e Myers sob um mesmo guarda-chuva, esclarecendo a relação entre os dois focos da seguinte forma: “A consciência, para Jung, a ferramenta com a qual o inconsciente deve ser investigado, é uma propriedade emergente do próprio inconsciente” (Beebe, 2004/2017, p. 23). Essa observação explicou aos praticantes de tipologia o nível mais profundo implícito no sistema tipológico de Jung e explicou aos junguianos como a tipologia é intrinsecamente uma prática da psicologia profunda. Assim, além de construir uma ponte entre tipos e arquétipos, o modelo das oito funções construiu uma ponte entre a comunidade de analistas junguianos e a comunidade de profissionais da tipologia — duas comunidades que permaneceram amplamente separadas até que o trabalho de Beebe ofereceu uma interface por meio de seu modelo.
+Muitos analistas junguianos usavam a tipologia em suas práticas e entendiam seu valor para investigar o inconsciente, como demonstrou Vicky Jo Varner (2017). No entanto, com o tempo, o uso da tipologia declinou na comunidade analítica.
+
+Existem várias razões possíveis para esse declínio, incluindo críticas legítimas às limitações do modelo Myers-Briggs (Myers, 2019), mas John Giannini e John Beebe apontam outra razão: o viés de tipo. 
+
+Giannini observou que o modelo de Myers, com sua “consciência estatística e tabular” (típica da sensação introvertida, Si), entra em conflito com a preferência por intuição que predomina nos círculos analíticos (2004, p. 488). 
+
+Esse viés cultural se estendeu também ao modelo tipológico de Jung, como observou Beebe (2017, p. 187). 
+
+A função de sensação introvertida monitora o ambiente interno do indivíduo — o corpo e suas memórias, o lar e seus arquivos. 
+
+Trata-se de uma função incorporada, como observou a analista junguiana Anita Greene, ela própria um tipo com sensação introvertida. 
+
+Greene também encontrou indícios de resistência à sensação introvertida na comunidade analítica, observando que “uma função de sensação não desenvolvida pode contribuir para a relativa falta de consciência de alguns analistas quanto à sua própria comunicação não verbal e à dos outros, mais sensorial e tangível” (2001, p. 572).
+
+**Tipos com função de sensação tendem a se concentrar na realidade tangível e superficial das coisas, no nível literal do texto, enquanto os tipos com função de intuição — que compõem a maioria da comunidade da psicologia profunda — procuram o que está abaixo da superfície para compreender os indivíduos.** 
+
+Além disso, o exercício da análise junguiana é predominantemente uma atividade introvertida, focada na atividade mental do indivíduo, enquanto o modelo Myers-Briggs tem sido usado principalmente de forma extravertida para lidar com interações entre pessoas. 
+
+Como observou Robin Brown (2014), Jung é por vezes incorretamente visto pelos junguianos como um validador da introversão e de seu próprio foco introvertido (p. 250). 
+
+Isso é compreensível, pois, como observou Giannini, “Jung minimizou a importância da participação extravertida na sociedade” (2004, p. 477), um viés expresso em sua aversão a instituições, organizações ou grupos sociais de qualquer tipo. 
+
+Quando Joseph Wheelwright (1982) disse a Jung que queria fundar um instituto de treinamento para analistas junguianos, Jung respondeu com resignação que, se Wheelwright precisava mesmo de uma organização, deveria tentar “fazê-la o mais desorganizada possível” (p. 59).
+
+Diante desse histórico de negligência ao sistema tipológico de Jung, o modelo de Beebe instigou uma série de mudanças, primeiro perceptíveis nos treinamentos de certificação do MBTI (McAlpine, 2012). Para tornar o modelo de Jung compreensível e palatável, Myers focou nos aspectos positivos, destacando as qualidades de cada tipo. 
+
+Já as descrições de Jung focavam nas disfunções de cada tipo em excesso, mostrando como as funções mais conscientes eram equilibradas — ou até sobrepujadas — por suas funções opostas ou inferiores.
+
+O modelo de Beebe uniu os modelos de Jung e Myers sob um mesmo guarda-chuva, esclarecendo a relação entre os dois focos da seguinte forma: “A consciência, para Jung, a ferramenta com a qual o inconsciente deve ser investigado, é uma propriedade emergente do próprio inconsciente” (Beebe, 2004/2017, p. 23). Essa observação explicou aos praticantes de tipologia o nível mais profundo implícito no sistema tipológico de Jung e explicou aos junguianos como a tipologia é intrinsecamente uma prática da psicologia profunda. 
+
+Assim, além de construir uma ponte entre tipos e arquétipos, o modelo das oito funções construiu uma ponte entre a comunidade de analistas junguianos e a comunidade de profissionais da tipologia — duas comunidades que permaneceram amplamente separadas até que o trabalho de Beebe ofereceu uma interface por meio de seu modelo.

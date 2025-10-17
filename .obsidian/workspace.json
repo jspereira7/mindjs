@@ -43,8 +43,7 @@
               "title": "The War between the atitudes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/The War between the atitudes.md",
+                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The War between the atitudes"
+              "title": "Outline of Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
             }
           }
         ],
@@ -258,16 +257,6 @@
             }
           },
           {
-            "id": "f6467a91cb8fdf72",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-miro-",
-              "state": {},
-              "icon": "lucide-notebook-pen",
-              "title": "Miro"
-            }
-          },
-          {
             "id": "b18171310411ec96",
             "type": "leaf",
             "state": {
@@ -275,6 +264,16 @@
               "state": {},
               "icon": "lucide-list-checks",
               "title": "Todoist"
+            }
+          },
+          {
+            "id": "f6467a91cb8fdf72",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-miro-",
+              "state": {},
+              "icon": "lucide-notebook-pen",
+              "title": "Miro"
             }
           },
           {
@@ -298,11 +297,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 929.5
+    "width": 947.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,10 +321,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "37f255a20cd7f67c",
+  "active": "36ddfeaf58f2a178",
   "lastOpenFiles": [
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/The War between the atitudes.md",
+    "01.Assets/Anexos/Pasted image 20251017132657.png",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Anexos/Pasted image 20251017130356.png",
     "01.Assets/Anexos/Pasted image 20251017130322.png",
     "01.Assets/Anexos/Pasted image 20251017125011.png",
@@ -343,7 +343,6 @@
     "01.Assets/Anexos/Pasted image 20251016095153.png",
     "01.Assets/Anexos/Pasted image 20251015200656.png",
     "01.Assets/Anexos/Pasted image 20251015182606.png",
-    "01.Assets/Anexos/Pasted image 20251015175902.png",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Octagram 4.1.md",
     "00.Notes/Insights Livro Hábitos Atomicos.md",
