@@ -43,7 +43,8 @@
               "title": "Insight sobre as funções opostas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+                "file": "00.Notes/Insight sobre as funções opostas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
+              "title": "Outline of Insight sobre as funções opostas"
             }
           }
         ],
@@ -297,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -321,12 +322,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "13c57ad257214490",
+  "active": "ec7a827d517e22f6",
   "lastOpenFiles": [
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/Insight sobre as funções opostas.md",
     "00.Notes/ENTP-ESTP Fe Child.md",
     "00.Notes/ENTP-ESFP Te Critic.md",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/ENTP-ESTP Fi Trickster.md",
     "00.Notes/ENTP-ENFP Ti Parent.md",
     "00.Notes/ENTP-ENFP Ne Hero.md",
@@ -364,7 +365,6 @@
     "01.Assets/Untitled.canvas",
     "00.Notes/Nota Teste 3.md",
     "01.Assets/TextGenerator/oalanicolas/_fackchecking.md",
-    "00.Notes/Hero.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",
