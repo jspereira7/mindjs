@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "37f255a20cd7f67c",
+            "id": "e64d222203e8aadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/The War between the atitudes.md",
+                "file": "00.Notes/ENTP-ENFP Ne Hero.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,10 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The War between the atitudes"
+              "title": "ENTP-ENFP Ne Hero"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+                "file": "00.Notes/ENTP-ENFP Ne Hero.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
+              "title": "Outline of ENTP-ENFP Ne Hero"
             }
           }
         ],
@@ -297,11 +298,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 915.5
+    "width": 1055.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,11 +322,15 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f6467a91cb8fdf72",
+  "active": "e64d222203e8aadc",
   "lastOpenFiles": [
+    "00.Notes/ENTP-ENFP Ne Hero.md",
+    "00.Notes/ENTP-ENFP Ni Nemesis.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
-    "00.Notes/John Beebe Arquetipos das funções cognitivas..md",
+    "00.Notes/ENTP-ENFP Se Demon.md",
+    "00.Notes/ENTP-ENFP Si-Inferior.md",
     "00.Notes/The War between the atitudes.md",
+    "00.Notes/John Beebe Arquetipos das funções cognitivas..md",
     "01.Assets/Anexos/Pasted image 20251017132657.png",
     "01.Assets/Anexos/Pasted image 20251017130356.png",
     "01.Assets/Anexos/Pasted image 20251017130322.png",
@@ -361,9 +366,6 @@
     "00.Notes/Cognitive Atitudes - Ego Hackers.md",
     "00.Notes/Origem Cognitiva.md",
     "00.Notes/Entp Produtividade - Cs Joseph.md",
-    "00.Notes/Funções Cognitivas CsJoseph.md",
-    "00.Notes/Te users.md",
-    "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",
