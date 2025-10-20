@@ -5,6 +5,10 @@
       "path": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf"
     },
     {
+      "basename": "John Beebe Arquetipos das funções cognitivas.",
+      "path": "00.Notes/John Beebe Arquetipos das funções cognitivas..md"
+    },
+    {
       "basename": "The War between the atitudes",
       "path": "00.Notes/The War between the atitudes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ideia.md",
       "path": "01.Assets/Templates/ideia.md.md"
-    },
-    {
-      "basename": "Livro",
-      "path": "01.Assets/Templates/Livro.md"
     }
   ],
   "omittedPaths": [

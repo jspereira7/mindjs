@@ -102,7 +102,7 @@ Por exemplo, a função dominante de sentimento do INFP é uma função de julga
 
 ![[Pasted image 20251017125011.png]]
 
-![[Pasted image 20251017132657.png]]
+
 
 Ainda assim, ao introduzirem a dimensão J/P no código tipológico, Myers e Briggs revelaram um padrão no esquema de tipos de Jung que antes passava amplamente despercebido: mostrou-se que, se a função de julgamento é extravertida, a personalidade buscará encerramento no mundo exterior (indicado pelo “J” final), e, se a função de percepção é extravertida, a personalidade buscará abertura no mundo exterior (indicado pelo “P” final). 
 
