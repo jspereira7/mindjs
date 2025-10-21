@@ -8,43 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13c57ad257214490",
+            "id": "429f50885bf44748",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive"
-            }
-          },
-          {
-            "id": "ec7a827d517e22f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Insight sobre as funções opostas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Insight sobre as funções opostas"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,13 +86,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Insight sobre as funções opostas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Insight sobre as funções opostas"
+              "title": "Outline"
             }
           }
         ],
@@ -127,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -298,11 +269,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 792.5
+    "width": 1314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,7 +293,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b18171310411ec96",
+  "active": "c9381af1a87e3f1d",
   "lastOpenFiles": [
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/Insight sobre as funções opostas.md",
