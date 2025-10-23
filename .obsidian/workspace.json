@@ -275,11 +275,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 1254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +299,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "12f95be912901fde",
+  "active": "f6467a91cb8fdf72",
   "lastOpenFiles": [
     "00.Notes/Avaliação de Habitos Diarios.md",
     "00.Notes/Teste Link de notas.md",
