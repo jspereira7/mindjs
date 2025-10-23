@@ -11,10 +11,24 @@
             "id": "12f95be912901fde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Avaliação de Habitos Diarios.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Avaliação de Habitos Diarios"
             }
           }
         ]
@@ -86,12 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Avaliação de Habitos Diarios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Avaliação de Habitos Diarios"
             }
           }
         ],
@@ -99,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -257,23 +273,13 @@
               "icon": "lucide-globe",
               "title": "Google Translator"
             }
-          },
-          {
-            "id": "c9381af1a87e3f1d",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-reader",
-              "state": {},
-              "icon": "lucide-book-open",
-              "title": "Reader"
-            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 871.5,
+    "width": 496.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -296,6 +302,7 @@
   },
   "active": "12f95be912901fde",
   "lastOpenFiles": [
+    "00.Notes/Avaliação de Habitos Diarios.md",
     "00.Notes/Teste Link de notas.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/Insight sobre as funções opostas.md",
@@ -337,7 +344,6 @@
     "00.Notes/Breakdown of UCT, Function's Genders, and the dynamics and relationships between them..md",
     "01.Assets/Untitled.canvas",
     "00.Notes/Nota Teste 3.md",
-    "01.Assets/TextGenerator/oalanicolas/_fackchecking.md",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
     "Readwise/Tweets",

@@ -1,0 +1,14 @@
+- Acordar =
+- Pego o celular e vejo as horas =
+- Tomo Venvanse e volto a dormir até fazer efeito  =
+- Acordo novamente e levanto.  =
+- Vou ao banheiro, desco pra baixo. =
+- Tomo creatina com agua +
+- Beijo minha mãe =
+- Vou pro banheiro escovar os dentes =
+- Como 2 bananas e tomo café - (Comer mais)
+- Duolingo e readwise +
+- Exercicio rapido =
+- Leitura + 
+- Computador, estudando psicologia =
+
