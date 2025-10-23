@@ -269,11 +269,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 871.5
+    "width": 871.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,7 +294,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2c4e93ec041c133c",
+  "active": "12f95be912901fde",
   "lastOpenFiles": [
     "00.Notes/Teste Link de notas.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
