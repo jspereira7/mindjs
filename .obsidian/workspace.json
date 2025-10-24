@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -264,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 677.5
+    "width": 669.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,7 +285,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b18171310411ec96",
+  "active": "5a6f3d35c6e1803b",
   "lastOpenFiles": [
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
