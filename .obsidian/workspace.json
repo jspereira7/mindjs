@@ -11,10 +11,24 @@
             "id": "5a6f3d35c6e1803b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/ENTP SDUF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ENTP SDUF"
             }
           }
         ]
@@ -261,11 +275,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 897.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,8 +299,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "5a6f3d35c6e1803b",
+  "active": "36ddfeaf58f2a178",
   "lastOpenFiles": [
+    "00.Notes/ENTP SDUF.md",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Avaliação de Habitos Diarios.md",
