@@ -275,11 +275,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 897.5
+    "width": 723.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +299,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b18171310411ec96",
+  "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
     "00.Notes/ENTP SDUF.md",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
