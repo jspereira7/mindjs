@@ -324,12 +324,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 723.5,
-    "collapsed": true
+    "width": 723.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,7 +348,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "08ff6c1b54ca7eae",
+  "active": "b18171310411ec96",
   "lastOpenFiles": [
     "00.Notes/NURBS INSIGHT.md",
     "00.Notes/ENTP Social Skills.md",
