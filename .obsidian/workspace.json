@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "ENTP SDUF"
             }
+          },
+          {
+            "id": "71f79aefe91d1e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/ENTP Social Skills.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ENTP Social Skills"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -299,8 +324,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2c4e93ec041c133c",
+  "active": "36ddfeaf58f2a178",
   "lastOpenFiles": [
+    "00.Notes/ENTP Social Skills.md",
     "00.Notes/ENTP SDUF.md",
     "00.Notes/Tradução Livro People Patterns Pt-Br.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
@@ -341,7 +367,6 @@
     "00.Notes/Ana Vitoria - Tipagem.md",
     "00.Notes/Newest way to label types!.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
-    "00.Notes/Breakdown of UCT, Function's Genders, and the dynamics and relationships between them..md",
     "01.Assets/Untitled.canvas",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
     "+Daily Notes",
