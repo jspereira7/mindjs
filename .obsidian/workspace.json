@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "ENTP Social Skills"
             }
+          },
+          {
+            "id": "e2ecb042e6acc0c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Google Colab Scene Detect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Google Colab Scene Detect"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -322,13 +346,23 @@
               "icon": "lucide-globe",
               "title": "Google Translator"
             }
+          },
+          {
+            "id": "ddb3405bf4b256ad",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-pomofocus",
+              "state": {},
+              "icon": "lucide-clock-2",
+              "title": "Pomofocus"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 1037.5
+    "width": 900.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,10 +382,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "71f79aefe91d1e8c",
+  "active": "b18171310411ec96",
   "lastOpenFiles": [
-    "00.Notes/ENTP SDUF.md",
+    "00.Notes/Google Colab Scene Detect.md",
     "00.Notes/ENTP Social Skills.md",
+    "00.Notes/ENTP SDUF.md",
     "00.Notes/NURBS INSIGHT ABOUNT EXECUTION.md",
     "00.Notes/Plano de melhora de vida.md",
     "00.Notes/NURBS INSIGHT.md",
@@ -389,7 +424,6 @@
     "01.Assets/Anexos/Pasted image 20251015182606.png",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Octagram 4.1.md",
-    "00.Notes/Insights Livro Hábitos Atomicos.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Untitled.canvas",
     "01.Assets/Anexos/Recording 20251003145223.m4a",
