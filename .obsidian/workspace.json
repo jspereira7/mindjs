@@ -29,7 +29,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,7 +305,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f6467a91cb8fdf72",
+  "active": "c2d7f9b323d4f698",
   "lastOpenFiles": [
     "00.Notes/Si Aspirational is Unfair.md",
     "00.Notes/ENTP SDUF.md",
