@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f6467a91cb8fdf72",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-miro-",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-notebook-pen",
+              "title": "Miro"
+            }
+          },
+          {
             "id": "c2d7f9b323d4f698",
             "type": "leaf",
             "state": {
@@ -183,18 +195,6 @@
             }
           },
           {
-            "id": "f6467a91cb8fdf72",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-miro-",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-notebook-pen",
-              "title": "Miro"
-            }
-          },
-          {
             "id": "36ddfeaf58f2a178",
             "type": "leaf",
             "pinned": true,
@@ -279,11 +279,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 922.5,
+    "width": 894.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -304,7 +304,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "c2d7f9b323d4f698",
+  "active": "f6467a91cb8fdf72",
   "lastOpenFiles": [
     "00.Notes/Si Aspirational is Unfair.md",
     "00.Notes/ENTP SDUF.md",
