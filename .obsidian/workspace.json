@@ -54,57 +54,9 @@
               "icon": "lucide-file",
               "title": "ENTP SDUF"
             }
-          },
-          {
-            "id": "71f79aefe91d1e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/ENTP Social Skills.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ENTP Social Skills"
-            }
-          },
-          {
-            "id": "e2ecb042e6acc0c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Google Colab Scene Detect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Google Colab Scene Detect"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -362,7 +314,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 900.5
+    "width": 900.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,10 +335,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b18171310411ec96",
+  "active": "5a6f3d35c6e1803b",
   "lastOpenFiles": [
-    "00.Notes/Google Colab Scene Detect.md",
     "00.Notes/ENTP Social Skills.md",
+    "00.Notes/Google Colab Scene Detect.md",
     "00.Notes/ENTP SDUF.md",
     "00.Notes/NURBS INSIGHT ABOUNT EXECUTION.md",
     "00.Notes/Plano de melhora de vida.md",
