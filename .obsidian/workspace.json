@@ -284,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 894.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,7 +304,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "c2d7f9b323d4f698",
+  "active": "b18171310411ec96",
   "lastOpenFiles": [
     "00.Notes/Si Aspirational is Unfair.md",
     "00.Notes/ENTP SDUF.md",
