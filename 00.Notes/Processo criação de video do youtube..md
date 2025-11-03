@@ -1,6 +1,6 @@
 - [x] Script 
 - [x] Audio 
 - [x] Edição
-- [ ] Thumbnail
+- [x] Thumbnail
 - [ ] Titulo 
 - [ ] Upload 

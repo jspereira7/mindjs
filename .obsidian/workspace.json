@@ -43,8 +43,7 @@
               "title": "Processo criação de video do youtube."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,11 +293,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 617.5,
+    "width": 666.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -319,7 +318,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "39f87cf552c4f499",
+  "active": "f6467a91cb8fdf72",
   "lastOpenFiles": [
     "00.Notes/Processo criação de video do youtube..md",
     "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
