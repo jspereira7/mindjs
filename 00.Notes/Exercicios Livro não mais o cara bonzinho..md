@@ -93,6 +93,14 @@ Planeje uma viagem sozinho para uma cidade onde ninguem te conheça, idealmente 
 
 R: Preciso planejar fazer uma viagem sozinho de uma semana para algum pais estrangeiro da europa, idealmente que seja um evento do affiliate world, acho que vou fazer isso!
 
+### 13 Contratos secretos
+
+Identifique os contratos secretos na sua vida, o que voce dá aos outros como forma de receber algo. 
+
+Caras bonzinhos frequentemente usam contratos secretos para satisfazer suas necessidades, eles fazem algo com o objetivo de receber algo em troca. 
+
+Como por exemplo "Dizer Eu te amo" para receber um Eu te amo de sua parceira como forma de retribuição. 
+
 ---
 
-Parei na pagina 74.
+Parei na pagina 79.
