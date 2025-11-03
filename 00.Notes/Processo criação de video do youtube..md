@@ -1,0 +1,4 @@
+- [x] Script 
+- [ ] Audio 
+- [ ] Edição
+- [ ] Thumbnail
