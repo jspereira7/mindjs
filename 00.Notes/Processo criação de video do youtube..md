@@ -1,6 +1,8 @@
 - [x] Script 
 - [x] Audio 
 - [x] Edição
+- [x] Upload não listado
 - [x] Thumbnail
-- [ ] Titulo 
-- [ ] Upload 
+- [x] Titulo 
+- [x] Tags & Desk
+- [x] Tornar Publico 
