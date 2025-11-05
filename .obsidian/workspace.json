@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6467a91cb8fdf72",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-miro-",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-notebook-pen",
-              "title": "Miro"
-            }
-          },
-          {
             "id": "b5890c1fd1604b21",
             "type": "leaf",
             "state": {
@@ -29,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
