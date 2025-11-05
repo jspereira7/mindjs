@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "80dc43f9ad47f5d0",
+            "id": "b5890c1fd1604b21",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 970.5
+    "width": 970.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,7 +305,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "80dc43f9ad47f5d0",
+  "active": "b5890c1fd1604b21",
   "lastOpenFiles": [
     "00.Notes/Mulvad VPN - Credencial.md",
     "00.Notes/Processo criação de video do youtube..md",
