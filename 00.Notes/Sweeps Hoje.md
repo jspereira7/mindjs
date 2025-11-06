@@ -1,0 +1,5 @@
+- [ ] Comprar 2 contas 
+- [ ] Logar Contas 
+- [ ] Criar Funil Shopify 
+- [ ] Baixar um funil validado do concorrente e subir na netlify 
+- [ ] Ou conseguir um keitaro free
