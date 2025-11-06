@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"313075d360ec7185","x":2760,"y":-337,"width":280,"height":200,"color":"6","type":"text","text":"Authentic x Harmonious\n\nDetermina o seu foco cognitivo. \n\nUF x SF.  "},
+		{"id":"20cfee73bcc74be6","x":3000,"y":9,"width":380,"height":551,"color":"1","type":"text","text":"**Authentic:**\n- Pessoas autenticas confiam mais no julgamento do que em percepção. \n- Pessoas autenticas são elas mesmas sem pedir desculpas. \n- Pessoas autenticas confiam mais no julgamento do que a percepção\n- Por serem autenticas, a percepção delas fica reduzida, reduzir a percepção significa que a memoria deles não será tão boa."},
+		{"id":"5ca1be10fdff17d3","x":2480,"y":9,"width":420,"height":428,"color":"5","type":"text","text":"**Harmonious:**\n- São pessoas indecias, precisam de pessoas que julgam para tomar decisões. \n- São pessoas good vibes, trabalho em equipe e coisas assim. \n- Eles usam varias mascaras, são pessoas diferentes dependendo com quem estão. "},
+		{"id":"41a3c2735a3b20d0","x":1278,"y":-437,"width":400,"height":400,"color":"6","type":"text","text":"Open x Closed. \n\nIsso determina o seu desenvolvimento. \n\nHomens SD = Closed (Implosivos)\nMulheres SD = Open (Explosivas)\n\nHomens UD = Open (Explosive)\nMulheres UD = Closed (Implosive)\n\n\n\n\n"},
+		{"id":"c42070b73ea18820","type":"text","text":"Closed (Implosive)\n\n- HOMENS SD\n- MULHERES UD\n\nSão pessoas mais reservadas. \n\n- Precisam de confiança e afinidade com alguem pra poder desabafar.\n- Querem estar na posição de poder, onde os outros veem até eles. ","x":1598,"y":280,"width":318,"height":537,"color":"1"},
+		{"id":"e743469967a839fa","x":1120,"y":280,"width":358,"height":537,"color":"5","type":"text","text":"Open (Explosive)\n\n- HOMENS UD\n- MULHERES SD\n\nSão pessoas que precisam desafar seus pensamentos ou emoções. \n\nElas não guardam nada, precisam desabafar."},
+		{"id":"3caa7be453ceb869","type":"text","text":"Anima x Animus \n\nAnima = Feminino\nAnimus = Masculino\n\n\n\n","x":4120,"y":-337,"width":280,"height":200,"color":"6"},
+		{"id":"541435b4373e5861","x":4760,"y":-337,"width":525,"height":281,"type":"text","text":"Os mestres de seus ambitos estão focados no SF. \n\nSe quer ser o maximo masculino como homem esteja focado no SF. \n\nSe quer ser o maximo feminina quanto possivel esteja focada no SF"}
+	],
+	"edges":[
+		{"id":"a6fe393f5dc19133","fromNode":"313075d360ec7185","fromSide":"bottom","toNode":"20cfee73bcc74be6","toSide":"top"},
+		{"id":"5eb863feeb60c83d","fromNode":"313075d360ec7185","fromSide":"bottom","toNode":"5ca1be10fdff17d3","toSide":"top"},
+		{"id":"c816d48c946e60ad","fromNode":"41a3c2735a3b20d0","fromSide":"bottom","toNode":"e743469967a839fa","toSide":"top"},
+		{"id":"1f73a3203d57429b","fromNode":"41a3c2735a3b20d0","fromSide":"bottom","toNode":"c42070b73ea18820","toSide":"top"},
+		{"id":"91282318b5ced739","fromNode":"3caa7be453ceb869","fromSide":"right","toNode":"541435b4373e5861","toSide":"left"}
+	]
+}
