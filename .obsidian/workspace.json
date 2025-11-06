@@ -11,13 +11,38 @@
             "id": "b5890c1fd1604b21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Octagram 4 - Core Fears.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Octagram 4 - Core Fears"
+            }
+          },
+          {
+            "id": "9722ecacfca7cd0d",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-miro-",
+              "state": {},
+              "icon": "lucide-notebook-pen",
+              "title": "Miro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +120,7 @@
               "title": "Outline of Avaliação de Habitos Diarios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -292,8 +316,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "b5890c1fd1604b21",
+  "active": "9722ecacfca7cd0d",
   "lastOpenFiles": [
+    "00.Notes/Framework OCT 4.0.md",
+    "00.Notes/A falácia da grande ideia.md",
+    "00.Notes/Newest way to label types!.md",
     "00.Notes/Mulvad VPN - Credencial.md",
     "00.Notes/Processo criação de video do youtube..md",
     "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
@@ -320,9 +347,6 @@
     "00.Notes/ENTP-ESTP Fe Child.md",
     "00.Notes/ENTP-ESFP Te Critic.md",
     "00.Notes/ENTP-ESTP Fi Trickster.md",
-    "00.Notes/ENTP-ENFP Ti Parent.md",
-    "00.Notes/ENTP-ENFP Ne Hero.md",
-    "00.Notes/ENTP-ENFP Ni Nemesis.md",
     "01.Assets/Anexos/Pasted image 20251017132657.png",
     "01.Assets/Anexos/Pasted image 20251017130356.png",
     "01.Assets/Anexos/Pasted image 20251017130322.png",
