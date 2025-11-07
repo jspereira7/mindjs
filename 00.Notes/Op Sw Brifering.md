@@ -1,11 +1,11 @@
 **Tasks:** 
 
-- [ ] Comprar contas da frança. 
+- [x] Comprar contas da frança. 
 - [x] Traduzir a pagina pra polones (IA)
 - [x] Baixar os criativos dos concorrentes (Espionar o funil deles)
 - [x] Modificar o link do checkout (Modificar o link)
-- [ ] Instalar Pushcut para trackear vendas. 
-- [ ] Subir Página na hospedagem
+- [x] Subir Página na hospedagem
+- [ ] Trocar Link da página na shopify 
 
 ---
 

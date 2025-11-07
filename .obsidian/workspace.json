@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "Op Sw Brifering"
             }
-          },
-          {
-            "id": "db79169818776786",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-07 16.51.26.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,10 +306,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "db79169818776786",
+  "active": "2800b3002c3d6831",
   "lastOpenFiles": [
-    "00.Notes/Op Sw Brifering.md",
     "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md",
+    "00.Notes/Op Sw Brifering.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
