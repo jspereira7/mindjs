@@ -5,8 +5,8 @@
 - [x] Baixar os criativos dos concorrentes (Espionar o funil deles)
 - [x] Modificar o link do checkout (Modificar o link)
 - [x] Subir Página na hospedagem
-- [ ] Trocar Link da página na shopify 
-
+- [x] Trocar Link da página na shopify 
+- [ ] Instalar Keitaro
 ---
 
 Comprar contas: 

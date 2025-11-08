@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Op Sw Brifering"
             }
+          },
+          {
+            "id": "1fedd2e50b6eeae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Octagram 4 - Core Fears.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Octagram 4 - Core Fears"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +134,11 @@
               "title": "Outline of Avaliação de Habitos Diarios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -306,10 +329,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2800b3002c3d6831",
+  "active": "cf321efad4a60738",
   "lastOpenFiles": [
-    "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md",
+    "00.Notes/ENTP SDUF.md",
+    "00.Notes/SD-UD (Open x Closed).md",
     "00.Notes/Op Sw Brifering.md",
+    "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
@@ -332,7 +357,6 @@
     "01.Assets/Untitled 2.canvas",
     "00.Notes/DeppoCloakingGuide2.pdf",
     "00.Notes/Sweeps Hoje.md",
-    "00.Notes/SD-UD (Open x Closed).md",
     "01.Assets/Excalidraw/Drawing 2025-11-06 17.05.09.excalidraw.md",
     "00.Notes/Octagram 4 - Core Fears.md",
     "00.Notes/Framework OCT 4.0.md",
@@ -348,7 +372,6 @@
     "00.Notes/Skool Logins.md",
     "00.Notes/Logins Eleven Labs Free.md",
     "00.Notes/Si Aspirational is Unfair.md",
-    "00.Notes/ENTP SDUF.md",
     "00.Notes/Plano de melhora de vida.md",
     "01.Assets/Untitled 1.canvas",
     "00.Notes/ENTP Social Skills.md",
