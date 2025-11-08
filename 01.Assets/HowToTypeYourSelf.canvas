@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"fd1e6f6adcafcdc8","x":-1940,"y":-320,"width":640,"height":1060,"type":"text","text":"## Realms \n----\n\nJ x P: \n- Witness\n- Jury \n- Altorney\n- Judge \n\n---\n\nT x F: \n- Brawler\n- Negotiator\n- Enforcer\n- Detective\n\n----\n\nS x N: \n- Stoic \n- Cynic\n- Relativist\n- Empiricist\n\n----\n\nE x I \n- Vampire\n- Baterry\n- Sustainer\n- Energizer\n\n"}
+	],
+	"edges":[]
+}
