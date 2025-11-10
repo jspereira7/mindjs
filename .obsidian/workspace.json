@@ -32,24 +32,29 @@
             }
           },
           {
-            "id": "1fedd2e50b6eeae9",
+            "id": "0ed8ddfdb4ccaf60",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01.Assets/HowToTypeYourSelf.canvas",
-                "viewState": {
-                  "x": -695.5946929722307,
-                  "y": 323.7392100293418,
-                  "zoom": -0.6005187175671257
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "HowToTypeYourSelf"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2c4e93ec041c133c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-bot",
+              "title": "ChatGpt"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Hábitos Atomicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,19 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hábitos Atomicos"
-            }
-          },
-          {
-            "id": "2c4e93ec041c133c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
+              "title": "Graph view"
             }
           },
           {
@@ -298,11 +290,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 970.5,
+    "width": 1356.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -323,7 +315,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "1fedd2e50b6eeae9",
+  "active": "0ed8ddfdb4ccaf60",
   "lastOpenFiles": [
     "00.Notes/Op Sw Brifering.md",
     "01.Assets/HowToTypeYourSelf.canvas",
