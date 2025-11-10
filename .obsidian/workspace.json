@@ -35,10 +35,24 @@
             "id": "0ed8ddfdb4ccaf60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Comandos Instalação Keitaro na VPS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Comandos Instalação Keitaro na VPS"
             }
           },
           {
@@ -163,6 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00.Notes/Comandos Instalação Keitaro na VPS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Comandos Instalação Keitaro na VPS"
             }
           },
           {
@@ -315,8 +330,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "0ed8ddfdb4ccaf60",
+  "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
+    "00.Notes/Comandos Instalação Keitaro na VPS.md",
     "00.Notes/Op Sw Brifering.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Octagram 4 - Core Fears.md",
