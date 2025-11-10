@@ -6,7 +6,7 @@
 - [x] Modificar o link do checkout (Modificar o link)
 - [x] Subir Página na hospedagem
 - [x] Trocar Link da página na shopify 
-- [ ] Instalar Keitaro
+- [x] Instalar Keitaro
 ---
 
 Comprar contas: 
@@ -20,5 +20,19 @@ LinkFinal: https://www.bcdxmn8trk.com/2KGQG8/394K8L2/?sub1=A001&source_id=Myster
 
 Link final página: 
 - https://surveysh1-2025.netlify.app/
+Link campanha com cloacker: 
+- https://ttfast.pro/click?key=cf448515d4ecf83858fa
+
+
+
+----
+
+**Filtros cloacker:** 
+1. Todos os links pv white, tanto no filtro, quanto no link da oferta principal. 
+2. Depois que a campanha começar a entregar pro publico correto, trocar o link pra oferta black.
+3. Somente isso. 
+
+----
+
 
 
