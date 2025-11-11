@@ -42,54 +42,6 @@
               "icon": "lucide-file",
               "title": "Op Sw Brifering"
             }
-          },
-          {
-            "id": "0ed8ddfdb4ccaf60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Comandos Instalação Keitaro na VPS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comandos Instalação Keitaro na VPS"
-            }
-          },
-          {
-            "id": "4d9f925244f4b0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Comandos yabai tilling macOs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comandos yabai tilling macOs"
-            }
           }
         ]
       }
@@ -355,9 +307,9 @@
   },
   "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
-    "00.Notes/Comandos Instalação Keitaro na VPS.md",
     "00.Notes/Comandos yabai tilling macOs.md",
     "00.Notes/Op Sw Brifering.md",
+    "00.Notes/Comandos Instalação Keitaro na VPS.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Octagram 4 - Core Fears.md",
     "00.Notes/ENTP SDUF.md",
