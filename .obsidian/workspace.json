@@ -20,13 +20,20 @@
             }
           },
           {
-            "id": "900de8f0bd3d4744",
+            "id": "0305c407d193ed4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "01.Assets/HowToTypeYourSelf.canvas",
+                "viewState": {
+                  "x": -588.6401571172338,
+                  "y": 549.0490413260334,
+                  "zoom": -0.9444838976010747
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HowToTypeYourSelf"
             }
           }
         ],
@@ -112,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -292,7 +298,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "900de8f0bd3d4744",
+  "active": "0305c407d193ed4a",
   "lastOpenFiles": [
     "00.Notes/Comandos yabai tilling macOs.md",
     "00.Notes/Op Sw Brifering.md",
