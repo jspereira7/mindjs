@@ -27,9 +27,9 @@
               "state": {
                 "file": "01.Assets/HowToTypeYourSelf.canvas",
                 "viewState": {
-                  "x": -588.6401571172338,
-                  "y": 549.0490413260334,
-                  "zoom": -0.9444838976010747
+                  "x": -600.194058536589,
+                  "y": 379.07384707208155,
+                  "zoom": -0.5802951349958846
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
