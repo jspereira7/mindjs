@@ -27,8 +27,8 @@
               "state": {
                 "file": "01.Assets/HowToTypeYourSelf.canvas",
                 "viewState": {
-                  "x": -1740.133379883351,
-                  "y": -254.20863246405213,
+                  "x": -1673.0043951732637,
+                  "y": -185.35839173575675,
                   "zoom": -0.8881590772812635
                 }
               },
@@ -36,7 +36,8 @@
               "title": "HowToTypeYourSelf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,7 +300,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2c4e93ec041c133c",
+  "active": "0305c407d193ed4a",
   "lastOpenFiles": [
     "00.Notes/Comandos yabai tilling macOs.md",
     "01.Assets/HowToTypeYourSelf.canvas",
