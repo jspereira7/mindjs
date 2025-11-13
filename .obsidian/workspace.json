@@ -27,17 +27,41 @@
               "state": {
                 "file": "01.Assets/HowToTypeYourSelf.canvas",
                 "viewState": {
-                  "x": -1673.0043951732637,
-                  "y": -185.35839173575675,
-                  "zoom": -0.8881590772812635
+                  "x": -1983.3498252417112,
+                  "y": 62.562973981522205,
+                  "zoom": -1.6514426676576415
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "HowToTypeYourSelf"
             }
+          },
+          {
+            "id": "e007d617fb08b1e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/OCTAGRAM NEW.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OCTAGRAM NEW"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,10 +324,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "0305c407d193ed4a",
+  "active": "e007d617fb08b1e0",
   "lastOpenFiles": [
-    "00.Notes/Comandos yabai tilling macOs.md",
     "01.Assets/HowToTypeYourSelf.canvas",
+    "00.Notes/OCTAGRAM NEW.md",
+    "00.Notes/Comandos yabai tilling macOs.md",
     "00.Notes/Op Sw Brifering.md",
     "00.Notes/Comandos Instalação Keitaro na VPS.md",
     "00.Notes/Octagram 4 - Core Fears.md",
@@ -345,7 +370,6 @@
     "00.Notes/PSN logins.md",
     "00.Notes/Skool Logins.md",
     "00.Notes/Logins Eleven Labs Free.md",
-    "00.Notes/Si Aspirational is Unfair.md",
     "01.Assets/Untitled 1.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
