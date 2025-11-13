@@ -27,17 +27,40 @@
               "state": {
                 "file": "01.Assets/HowToTypeYourSelf.canvas",
                 "viewState": {
-                  "x": -600.194058536589,
-                  "y": 379.07384707208155,
-                  "zoom": -0.5802951349958846
+                  "x": -1616.2029465724197,
+                  "y": 12.58605035809234,
+                  "zoom": -0.8881590772812635
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "HowToTypeYourSelf"
             }
+          },
+          {
+            "id": "034a034874b09c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Comandos yabai tilling macOs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comandos yabai tilling macOs"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +138,8 @@
               "title": "Outline of Avaliação de Habitos Diarios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -299,12 +323,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "0305c407d193ed4a",
+  "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
     "00.Notes/Comandos yabai tilling macOs.md",
+    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Op Sw Brifering.md",
     "00.Notes/Comandos Instalação Keitaro na VPS.md",
-    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Octagram 4 - Core Fears.md",
     "00.Notes/ENTP SDUF.md",
     "00.Notes/SD-UD (Open x Closed).md",
@@ -345,7 +369,6 @@
     "00.Notes/Skool Logins.md",
     "00.Notes/Logins Eleven Labs Free.md",
     "00.Notes/Si Aspirational is Unfair.md",
-    "00.Notes/Plano de melhora de vida.md",
     "01.Assets/Untitled 1.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
