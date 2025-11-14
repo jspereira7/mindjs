@@ -27,9 +27,9 @@
               "state": {
                 "file": "01.Assets/HowToTypeYourSelf.canvas",
                 "viewState": {
-                  "x": -1983.3498252417112,
-                  "y": 62.562973981522205,
-                  "zoom": -1.6514426676576415
+                  "x": -1575.3245144374418,
+                  "y": 41.071578094108574,
+                  "zoom": -1.012847173228371
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,10 +324,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "e007d617fb08b1e0",
+  "active": "0305c407d193ed4a",
   "lastOpenFiles": [
-    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/OCTAGRAM NEW.md",
+    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Comandos yabai tilling macOs.md",
     "00.Notes/Op Sw Brifering.md",
     "00.Notes/Comandos Instalação Keitaro na VPS.md",

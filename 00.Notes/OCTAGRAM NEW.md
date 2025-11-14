@@ -34,10 +34,11 @@ Negotiator and Stoic go together
 
 Se você é (Juiz) ou Advogado:  
 
-(Executor) – Mantém a ordem com firmeza e controle decisivo.  
-(Lutador) – Enfrenta desafios diretamente com força e intensidade.  
-(Relativista) – Vê a verdade como flexível, moldada pelo contexto e pela perspectiva.  
-(Cínico) – Questiona os motivos, valorizando a honestidade em vez da ilusão educada.  
+(Enforcer) – Mantém a ordem com firmeza e controle decisivo.  
+(Brawler) – Enfrenta desafios diretamente com força e intensidade.  
+(Relativist) – Vê a verdade como flexível, moldada pelo contexto e pela perspectiva.  
+(Cynic) – Questiona os motivos, valorizando a honestidade em vez da ilusão educada.  
+
 Executor e Relativista combinam  
 Executor e Cínico combinam  
 Lutador e Cínico combinam  
@@ -45,11 +46,13 @@ Lutador e Relativista combinam
 
 ---
 
-Se você é (Júri) ou Testemunha:  
+Se você é (Júri) ou Testemunha:
+  
 (Detetive) – Descobre a verdade por meio da observação, lógica e percepção.  
 (Negociador) – Resolve conflitos por meio de persuasão, empatia e estratégia.  
 (Empericista) – Confia na experiência e baseia a crença no que pode ser visto.  
-(Espiritualista) – Permanece firme em tempos difíceis com razão calma e disciplina.  
+(Espiritualista) – Permanece firme em tempos difíceis com razão calma e disciplina. 
+
 Detetive e Espiritualista combinam  
 Detetive e Empericista combinam  
 Negociador e Empericista combinam  
