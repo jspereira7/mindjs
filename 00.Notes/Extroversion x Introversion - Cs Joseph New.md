@@ -31,6 +31,50 @@ Uma situação introvetida envolve duas ou menos pessoas.
 Os vampiros drenam energia dos outros, porque lhes faltou muita atenção na vida. 
 - Se eles forem da UF 
 
+Meu pai parece ser alguem que é vampiro. É alguem que suga a atenção e energia dos outros. 
+
+---
+
+## Who is the Energizer 
+
+Extraverted + XXJX Octagram 
+- UDJM + UDJF + SDJM + SDJF
+---
+- Não precisam de atenção, são a alma da festa. 
+- São confundidos com vampiros com frequencia. 
+- Querem garantir que todos estejam engajados. 
+- Lideram o grupo, conduzem as pessoas para a interação. 
+- São pessoas que gostam de dar energia pros outros. 
+- As pessoas drenam energia dele em situações extrovertidas
+- Geralmente são eles que reunem as pessoas e organizam eventos. 
+- Sua energia é drenada em contextos introvertidos. 
+- No longo prazo são as pessoas que mais são populares nos eventos. 
+- O energizador está apenas conduzindo a atenção para que ninguem fique entediado.
+- Ele produz energia em contextos extrovertidos.
+- E é drenado em contextos introvertidos. 
+
+É mais provavel que alguem alcance o equilibrio energético em situações introvertidas.
+
+---
+
+Energizer + Batery = ❤️
+
+---
+
+## Who is the baterry 
+
+Introverted + XXPX Octagram 
+- UDPM + UDPF + SDPM + SDPF
+
+-----
+
+- Baterias são pessoas que precisam de algo, sempre precisam de algo. 
+- Eles exibem carencia, são pessoas carentes. 
+- São carentes porque se afundam na solidão.
+- Introvertidos, mas não se saem bem em situações introvertidas. 
+- Ganham energia de situações extrovertidas, mas possuem um tanque muito pequeno de energia. 
+- Em situações de extroversão eles recarregam a energia muito rapido, mas em situações introvertidas, eles são esgotados muito facilmente. 
+- 
 
 
  
