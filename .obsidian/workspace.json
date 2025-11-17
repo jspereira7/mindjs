@@ -20,47 +20,6 @@
             }
           },
           {
-            "id": "0305c407d193ed4a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01.Assets/HowToTypeYourSelf.canvas",
-                "viewState": {
-                  "x": -1785.932605195144,
-                  "y": 241.3084808175224,
-                  "zoom": -1.0936434870109046
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "HowToTypeYourSelf"
-            }
-          },
-          {
-            "id": "65ded4508f04e74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Extroversion x Introversion - Cs Joseph New"
-            }
-          },
-          {
             "id": "8ddeaf18f3e64ca4",
             "type": "leaf",
             "state": {
@@ -71,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -336,8 +295,8 @@
   },
   "active": "8ddeaf18f3e64ca4",
   "lastOpenFiles": [
-    "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
     "01.Assets/HowToTypeYourSelf.canvas",
+    "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
     "00.Notes/OCTAGRAM NEW.md",
     "00.Notes/Comandos yabai tilling macOs.md",
     "00.Notes/Op Sw Brifering.md",
