@@ -59,9 +59,19 @@
               "icon": "lucide-file",
               "title": "Extroversion x Introversion - Cs Joseph New"
             }
+          },
+          {
+            "id": "8ddeaf18f3e64ca4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -324,7 +334,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "65ded4508f04e74d",
+  "active": "8ddeaf18f3e64ca4",
   "lastOpenFiles": [
     "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
     "01.Assets/HowToTypeYourSelf.canvas",

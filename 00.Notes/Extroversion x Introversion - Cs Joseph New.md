@@ -74,7 +74,32 @@ Introverted + XXPX Octagram
 - Introvertidos, mas não se saem bem em situações introvertidas. 
 - Ganham energia de situações extrovertidas, mas possuem um tanque muito pequeno de energia. 
 - Em situações de extroversão eles recarregam a energia muito rapido, mas em situações introvertidas, eles são esgotados muito facilmente. 
-- 
+- São pessoas carentes, e definitivamente quase sempre se sentem intimidadas por Energizers. 
+- Mas eles deveriam estar com pessoas energizers. 
+
+Eu acredito que a Ana vitoria é uma bateria, e talvez a jessica seja uma energizer, porque é ela que está sempre produzindo energia. 
+
+---
+##  Who is the Sustainer
+
+Introverted + XXJX Octagram 
+- UDJM + UDJF + SDJF + SDJM
+---
+- Eles perdem energia em situações extrovertidas e ganham em situações introvertidas. 
+- Essas pessoas são aquelas que tem o péssimo habito de não dormir, e não tem um ciclo circadiano. 
+- Ganham energia infinita em situações introvertidas, quando estão sozinhos... 
+- E por terem tanta energia sozinhos, não conseguem desligar o cerebro e dormir. 
+- Somente uma coisa pode faze-los desligar o cerebro, e é ter sua energia drenada por outras pessoas. 
+- Possuem um tanque curto de energia
+
+Vampire + Sustainer = ❤️
+
+---
+
+Em resumo, estar sozinho é ruim para a saude mental e fisica. 
+
+
+
 
 
  
