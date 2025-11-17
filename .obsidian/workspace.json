@@ -23,14 +23,27 @@
             "id": "8ddeaf18f3e64ca4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Processo subir contas de anuncio TTK.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Processo subir contas de anuncio TTK"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,8 +306,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "8ddeaf18f3e64ca4",
+  "active": "2c4e93ec041c133c",
   "lastOpenFiles": [
+    "00.Notes/Processo subir contas de anuncio TTK.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
     "00.Notes/OCTAGRAM NEW.md",
