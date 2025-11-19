@@ -52985,8 +52985,7 @@
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [
-    "Excalidraw/Scripts/Downloaded/Text to Path.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+    "Excalidraw/Scripts/Downloaded/Text to Path.md"
   ],
   "customPens": [
     {

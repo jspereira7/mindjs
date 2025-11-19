@@ -72,7 +72,7 @@ Limitless - idealistic Se
 
 * SDSF SP or SDUF NP
 
-Contol - idealistic Ni
+Control - idealistic Ni
 
 * SDSF NJ or SDUF SJ
 
