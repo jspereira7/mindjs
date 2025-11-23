@@ -45,3 +45,5 @@ SD = SDJM, SDJF.  (Jury ) (Comunity) (Foram aceitos)
 **SF (Harmonious)** 
 - Querem se encaixar no ambiente que estão.
 - Harmonia.
+
+
