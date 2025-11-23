@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1615871cdd9712e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
-            }
-          },
-          {
-            "id": "dd7177743eab515d",
+            "id": "7ba90c110a92c390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Cookies PF conta de anuncio.md",
+                "file": "00.Notes/Authentic x Harmonious.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cookies PF conta de anuncio"
-            }
-          },
-          {
-            "id": "7ba90c110a92c390",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Authentic x Harmonious"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,6 +295,7 @@
   },
   "active": "7ba90c110a92c390",
   "lastOpenFiles": [
+    "00.Notes/Authentic x Harmonious.md",
     "00.Notes/Cookies PF conta de anuncio.md",
     "00.Notes/Processo subir contas de anuncio TTK.md",
     "00.Notes/Type Grid 5 Complexes.md",
@@ -360,7 +340,6 @@
     "00.Notes/Mulvad VPN - Credencial.md",
     "00.Notes/Processo criação de video do youtube..md",
     "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
-    "00.Notes/Conta Skool com conteudos do cs joseph - hackeada.md",
     "01.Assets/Untitled 1.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
