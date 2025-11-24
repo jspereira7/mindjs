@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tipagem JS",
+      "path": "00.Notes/Tipagem JS.md"
+    },
+    {
+      "basename": "Medos dos Tipos",
+      "path": "00.Notes/Medos dos Tipos.md"
+    },
+    {
       "basename": "Companion Guide - Cs Joseph",
       "path": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Logins Eleven Labs Free",
       "path": "00.Notes/Logins Eleven Labs Free.md"
-    },
-    {
-      "basename": "Si Aspirational is Unfair",
-      "path": "00.Notes/Si Aspirational is Unfair.md"
-    },
-    {
-      "basename": "Plano de melhora de vida",
-      "path": "00.Notes/Plano de melhora de vida.md"
     }
   ],
   "omittedPaths": [

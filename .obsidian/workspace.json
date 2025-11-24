@@ -8,15 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ba90c110a92c390",
+            "id": "54d699a7dd0591fb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
+                "file": "00.Notes/Tipagem JS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Companion Guide - Cs Joseph"
+              "icon": "lucide-file",
+              "title": "Tipagem JS"
             }
           }
         ]
@@ -281,8 +293,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7ba90c110a92c390",
+  "active": "54d699a7dd0591fb",
   "lastOpenFiles": [
+    "00.Notes/Tipagem JS.md",
+    "00.Notes/Medos dos Tipos.md",
+    "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/Authentic x Harmonious.md",
     "00.Notes/Cookies PF conta de anuncio.md",
     "00.Notes/Processo subir contas de anuncio TTK.md",
@@ -326,12 +341,9 @@
     "00.Notes/A falácia da grande ideia.md",
     "00.Notes/Newest way to label types!.md",
     "00.Notes/Mulvad VPN - Credencial.md",
-    "00.Notes/Processo criação de video do youtube..md",
-    "00.Notes/Exercicios Livro não mais o cara bonzinho..md",
     "01.Assets/Untitled 1.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
     "00.Notes/Visual Thinking Canva.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
