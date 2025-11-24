@@ -37,6 +37,7 @@ SD = SDJM, SDJF.  (Jury ) (Comunity) (Foram aceitos)
 **SD (Lado da mente harmonioso desenvolvido):** 
 - Cresceu como resultado do senso de comunidade
 - Bons em ser harmoniosos. 
+- Pessoas indecisas
 
 **UF (Autentic)**  
 - Autenticidade, são eles mesmos em todos os ambientes. 

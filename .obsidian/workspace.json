@@ -11,24 +11,12 @@
             "id": "7ba90c110a92c390",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00.Notes/Authentic x Harmonious.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Authentic x Harmonious"
+              "icon": "lucide-file-text",
+              "title": "Companion Guide - Cs Joseph"
             }
           }
         ]
