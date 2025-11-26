@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "Tipagem JS"
             }
+          },
+          {
+            "id": "7ae2391ec05eaa46",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "ChatGpt"
+            }
           }
         ]
       }
@@ -266,23 +276,14 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "7ae2391ec05eaa46",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 876.5
+    "width": 876.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,7 +303,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7ae2391ec05eaa46",
+  "active": "54d699a7dd0591fb",
   "lastOpenFiles": [
     "00.Notes/Tipagem JS.md",
     "00.Notes/Medos dos Tipos.md",
