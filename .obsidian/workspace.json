@@ -64,9 +64,19 @@
               "icon": "lucide-file",
               "title": "Insight foda do jordan peterson sobre bullying"
             }
+          },
+          {
+            "id": "39b00b6b7ac25937",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -328,7 +338,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "d7eaa28e8157bdba",
+  "active": "39b00b6b7ac25937",
   "lastOpenFiles": [
     "00.Notes/Insight foda do jordan peterson sobre bullying.md",
     "00.Notes/Tipagem JS.md",
