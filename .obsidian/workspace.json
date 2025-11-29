@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ae2391ec05eaa46",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGpt"
-            }
-          },
-          {
             "id": "39b00b6b7ac25937",
             "type": "leaf",
             "state": {
@@ -27,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
