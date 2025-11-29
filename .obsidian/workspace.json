@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54d699a7dd0591fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Tipagem JS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tipagem JS"
-            }
-          },
-          {
             "id": "7ae2391ec05eaa46",
             "type": "leaf",
             "state": {
@@ -39,30 +15,6 @@
               "state": {},
               "icon": "lucide-bot",
               "title": "ChatGpt"
-            }
-          },
-          {
-            "id": "d7eaa28e8157bdba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Insight foda do jordan peterson sobre bullying.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Insight foda do jordan peterson sobre bullying"
             }
           },
           {
@@ -76,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
