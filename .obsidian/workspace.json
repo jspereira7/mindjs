@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00636933cc070054",
+        "id": "1c9795867218d5ca",
         "type": "tabs",
         "children": [
           {
-            "id": "39b00b6b7ac25937",
+            "id": "238ee727b4610993",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/The 8 Sexually Compatible Relationships.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The 8 Sexually Compatible Relationships"
+              "title": "New tab"
             }
           }
         ]
@@ -293,7 +279,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "39b00b6b7ac25937",
+  "active": "238ee727b4610993",
   "lastOpenFiles": [
     "00.Notes/The 8 Sexually Compatible Relationships.md",
     "00.Notes/Insight foda do jordan peterson sobre bullying.md",
