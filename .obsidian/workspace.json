@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d1b0334d0b0e697",
+        "id": "efb12ef56554844e",
         "type": "tabs",
         "children": [
           {
-            "id": "536e29652ad49537",
+            "id": "cd2ccf6df68a1de0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Projeto Ttk Ads.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Projeto Ttk Ads"
+              "title": "New tab"
             }
           }
         ]
@@ -114,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -293,7 +278,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "536e29652ad49537",
+  "active": "cd2ccf6df68a1de0",
   "lastOpenFiles": [
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Processo logar contas no automatico.md",
