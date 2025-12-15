@@ -10,7 +10,6 @@
 - Falta de Agency (Capacidade de gerenciar a propria vida e tomar decisões etc...)
 
 ---
-
 ## Cognitive Development 
 
 Men | Env -> Change Men development (Open x Closed)
@@ -49,6 +48,7 @@ Please be aware of this!!!
 
 Se essa pessoa está disposta a deixar a outra desconfortavel, ela é "J" octagram. 
 
+--------
 
 
 
