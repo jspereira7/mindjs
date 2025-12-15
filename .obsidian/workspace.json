@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Anotações Aula Cs Joseph New"
             }
+          },
+          {
+            "id": "f86ee3b793acb63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/J x P Octagram 4.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "J x P Octagram 4.1"
+            }
+          },
+          {
+            "id": "07787f6191e3e7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/GPT Pago Free.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GPT Pago Free"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,10 +341,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7d89122310d7b305",
+  "active": "07787f6191e3e7a9",
   "lastOpenFiles": [
-    "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
+    "00.Notes/GPT Pago Free.md",
+    "00.Notes/Proxy Free.md",
+    "00.Notes/J x P Octagram 4.1.md",
     "00.Notes/Anotações Aula Cs Joseph New.md",
+    "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Processo logar contas no automatico.md",
     "00.Notes/The 8 Sexually Compatible Relationships.md",
@@ -328,9 +380,6 @@
     "01.Assets/Anexos/SHAPE.png",
     "01.Assets/Anexos/Roupas.png",
     "01.Assets/Anexos/FtDePerfil2.jpg",
-    "01.Assets/Anexos/Companion Guide 2025-08-06 19.01.13.excalidraw.md",
-    "01.Assets/Anexos/Companion Guide 2025-08-06 18.41.11.excalidraw.md",
-    "01.Assets/Anexos/Companion Guide 2025-08-06 18.55.45.excalidraw.md",
     "01.Assets/Anexos/ChatGPT Image May 2, 2025, 06_06_16 PM.png",
     "01.Assets/Anexos/ChatGPT Image May 2, 2025, 04_57_04 PM.png",
     "01.Assets/Anexos/Captura de Tela 2024-09-03 às 10.28.00.png",
