@@ -54,21 +54,9 @@
               "icon": "lucide-file",
               "title": "J x P Octagram 4.1"
             }
-          },
-          {
-            "id": "f00b0cbbb2acde95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Companion Guide - Cs Joseph"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,11 +317,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f00b0cbbb2acde95",
+  "active": "f86ee3b793acb63a",
   "lastOpenFiles": [
+    "00.Notes/Anotações Aula Cs Joseph New.md",
     "00.Notes/J x P Octagram 4.1.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
-    "00.Notes/Anotações Aula Cs Joseph New.md",
     "00.Notes/GPT Pago Free.md",
     "00.Notes/Proxy Free.md",
     "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
