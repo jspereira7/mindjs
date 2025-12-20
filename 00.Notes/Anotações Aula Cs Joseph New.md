@@ -23,7 +23,7 @@ Please be aware of this!!!
 - Talk abount themself
 - SDXF, UDXM
 
-### Close 
+### Closed
 - Responding
 - Espera os outros iniciar o assunto sobre sí mesmas.
 - SDXM, UDXF
