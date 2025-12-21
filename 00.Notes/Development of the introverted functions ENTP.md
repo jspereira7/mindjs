@@ -31,3 +31,13 @@ ENTP SDUF
 **Como desenvolveremos tudo isso ?** 
 - R: Atraves dos circuitos cognitivos, hackeando a nós mesmos, para desenvolver todas as nossas funções introvertidas. 
 
+---
+
+Push x Pull Energy 
+
+Push = Empurrar, significa que você em abundancia, e por isso está dando (Entregar)
+
+Pull = Puxar, significa que você tem em escassez, por isso está puxando dos outros, está querendo receber. (Receber)
+
+---
+
