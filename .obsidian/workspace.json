@@ -78,9 +78,20 @@
               "icon": "lucide-file",
               "title": "Development of the introverted functions ENTP"
             }
+          },
+          {
+            "id": "97912634e7cbd19f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Excalidraw/Drawing 2025-12-21 15.51.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-21 15.51.26.excalidraw"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,9 +352,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "0ee3e2208dfa48d5",
+  "active": "7d89122310d7b305",
   "lastOpenFiles": [
     "00.Notes/Development of the introverted functions ENTP.md",
+    "01.Assets/Excalidraw/Drawing 2025-12-21 15.51.26.excalidraw.md",
     "00.Notes/J x P Octagram 4.1.md",
     "00.Notes/Anotações Aula Cs Joseph New.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
@@ -370,7 +382,6 @@
     "00.Notes/Comandos Instalação Keitaro na VPS.md",
     "00.Notes/Octagram 4 - Core Fears.md",
     "00.Notes/ENTP SDUF.md",
-    "00.Notes/SD-UD (Open x Closed).md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",

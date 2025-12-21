@@ -35,9 +35,9 @@ ENTP SDUF
 
 Push x Pull Energy 
 
-Push = Empurrar, significa que você em abundancia, e por isso está dando (Entregar)
+**Push** = Empurrar, significa que você em abundancia, e por isso está dando (Entregar)
 
-Pull = Puxar, significa que você tem em escassez, por isso está puxando dos outros, está querendo receber. (Receber)
+**Pull** = Puxar, significa que você tem em escassez, por isso está puxando dos outros, está querendo receber. (Receber)
 
 ---
 
