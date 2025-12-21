@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "J x P Octagram 4.1"
             }
+          },
+          {
+            "id": "0ee3e2208dfa48d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Trickster Funciotion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trickster Funciotion"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -317,10 +341,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "f86ee3b793acb63a",
+  "active": "0ee3e2208dfa48d5",
   "lastOpenFiles": [
-    "00.Notes/Anotações Aula Cs Joseph New.md",
+    "00.Notes/Trickster Funciotion.md",
     "00.Notes/J x P Octagram 4.1.md",
+    "00.Notes/Anotações Aula Cs Joseph New.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/GPT Pago Free.md",
     "00.Notes/Proxy Free.md",
