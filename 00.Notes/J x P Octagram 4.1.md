@@ -8,3 +8,5 @@
 
 **Attorney** = These individuals are Open and often very self-sacrificing, but they lack confidence in their own judgment. As a result, they may struggle to solve their own problems, sacrificing their needs for the sake of others' peace. 
 	(São abertos e muito self-sacrificing em prol dos outros) (Sacrificando suas necessidades em prol da paz dos outros)
+
+---
