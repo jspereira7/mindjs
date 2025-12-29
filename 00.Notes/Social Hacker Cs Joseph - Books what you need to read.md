@@ -18,3 +18,4 @@ Mas se você combinar esses livros com o ego hacking, você se torna imparavel s
 ----
 
 [[Cognitive emulation]]
+
