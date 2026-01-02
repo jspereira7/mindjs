@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cognitive Functions Definitions",
+      "path": "00.Notes/Cognitive Functions Definitions.md"
+    },
+    {
       "basename": "Rei, Guerreiro, Mago, Amante - Anotações.",
       "path": "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A Escola dos Deuses - Elio DAnna (Livro Completo)",
       "path": "01.Assets/Anexos/A Escola dos Deuses - Elio DAnna (Livro Completo).pdf"
-    },
-    {
-      "basename": "DeppoCloakingGuide2",
-      "path": "00.Notes/DeppoCloakingGuide2.pdf"
     }
   ],
   "omittedPaths": [

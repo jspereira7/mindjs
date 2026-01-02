@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Rei, Guerreiro, Mago, Amante - Anotações."
             }
+          },
+          {
+            "id": "732ff6a4f4e995aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Cognitive Functions Definitions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive Functions Definitions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,11 +317,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "dd83af5538fd2f16",
+  "active": "732ff6a4f4e995aa",
   "lastOpenFiles": [
+    "00.Notes/Cognitive Functions Definitions.md",
+    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
     "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md",
     "00.Notes/Development of the introverted functions ENTP.md",
-    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
     "00.Notes/Cognitive emulation.md",
     "00.Notes/J x P Octagram 4.1.md",
     "00.Notes/Anotações Aula Cs Joseph New.md",
@@ -321,7 +347,6 @@
     "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
     "00.Notes/OCTAGRAM NEW.md",
     "00.Notes/Comandos yabai tilling macOs.md",
-    "00.Notes/Op Sw Brifering.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",

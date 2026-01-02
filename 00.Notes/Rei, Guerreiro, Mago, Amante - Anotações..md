@@ -177,6 +177,8 @@ Não há tempo para hesitações. Esse senso da iminência da morte energiz
 
 O seu controle é, antes de tudo, sobre a mente e as atitudes; se estas estiverem corretas, o corpo acompanha. O homem que tem acesso ao arquétipo do Guerreiro possui "pensamento positivo", como se diz nos cursos para vendedores. Isso significa que ele tem espírito invencível, grande coragem, que ele não tem medo, que assume a responsabilidade por seus atos e que tem autodisciplina. Disciplina significa que ele possui o rigor para desenvolver o controle e o domínio sobre a sua mente e o seu corpo, e que é capaz de suportar a dor, tanto psicológica como física. Está disposto a sofrer para conseguir o que quer. Com "suor e lágrimas", como dizemos.
 
+-----
+
 
 
 
