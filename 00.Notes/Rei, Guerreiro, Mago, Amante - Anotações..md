@@ -167,6 +167,16 @@ Temos uma devoção transpessoal, não apenas em relação às nossas fami
 
 ## O guerreiro 
 
+A energia guerreira, portanto, não importa o que mais ela possa ser, esta presente em todos nós, homens, e na civilização que criamos, defendemos e ampliamos. É um ingrediente vital na nossa construção de mundo e desempenha um importante papel na extensão dos benefícios das superiores virtudes humanas e das conquistas culturais a toda a humanidade.
+
+Já mencionamos a agressividade como uma das características desse arquétipo. Ela é uma atitude em relação à vida que estimula, energiza e motiva. Força-nos a tornar a ofensiva e sair da posição de "defesa" ou "manutenção de posição" diante das tarefas e dos problemas que surgem na vida. O conselho do samurai é sempre "saltar" para o confronto, com todo o potencial do KÍ, ou "energia vital", disponível. A tradição guerreira japonesa afirma que só há uma posição na qual enfrentar a batalha da vida: frontalmente. E que também só há uma direção: para a frente.
+
+É a diferença que existe entre o Guerreiro e o Herói. Este, como dissemos, não conhece suas limitações; é um romântico no que se refere a sua invulnerabilidade. O Guerreiro, no entanto, com a sua clareza de pensamento avalia de forma realista as suas limitações e o que é capaz de fazer em determinada situação.
+
+Não há tempo para hesitações. Esse senso da iminência da morte energiza o homem que busca o Guerreiro para tomar uma decisão. Isso significa que ele quer viver. Jamais se abstrai da vida. Não "pensa demais", porque pensar muito leva à dúvida, e esta à hesitação, que conduz à inércia. A inércia pode causar a perda da batalha. O homem Guerreiro evita a inibição, como costumamos definir. Suas ações tornam-se uma segunda natureza. Tornam-se ações reflexas inconscientes. Mas são ações para as quais ele se treinou por meio do exercício de uma enorme autodisciplina. Assim são os fuzileiros navais. Um bom fuzileiro naval é capaz de tomar decisões rápidas e agir com determinação.
+
+O seu controle é, antes de tudo, sobre a mente e as atitudes; se estas estiverem corretas, o corpo acompanha. O homem que tem acesso ao arquétipo do Guerreiro possui "pensamento positivo", como se diz nos cursos para vendedores. Isso significa que ele tem espírito invencível, grande coragem, que ele não tem medo, que assume a responsabilidade por seus atos e que tem autodisciplina. Disciplina significa que ele possui o rigor para desenvolver o controle e o domínio sobre a sua mente e o seu corpo, e que é capaz de suportar a dor, tanto psicológica como física. Está disposto a sofrer para conseguir o que quer. Com "suor e lágrimas", como dizemos.
+
 
 
 

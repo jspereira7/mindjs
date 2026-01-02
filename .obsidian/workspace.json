@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ee3e2208dfa48d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Development of the introverted functions ENTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Development of the introverted functions ENTP"
-            }
-          },
-          {
-            "id": "ef0f78ae1a4cdaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Social Hacker Cs Joseph - Books what you need to read"
-            }
-          },
-          {
             "id": "dd83af5538fd2f16",
             "type": "leaf",
             "state": {
@@ -79,8 +31,7 @@
               "title": "Rei, Guerreiro, Mago, Amante - Anotações."
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
