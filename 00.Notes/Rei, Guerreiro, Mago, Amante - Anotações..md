@@ -228,6 +228,94 @@ Se estivermos entrando em contato corretamente com o Guerreiro, seremos enérgi
 
 ----
 
+## O mago 
+
+Muitas vezes erramos ao pensar que somos muito diferentes de nossos ancestrais primitivos, com o nosso grande conhecimento e nossa surpreendente tecnologia. Mas as origens do que sabemos e de nossa tecnologia está na mente de homens como o velho aborígene. Ele, e todos como ele nas sociedades tribais e antigas tinham acesso à energia do Mago. E é essa energia que impulsiona a nossa civilização moderna. Xamãs, curandeiros, feiticeiros, pajés, bruxos, inventores, cientistas, médicos, advogados, técnicos — todos estes têm acesso ao mesmo modelo de energia masculina, seja qual for a era ou cultura em que vivam.
+
+As energias do arquétipo do Mago, seja onde e quando for que as encontremos, são duplas. O Mago é aquele que sabe e é o mestre da tecnologia. Além disso, o homem guiado pelo poder do Mago é capaz de preencher em parte as funções desse arquétipo usando o processo dos rituais de iniciação. Ele é o "ancião do ritual" que orienta os processos de transformação interna e externa.
+
+O Mago é um arquétipo universal que vem agindo na psique masculina através da história. Os homens modernos podem ter acesso a ele, hoje, nos seus trabalhos e nas suas vidas pessoais.
+
+A especialidade do mago é saber algo que os outros não sabem, É a ele que as pessoas se dirigem com perguntas, problemas, sofrimentos e doenças do corpo e da mente. É confessor e sacerdote. É quem pode perceber o que existe nas questões e que não é óbvio para as outras pessoas. É vidente e profeta no sentido não apenas de prever o futuro, mas de ver em profundidade.
+
+Acreditamos que a nossa era é a do Mago, porque é tecnológica. É a era do Mago pelo menos na sua preocupação materialista de compreender e dominar a natureza.
+
+E o caos é sempre o resultado do acesso inadequado ao Mago em alguma área essencial da vida.
+
+Pelo que eu entendi o arquetipo do mago é referente a alguem que é o mentor, que traz o conhecimento pra alguem, e recebe por isso. 
+
+### O mago na sua plenitude 
+
+O Mago é o arquétipo da consciência e da percepção, principalmente, mas também do conhecimento de tudo que não é imediatamente visível ou captado pelo bom senso.
+
+O seu papel é recuar e observar, sondar o horizonte, monitorar as informações vindas de dentro e de fora e depois, com a sua sabedoria – o seu conhecimento do poder, interno e externo, e a sua habilidade técnica de canalização –, tomar as decisões necessárias.
+
+O arquétipo do Mago, de comum acordo com o Ego observador, nos mantém isolados do poder arrasador dos outros arquétipos. 
+
+É o matemático e o engenheiro existentes em cada um de nós que regula as funções da psique e sabe como canalizá-la para o seu proveito máximo. Conhece a força inacreditável do "sol" interior e sabe como canalizar essa energia solar, tirando o máximo proveito de seus benefícios. 
+
+O modelo do Mago regula as correntes de energia internas dos diversos arquétipos em prol de nossas vidas individuais.
+
+A energia do Mago está presente, no arquétipo do Guerreiro sob a forma da sua clareza de pensamento, que já examinamos em detalhes. O Mago sozinho não tem capacidade para agir.
+
+Agir é especialidade do guerreiro. O mago é capaz de pensar. 
+- Sempre que nos defrontamos com o que parece ser uma decisão impossível no nosso dia-a-dia — a quem promover na empresa quando há questões políticas complexas e difíceis a serem consideradas, como lidar com a falta de motivação de nosso filho na escola, como projetar uma casa de modo a satisfazer as especificações do cliente e as normas de construção da cidade, o que revelar a um analisando sobre o significado dos seus sonhos quando o vemos na iminência de uma crise, até mesmo como equilibrar um orçamento apertado —, sempre que fazemos coisas desse tipo, sempre que tornamos essas decisões, ponderando com cuidado e discernimento, estamos tendo acesso ao Mago.
+
+O mago portanto é o arquetipo da reflexão. E por conseguinte da energia da introversão. 
+
+Introversão não é a timidez que conhecemos, é a capacidade de ignorar as tormentas internas e externas, e usar os recursos e verdades profundos. 
+- Os introvertidos nesse sentido vivem muito mais centrados do que as outras pessoas. 
+
+Se pensarmos por um momento em todas as áreas da nossa vida em que o pensamento claro, cuidadoso, baseado na sabedoria interior e na competência técnica, ajudaria, perceberemos a necessidade do acesso adequado ao Mago.
+
+Homens que tem acesso ao mago frequentemente conseguem até deliberadamente entrar nesse "espaço", como os magos ritualísticos que traçam seus círculos mágicos e recitam palavras mágicas. Eles se colocam nesse espaço ouvindo certas músicas, dedicando-se a um hobby, fazendo longas caminhadas pelo bosque, meditando sobre certos temas e figuras mentais, e através de vários outros métodos. 
+
+Quando estão nesse espaço sagrado interior, podem ter contato com o Mago; podem sair lá de dentro vendo o que precisam fazer em relação a um problema e sabendo como agir.
+
+-----
+### O mago na sua sombra 
+
+Os detentores do conhecimento que usam seu conhecimento para manipular, e cobram caro por isso são a representação do arquetipo do mago na sua sombra. 
+
+O homem sob o poder do manipulador não magoa apenas os outros. É o homem que pensa demais, que se afasta da sua própria vida e não a vive.
+
+Fica preso na teia dos prós e contras, nas decisões que tem que tomar e se perde num labirinto de reflexões tortuosas de onde não consegue sair. Tem medo de viver, de "saltar para a batalha".
+
+Só consegue ficar na sua pedra parado pensando. 
+- No mundo acadêmico, é aquele homem minucioso, preocupado com detalhes. Com medo de tomar a decisão errada, não decide coisa alguma.
+
+Com o seu medo de viver, tampouco consegue participar da alegria e do prazer que as outras pessoas sentem na vida que vivem. Se ele se retrai do contato com as outras pessoas, e não compartilha o que sabe, acaba sentindo-se isolado e sozinho.
+
+Sempre que nos afastamos, que não nos relacionamos, que retemos algo que sabemos que poderia ajudar outras pessoas, sempre que usamos o nosso conhecimento como uma arma para humilhar e controlar os outros, ou para nos gabarmos às custas do nosso status ou riqueza, estamos identificados com o Mago da Sombra como Manipulador.
+
+Não quer realmente ensinar os outros, quer apenas aprender o suficiente para tirar dos trilhos quem está fazendo esforços compensadores. 
+
+As motivações ocultas do inocente originam-se da inveja de quem age, vive e quer compartilhar. 
+
+Tudo se motiva a encobrir a sua real responsabilidade e inércia. 
+
+O homem possuído pelo "Inocente" comete o pecado da **inércia** e o pecado da **omissão**, mas oculta os seus motivos hostis atrás da parede impenetrável de uma falsa ingenuidade.
+
+Esses homens são traiçoeiros e dimisimulados. 
+
+---
+
+### O acesso ao Mago 
+
+Uma das coisas mais difíceis de fazer como conselheiro ou terapeuta é conseguir que os clientes separem seus Egos de suas emoções sem, ao mesmo tempo, reprimi-las. Há um exercício psicológico realmente bom para isso; chama-se focalização, criado por Eugene Gendlin. Pedimos aos nossos clientes que, quando perceberem o início de uma emoção forte– terror, inveja, ira, desespero –, se sentem numa poltrona de "observação" e, conforme os sentimentos forem surgindo, imaginem que os estão empilhando no meio da sala. Cada um deve ser colocado na pilha cuidadosamente, depois disso podemos voltar a nos sentar e observar o sentimento – a sua cor, o seu formato e as suas nuances emocionais. Pedimos aos clientes que olhem bem seus sentimentos – sem julgá-los nem os menosprezar, mas observando-os. "Ah, você está aí novamente! É esta a sua cara!" Se os sentimentos estão no meio da sala, onde o Ego pode vê-los, não estão sendo reprimidos. Então, quando a força deles acaba, pedimos aos clientes que os mandem embora.
+
+O que esse exercício faz é ajudar o cliente a reforçar a sua comunicação com a energia do Mago. É ele que observa e pensa. É o Mago que possibilita ao Ego empilhar os sentimentos ordenadamente. As energias emocionais, assim contidas, acabam perdendo a força. Finalmente, o Ego fortalecido pode ser capaz de pegar essa energia emocional bruta e transformá-la em formas úteis e vivificantes de expressão do Si-mesmo.
+
+
+Se estivermos comunicando-nos corretamente com a energia do Mago, estaremos acrescentando às nossas vidas pessoais e profissionais uma dimensão de clarividência, de profunda compreensão e reflexão acerca de nós mesmos e dos outros, além de habilidade técnica na forma de lidar externa e internamente com as forças psicológicas.
+
+Ao entrarmos em contato com o Mago, precisamos regular essa energia com os outros três arquétipos dos modelos de masculinidade amadurecida. Nenhum deles, como vimos, funciona bem sozinho; temos que combinar o Mago com a preocupação do Rei em ser generoso e gerador, com a capacidade do Guerreiro de agir de maneira decidida e corajosa, e com a relação profunda e segura do Amante com todas as coisas. Estaremos canalizando os fluxos de energia em benefício dos seres humanos e, quem sabe, da elevação de todo o planeta.
+
+---
+
+
+
+
 
 
 
