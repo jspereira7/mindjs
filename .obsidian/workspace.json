@@ -35,13 +35,28 @@
             "id": "20c91f1214678828",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Sites Uteis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sites Uteis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,12 +317,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "dd83af5538fd2f16",
+  "active": "20c91f1214678828",
   "lastOpenFiles": [
+    "00.Notes/Sites Uteis.md",
+    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Cognitive Functions Definitions.md",
     "00.Notes/Contas Proxy IPV4.md",
-    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
     "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md",
     "00.Notes/Development of the introverted functions ENTP.md",
     "00.Notes/Cognitive emulation.md",
@@ -331,7 +347,6 @@
     "00.Notes/Complexos TypeGrid 5.md",
     "01.Assets/Excalidraw/Drawing 2025-11-19 16.24.38.excalidraw.md",
     "01.Assets/HowToTypeYourSelf.canvas",
-    "00.Notes/Extroversion x Introversion - Cs Joseph New.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
