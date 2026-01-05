@@ -312,9 +312,78 @@ Se estivermos comunicando-nos corretamente com a energia do Mago, estaremos acre
 Ao entrarmos em contato com o Mago, precisamos regular essa energia com os outros três arquétipos dos modelos de masculinidade amadurecida. Nenhum deles, como vimos, funciona bem sozinho; temos que combinar o Mago com a preocupação do Rei em ser generoso e gerador, com a capacidade do Guerreiro de agir de maneira decidida e corajosa, e com a relação profunda e segura do Amante com todas as coisas. Estaremos canalizando os fluxos de energia em benefício dos seres humanos e, quem sabe, da elevação de todo o planeta.
 
 ---
+## O amante 
 
+Acreditamos que o Amante, seja qual for o seu nome, é o padrão energético primordial daquilo que poderíamos chamar de força, entusiasmo e paixão. 
 
+Vive através da grande fome original que nossa espécie tem de sexo, alimento, bem-estar, reprodução, adaptação criativa diante das dificuldades da vida e, basicamente, de compreensão das coisas – sem os quais os seres humanos não resistem. 
 
+O impulso do Amante é de satisfazer essas necessidades.
+
+O arquétipo do Amante também é fundamental para a psique porque é a energia da sensibilidade ao ambiente externo. 
+
+Expressa o que os junguianos chamam de "função de sensação", a função da psique treinada em todos os detalhes da experiência sensorial, a função que observa as cores e as formas, os sons, as sensações táteis e os cheiros. 
+
+O Amante também monitora as texturas mutantes do mundo psicológico interior conforme ele vai reagindo à entrada das impressões sensoriais. 
+
+É fácil ver o valor desse potencial energético para a sobrevivência de nossos longínquos ancestrais roedores, que lutavam para continuar num mundo perigoso.
+
+### O amante em sua plenitude 
+
+Achamos que o homem que tem acesso ao Amante está aberto a um "inconsciente coletivo", talvez ainda mais amplo do que o proposto por Jung. O inconsciente coletivo junguiano é o "inconsciente" de todos os seres da espécie humana e contém, como disse Jung, as lembranças inconscientes de tudo o que já aconteceu na vida de todas as pessoas que já viveram.
+
+O homem sob a influência do Amante quer tocar e ser tocado. Quer tocar tudo física e emocionalmente e quer ser tocado por tudo. Não reconhece fronteiras. Deseja externar a ligação que sente com o mundo interior, no contexto de suas emoções intensas, e com o mundo exterior, no contexto dos relacionamentos com as outras pessoas. Em última análise, quer vivenciar o mundo das experiências sensuais em sua totalidade.
+
+Para o homem em contato com o Amante, quase tudo na vida é vivenciado assim. Embora sinta a dor do mundo, sente também uma grande alegria. Talvez conheça, por exemplo, o prazer de abrir uma caixa de charutos e aspirar os aromas exóticos do tabaco. Talvez seja sensível à música. Talvez aprecie muito o som misterioso da cítara indiana, o crescendo de uma grande sinfonia ou o som ascético dos tambores árabes.
+
+O homem profundamente ligado com a energia do Amante vivência o seu trabalho e as pessoas que trabalham com ele através da sua consciência estética. É capaz de "ler" as pessoas como se fossem um livro. É com frequência terrivelmente sensível às mudanças de humor dessas pessoas e consegue perceber seus motivos ocultos. Essa experiência pode ser realmente muito penosa.
+
+A energia do Amante, assim, opõe-se totalmente — à primeira vista, pelo menos — às outras energias do masculino amadurecido. Seus interesses se opõem às preocupações do Guerreiro, do Mago e do Rei quanto aos limites, à contenção, à ordem e à disciplina. O que é verdadeiro na psique de cada homem vale também para o panorama histórico e cultural.
+
+O homem de negócios que tem "palpites" também está em contato com o Amante. O mesmo ocorre com todos nós, quando temos premonições e intuições sobre pessoas, situações e o nosso próprio futuro. Nesses momentos, a unidade subjacente das coisas nos é revelada, mesmo de forma mundana, e somos atraídos para a energia do Amante, que nos liga à realidade que normalmente não percebemos.
+
+Qualquer empenho artístico ou criativo, e quase todas as profissões buscam a criatividade nas energias do Amante, da agricultura à corretagem da Bolsa de Valores, da pintura de paredes à programação de softwares.
+
+Assim são os connoisseurs, aqueles homens que realmente apreciam comidas finas, vinhos, tabacos, moedas, artefatos primitivos e uma grande quantidade de outros objetos materiais. Assim são os aficionados. Os aficionados por trens a vapor sentem uma afinidade sensual, quase erótica, com esses "falos" negros e lustrosos. O amante de automóveis que quer "aquele" Corvette; o admirador de carros usados que gosta de tocar e cheirar, procurando a beleza e os defeitos por baixo da ferrugem e do interior maltratado; o fã de um certo gênero literário ou grupo de rock — todos esses estão em contato com o Amante. O especialista em cafés e chocolates; o antiquário que trata com carinho um vaso Ming, revirandoo nas mãos — o Amante está manifestando-se em todos eles.
+
+### O amante da sombra: O viciado e o impotente 
+
+O homem que vive num dos polos da Sombra do Amante, como o que vive em qualquer uma das formas da sombra das energias masculinas, está possuído pela mesma energia que poderá ser para ele uma fonte de vida e bem-estar — se tiver acesso a ela de forma adequada. Mas, enquanto ele estiver possuído pelo Amante da Sombra, a energia funciona para a sua destruição e para a destruição das pessoas que o cercam.
+
+Como o Viciado possui o homem? A característica fundamental e mais profundamente perturbadora do Amante da Sombra é a sua **desorientação**, que se revela de várias maneiras.
+
+O homem possuído pelo Amante da Sombra fica literalmente perdido num mar dos sentidos, não apenas "em crepúsculos" ou "em sonhos". Bastam as mais leves impressões do mundo exterior para puxá-lo para fora do centro.
+
+Puxado primeiro para um lado, depois para outro, ele não é dono do seu próprio destino. Cai vítima da sua própria sensibilidade. Funde-se no mundo de visões, sons, odores e sensações táteis. Podemos pensar aqui no pintor Van Gogh, que se perdeu nas suas tintas e telas e no violento dinamismo das estrelas noturnas que pintava.
+
+Um sujeito era apaixonado por carros antigos que custavam mais do que ele ganhava. Ficou cada vez mais fascinado — "perdido" na beleza luzidia deles, esquecendo o buraco nas suas finanças —, até que um dia a "dura realidade" bateu à sua porta e ele viu que estava falido. Teve que vender seus queridos carros para pagar suas dívidas.
+
+Essa desorientação revela-se, também, na maneira como o Viciado vive pelo prazer do momento apenas e prende o indivíduo numa teia de imobilidade de onde ele não consegue escapar. É o que o teólogo Reinhold Niebuhr definiu como "o pecado da sensualidade".
+
+Na sua desorientação — interna e externa —, a vítima do polo ativo do Amante da Sombra está eternamente inquieta. É o homem que está sempre procurando alguma coisa. Não sabe o que está procurando, mas é o cowboy no final do filme cavalgando sozinho em direção ao crepúsculo, em busca de uma outra aventura, de uma outra emoção, incapaz de se aquietar.
+
+Tem que aprender que a sua **falta de estrutura masculina**, de disciplina, seus casos e seus problemas de autoridade lhe trarão inevitavelmente encrencas. Vai ser despedido dos empregos, e a esposa, a quem ama demais, vai acabar abandonando-o.
+
+O que acontece quando sentimos que não estamos tendo acesso ao Amante na sua plenitude? 
+- Estamos possuídos pelo Amante Impotente. Vamos viver a vida sem emoções. "Sentiremos" a esterilidade e a monotonia que o contador relatou. Descreveremos os sintomas que os psicólogos chamam de "afeto achatado" – falta de entusiasmo, de vivacidade, de vigor. Vamos sentir-nos apáticos e entediados. Talvez tenhamos dificuldade de acordar de manha e de pegar no sono à noite. Talvez percebamos que estamos falando em tom monótono. Que estamos cada vez mais distantes da família, dos colegas de trabalho e dos amigos. Talvez tenhamos fome, mas falte apetite. Talvez tudo comece a se parecer com a passagem bíblica dos Eclesiastes que diz: "Tudo é vaidade e correr atrás do vento" e "Não há nada de novo sob o sol". Em resumo, ficaremos deprimidos.
+
+O Amante desaparece. Logo o idoso deixa de preparar as suas refeições. Acha que não há mais motivos para viver. A Bíblia diz que, "sem uma visão, o povo perece". É especificamente sem a imaginação e a visão do Amante que o povo perece.
+
+### O acesso ao amante
+
+Se estamos tendo acesso ao Amante corretamente e mantendo fortes as nossas estruturas do Ego, sentimo-nos relacionados, ligados, vivos, entusiasmados, compassivos, empáticos, energizados e românticos em relação às nossas vidas, metas, trabalho e conquistas. É o Amante, corretamente contatado, que nos dá um sentido – o que estamos chamando de espiritualidade. O Amante é a fonte do desejo de um mundo melhor para nós e para os outros. É o idealista, e o sonhador. É quem deseja que tenhamos fartura de coisas boas.
+
+*"Vim para lhes dar a vida, para que possam tê-la em abundância"*, diz ele.
+
+O Amante mantém as outras energias masculinas humanas, amorosas e relacionadas umas com as outras e com a verdadeira situação de vida dos seres humanos lutando num mundo difícil. O Rei, o Guerreiro e o Mago, como dissemos, harmonizam-se mutuamente muito bem. Isso porque, sem o Amante, estão todos essencialmente afastados da vida. Precisam desse arquétipo para energizá-los, humanizá-los e dar-lhes o seu objetivo último: o amor. Precisam do Amante para impedi-los de se tornarem sádicos.
+
+O Amante também precisa deles. Sem fronteiras, no seu caos de sentimentos e sensualidade, precisa do Rei para definir por ele os seus limites, para lhe dar a estrutura, para ordenar o seu caos de maneira a poder ser canalizado criativamente. Sem limites, a energia do Amante torna-se negativa e destruidora. Ele precisa do Guerreiro para ser capaz de agir com decisão, para se destacar, com o corte afiado da espada, da teia da sensualidade imobilizante. Precisa do Guerreiro para destruir o Templo Dourado, que o mantém fixado. E precisa do Mago para ajudá-lo a se afastar das armadilhas das suas emoções, para refletir, ter uma visão mais objetiva das coisas, para se desligar – o bastante, pelo menos, para ver o quadro grande e vivenciar a realidade oculta sob as aparências.
+
+Muitos de nós reprimimos tanto o Amante interno que se tornou dificílimo nos apaixonarmos por qualquer coisa.
+
+---
+
+Parei na Conclusão. Pag 80. 
 
 
 
