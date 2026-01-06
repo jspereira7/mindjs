@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
+                "file": "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rei, Guerreiro, Mago, Amante - Anotações."
-            }
-          },
-          {
-            "id": "20c91f1214678828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Site com cursos ouros gringos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Site com cursos ouros gringos"
+              "title": "Rei, Guerreiro, Mago, Amante - Resumo"
             }
           }
         ]
@@ -319,8 +295,8 @@
   "active": "dd83af5538fd2f16",
   "lastOpenFiles": [
     "00.Notes/Site com cursos ouros gringos.md",
+    "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
     "00.Notes/Dialogo de imaginação ativa.md",
-    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
     "00.Notes/Sites Uteis.md",
     "00.Notes/Cognitive Functions Definitions.md",
     "00.Notes/Contas Proxy IPV4.md",

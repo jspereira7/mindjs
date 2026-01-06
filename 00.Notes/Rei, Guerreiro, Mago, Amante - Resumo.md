@@ -183,15 +183,29 @@ Seus ataques podem não se limitar a agressões verbais ou psicológicas; à
 
 As palmadas se transformam em surras. E acontecem também as agressões sexuais. O pai possuído pelo Tirano pode explorar sexualmente a fraqueza e vulnerabilidade de suas filhas e até de seus filhos.
 
-O Rei Tirano manifesta-se em todos nós uma vez ou outra, quando nos sentimos pressionados até o limite, quando estamos exaustos, quando estamos ficando inflados. Mas podemos vê-lo agindo a maior parte do tempo em certas configurações da personalidade, mais notadamente nos chamados distúrbios narcísicos. Essas pessoas realmente acham que são o centro do universo (embora elas mesmas não estejam centradas) e que os outros existem para servi-las. Em vez de espelhar os outros, elas querem que os outros as espelhem. Em vez de ver, querem ser vistas.
+O Rei Tirano manifesta-se em todos nós uma vez ou outra, quando nos sentimos pressionados até o limite, quando estamos exaustos, quando estamos ficando inflados. 
 
-Podemos também observar o Rei Tirano agindo em certas formas de vida, até em certas "profissões". Os grandes traficantes de drogas, os cafetões, os chefões da máfia são exemplos; eles existem para promover o seu próprio status, pensam no próprio bem-estar pessoal, à custa dos outros.
+Mas podemos vê-lo agindo a maior parte do tempo em certas configurações da personalidade, mais notadamente nos chamados distúrbios narcísicos. 
 
-Não são verdadeiramente dedicados nem leais à companhia, só a si mesmos. É o presidente que negocia, em seu próprio benefício financeiro, a venda da empresa, para vê-la desmembrada e impotente, que quer ver seus amigos e leais funcionários despedidos como excesso de bagagem, na venda do controle acionário, tão comum hoje.
+Essas pessoas realmente acham que são o centro do universo (embora elas mesmas não estejam centradas) e que os outros existem para servi-las. Em vez de espelhar os outros, elas querem que os outros as espelhem. Em vez de ver, querem ser vistas.
 
-O homem possuído pelo Tirano é muito sensível às críticas e, mesmo armando-se de uma aparência ameaçadora, diante da menor observação sente-se fraco e esvaziado. Mas não demonstra. O que se vê, a não ser que se saiba o que procurar, é raiva. Sob essa raiva, porém, existe um sentimento de insignificância, de vulnerabilidade e fragilidade, pois atrás do Tirano está o outro polo do sistema bipolar da sombra do Rei, o Covarde. Se não pode ser identificado com a energia do Rei, ele acha que não é nada.
+Podemos também observar o Rei Tirano agindo em certas formas de vida, até em certas "profissões". 
 
-Falta ao homem possuído pelo Covarde a centralização, a calma e a segurança interior, o que também o leva à paranóia. Observamos isso em Herodes, Saul e Calígula, quando, incapazes de dormir à noite, andam pelo palácio, atormentados pelo medo da deslealdade de seus súditos — no caso de Saul, até de seus filhos — e da desaprovação de Deus, o Verdadeiro Rei.
+Os grandes traficantes de drogas, os cafetões, os chefões da máfia são exemplos; eles existem para promover o seu próprio status, pensam no próprio bem-estar pessoal, à custa dos outros.
+
+Não são verdadeiramente dedicados nem leais à companhia, só a si mesmos. 
+
+É o presidente que negocia, em seu próprio benefício financeiro, a venda da empresa, para vê-la desmembrada e impotente, que quer ver seus amigos e leais funcionários despedidos como excesso de bagagem, na venda do controle acionário, tão comum hoje.
+
+O homem possuído pelo Tirano é muito sensível às **críticas** e, mesmo armando-se de uma aparência ameaçadora, diante da menor observação sente-se fraco e esvaziado. Mas não demonstra. 
+
+O que se vê, a não ser que se saiba o que procurar, é raiva. Sob essa raiva, porém, existe um sentimento de insignificância, de vulnerabilidade e fragilidade, pois atrás do Tirano está o outro polo do sistema bipolar da sombra do Rei, o Covarde. 
+
+Se não pode ser identificado com a energia do Rei, ele acha que não é nada.
+
+Falta ao homem possuído pelo Covarde a centralização, a calma e a segurança interior, o que também o leva à paranóia. 
+
+Observamos isso em Herodes, Saul e Calígula, quando, incapazes de dormir à noite, andam pelo palácio, atormentados pelo medo da deslealdade de seus súditos — no caso de Saul, até de seus filhos — e da desaprovação de Deus, o Verdadeiro Rei.
 
 ### **O acesso ao Rei** 
 
@@ -201,7 +215,7 @@ Como um planeta que orbita o sol, devemos manter distância adequada: perto dema
 
 O homem maduro se vê como servo de uma causa transpessoal, usando o poder para beneficiar seu "reino" interior e sua comunidade, não para autoengrandecimento. 
 
-A armadilha é confundir o ego com o arquétipo, achando que você é o rei ao invés de um canal temporário dele. Grandeza realista significa reconhecer que o poder é uma responsabilidade a serviço de algo maior, não uma extensão da identidade pessoal.
+A armadilha é confundir o ego com o arquétipo, achando que você é o rei ao invés de um canal temporário dele. **Grandeza realista significa reconhecer que o poder é uma responsabilidade a serviço de algo maior, não uma extensão da identidade pessoal.**
 
 Ou seja, não podemos nos deixar levar pelo ego, achando que somos os Reis do universo, mas tambem não podemos nos distanciar muito, criando uma espécie de impotencia mental. 
 - Caimos nos disturbios de personalidade dependente, um caso em que projetamos a energia do Rei interior em outra pessoa.
@@ -223,19 +237,25 @@ Somos capazes de espelhar e abençoar a nós mesmos e aos outros. Conseguimos 
 
 E temos o sentimento de ser um participante centrado na criação de um mundo mais justo, calmo e criativo. 
 
-Temos uma devoção transpessoal, não apenas em relação às nossas famílias, nossos amigos, nossas empresas, causas, religiões, mas também em relação ao mundo. Temos uma espécie de espiritualidade, e conhecemos o significado do mandamento central em torno do qual a vida humana parece estar fundamentada; "Amarás ao Senhor teu Deus (leia-se "o Rei") com todo o teu coração, com toda a tua alma e com toda a tua força. E ao teu semelhante como a ti mesmo."
+Temos uma devoção transpessoal, não apenas em relação às nossas famílias, nossos amigos, nossas empresas, causas, religiões, mas também em relação ao mundo. 
+
+Temos uma espécie de espiritualidade, e conhecemos o significado do mandamento central em torno do qual a vida humana parece estar fundamentada; "Amarás ao Senhor teu Deus (leia-se "o Rei") com todo o teu coração, com toda a tua alma e com toda a tua força. E ao teu semelhante como a ti mesmo."
 
 ---
 
 ## O guerreiro 
 
-A energia guerreira, portanto, não importa o que mais ela possa ser, esta presente em todos nós, homens, e na civilização que criamos, defendemos e ampliamos. É um ingrediente vital na nossa construção de mundo e desempenha um importante papel na extensão dos benefícios das superiores virtudes humanas e das conquistas culturais a toda a humanidade.
+A energia guerreira, portanto, não importa o que mais ela possa ser, esta presente em todos nós, homens, e na civilização que criamos, defendemos e ampliamos. 
+
+É um ingrediente vital na nossa construção de mundo e desempenha um importante papel na extensão dos benefícios das superiores virtudes humanas e das conquistas culturais a toda a humanidade.
 
 Já mencionamos a agressividade como uma das características desse arquétipo. Ela é uma atitude em relação à vida que estimula, energiza e motiva.
 
-Força-nos a tornar a ofensiva e sair da posição de "defesa" ou "manutenção de posição" diante das tarefas e dos problemas que surgem na vida. 
+**Força-nos a tornar a ofensiva e sair da posição de "defesa" ou "manutenção de posição" diante das tarefas e dos problemas que surgem na vida.** 
 
-O conselho do samurai é sempre "saltar" para o confronto, com todo o potencial do KÍ, ou "energia vital", disponível. A tradição guerreira japonesa afirma que só há uma posição na qual enfrentar a batalha da vida: frontalmente. E que também só há uma direção: para a frente.
+O conselho do samurai é sempre "saltar" para o confronto, com todo o potencial do KÍ, ou "energia vital", disponível. 
+
+A tradição guerreira japonesa afirma que só há uma posição na qual enfrentar a batalha da vida: frontalmente. E que também só há uma direção: para a frente.
 
 É a diferença que existe entre o Guerreiro e o Herói. Este, como dissemos, não conhece suas limitações; é um romântico no que se refere a sua invulnerabilidade. 
 
@@ -245,22 +265,28 @@ Não há tempo para hesitações. Esse senso da iminência da morte energiz
 
 Isso significa que ele quer viver. Jamais se abstrai da vida. Não "pensa demais", porque pensar muito leva à dúvida, e esta à hesitação, que conduz à inércia. 
 
-A inércia pode causar a perda da batalha. O homem Guerreiro evita a inibição, como costumamos definir. Suas ações tornam-se uma segunda natureza. Tornam-se ações reflexas inconscientes. 
+**A inércia pode causar a perda da batalha.** O homem Guerreiro evita a inibição, como costumamos definir. Suas ações tornam-se uma segunda natureza. Tornam-se ações reflexas inconscientes. 
 
 Mas são ações para as quais ele se treinou por meio do exercício de uma enorme autodisciplina. Assim são os fuzileiros navais. Um bom fuzileiro naval é capaz de tomar decisões rápidas e agir com determinação.
 
 O seu controle é, antes de tudo, sobre a mente e as atitudes; se estas estiverem corretas, o corpo acompanha. 
 
-O homem que tem acesso ao arquétipo do Guerreiro possui "pensamento positivo", como se diz nos cursos para vendedores. Isso significa que ele tem espírito invencível, grande coragem, que ele não tem medo, que assume a responsabilidade por seus atos e que tem autodisciplina. 
+**O homem que tem acesso ao arquétipo do Guerreiro possui "pensamento positivo", como se diz nos cursos para vendedores.** 
+
+Isso significa que ele tem espírito invencível, grande coragem, que ele não tem medo, que assume a responsabilidade por seus atos e que tem autodisciplina. 
 
 Disciplina significa que ele possui o rigor para desenvolver o controle e o domínio sobre a sua mente e o seu corpo, e que é capaz de suportar a dor, tanto psicológica como física. 
 
-Está disposto a sofrer para conseguir o que quer. Com "suor e lágrimas", como dizemos.
+Está disposto a sofrer para conseguir o que quer. 
+
+Com "suor e lágrimas", como dizemos.
 
 -----
 ## O guerreiro da sombra  (Sádico e Masoquista)
 
-Não é preciso ir longe para ver esse Guerreiro destruidor agindo em nossas vidas. Infelizmente, temos de identificá-lo no ambiente de trabalho sempre que um chefe humilha, atormenta, despede injustamente ou, de muitas outras formas, maltrata seus subordinados.
+Não é preciso ir longe para ver esse Guerreiro destruidor agindo em nossas vidas. 
+
+Infelizmente, temos de identificá-lo no ambiente de trabalho sempre que um chefe humilha, atormenta, despede injustamente ou, de muitas outras formas, maltrata seus subordinados.
 
 Os sádicos tambem estão presentes nos casos em que a esposa apanha do marido e etc... 
 
@@ -268,7 +294,9 @@ Os workaholics, pessoas que só pensam no trabalho, são personalidades compul
 
 Têm uma enorme capacidade para fazer esforço e quase sempre conseguem produzir muito. Mas o que impulsiona o seu motor de rotação contínua é uma profunda ansiedade, o desespero do Herói.
 
-Têm uma percepção muito precária do próprio valor. Não sabem o que querem realmente, o que lhes falta e que gostariam de ter. Passam a vida "atacando" tudo e todo o mundo — seus empregos, as exigências da vida, eles mesmos e as outras pessoas. Nesse processo, são devorados vivos pelo Guerreiro Sádico e não demoram a "queimar".
+Têm uma percepção muito precária do próprio valor. Não sabem o que querem realmente, o que lhes falta e que gostariam de ter. 
+
+Passam a vida "atacando" tudo e todo o mundo — seus empregos, as exigências da vida, eles mesmos e as outras pessoas. Nesse processo, são devorados vivos pelo Guerreiro Sádico e não demoram a "queimar".
 
 Se você não está cuidando bem do seu estado fisico e mental, provavelmente já foi apanhado pelo guerreiro da sombra... 
 
@@ -278,7 +306,9 @@ Se não tivermos segurança suficiente quanto à nossa própria estrutura in
 
 O homem obcecado com o ''sucesso" já fracassou. Está tentando desesperadamente reprimir o Masoquista dentro dele, mas já está revelando comportamentos masoquistas e autopunitivos.
 
-Se estivermos sob o poder do Masoquista, vamos aceitar muitos abusos durante muito tempo e então explodir sadicamente numa violência verbal e até física. Essa oscilação entre os polos ativo e passivo das Sombras arquetípicas é típico desses sistemas disfuncionais.
+Se estivermos sob o poder do Masoquista, vamos aceitar muitos abusos durante muito tempo e então explodir sadicamente numa violência verbal e até física. 
+
+Essa oscilação entre os polos ativo e passivo das Sombras arquetípicas é típico desses sistemas disfuncionais.
 
 ---
 
@@ -286,7 +316,15 @@ Se estivermos sob o poder do Masoquista, vamos aceitar muitos abusos durante mui
 
 Como fazemos com todos os arquétipos descritos neste livro, precisamos perguntar- nos, não se estamos possuídos por um ou ambos os polos de seus sistemas da sombra, mas de que forma estamos deixando ter acesso adequadamente aos potenciais de energia masculina à nossa disposição.
 
-Se estivermos entrando em contato corretamente com o Guerreiro, seremos enérgicos, decididos, corajosos, resistentes, perseverantes e leais a um bem maior, que está acima da nossa própria vantagem pessoal. Ao mesmo tempo, temos que dotar o Guerreiro das outras formas de energia masculina amadurecidas: o Rei, o Mago e o Amante. Se estivermos tendo acesso ao Guerreiro da maneira certa, seremos, ao mesmo tempo em que nos mantemos "distanciados", ternos, piedosos, compreensivos e produtivos. Cuidaremos de nós mesmos e dos outros. Travaremos bons combates a fim de tornar o mundo um lugar melhor e mais satisfatório para tudo e para todos. Faremos a guerra pela criação de algo novo, justo e livre.
+Se estivermos entrando em contato corretamente com o Guerreiro, seremos enérgicos, decididos, corajosos, resistentes, perseverantes e leais a um bem maior, que está acima da nossa própria vantagem pessoal. 
+
+Ao mesmo tempo, temos que dotar o Guerreiro das outras formas de energia masculina amadurecidas: o Rei, o Mago e o Amante. Se estivermos tendo acesso ao Guerreiro da maneira certa, seremos, ao mesmo tempo em que nos mantemos "distanciados", ternos, piedosos, compreensivos e produtivos. 
+
+Cuidaremos de nós mesmos e dos outros. 
+
+Travaremos bons combates a fim de tornar o mundo um lugar melhor e mais satisfatório para tudo e para todos. 
+
+Faremos a guerra pela criação de algo novo, justo e livre.
 
 ----
 
