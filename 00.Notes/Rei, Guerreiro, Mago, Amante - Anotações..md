@@ -27,32 +27,60 @@ Como os arquetipos do masculino maduro " King, Warrior, Magican, Lover "
 
 ## 3 - A psicologia do menino 
 
-O traficante de drogas, o líder político indeciso, o marido que bate na mulher, o chefe eternamente ranzinza, o jovem executivo metido a importante, o marido infiel, o funcionário "capacho", o orientador de pós-graduação indiferente, o pastor "santificado", o membro da gangue, o pai que nunca encontra tempo para participar das programações na escola da filha, o treinador que ridiculariza seus atletas talentosos, o terapeuta que inconscientemente agride o "brilho" de seus clientes e busca para eles uma espécie de normalidade opaca, o yuppie — todos esses homens têm alguma coisa em comum. São, todos, meninos que fingem serem homens. Ficaram assim honestamente, porque ninguém lhes mostrou o que é um homem amadurecido. O tipo de "adulto do sexo masculino" que eles representam é uma pretensão que a maioria de nós quase não percebe como tal. Estamos continuamente confundindo o comportamento controlador, ameaçador e hostil desse homem com a força. Na verdade, ele está mostrando que no fundo é extremamente vulnerável e fraco, que tem a vulnerabilidade do menino magoado.
+O traficante de drogas, o líder político indeciso, o marido que bate na mulher, o chefe eternamente ranzinza, o jovem executivo metido a importante, o marido infiel, o funcionário "capacho", o orientador de pós-graduação indiferente, o pastor "santificado", o membro da gangue, o pai que nunca encontra tempo para participar das programações na escola da filha, o treinador que ridiculariza seus atletas talentosos, o terapeuta que inconscientemente agride o "brilho" de seus clientes e busca para eles uma espécie de normalidade opaca, o yuppie — todos esses homens têm alguma coisa em comum. São, todos, meninos que fingem serem homens. Ficaram assim honestamente, porque ninguém lhes mostrou o que é um homem amadurecido. O tipo de "adulto do sexo masculino" que eles representam é uma pretensão que a maioria de nós quase não percebe como tal. Estamos continuamente confundindo o comportamento controlador, ameaçador e hostil desse homem com a força. 
+
+Na verdade, ele está mostrando que no fundo é extremamente vulnerável e fraco, que tem a vulnerabilidade do menino magoado.
 
 ---
 
-A "morte" do Herói é a "morte" da infância, da psicologia do Menino. E é o nascimento do adulto, da psicologia do Homem. A "morte" do Herói na vida de um menino (ou de um homem) significa que ele finalmente encontrou suas limitações. Ele encontrou o inimigo, e o inimigo é ele mesmo. Viu-se diante do seu próprio lado sombrio, não heróico. Lutou contra o dragão e saiu queimado; fez a revolução e bebeu a borra da sua própria desumanidade. Superou a Mãe e depois percebeu ser incapaz de amar a Princesa. A "morte" do Herói sinaliza o encontro do menino ou do homem com a verdadeira humildade. É o fim da sua consciência heróica.
+A "morte" do Herói é a "morte" da infância, da psicologia do Menino. E é o nascimento do adulto, da psicologia do Homem. 
+
+A "morte" do Herói na vida de um menino (ou de um homem) significa que ele finalmente encontrou suas limitações. 
+
+Ele encontrou o inimigo, e o inimigo é ele mesmo. 
+
+Viu-se diante do seu próprio lado sombrio, não heróico. 
+
+Lutou contra o dragão e saiu queimado; fez a revolução e bebeu a borra da sua própria desumanidade. Superou a Mãe e depois percebeu ser incapaz de amar a Princesa. 
+
+A "morte" do Herói sinaliza o encontro do menino ou do homem com a verdadeira humildade. É o fim da sua consciência heróica.
 
 A verdadeira humildade, acreditamos, consiste em duas coisas. A primeira é conhecer as nossas limitações A segunda é conseguir a ajuda de que precisamos.
 
-Se estamos possuídos pelo Herói, vamos cair no aspecto negativo dessa energia e vivenciar — como o personagem de Tom Cruise — os sentimentos e ações infladas do Valentão Exibicionista. Vamos passar por cima dos outros na nossa insensibilidade e arrogância, e acabaremos autodestruídos, ridicularizados e abandonados pelas pessoas. Se estivermos no polo passivo da Sombra bipolar do Herói, possuídos pelo Covarde, vai nos faltar motivação para realizar alguma coisa importante para a vida humana. Mas, se tivermos acesso adequadamente à energia do Herói, tentaremos superar as nossas limitações. Vamos nos aventurar até as fronteiras do que podemos ser como meninos, e partindo daí, se conseguirmos fazer a transição, estaremos preparados para a nossa iniciação na condição adulta.
+Se estamos possuídos pelo Herói, vamos cair no aspecto negativo dessa energia e vivenciar — como o personagem de Tom Cruise — os sentimentos e ações infladas do Valentão Exibicionista. 
+
+Vamos passar por cima dos outros na nossa insensibilidade e arrogância, e acabaremos autodestruídos, ridicularizados e abandonados pelas pessoas. 
+
+Se estivermos no polo passivo da Sombra bipolar do Herói, possuídos pelo Covarde, vai nos faltar motivação para realizar alguma coisa importante para a vida humana. 
+
+Mas, se tivermos acesso adequadamente à energia do Herói, tentaremos superar as nossas limitações. 
+
+Vamos nos aventurar até as fronteiras do que podemos ser como meninos, e partindo daí, se conseguirmos fazer a transição, estaremos preparados para a nossa iniciação na condição adulta.
 
 ---
 
 ## O homem amadurecido 
 
-As quatro formas principais de energia masculina madura que identificamos são o Rei, o Guerreiro, o Mago e o Amante. Elas se superpõem e, idealmente, se enriquecem umas as outras. Um bom Rei é sempre também Guerreiro, Mago e Amante. E o mesmo se diz dos outros três.
+As quatro formas principais de energia masculina madura que identificamos são o Rei, o Guerreiro, o Mago e o Amante. Elas se superpõem e, idealmente, se enriquecem umas as outras. 
+
+Um bom Rei é sempre também Guerreiro, Mago e Amante. E o mesmo se diz dos outros três.
 
 Diz-se em psicologia que temos que assumir a responsabilidade por aquilo pelo qual não somos responsáveis.
 
-A nossa cultura ocidental nos empurra ao combate sozinhos, para nos tornarmos, como disse Jung, "individuados". O que costumava ser compartilhado mais ou menos inconscientemente com todos — como o processo de desenvolvimento de uma identidade masculina madura — hoje em dia precisa ser atingido de forma individual e consciente É para essa tarefa que agora nos voltamos.
+A nossa cultura ocidental nos empurra ao combate sozinhos, para nos tornarmos, como disse Jung, "individuados". 
+
+O que costumava ser compartilhado mais ou menos inconscientemente com todos — como o processo de desenvolvimento de uma identidade masculina madura — hoje em dia precisa ser atingido de forma individual e consciente É para essa tarefa que agora nos voltamos.
 
 ----
 ## O rei 
 
 É o arquetipo mais importante da psique masculina amadurecida
 
-O Rei bom e produtivo é também um bom Guerreiro, um Mago perfeito e um grande Amante, E, no entanto, em geral, o Rei vem em último lugar. Poderíamos dizer que o Rei é a Criança Divina, porém amadurecido e complexo, sábio, e de certa forma tão altruísta quanto ela é preocupada consigo mesma. O Rei bom tem a "sabedoria de Salomão".
+O Rei bom e produtivo é também um bom Guerreiro, um Mago perfeito e um grande Amante, E, no entanto, em geral, o Rei vem em último lugar. 
+
+Poderíamos dizer que o Rei é a Criança Divina, porém amadurecido e complexo, sábio, e de certa forma tão altruísta quanto ela é preocupada consigo mesma. 
+
+**O Rei bom tem a "sabedoria de Salomão".**
 
 De muitas maneiras a energia do Rei é a energia de pai. 
 
@@ -62,9 +90,21 @@ Basicamente a energia do Rei, é o centro, a ordem.
 
 Numa observação mais imediata, vemos nas modernas famílias disfuncionais que, se o pai é imaturo, fraco e ausente, e a energia do Rei não está suficientemente presente, muitas vezes a família fica entregue à desordem e ao caos.
 
-Da mesma forma como se conduzia o rei, comportava-se o reino, na sua ordem e fertilidade. Se o rei era saudável, sexualmente vigoroso, capaz de atender as suas quase sempre inúmeras esposas e concubinas e ter muitos filhos, a terra ficava cheia de vida. Se ele continuava saudável e forte fisicamente, e com a mente alerta, as plantações cresciam; o gado se reproduzia; os mercadores prosperavam; e o povo tinha muitos filhos. Vinham as chuvas e, no Egito, as enchentes fertilizadoras anuais do Nilo.
+Da mesma forma como se conduzia o rei, comportava-se o reino, na sua ordem e fertilidade.
 
-Sempre a ação ordenadora/geradora culminante do rei era casar-se com a terra na forma de sua primeira rainha. Somente em parceria criativa com ela poderia ele garantir toda a espécie de fartura para o seu reino. Era dever do casal real passar as suas energias criativas para o reino sob a forma de filhos. O reino espelhava a capacidade geradora real, que, vamos lembrar, estava no Centro. Como estava o Centro, estava o resto da criação.
+Se o rei era saudável, sexualmente vigoroso, capaz de atender as suas quase sempre inúmeras esposas e concubinas e ter muitos filhos, a terra ficava cheia de vida. 
+
+Se ele continuava saudável e forte fisicamente, e com a mente alerta, as plantações cresciam; o gado se reproduzia; os mercadores prosperavam; e o povo tinha muitos filhos. 
+
+Vinham as chuvas e, no Egito, as enchentes fertilizadoras anuais do Nilo.
+
+Sempre a ação ordenadora/geradora culminante do rei era casar-se com a terra na forma de sua primeira rainha. 
+
+Somente em parceria criativa com ela poderia ele garantir toda a espécie de fartura para o seu reino. 
+
+Era dever do casal real passar as suas energias criativas para o reino sob a forma de filhos. 
+
+O reino espelhava a capacidade geradora real, que, vamos lembrar, estava no Centro. Como estava o Centro, estava o resto da criação.
 
 Quando o rei adoecia, ficava fraco ou impotente, o reino definhava. Não chovia. As safras diminuíam. O gado não se reproduzia. Os mercadores não vendiam. A seca assolava a terra, e o povo morria.
 
@@ -73,13 +113,23 @@ Outra função da energia do rei é de abençoar os outros
 
 ### Caracteristicas do Rei Bom 
 
-O arquétipo do Rei na sua plenitude possui as características da ordem, do modelo sensato e racional, da integração e integridade na psique masculina. Estabiliza a emoção caótica e os "comportamentos descontrolados”. Estabiliza e centraliza. Traz a calma. E na sua característica "fertilizadora" e centrada, transmite vitalidade, energia vital e alegria. Apóia e equilibra.
+O arquétipo do Rei na sua plenitude possui as características da ordem, do modelo sensato e racional, da integração e integridade na psique masculina. 
+
+Estabiliza a emoção caótica e os "comportamentos descontrolados”. Estabiliza e centraliza. Traz a calma. E na sua característica "fertilizadora" e centrada, transmite vitalidade, energia vital e alegria. Apóia e equilibra.
 
 Defende o nosso próprio sentido de ordem interior, a nossa própria integridade e os nossos propósitos, a nossa própria tranquilidade central quanto ao que somos, e a incontestabilidade e certeza essenciais da nossa identidade masculina.
 
-Observa o mundo com olhar firme, porém bondoso. Vê os outros em toda a sua fraqueza, em todo o seu talento e valor. Homenageia-os e promove-os. Cuida deles e os orienta em direção à plenitude do ser. Não é invejoso, porque está seguro, como o Rei, do seu próprio valor. Recompensa e incentiva a criatividade em nós e nos outros.
+Observa o mundo com olhar firme, porém bondoso. Vê os outros em toda a sua fraqueza, em todo o seu talento e valor. 
 
-Na sua incorporação e manifestação central do Guerreiro, ele representa o poder agressivo quando necessário, quando a ordem é ameaçada. Ele tem também o poder da autoridade interior. Conhece e discerne (o seu aspecto Mago), e se comporta segundo esse conhecimento profundo. Regozija-se conosco e com os outros (o aspecto Amante) e mostra esse prazer em palavras autênticas de louvor e em ações concretas que realçam nossas vidas.
+Homenageia-os e promove-os. Cuida deles e os orienta em direção à plenitude do ser. Não é invejoso, porque está seguro, como o Rei, do seu próprio valor. 
+
+Recompensa e incentiva a criatividade em nós e nos outros.
+
+Na sua incorporação e manifestação central do Guerreiro, ele representa o poder agressivo quando necessário, quando a ordem é ameaçada.
+
+Ele tem também o poder da autoridade interior. Conhece e discerne (o seu aspecto Mago), e se comporta segundo esse conhecimento profundo. 
+
+Regozija-se conosco e com os outros (o aspecto Amante) e mostra esse prazer em palavras autênticas de louvor e em ações concretas que realçam nossas vidas.
 
 É essa a energia que se manifesta através de um homem quando ele dá os passos psicológicos e financeiros necessários para garantir que sua mulher e seus filhos vivam melhor.
 
@@ -103,7 +153,9 @@ O Rei se preocupa com todo o reino e é quem cuida da natureza assim como da so
 
 É essa energia, revelada nos mitos antigos, do "pastor do seu povo", do "jardineiro", do administrador das plantas e dos animais do reino. 
 
-É essa voz que afirma com clareza, calma e autoridade, os direitos humanos de todos. É essa energia que minimiza os castigos e maximiza os louvores. 
+É essa voz que afirma com clareza, calma e autoridade, os direitos humanos de todos. 
+
+É essa energia que minimiza os castigos e maximiza os louvores. 
 
 É essa voz que vem do Centro, da Montanha Original dentro de cada homem.
 
@@ -115,11 +167,21 @@ Embora tenhamos experimentado a energia do Rei em algum tio, avo bondoso ou etc.
 
 Essa energia falta na sociedade. O que experimentamos muitas vezes é o Rei da sombra. 
 
-O Tirano explora e maltrata os outros. É cruel, impiedoso e insensível quando está atrás do que considera seu interesse pessoal. A sua forma de degradar os outros não tem limites. Ele odeia toda beleza, toda inocência, toda força, todo talento, toda energia vital. Age assim, como dissemos, porque lhe falta estrutura interior e porque tem medo – terror, realmente – da sua própria fraqueza oculta e da sua impotência latente.
+O Tirano explora e maltrata os outros. É cruel, impiedoso e insensível quando está atrás do que considera seu interesse pessoal. 
 
-É o Rei da Sombra, como Tirano, que faz o pai entrar em guerra contra a alegria, a força, a capacidade e vitalidade de seus filhos (e de suas filhas). Ele teme a juventude deles, a nova maneira de ser, a vida nova que surge através deles, e quer matar tudo isso. Faz isso nos ataques verbais e na desvalorização dos seus interesses, esperanças e talentos; ou então ignorando suas conquistas, dando as costas aos seus desapontamentos e demonstrando enfado e falta de interesse quando, por exemplo, eles chegam da escola e lhe mostram uma peça de artesanato ou uma boa nota num teste.
+A sua forma de degradar os outros não tem limites. Ele odeia toda beleza, toda inocência, toda força, todo talento, toda energia vital. 
 
-Seus ataques podem não se limitar a agressões verbais ou psicológicas; às vezes abrangem os maus-tratos físicos. As palmadas se transformam em surras. E acontecem também as agressões sexuais. O pai possuído pelo Tirano pode explorar sexualmente a fraqueza e vulnerabilidade de suas filhas e até de seus filhos.
+Age assim, como dissemos, porque lhe falta estrutura interior e porque tem medo – terror, realmente – da sua própria fraqueza oculta e da sua impotência latente.
+
+É o Rei da Sombra, como Tirano, que faz o pai entrar em guerra contra a alegria, a força, a capacidade e vitalidade de seus filhos (e de suas filhas). 
+
+Ele teme a juventude deles, a nova maneira de ser, a vida nova que surge através deles, e quer matar tudo isso. 
+
+Faz isso nos ataques verbais e na desvalorização dos seus interesses, esperanças e talentos; ou então ignorando suas conquistas, dando as costas aos seus desapontamentos e demonstrando enfado e falta de interesse quando, por exemplo, eles chegam da escola e lhe mostram uma peça de artesanato ou uma boa nota num teste.
+
+Seus ataques podem não se limitar a agressões verbais ou psicológicas; às vezes abrangem os maus-tratos físicos. 
+
+As palmadas se transformam em surras. E acontecem também as agressões sexuais. O pai possuído pelo Tirano pode explorar sexualmente a fraqueza e vulnerabilidade de suas filhas e até de seus filhos.
 
 O Rei Tirano manifesta-se em todos nós uma vez ou outra, quando nos sentimos pressionados até o limite, quando estamos exaustos, quando estamos ficando inflados. Mas podemos vê-lo agindo a maior parte do tempo em certas configurações da personalidade, mais notadamente nos chamados distúrbios narcísicos. Essas pessoas realmente acham que são o centro do universo (embora elas mesmas não estejam centradas) e que os outros existem para servi-las. Em vez de espelhar os outros, elas querem que os outros as espelhem. Em vez de ver, querem ser vistas.
 
@@ -383,7 +445,71 @@ Muitos de nós reprimimos tanto o Amante interno que se tornou dificílimo nos
 
 ---
 
-Parei na Conclusão. Pag 80. 
+## Conclusão - Acesso as energias 
+
+A nossa era é de individualismo no sentido mais profundo, bem como no mais superficial também. Sejamos, pois, indivíduos! Nutramos e acolhamos com alegria os grandes indivíduos – homens que irão, com a benevolência dos antigos reis, a coragem e decisão dos antigos
+
+guerreiros, a sabedoria dos magos e a paixão dos amantes, agir energicamente para assumir o desafio de salvar um mundo que está infeliz diante de nós.
+
+### Tecnica 1) Dialogo de imaginação ativa 
+
+É basicamente invocar uma reunião com todas as vozes da nossa cabeça, para que cada uma tenha voz, e consigamos chegar a um acordo com todo mundo. 
+
+
+### Tecnica 2) Invocação 
+
+O que estamos sugerindo se compara ao que as religiões sempre chamaram de oração, quando ela era acompanhada do ritual de acesso ao deus. Longe de serem ídolos, os ícones da Igreja Ortodoxa Grega e as estatuas do Catolicismo Romano servem para focalizar uma imagem da forma de energia que o fiel está invocando. A imagem do santo ou de Deus pode fixar-se de tal forma na mente de um homem que ele não precisa mais da representação gráfica à sua frente para sentir as energias que fluem dela.
+
+Em resumo é basicamente ter na sua mente uma imagem de um rei, guerreiro, mago, amante, do qual você quer invocar. 
+
+E depois basicamente fazer uma "Oração" pra esses "Deuses" pedindo que eles te ajudem etc... 
+
+### Tecnica 3) Homens admiráveis
+
+Seguindo a mesma linha, temos a técnica da admiração. Homens amadurecidos precisam admirar outros homens, vivos ou mortos.
+
+Precisamos especialmente estar em contato com homens mais velhos a quem possamos ter como modelo. Se não houver nenhum disponível pessoalmente, temos que ler suas biografias e nos familiarizar com suas palavras e ações.
+
+Eles não precisam ser perfeitos, porque a perfeição – a realização do homem totalmente íntegro – jamais será alcançada.
+
+Se precisamos de mais energia do Guerreiro em nossas vidas, podemos vir a conhecer e apreciar a alma guerreira do faraó egípcio Ramsés II, do chefe zulu que se lançou com seus homens, tão corajosamente, contra o exército britânico na revolta zulu no século XIX, ou do General Patton. 
+
+Se precisamos de um melhor contato com a energia do Rei, podemos estudar as biografias de Abraham Lincoln ou de Ho Chi Minh. 
+
+Se precisamos de mais Amante, podemos admirar a energia de Leo Buscaglia.
+
+### Tecnica 4) Agir "Como se"
+
+Baseia-se na comprovada técnica de o ator tentar "entrar no personagem" quando ele não sente o personagem.
+
+No palco, o ator age com realeza, mesmo que tenha acabado de ser despedido ou abandonado pela mulher! "O espetáculo continua", e outras pessoas dependem de ele representar o seu papel bem. 
+
+Então você pega o seu script, lê á fala do rei, senta no trono e age como rei. Não demora muito, acredite ou não, vai estar sentindo-se um rei.
+
+Se precisa ter mais acesso ao Guerreiro, pode começar saindo da frente da televisão uma noite dessas e se forçando a abrir a porta e dar uma caminhada lá fora. 
+
+Pode decidir-se a enfrentar a pilha de contas a pagar sobre a escrivaninha. Levante-se. Mexa-se. 
+
+Comece a fazer alguma coisa. E logo, para seu grande espanto, vai perceber que está sendo mais guerreiro em muitas áreas da sua vida.
+
+Se é necessário um acesso mais consciente ao Mago, a próxima vez que alguém vier a você em busca de sua sabedoria, aja como se realmente tivesse alguma.
+
+## Uma ultima palavra 
+
+Uma última palavra de incentivo: qualquer processo transformador, como a própria vida, exige tempo e esforço. 
+
+Fazemos o nosso "dever de casa" do lado consciente, e o inconsciente, com seus recursos poderosos, responderá, se abordado da maneira correta, às nossas perguntas, necessidades e feridas com meios geradores e curativos. 
+
+A luta pela maturidade é um imperativo psicológico, moral e espiritual que vem do Imperador Chinês que existe dentro de cada homem.
+
+Precisamos nos comprometer de corpo e alma a desenvolver a nossa masculinidade madura. 
+
+----
+
+
+
+
+
 
 
 

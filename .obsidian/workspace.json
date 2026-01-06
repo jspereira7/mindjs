@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Sites Uteis.md",
+                "file": "00.Notes/Site com cursos ouros gringos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sites Uteis"
+              "title": "Site com cursos ouros gringos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,11 +316,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "20c91f1214678828",
+  "active": "dd83af5538fd2f16",
   "lastOpenFiles": [
-    "00.Notes/Sites Uteis.md",
-    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
     "00.Notes/Site com cursos ouros gringos.md",
+    "00.Notes/Dialogo de imaginação ativa.md",
+    "00.Notes/Rei, Guerreiro, Mago, Amante - Anotações..md",
+    "00.Notes/Sites Uteis.md",
     "00.Notes/Cognitive Functions Definitions.md",
     "00.Notes/Contas Proxy IPV4.md",
     "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md",
@@ -345,7 +345,6 @@
     "00.Notes/Processo subir contas de anuncio TTK.md",
     "00.Notes/Type Grid 5 Complexes.md",
     "00.Notes/Complexos TypeGrid 5.md",
-    "01.Assets/Excalidraw/Drawing 2025-11-19 16.24.38.excalidraw.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
