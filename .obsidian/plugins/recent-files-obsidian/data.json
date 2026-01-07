@@ -5,6 +5,30 @@
       "path": "00.Notes/Hospedagem Free - Beget.md"
     },
     {
+      "basename": "Credenciais Binom Tracker",
+      "path": "00.Notes/Credenciais Binom Tracker.md"
+    },
+    {
+      "basename": "GPT Pago Free",
+      "path": "00.Notes/GPT Pago Free.md"
+    },
+    {
+      "basename": "SD-UD (Open x Closed)",
+      "path": "00.Notes/SD-UD (Open x Closed).md"
+    },
+    {
+      "basename": "ftPerfilPatolino2",
+      "path": "01.Assets/Anexos/ftPerfilPatolino2.png"
+    },
+    {
+      "basename": "Roupas",
+      "path": "01.Assets/Anexos/Roupas.png"
+    },
+    {
+      "basename": "Comandos Instalação Keitaro na VPS",
+      "path": "00.Notes/Comandos Instalação Keitaro na VPS.md"
+    },
+    {
       "basename": "Rei, Guerreiro, Mago, Amante - Resumo",
       "path": "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "Companion Guide - Cs Joseph",
       "path": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
-    },
-    {
-      "basename": "GPT Pago Free",
-      "path": "00.Notes/GPT Pago Free.md"
     },
     {
       "basename": "Proxy Free",
@@ -141,10 +161,6 @@
       "path": "00.Notes/Op Sw Brifering.md"
     },
     {
-      "basename": "Comandos Instalação Keitaro na VPS",
-      "path": "00.Notes/Comandos Instalação Keitaro na VPS.md"
-    },
-    {
       "basename": "Octagram 4 - Core Fears",
       "path": "00.Notes/Octagram 4 - Core Fears.md"
     },
@@ -153,24 +169,12 @@
       "path": "00.Notes/ENTP SDUF.md"
     },
     {
-      "basename": "SD-UD (Open x Closed)",
-      "path": "00.Notes/SD-UD (Open x Closed).md"
-    },
-    {
       "basename": "Drawing 2025-11-07 16.51.26.excalidraw",
       "path": "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md"
     },
     {
-      "basename": "ftPerfilPatolino2",
-      "path": "01.Assets/Anexos/ftPerfilPatolino2.png"
-    },
-    {
       "basename": "SHAPE",
       "path": "01.Assets/Anexos/SHAPE.png"
-    },
-    {
-      "basename": "Roupas",
-      "path": "01.Assets/Anexos/Roupas.png"
     },
     {
       "basename": "FtDePerfil2",
@@ -195,10 +199,6 @@
     {
       "basename": "ChatGPT Image May 2, 2025, 04_57_04 PM",
       "path": "01.Assets/Anexos/ChatGPT Image May 2, 2025, 04_57_04 PM.png"
-    },
-    {
-      "basename": "Captura de Tela 2024-09-03 às 10.28.00",
-      "path": "01.Assets/Anexos/Captura de Tela 2024-09-03 às 10.28.00.png"
     }
   ],
   "omittedPaths": [
