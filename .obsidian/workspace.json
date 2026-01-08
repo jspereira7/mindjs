@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Credenciais Binom Tracker.md",
+                "file": "00.Notes/Sites Uteis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Credenciais Binom Tracker"
+              "title": "Sites Uteis"
+            }
+          },
+          {
+            "id": "75b93f3eb9505fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Binom Tracker Funcionamento.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Binom Tracker Funcionamento"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -340,8 +365,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "916ecf36e9753bcb",
+  "active": "75b93f3eb9505fb7",
   "lastOpenFiles": [
+    "00.Notes/Binom Tracker Funcionamento.md",
+    "00.Notes/Sites Uteis.md",
     "00.Notes/Credenciais Binom Tracker.md",
     "00.Notes/Hospedagem Free - Beget.md",
     "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
@@ -353,7 +380,6 @@
     "00.Notes/Plano de Ação 2026.md",
     "00.Notes/Site com cursos ouros gringos.md",
     "00.Notes/Dialogo de imaginação ativa.md",
-    "00.Notes/Sites Uteis.md",
     "00.Notes/Cognitive Functions Definitions.md",
     "00.Notes/Contas Proxy IPV4.md",
     "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md",
@@ -370,7 +396,6 @@
     "00.Notes/The 8 Sexually Compatible Relationships.md",
     "00.Notes/Insight foda do jordan peterson sobre bullying.md",
     "00.Notes/Tipagem JS.md",
-    "00.Notes/Medos dos Tipos.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
