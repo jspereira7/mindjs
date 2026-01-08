@@ -32,55 +32,7 @@
             }
           },
           {
-            "id": "916ecf36e9753bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Hospedagem Free - Beget.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hospedagem Free - Beget"
-            }
-          },
-          {
-            "id": "f4fa231e269e87a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Sites Uteis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sites Uteis"
-            }
-          },
-          {
-            "id": "75b93f3eb9505fb7",
+            "id": "13d7224c9ede4f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,12 +134,12 @@
               "title": "Outline of Avaliação de Habitos Diarios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -365,13 +317,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "75b93f3eb9505fb7",
+  "active": "13d7224c9ede4f1f",
   "lastOpenFiles": [
-    "00.Notes/Binom Tracker Funcionamento.md",
-    "00.Notes/Sites Uteis.md",
-    "00.Notes/Credenciais Binom Tracker.md",
-    "00.Notes/Hospedagem Free - Beget.md",
     "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
+    "00.Notes/Hospedagem Free - Beget.md",
+    "00.Notes/Sites Uteis.md",
+    "00.Notes/Binom Tracker Funcionamento.md",
+    "00.Notes/Credenciais Binom Tracker.md",
     "00.Notes/GPT Pago Free.md",
     "00.Notes/SD-UD (Open x Closed).md",
     "01.Assets/Anexos/ftPerfilPatolino2.png",
