@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -318,13 +319,13 @@
   },
   "active": "13d7224c9ede4f1f",
   "lastOpenFiles": [
-    "00.Notes/Binom Tracker Funcionamento.md",
     "00.Notes/Cursos Ouro Premium v2.md",
+    "00.Notes/Credenciais Binom Tracker.md",
+    "00.Notes/Binom Tracker Funcionamento.md",
     "01.Assets/Anexos/Pasted image 20260108194740.png",
     "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
     "00.Notes/Hospedagem Free - Beget.md",
     "00.Notes/Sites Uteis.md",
-    "00.Notes/Credenciais Binom Tracker.md",
     "00.Notes/GPT Pago Free.md",
     "00.Notes/SD-UD (Open x Closed).md",
     "01.Assets/Anexos/ftPerfilPatolino2.png",
