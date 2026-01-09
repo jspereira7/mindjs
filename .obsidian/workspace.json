@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -319,6 +320,7 @@
   },
   "active": "13d7224c9ede4f1f",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20260108194740.png",
     "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
     "00.Notes/Hospedagem Free - Beget.md",
     "00.Notes/Sites Uteis.md",
@@ -347,7 +349,6 @@
     "00.Notes/Processo logar contas no automatico.md",
     "00.Notes/The 8 Sexually Compatible Relationships.md",
     "00.Notes/Insight foda do jordan peterson sobre bullying.md",
-    "00.Notes/Tipagem JS.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
