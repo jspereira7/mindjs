@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13d7224c9ede4f1f",
+            "id": "d09286c97ce6132a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Site com cursos ouros gringos.md",
+                "file": "00.Notes/Entp Behind the mask.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Site com cursos ouros gringos"
-            }
-          },
-          {
-            "id": "3f5df62ce1e456b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Cursos Ouro Premium v2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cursos Ouro Premium v2"
+              "title": "Entp Behind the mask"
             }
           }
         ]
@@ -133,13 +109,11 @@
               "title": "Outline of Avaliação de Habitos Diarios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -317,10 +291,28 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "13d7224c9ede4f1f",
+  "active": "d09286c97ce6132a",
   "lastOpenFiles": [
-    "00.Notes/Credenciais Binom Tracker.md",
+    "00.Notes/Entp Resumo Desenvolvimento da Ti..md",
+    "00.Notes/Entp.md",
+    "00.Notes/Cursos que talvez valham a pena comprar.md",
+    "00.Notes/DropShipping Ouro Twitter..md",
+    "00.Notes/Eixo entre Ti - Fe.md",
+    "00.Notes/Companion Guide - Grade dos tipos.md",
+    "00.Notes/Controle o seu Lado Emocional -Racionalidade..md",
+    "00.Notes/Como ficar Rico.md",
+    "00.Notes/Como ficar mais Alto.md",
+    "00.Notes/Como lidar com as mulheres - Nessaham alita..md",
+    "00.Notes/How to type your self - Cs Joseph Course.md",
+    "00.Notes/Automação usando API não oficial.md",
+    "00.Notes/Blind Mind.md",
+    "00.Notes/The 8 Sexually Compatible Relationships.md",
+    "00.Notes/Anotações ESTP.md",
+    "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
+    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Cursos Ouro Premium v2.md",
+    "00.Notes/Site com cursos ouros gringos.md",
+    "00.Notes/Credenciais Binom Tracker.md",
     "00.Notes/Binom Tracker Funcionamento.md",
     "01.Assets/Anexos/Pasted image 20260108194740.png",
     "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
@@ -331,25 +323,7 @@
     "01.Assets/Anexos/ftPerfilPatolino2.png",
     "01.Assets/Anexos/Roupas.png",
     "00.Notes/Comandos Instalação Keitaro na VPS.md",
-    "00.Notes/Plano de Ação 2026.md",
-    "00.Notes/Site com cursos ouros gringos.md",
-    "00.Notes/Dialogo de imaginação ativa.md",
-    "00.Notes/Cognitive Functions Definitions.md",
-    "00.Notes/Contas Proxy IPV4.md",
-    "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md",
-    "00.Notes/Development of the introverted functions ENTP.md",
-    "00.Notes/Cognitive emulation.md",
-    "00.Notes/J x P Octagram 4.1.md",
-    "00.Notes/Anotações Aula Cs Joseph New.md",
-    "01.Assets/Excalidraw/Drawing 2025-12-21 15.51.26.excalidraw.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
-    "00.Notes/Proxy Free.md",
-    "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
-    "00.Notes/Projeto Ttk Ads.md",
-    "00.Notes/Processo logar contas no automatico.md",
-    "00.Notes/The 8 Sexually Compatible Relationships.md",
-    "00.Notes/Insight foda do jordan peterson sobre bullying.md",
-    "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
