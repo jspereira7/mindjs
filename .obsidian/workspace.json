@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a25ee03c4d5331d",
+        "id": "f88fe020436431ad",
         "type": "tabs",
         "children": [
           {
-            "id": "d09286c97ce6132a",
+            "id": "2824078356234e05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Entp Behind the mask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Entp Behind the mask"
+              "title": "New tab"
             }
           }
         ]
@@ -113,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -291,8 +278,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "d09286c97ce6132a",
+  "active": "2824078356234e05",
   "lastOpenFiles": [
+    "00.Notes/Entp Behind the mask.md",
     "00.Notes/Entp Resumo Desenvolvimento da Ti..md",
     "00.Notes/Entp.md",
     "00.Notes/Cursos que talvez valham a pena comprar.md",
@@ -322,7 +310,6 @@
     "00.Notes/SD-UD (Open x Closed).md",
     "01.Assets/Anexos/ftPerfilPatolino2.png",
     "01.Assets/Anexos/Roupas.png",
-    "00.Notes/Comandos Instalação Keitaro na VPS.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
