@@ -58,6 +58,40 @@ Versão expandida e facilitada para o entendimento, que o dr john beebe fez:
 
 Você precisa diferenciar emoção da função sentimento, a função sentimento é a que resolve as emoções... 
 
+----
+
+## Cap 3: Compreendendo a conciencia atraves dos tipos psicológicos 
+
+> De um passo atrás, para dar um salto maior pra frente 
+
+A **sensação** diz que algo existe. 
+
+O **pensamento** em linhas gerais diz o que é. 
+
+O **sentimento** diz se é agradavel ou não, se deve ser aceito ou rejeitado. 
+
+A **intuição** é dificil de explicar o que ela é, jung define a intuição como uma percepção atraves do inconciente. 
+
+Todas as funções são necessarias porque a própria vida apresenta problemas que já são diferenciados de tal forma que apenas uma função espesifica da conciencia pode resolve-los. 
+
+Ou seja, podemos classificar os problemas que temos na vida, como a falta de x função, um problema de pensamento, sentimento, intuição, sensação. 
+
+Nessa perspectiva, o desenvolvimento da conciencia consiste em a capacidade de acionar as diferentes funções nos momentos e maneiras apropriadas. 
+
+A função inferior, cada um de nós apresenta um complexo de inferioridade em relação a essa area espesifica do nosso funcionamento conciente. 
+
+![[Pasted image 20260111214204.png]]
+
+A função altera o comportamento, de acordo em que slot ela está inserida. 
+
+Ou seja, as funções podem ser diferentes de acordo com aonde está inserida, as caracteristicas de uma Ne Superior, não é a mesma de uma Ne inferior.
+
+## Tipo como método de analise
+
+
+Importante, John beebe n˜
+
+
 
 
 
