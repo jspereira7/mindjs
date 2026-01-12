@@ -356,6 +356,140 @@ A sensação nos diz que algo existe, o pensamento nos diz o que isso é, o sent
 
 E a intuição é um palpite. 
 
+---
 
+Aqueles que fazem o isso de forma abundante da Ni ou Fi, podem ser percebidos pelos outros como depreciando o objeto. 
 
+---
 
+### Fi Explicação 
+
+Imagine que sentir, para o Fi, é como apalpar algo no escuro.
+
+Você não vê o objeto inteiro.
+Você toca devagar, por partes, e cada toque traz uma sensação diferente.
+
+Assim funciona o Fi:
+
+- Ele **não enxerga a situação inteira de uma vez**
+- Ele **sente pedaços do significado profundo**
+- Só com o tempo o “elefante inteiro” é sentido.
+
+Pense na diferença entre:
+
+- **Ver** que está frio (termômetro)
+- **Sentir** o frio entrando no corpo aos poucos
+
+O Fi não mede, não compara, não explica.  
+Ele **absorve o clima interno da experiência**.
+
+Por isso, quando tenta explicar o que sente, só consegue dizer coisas como:
+
+- “é algo ruim”
+- “tem algo errado”
+- “isso pesa”  
+    Mas essas palavras são apenas **tentativas pobres** de descrever algo muito maior que está sendo sentido por dentro.
+
+O sentimento introvertido é como entender a vida tateando no escuro: lentamente, profundamente, sem conseguir explicar tudo, mas sentindo o essencial por dentro.
+
+---
+### Fe Explicação 
+
+Se o Fi sente o valor por dentro, o Fe sente o valor no ambiente. 
+
+O Fe olha para fora e pergunta, mesmo sem perceber:
+
+> _“O que é apropriado sentir aqui?”_  
+> _“O que é valorizado pelas pessoas?”_  
+> _“O que mantém a harmonia?”_
+
+O Fe funciona como um **termômetro social**:
+
+- percebe emoções dos outros
+- capta expectativas
+- absorve valores compartilhados
+- ajusta seus próprios sentimentos a isso
+
+A frase de Jung é muito reveladora:
+
+> “o homem ‘adequado’ seja amado, e ninguém mais”
+
+Aqui não é frieza.  
+É **adequação ao valor coletivo**.
+
+O Fe pergunta:
+
+- _Esse relacionamento faz sentido socialmente?_
+- _É reconhecido como bom?_
+- _É aprovado pelo meio?_
+
+É como escolher uma roupa:
+
+- não só porque você gosta
+- mas porque **é apropriada para a ocasião**
+
+----
+
+O Sentimento Extrovertido é a função que sente os valores do mundo externo e se alinha a eles para criar harmonia, pertencimento e adequação emocional.
+
+---
+
+### Te 
+
+**O Te pensa a partir do que já está estabelecido fora**, não do que é elaborado internamente.
+
+Ele olha para o mundo e pergunta:
+
+- _Quais ideias funcionam?_
+- _Quais princípios já estão aceitos?_
+- _O que organiza o comportamento coletivo?_
+
+E então **usa isso como regra**.
+
+O Te funciona como alguém que pega um **manual pronto** e diz:
+
+> “Isso já foi testado. É assim que se faz.”
+
+Ele não sente obrigação de:
+
+- reinventar a teoria
+- questionar a linguagem
+- reformular o princípio
+
+O foco é:  
+**aplicação prática e ordem externa**.
+
+----
+
+### Se (Sensação Extrovertida)
+
+**Sensação extrovertida (Se)** é uma função que busca **viver experiências reais e concretas** do mundo externo. Ela se concentra no que está acontecendo **aqui e agora**, nos objetos, ações e estímulos visíveis.
+
+Por estar tão focada na realidade externa, essa função pode ficar **tão absorvida no que está acontecendo fora** que não percebe outras coisas ao mesmo tempo. 
+
+Por exemplo: alguém usando sensação extrovertida pode estar totalmente atento a um jogo de basquete, vendo cada movimento da bola e dos jogadores, mas não perceber que, ao lado, alguém está prestes a dizer ou fazer algo inesperado.
+
+---
+
+### Ne (Intuição Extrovertida)
+
+**A intuição extrovertida (Ne)** é uma função que percebe **possibilidades futuras** a partir das situações e objetos presentes. Quando alguém usa muito essa função, pode ficar **tão envolvido com uma nova possibilidade** que todo o resto parece desaparecer naquele momento.
+
+Esse processo é **instintivo e imediato**. A pessoa simplesmente “sente” se deve continuar, parar ou ter cautela, sem precisar analisar racionalmente. O texto compara isso a um **semáforo interno**:
+
+- **luz verde** → é hora de seguir em frente
+- **luz amarela** → é melhor ter cuidado
+- **luz vermelha** → é hora de parar
+
+O problema é que quem não tem essa função desenvolvida **não percebe esses sinais**, e por isso não entende:
+
+- por que a pessoa avança tão rápido em algumas situações
+    
+- ou por que ela para ou hesita de repente
+    
+
+Além disso, quando a intuição extrovertida ignora os **dados sensoriais concretos** (o que está visível e acontecendo de fato), outras pessoas podem questionar se essa pessoa realmente “viu” algo ou se está apenas imaginando.
+
+-----
+
+Parei no Cap11
