@@ -492,4 +492,60 @@ Além disso, quando a intuição extrovertida ignora os **dados sensoriais concr
 
 -----
 
+## Aplicações do Tipo 
+
+O pensamento introvertido (Ti) gosta de Definir, ou seja precisão, quer chegar a precisão, encaixar as coisas dentro de um modelo que faça sentido ao seu pensamento. 
+
+Uma dica para pessoas do pensamento introvertido que gostam de encaixar as coisas em modelos, é aprender a fazer diagramas e modelos para seguir. 
+
+-----
+### **Energia Parental da função auxiliar** 
+
+A função auxiliar serve exatamente para cuidar dos outros. 
+
+Se você perceber alguem tentando cuidar de você com lógica, verá que essa é uma pessoa usuaria de Ti parent, porque ela está se baseando em lógica, se isso então isso...
+
+Você consegue aprender muito apenas observando como as outras pessoas cuidam uma das outras. 
+
+*A expressão silenciosa é uma caracteristica comum da Fi.* 
+
+O sentimento extrovertido tem uma atitude mais tagarela, usando uma enxurada de palavras tranquilizadoras, para deixar as pessoas á vontade. 
+
+Outra caracteristica do Fi é que como função introvertida ele tende a ser mais "Excentrico" e original. 
+
+Uma atitude mais fora da norma, vindo de dentro... 
+
+*Qualquer função introvertida parece ser mais "Excentrica" vindo de dentro, do que não é a norma*
+
+Como o pensamento introvertido, ele vem de dentro... 
+
+Fe quer ser aceita, então basicamente ele usa palavras que não vão infringir a norma social, ou ferir os outros... 
+
+### Energia Heroica da Função domianante
+
+Diferente da função auxiliar que cuida dos outros, a função dominante está menos envolvida com os outros, está mais envolvida na afirmação de sí mesma.
+
+Ela se afirma, auto-confiante, uma combatitividade heroica, não é para cuidar dos outros mas para se auto-afirmar. 
+
+### Reconhecendo as 8 atitudes funcionais
+
+John beebe recomenda que nos concentremos em identificar a função parent + Heroi, porque são as que aparecem com mais frequencia. 
+
+E é crucial que precisamos saber diferenciar as funções em ação, Ne Ni Se Si Te Ti Fe Fi, e isso requer prática conciente. 
+
+Aprender a identificar essas funções é parecido como aprender a ler partituras, porque ao ver determinado som, você sabe em qual partitura é
+
+Com prática consciente, você começa a **“ouvir” uma fala ou observar uma atitude e reconhecer o padrão funcional**, assim como um músico reconhece um acorde.
+
+Tambem reconhecer no que alguem é menos bom, tambem é um bom sinal para reconhecer a função Child e inferior. 
+
+Um tipo Ti heroi considera os sentimentos dos outros um fardo interminavel, por isso possui Fe inferior. 
+
+
+
+
+
+
+
+
 Parei no Cap11
