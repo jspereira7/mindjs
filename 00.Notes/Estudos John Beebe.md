@@ -89,8 +89,80 @@ Ou seja, as funções podem ser diferentes de acordo com aonde está inserida, a
 ## Tipo como método de analise
 
 
-Importante, John beebe n˜
+Importante, John beebe não conseguia terminar livros profissionais, era desatento... 
 
+Num instante john percebeu que aquilo em que eu era superior - sonhar - era o motivo do que ele era inferior - prestar atenção. 
+
+Alguem com intuição superior é como a poupa de um foguete, sempre querendo decolar, e a sensação inferior não tendo peso suficiente para segurar o foguete. 
+
+Use as funções Secundaria e Terceária, para resolver os problemas com o mundo. 
+
+---
+
+**Si** = Se preocupa em encontrar ordem, organizar a experiencia e monitorar o conforto interno do corpo.
+
+**Se** = Experiencias envolventes, compartilhadas, texturas e cheiros, imagens, sons e sabores do mundo - uma relação direta com a realidade. 
+
+**Fi** = Se preocupa com os valores internos que mais importam pra cada um. 
+
+**Fe** = Busca se conectar com os sentimentos dos outros. 
+
+**Ne** = Parece telepátia, capta com facilidade o que se passa na mente de outras pessoas, excherga possibilidades que facilmente os outros não teriam percebido. 
+
+**Ni** = Olha para o panorama geral no inconciente, sabendo o que se moviam as nações e etc... 
+
+**Te** = Preocupa-se em definir coisas, define com base em ideias que fossem válidas para todos. 
+
+**Ti** = Tambem quer difinir coisas, mas precisa refletir se determinada construção realmente estava de acordo com a convicção de realidade interior, independente da opnião predominante. 
+
+----
+
+### Analogia Ne + Si 
+
+A Ne é como o marido no bar, que bebe e deixa sua esposa em casa sozinha (Si), quando já é hora de ir pra casa. 
+
+A Ne fica constantemente procurando novas possibilidades, enquanto ignora a sua Si, mesmo quando já é hora de descansar, e cumprir o seu dever. 
+
+Como buscar o filme novo, o livro mais novo, o curso mais novo, estavam me levando a ultrapassar os limites do meu conforto pessoal. 
+
+Quando você para de ignorar suas sensações internas, e dá a ela um pouco de atenção, é como se você tivesse levando sua esposa para tomar um sorvete. 
+
+----
+
+## Desenvolvimento de tipos 
+
+As funções Primarias e auxiliares podem se desenvolver na infancia, mas as funções tercearia e inferior normalmente não aparecem até a idade adulta. 
+
+Segundo Jung, o mais dificil é entender as pessoas que são do seu tipo, mas que possuem a atitude oposta. 
+- Ex: Te não consegue entender alguem Ti 
+- Fe não entende alguem Fi 
+- Por isso a tipologia é tão importante.
+
+----
+
+## Tipos de sombra 
+
+![[Pasted image 20260111225822.png]]
+
+### A personalidade Oposta / Nemesis 
+
+Como qualquer função na sombra, tendemos a projetar nos outros essa dificuldade cujos traços de evitação eram particularmente acentuados. 
+
+
+### Demonic personality
+
+A personalidade demoniaca opera dentro de nós para minar aos outros e á nós mesmos. 
+
+Mal se refere a qualidade de ser minado. 
+- Algo que corroi, sabota, desestabiliza. 
+
+**Demoniaco** = uma força psiquica autonoma, inconciente, que age a revelia do ego, que pode ferir - a sí mesmo ou aos outros. 
+
+“minha linguagem corporal é muitas vezes o oposto do que pretendo transmitir”
+
+“ao tentar me orientar por uma rota desconhecida, o caminho oposto é quase sempre o correto”
+
+![[Pasted image 20260111234426.png]]
 
 
 
