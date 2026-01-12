@@ -284,7 +284,78 @@ Aqui está o ponto central:
  A **sombra** não é só maldade  
 é tudo que foi **necessário para sobreviver**, mas não foi aceito socialmente.
 
+Quando nos sentimos ameaçados, recorremos a diferentes arquétipos de defesa.
 
+Todos vivem na sombra porque não combinam com a imagem “ideal” que queremos ter de nós mesmos.
 
 ---
+
+## A personalidade demoniaca 
+
+Pessoas com Si dominante são muito boas em saber os processos que devem ser feitos em xyz, mas são ruins em ver para onde as coisas estão indo, são ótimos gerentes. 
+
+## Tipo e Arquétipo 
+
+Observei que existe um papel espesifico que a pessoa assume ao usar sua função auxiliar e terceária. 
+
+Note que uma função é completamente diferente dependendo do slot que está, um Fi Heroi é totalmente diferente de um Fi Parent, Child. 
+
+O arquetipo associado a função transforma o lugar em que podemos assumir um papel na vida. 
+
+A função Parent é fortemente desenvolvida na maioria dos adultos, como o braço direito de uma pessoa destra, que frentemente é usada para apoiar e ajudar os outros.
+
+Ela assume a liderança no fomento do desenvolvimento de outras pessoas, e muitas vezes serve como modelo para elas. 
+
+Já a função Child é mais como o braço esquerdo de uma pessoa destra, as vezes original e criativa, mas sempre um pouco instavel, e por vezes até mais fragil do que a função inferior. 
+
+Essa parte da nossa conciencia está mais associada a vulnerabilidade do que á competencia. 
+
+A função parent não é boa em cuidar da child da propria psique, mas é boa em cuidar da child de outras pessoas... 
+
+Que precisa de admiração, aprovação, força, e orientação de pelo menos uma pessoa, para que possa funcionar bem... 
+
+O eixo do parent/child é usado para educarmos os outros, e sermos educados, como tambem sermos aceitos, e aceitar os outros.... 
+
+Definindo assim a maneira como usamos para nos conectar com os outros... 
+
+----
+
+Exemplo ENTP John Beebe 
+
+Com a sua função Ti Parent, ele trabalhou para explicar para as pessoas como as situações delas em suas vidas podem ser melhor definidas. 
+
+As pessoas o procuram pra isso, e não para ajudar a montar uma barraca, concertar um carro ou algo do tipo... 
+
+Quando pedem esse tipo de ajuda pra ele, percebe que não é tão bom em cuidar dos outros dessa maneira, quanto as pessoas com sensação extrovertida, sentimento extrovertido ou pensamento extrovertido mais desenvolvidos. 
+
+Não use sua função heroi para cuidar dos outros, use a parent, john beebe usa seu Ti parent para ajudar as pessoas a definir melhor o que elas já sabem. 
+
+----
+
+A função parent encoraja e capacita os outros, para fortalece-los e apoia-los em sua trajetória. 
+
+Já a função critic (sombra do parent) é usada para fazer o oposto, desencoraja e incapacita. 
+
+O que as vezes é necessário. 
+
+Por exemplo uma pessoa com a Se Parent pode por exemplo cozinhar para cuidar dos outros, a pessoa com a Se critic pode dar um soco na parede quando a festa do vizinho está muito alta... 
+
+Assumimos o papel Child, quando precisamos usar uma tarefa em que a função nesse slot é child. 
+
+----
+
+Devemos usar todas as nossas funções e arquétipos, para que elas não se manifestem de forma inconciente. 
+
+## Historia do Tipo 
+
+Tenha em mente que não se trata de tipos de pessoas, mas sim tipos de conciencia... 
+
+Orientações caracteristicas assumidas pelo ego ao estabelecer e discriminar a realidade interna e externa de um individuo. 
+
+A sensação nos diz que algo existe, o pensamento nos diz o que isso é, o sentimento nos diz seu valor para nós. 
+
+E a intuição é um palpite. 
+
+
+
 
