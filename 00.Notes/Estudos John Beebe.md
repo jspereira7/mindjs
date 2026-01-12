@@ -148,7 +148,7 @@ Segundo Jung, o mais dificil é entender as pessoas que são do seu tipo, mas qu
 
 Como qualquer função na sombra, tendemos a projetar nos outros essa dificuldade cujos traços de evitação eram particularmente acentuados. 
 
-
+----
 ### Demonic personality
 
 A personalidade demoniaca opera dentro de nós para minar aos outros e á nós mesmos. 
@@ -164,13 +164,127 @@ Mal se refere a qualidade de ser minado.
 
 ![[Pasted image 20260111234426.png]]
 
+A função inferior é a fonte de todo mal no mundo, de toda forma de energia demoniaca, porque se reprimida, ela vai despertar o poder do demon. 
+
+---
+
+## Aspéctos do arquétipo da adaptação masculina 
+
+### Heroi 
+
+O heroi é para ter um ego, um centro que organiza e dá um senso de auto responsabilidade e auto-suficiencia para a psique.
+
+---
+
+### A criança eterna
+
+É um ego inflado, sempre tem um "mas"...
+
+Falta estár situado na vida real...
+
+---
+
+### O trickster 
+
+O homem identificado com o tickster está longe de ser sincero e vulneravel... 
+
+A energia do tickster reside em resistir a obrigação de fazer as coisas como os outros consideram certas... 
+
+O **trickster** é o arquétipo da **duplicidade, do paradoxo e da quebra de regras**.  
+Ele cria situações de **duplo vínculo**, em que qualquer escolha parece errada, confundindo e testando os limites do outro.
+
+----
+## Sombra - Objetivo 
+
+A sombra serve pra defender nosso ego. 
+
+### Trickster 
+
+O trickster surge como forma de auto-defesa, ou sobrevivencia. 
+- O trickster mente, engana, manipula. 
+- Porque dependendo do contexto, ser sincero é prejudicial. 
+- O trickter é eficaz em enganar. 
+
+Mas enganar não é a unica forma de lidar com ameaças. 
+
+### Critic 
+
+> _“Às vezes, repelimos ameaças usando nossa posição hierárquica… Este é o domínio do arquétipo do senex…”_
+
+Aqui entra o **senex**:
+
+- autoridade
+- hierarquia
+- crítica
+- julgamento
+- frieza
+
+**Exemplos:**
+- chefe que corta alguém com uma avaliação dura
+- professor que coloca o aluno “no lugar”
+- adulto que impõe limites firmes
+
+ Defesa por **poder, status e ordem**, não por engano.
+
+### Demon
+
+> _“Ou podemos reagir ao perigo percebido de maneiras ainda mais inconscientes…”_
+
+Aqui surge a **personalidade demoníaca**:
+
+- reações explosivas
+- destrutivas
+- pouco conscientes
+
+Exemplos:
+
+- sabotagem
+- crueldade súbita
+- atitudes que nem a própria pessoa entende bem depois
+
+Defesa feita por **impulsos**, não por escolha consciente.
+
+### Nemesis (Sedução, Evasão)
+
+> _“Ou, finalmente, podemos nos defender por meio de ações evasivas ou passivo-agressivas…”_
+
+Esse é outro modo:
+
+- evitar confronto
+- agir pelas bordas
+- seduzir
+- manipular indiretamente
+
+Exemplos:
+
+- agradar para controlar
+- fazer-se de fraco
+- ironia
+- silêncio punitivo
+
+Defesa por **desvio**, não por ataque direto.
+
+----
+
+### Os 4 arquetipos de defesa
+
+1. Trickster -> engano, jogo, inversão 
+2. Critic -> autoridade, critica, hieraquia
+3. Demon -> ataque impulsivo e destrutivo 
+4. Nemesis -> evasão, sedução, passivo-agressividade
+
+----
+
+Aqui está o ponto central:
+
+- essas estratégias são **reprimidas**
+- ensinadas como “erradas”, “feias”, “imorais”
+- mas **continuam existindo dentro de nós**
+
+ A **sombra** não é só maldade  
+é tudo que foi **necessário para sobreviver**, mas não foi aceito socialmente.
 
 
 
-
-
-
-
-
-
+---
 
