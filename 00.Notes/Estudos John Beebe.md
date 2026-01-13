@@ -541,6 +541,7 @@ Tambem reconhecer no que alguem é menos bom, tambem é um bom sinal para reconh
 
 Um tipo Ti heroi considera os sentimentos dos outros um fardo interminavel, por isso possui Fe inferior. 
 
+---
 
 
 
