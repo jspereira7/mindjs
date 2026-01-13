@@ -103,9 +103,88 @@ Tipos emotivos conseguem pensar, mas não quando querem...
 
 E a vida não tem piedade da função inferior, é por isso que as pessoas produzem uma reação de disfarçe. Como não é sua reação real, elas simplesmente tomam emprestada uma forma geral do coletivo.
 
-É por isso quando um tipo sentimental, é forçado a produzir pensamentos, irá soltar vários comentários banais
+É por isso quando um tipo sentimental, é forçado a produzir pensamentos, irá soltar vários comentários banais, que não são seus proprios pensamentos, mas é porque ele precisa pensar rápido.
+
+E o pensamento real ainda não está no nivel em que poderia ser expresso. 
+
+Não se deixe enganar por essas reações de pseudo adaptação, mas sempre observar onde a função inferior se manifesta á sua maneira, e não se iludir pensando que essa pessoa tem um pensamento ou sentimento muito bom. 
+
+Você sempre pode observar essas reações de encobrimento pelo fato delas serem impessoais, banais e muito coletivas. 
 
 ------
+
+Importante: Através dos sonhos o inconciente diz o que é importante naquele momento. 
+
+----
+
+É impossivel trazer a tona a função inferior, como um pescador puxa um peixe com a vara, e todas as tentativas de acelerar ou educa-lá para que surja no momento certo podem ser infrutiferas. 
+
+Pode-se tentar força-lá a funcionar em uma prova ou em uma situação de vida, mas isso só tem sucesso até certo ponto, e apenas com o uso do material convencional e emprestado. 
+
+----
+
+Não devemos apenas tomar um banho rápido e sair corrento, em relação a função inferior, devemos passar o maior tempo que conseguirmos, só assim conseguiremos uma mudança real em toda personalidade. 
+
+-----
+
+### Exemplo do uso adequequado da função inferior em um tipo intuitivo 
+
+Se um problema dificil lhe é apresentado ele pode refletir sobre ele, se é hora de comer - ele come, e se é hora de dormir ele dorme. 
+
+Assim ele utiliza sua função sensorial da maneira correta, e quando se trata de vislumbrar ou usar sua intuição ela a usa. 
+
+Contudo ele não se identifica com nenhuma dessas funções, ele apenas as utiliza como ferramentas, na hora que são demandadas. 
+
+Assim ele não está preso á elas. Ele perdeu aquele entusiamos infantil de enfrentar as coisas.
+
+---
+
+### A disciplina para desenvolver a função inferior é diferente para cada um 
+
+Um tipo introvertido por exemplo, é um terror pra ele sair para uma festa, e isso constantemente o cobra, para que ele vá até a festa, então para ele a disciplina é se forçar a ir a festa, mesmo com o desconforto. 
+
+Para o tipo extrovertido, ficar em casa é uma forma de disciplina, porque não consegue segurar o estimulo de ir á festa. 
+
+
+------
+## Como cada tipo de pessoa é manipulada no marketing (Insight Absurdo!)
+
+Alguem que trabalhe com marketing sabe que não é com discurso que se conquista as massas, mas sim despertando emoção. 
+
+E a emoção pode ser despertada em todos ao mesmo tempo se você ativar a função inferior, pois essa é a função emocional. 
+
+Como ao falar com intelectuais, você não deve usar linguagem cientifica, porque eles vão detectar as mentiras com facilidade, desperte emoções primitivas. 
+
+Se você encher o seu discurso com sentimento e emoção, já que os professores em média tem sentimentos primitivos, eles cairão nessa imediatamente. 
+
+Hitler fazia isso com exelencia, nos seus discursos ele falava de forma diferente para cada tipo de grupo.
+
+Um homem que presenciou vários de seus discursos dizia que ele fazia isso atraves da intuição, por meio da sua própria percepção da situação.
+
+Por vezes ele demonstrava muita insegurança, testava seus temas como pianistas, mencionando um pouco disso e um pouco daquilo, ficava palido e nervoso. 
+
+Ele estava apenas testando o terreno, então percebia que se mencionava um tema espesifico, isso despertaria emoção, e ai ele atacava com tudo!
+
+Deve-se argumentar de forma emocional primitiva, a forma como a função inferior argumentaria.
+
+Hitler não refletia sobre isso, era o fato da propria inferioridade que lhe dava esse talento.
+ 
+----
+
+### Pessoas que moram na cidade se tornam muito mais unilaterais do que moradores dos campos
+
+Pessoas que moram nos campos, ou na roça são pessoas muito mais integradas, pois lhe são demanda-das todas as funções. 
+
+Isso me deu um insight interresante, que basicamente devemos usar todas as funções, e não somente ficarmos unilaterais no que somos naturalmente bons. 
+
+E não pender para oque somos ruins, na tentativa de monopolizar nossa energia, fazendo com que o ego só use a função superior.
+
+----
+
+### Descrição Prática da Quarta Função 
+
+
+
 
 
 
