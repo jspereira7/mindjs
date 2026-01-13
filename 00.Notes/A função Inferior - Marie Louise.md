@@ -40,7 +40,79 @@ Ou seja, se você é do tipo pensamento, você não deve pular direto para ser m
 
 A questão é não se tornar unilateral. 
 
-Ou seja, o 
+Desenvolver sua função inferior tambem é de certa forma uma obrigação social, enquanto isso não for feito a pessoa tenderá a um comportamento unilateral e antissocial. 
+
+Ou seja, não é um bom conselho que o analista tente forçar a pessoa a usar sua função inferior, mas sim, o desenvolvimento saudável respeita o ritmo do inconsciente e a ordem das funções.
+
+*Uma função só se desenvolve de forma saudável quando deixa de ser um impulso inconsciente e passa a ser sustentada pelas outras funções da personalidade; sem isso, ela não amadurece — ela domina e desorganiza.*
+
+Temos que seguir o desenvolvimento serpentino, como na imagem abaixo: 
+
+![[Pasted image 20260113163643.png]]
+
+----
+
+## Insights importantes sobre as funções
+
+Tenha em mente que a teoria das funções não quer dizer nada em nivel **qualitativo**, ou seja,não quer dizer que x pessoa tenha a função dominante, não quer dizer que ela será um genio naquela area. 
+- Ou seja, não quer dizer que uma pessoa com o pensamento dominante se tornará o Eistein. 
+- Quando dizemos que x pessoa é de x tipo, estamos nos referindo mais ao funcionamento habitual. 
+- Mas sim, existe um certo nivel que a natureza permite essa pessoa chegar no dominio da sua função. 
+
+----
+
+## Caracteristicas gerais da função inferior. 
+
+A função inferior é lenta em contraste com a superior. 
+
+Assimilá-la, e até mesmo permitir que a função inferior se manifeste leva muito tempo. Se uma pessoa com prédominancia do tipo sentimento quer pensar, ela pode ficar oito horas sentada para escrever duas páginas. 
+
+Um tipo de intuição dominante, com sua sensação inferior, quando começam a trabalhar sua sensação inferior, ficam extremamente rigidos e excessivamente pedantes, e precisam ser extraordináriamente precisos de uma maneira terrivelmente lenta. 
+
+-----
+
+Não devemos tentar acelerar o processo de desenvolvimento da função inferior, ou desistirmos de desenvolve-la, devemos abraçar a lentidão da função. 
+
+Porque isso cria espaço para o inconsciente surgir, o que não é possivel quando estamos muito acelerados. 
+
+É necessário perder tempo na função inferior. 
+
+----
+
+Outro aspecto da função inferior é sua tirania e suscetibilidade (disposição para sentir influencias)
+
+A maioria das pesssoas quando sua função inferior é minimamente abordada, torná-se terrivelmente infantil e suscetivel. Não suportam a menor critica, sentindo-se sempre atacadas, pois são inseguras.
+
+Pessoas sensiveis são pessoas tiranicas - todas as pessoas tem de se adaptar á elas, e não ela se adaptar aos outros. 
+
+Ao entrar nesse assunto da função inferior da pessoa, elas se emocionam com facilidade. 
+
+----
+
+Mas existe um ponto positivo, a função inferior possui muito potencial, então se uma pessoa se desgastar da sua função dominante, como um carro velho. 
+
+Ela pode redescobrir o mundo atraves da função inferior, tendo uma energia vital. 
+
+Tudo na função inferior se torna emocionante, dramático.
+
+----
+
+Outra caracteristica da função inferior é que ela se manisfesta quando bem entende. 
+
+Tipos emotivos conseguem pensar, mas não quando querem...
+
+E a vida não tem piedade da função inferior, é por isso que as pessoas produzem uma reação de disfarçe. Como não é sua reação real, elas simplesmente tomam emprestada uma forma geral do coletivo.
+
+É por isso quando um tipo sentimental, é forçado a produzir pensamentos, irá soltar vários comentários banais
+
+------
+
+
+
+
+
+
+
 
 
 
