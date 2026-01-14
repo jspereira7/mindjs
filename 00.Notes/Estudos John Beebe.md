@@ -543,10 +543,5 @@ Um tipo Ti heroi considera os sentimentos dos outros um fardo interminavel, por 
 
 ---
 
-
-
-
-
-
-
 Parei no Cap11
+
