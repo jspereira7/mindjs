@@ -9,6 +9,10 @@
       "path": "00.Notes/A função Inferior - Marie Louise.md"
     },
     {
+      "basename": "Diferença entre homens x mulheres",
+      "path": "00.Notes/Diferença entre homens x mulheres.md"
+    },
+    {
       "basename": "Untitled 1",
       "path": "00.Notes/Untitled 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tipagem JS",
       "path": "00.Notes/Tipagem JS.md"
-    },
-    {
-      "basename": "Medos dos Tipos",
-      "path": "00.Notes/Medos dos Tipos.md"
     }
   ],
   "omittedPaths": [

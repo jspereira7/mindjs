@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Estudos John Beebe"
             }
-          },
-          {
-            "id": "74ad73662eea42b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/A função Inferior - Marie Louise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A função Inferior - Marie Louise"
-            }
           }
         ]
       }
@@ -319,6 +295,7 @@
   "active": "2824078356234e05",
   "lastOpenFiles": [
     "00.Notes/A função Inferior - Marie Louise.md",
+    "00.Notes/Diferença entre homens x mulheres.md",
     "00.Notes/Estudos John Beebe.md",
     "00.Notes/Untitled 1.md",
     "01.Assets/Anexos/Pasted image 20260113185244.png",
@@ -351,7 +328,6 @@
     "00.Notes/Binom Tracker Funcionamento.md",
     "01.Assets/Anexos/Pasted image 20260108194740.png",
     "00.Notes/Rei, Guerreiro, Mago, Amante - Resumo.md",
-    "00.Notes/Hospedagem Free - Beget.md",
     "01.Assets/Anexos/ftPerfilPatolino2.png",
     "01.Assets/Anexos/Roupas.png",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",

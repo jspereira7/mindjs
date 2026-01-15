@@ -338,9 +338,9 @@ Já a função critic (sombra do parent) é usada para fazer o oposto, desencora
 
 O que as vezes é necessário. 
 
-Por exemplo uma pessoa com a Se Parent pode por exemplo cozinhar para cuidar dos outros, a pessoa com a Se critic pode dar um soco na parede quando a festa do vizinho está muito alta... 
+Por exemplo uma pessoa com a Se Parent pode por exemplo cozinhar para cuidar dos outros, a pessoa com a Se critic pode dar um soco na parede quando a festa do vizinho está muito alta.
 
-Assumimos o papel Child, quando precisamos usar uma tarefa em que a função nesse slot é child. 
+Assumimos o comportamento de criança (Child), quando precisamos fazer uma tarefa em que a função nesse slot é child. 
 
 ----
 
@@ -348,7 +348,7 @@ Devemos usar todas as nossas funções e arquétipos, para que elas não se mani
 
 ## Historia do Tipo 
 
-Tenha em mente que não se trata de tipos de pessoas, mas sim tipos de conciencia... 
+Tenha em mente que não se trata de tipos de pessoas, mas sim tipos de **conciencia**... 
 
 Orientações caracteristicas assumidas pelo ego ao estabelecer e discriminar a realidade interna e externa de um individuo. 
 
@@ -381,6 +381,7 @@ Pense na diferença entre:
 - **Sentir** o frio entrando no corpo aos poucos
 
 O Fi não mede, não compara, não explica.  
+
 Ele **absorve o clima interno da experiência**.
 
 Por isso, quando tenta explicar o que sente, só consegue dizer coisas como:
@@ -390,7 +391,7 @@ Por isso, quando tenta explicar o que sente, só consegue dizer coisas como:
 - “isso pesa”  
     Mas essas palavras são apenas **tentativas pobres** de descrever algo muito maior que está sendo sentido por dentro.
 
-O sentimento introvertido é como entender a vida tateando no escuro: lentamente, profundamente, sem conseguir explicar tudo, mas sentindo o essencial por dentro.
+O sentimento introvertido (Fi) é como entender a vida tateando no escuro: lentamente, profundamente, sem conseguir explicar tudo, mas sentindo o essencial por dentro.
 
 ---
 ### Fe Explicação 
@@ -430,7 +431,7 @@ O Fe pergunta:
 
 ----
 
-O Sentimento Extrovertido é a função que sente os valores do mundo externo e se alinha a eles para criar harmonia, pertencimento e adequação emocional.
+O Sentimento Extrovertido (Fe) é a função que sente os valores do mundo externo e se alinha a eles para criar harmonia, pertencimento e adequação emocional.
 
 ---
 
