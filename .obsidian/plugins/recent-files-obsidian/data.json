@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Socionics - Resumo",
+      "path": "00.Notes/Socionics - Resumo.md"
+    },
+    {
+      "basename": "Prompt Revisão de Traduções",
+      "path": "00.Notes/Prompt Revisão de Traduções.md"
+    },
+    {
       "basename": "Estudos John Beebe",
       "path": "00.Notes/Estudos John Beebe.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Processo logar contas no automatico",
       "path": "00.Notes/Processo logar contas no automatico.md"
-    },
-    {
-      "basename": "Insight foda do jordan peterson sobre bullying",
-      "path": "00.Notes/Insight foda do jordan peterson sobre bullying.md"
-    },
-    {
-      "basename": "Tipagem JS",
-      "path": "00.Notes/Tipagem JS.md"
     }
   ],
   "omittedPaths": [
