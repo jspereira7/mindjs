@@ -225,7 +225,6 @@ Aqui entra o **senex**:
 - adulto que impõe limites firmes
 
  Defesa por **poder, status e ordem**, não por engano.
-
 ### Demon
 
 > _“Ou podemos reagir ao perigo percebido de maneiras ainda mais inconscientes…”_
@@ -237,10 +236,9 @@ Aqui surge a **personalidade demoníaca**:
 - pouco conscientes
 
 Exemplos:
-
 - sabotagem
 - crueldade súbita
-- atitudes que nem a própria pessoa entende bem depois
+- atitudes que nem a própria pessoa entende bem depois.
 
 Defesa feita por **impulsos**, não por escolha consciente.
 
@@ -256,7 +254,6 @@ Esse é outro modo:
 - manipular indiretamente
 
 Exemplos:
-
 - agradar para controlar
 - fazer-se de fraco
 - ironia
@@ -265,13 +262,12 @@ Exemplos:
 Defesa por **desvio**, não por ataque direto.
 
 ----
-
 ### Os 4 arquetipos de defesa
 
-1. Trickster -> engano, jogo, inversão 
-2. Critic -> autoridade, critica, hieraquia
-3. Demon -> ataque impulsivo e destrutivo 
-4. Nemesis -> evasão, sedução, passivo-agressividade
+1. Trickster -> engano, jogo, inversão.
+2. Critic -> autoridade, critica, hieraquia.
+3. Demon -> ataque impulsivo e destrutivo.
+4. Nemesis -> evasão, sedução, passivo-agressividade.
 
 ----
 
@@ -281,10 +277,10 @@ Aqui está o ponto central:
 - ensinadas como “erradas”, “feias”, “imorais”
 - mas **continuam existindo dentro de nós**
 
- A **sombra** não é só maldade  
+A **sombra** não é só maldade  
 é tudo que foi **necessário para sobreviver**, mas não foi aceito socialmente.
 
-Quando nos sentimos ameaçados, recorremos a diferentes arquétipos de defesa.
+**Quando nos sentimos ameaçados, recorremos a diferentes arquétipos de defesa.**
 
 Todos vivem na sombra porque não combinam com a imagem “ideal” que queremos ter de nós mesmos.
 
@@ -298,7 +294,7 @@ Pessoas com Si dominante são muito boas em saber os processos que devem ser fei
 
 Observei que existe um papel espesifico que a pessoa assume ao usar sua função auxiliar e terceária. 
 
-Note que uma função é completamente diferente dependendo do slot que está, um Fi Heroi é totalmente diferente de um Fi Parent, Child. 
+Note que uma função é completamente diferente dependendo do slot que está, um Fi Heroi é totalmente diferente de um Fi Parent, Child.
 
 O arquetipo associado a função transforma o lugar em que podemos assumir um papel na vida. 
 
@@ -314,7 +310,7 @@ A função parent não é boa em cuidar da child da propria psique, mas é boa e
 
 Que precisa de admiração, aprovação, força, e orientação de pelo menos uma pessoa, para que possa funcionar bem... 
 
-O eixo do parent/child é usado para educarmos os outros, e sermos educados, como tambem sermos aceitos, e aceitar os outros.... 
+O eixo do **parent/child** é usado para educarmos os outros, e sermos educados, como tambem sermos aceitos, e aceitar os outros..
 
 Definindo assim a maneira como usamos para nos conectar com os outros... 
 
