@@ -290,9 +290,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "6b18ef5a0705a46c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -319,6 +329,7 @@
   },
   "active": "860c0dcf4ce495e8",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20260117134714.png",
     "00.Notes/Prompt Revisão de Traduções.md",
     "00.Notes/Socionics - Resumo.md",
     "00.Notes/Estudos John Beebe.md",
@@ -351,7 +362,6 @@
     "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Cursos Ouro Premium v2.md",
     "00.Notes/Site com cursos ouros gringos.md",
-    "00.Notes/Credenciais Binom Tracker.md",
     "01.Assets/Anexos/Pasted image 20260108194740.png",
     "01.Assets/Anexos/ftPerfilPatolino2.png",
     "01.Assets/Anexos/Roupas.png",
