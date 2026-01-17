@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "Socionics - Resumo"
             }
+          },
+          {
+            "id": "8711076a0ceb3156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/ENTP SEM ESTERIOTIPO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ENTP SEM ESTERIOTIPO"
+            }
           }
         ],
         "currentTab": 1
@@ -329,9 +353,10 @@
   },
   "active": "860c0dcf4ce495e8",
   "lastOpenFiles": [
+    "00.Notes/ENTP SEM ESTERIOTIPO.md",
+    "00.Notes/Socionics - Resumo.md",
     "01.Assets/Anexos/Pasted image 20260117134714.png",
     "00.Notes/Prompt Revisão de Traduções.md",
-    "00.Notes/Socionics - Resumo.md",
     "00.Notes/Estudos John Beebe.md",
     "00.Notes/A função Inferior - Marie Louise.md",
     "00.Notes/Diferença entre homens x mulheres.md",
@@ -371,7 +396,6 @@
     "01.Assets/Anexos/2_A002_AD1.mp4",
     "01.Assets/Anexos/1_A002_AD1.mp4",
     "01.Assets/Anexos/0_A002_AD1.mp4",
-    "01.Assets/Anexos/SHAPE.png",
     "01.Assets/Anexos/A Escola dos Deuses - Elio DAnna (Livro Completo).pdf",
     "01.Assets/Untitled 2.canvas",
     "00.Notes/DeppoCloakingGuide2.pdf",

@@ -375,21 +375,36 @@ O problema reside no fato de que a forma específica desse programa será difere
 
 Portanto, cada um dos programas de personalidade descritos a seguir apresenta uma ampla gama de características. 
 
-Não obstante, esse programa delineia os princípios gerais que orientam a consciência do indivíduo pertencente a um determinado tipo psicológico.
+Não obstante, esse programa delineia os princípios gerais que orientam a consciência do indivíduo pertencente a um determinado tipo psicológico: 
 
-**P** — A realidade vem em primeiro lugar. Para sobreviver, os seres humanos precisam trabalhar de forma eficiente, produzindo lucro material. O único valor de uma ideia é a possibilidade de sua realização. Tudo no mundo deve obedecer a uma certa ordem e a um sistema. Este é o núcleo da vida, do qual todo o resto depende; se ele for retirado, tudo o mais entra em colapso. É fundamental compreender esse sistema, desenvolvê-lo e aprimorá-lo, e encontrar o lugar de cada pessoa dentro dele.
+Ou seja, caracteristicas do individuo cuja função é dominante: 
 
-**L** — Todas as ações são influenciadas por emoções como felicidade, raiva, tristeza, depressão etc. As emoções determinam tudo o que uma pessoa faz. Por isso, controlar as próprias emoções e as dos outros é muito importante.
+**P (Te Hero) —** A realidade vem em primeiro lugar. Para sobreviver, os seres humanos precisam trabalhar de forma eficiente, produzindo lucro material. O único valor de uma ideia é a possibilidade de sua realização.
 
-**E** — Uma vida normal exige harmonia nas relações humanas. O mais importante é determinar os ideais da vida humana e dos relacionamentos humanos. As normas de ética e moral são cruciais nesse processo. As relações reais entre as pessoas devem estar de acordo com esses ideais.
+**L (Ti Hero) —** Tudo no mundo deve obedecer a uma certa ordem e a um sistema. Este é o núcleo da vida, sobre o qual todo o resto se apoia; se ele for removido, tudo o mais entra em colapso. É fundamental compreender esse sistema, desenvolvê-lo e aprimorá-lo, e encontrar o lugar de cada pessoa dentro dele.
 
-**R** — A vida é uma batalha constante, cheia de ação vigorosa. É vital treinar a força de vontade e fortalecer o corpo para estar pronto para uma resposta imediata e prevalecer em uma situação crítica.
+**E (Fe Hero) —** Todas as ações são influenciadas por emoções como felicidade, raiva, tristeza, depressão etc. As emoções determinam tudo o que uma pessoa faz. Por isso, controlar as próprias emoções e as dos outros é muito importante.
 
-**F** — A principal condição para o equilíbrio psicológico é o equilíbrio, a satisfação e a harmonia em tudo o que compõe o ambiente de uma pessoa. Para uma vida normal, é extremamente importante ter tanto boa saúde física quanto uma percepção de beleza, conforto e conteúdo.
+**R (Fi Hero) —** Uma vida normal exige harmonia nas relações humanas. O mais importante é determinar os ideais da vida humana e dos relacionamentos humanos. As normas de ética e moral são cruciais nesse aspecto. As relações reais entre as pessoas devem concordar com esses ideais.
 
-**S** — A coisa mais interessante da vida é encontrar algo novo e empolgante, descobrir uma oportunidade nova e atraente, conhecer uma pessoa interessante ou conceber um projeto incomum. O mundo está cheio de mistérios e segredos que ainda precisam ser desvendados.
+**F (Se Hero) —** A vida é uma batalha constante, cheia de ação vigorosa. É vital treinar a força de vontade e fortalecer o corpo para estar pronto para uma resposta imediata e prevalecer em uma situação crítica.
 
-**I** — O principal valor do mundo é o reino infinito e abundante da imaginação pessoal. Essa imaginação nunca se torna entediante, pois com a sua ajuda novas ideias, sugestões e imagens surgem de forma mágica e fácil. A imaginação torna possível mergulhar na escuridão do passado e na névoa de um futuro distante, compreender o mundo em sua totalidade, captar a dinâmica e as tendências dos principais acontecimentos e prever o resultado final.
+**S (Si Hero) —** A principal condição para o equilíbrio psicológico é o equilíbrio, a satisfação e a harmonia em tudo o que constitui o ambiente de uma pessoa. Para uma vida normal, é extremamente importante ter igualmente boa saúde física e uma percepção de beleza, conforto e conteúdo.
+
+**I (Ne Hero) —** A coisa mais interessante da vida é encontrar algo novo e empolgante, descobrir uma oportunidade nova e atraente, conhecer uma pessoa nova e interessante ou conceber um projeto incomum. O mundo está cheio de mistérios e segredos que ainda não foram descobertos.
+
+**T(Ni Hero) —** O principal valor do mundo é o reino infinito e abundante da imaginação pessoal. Essa imaginação nunca se torna entediante, pois com sua ajuda novas ideias, sugestões e imagens surgem de forma tão mágica e fácil. A imaginação torna possível mergulhar na escuridão do passado e na névoa de um futuro distante, compreender o mundo em sua totalidade, captar a dinâmica e as tendências dos principais acontecimentos e prever o resultado final.
+
+---
+
+## Leading Block of a Psychological Type
+
+A sociónica utiliza dois modelos da psique: o **Modelo J**, que contém quatro funções junguianas fortes, e o **Modelo A completo**, no qual todas as oito funções estão incluídas. O Modelo J é suficiente para um primeiro contato com a sociónica. De acordo com o Modelo J, a psique humana é o resultado das ações combinadas de quatro “canais de comunicação”. Nós os numeraremos em ordem de força decrescente. Cada uma das funções ocupa o seu próprio canal, não se repetindo em nenhum outro.
+
+Primeiramente, estudaremos o funcionamento combinado das duas primeiras funções fortes, que chamaremos de **“Bloco Líder do Tipo Psicológico”**.
+
+**I. O primeiro canal.**  
+Este canal é o mais influente e é chamado de **Canal do Programa de Personalidade**, o qual, em grande medida, determina o tipo psicológico de uma pessoa. Se o tipo for extrovertido, o canal é ocupado por uma função extrovertida, “preta”. Se for introvertido, é ocupado por uma função introvertida, “branca”. As pessoas recebem informações completas e objetivas sobre o mundo por meio desse canal. Seus pensamentos, ações e, frequentemente, sua profissão dependem, de uma forma ou de outra, do tipo de função que atua no Canal do Programa de Personalidade. Esta é a mesma função que Jung descreveu em seu trabalho **Tipos Psicológicos** como a mais decisiva para cada pessoa. Se uma pessoa realiza uma ação que contradiz seu primeiro canal, ela se preocupa com essa ação por muito tempo, vendo-a como o erro menos aceitável que é possível cometer — porque o conteúdo desse primeiro canal representa valores indiscutíveis para o indivíduo.
 
 
 
