@@ -406,6 +406,5 @@ Primeiramente, estudaremos o funcionamento combinado das duas primeiras funçõe
 **I. O primeiro canal.**  
 Este canal é o mais influente e é chamado de **Canal do Programa de Personalidade**, o qual, em grande medida, determina o tipo psicológico de uma pessoa. Se o tipo for extrovertido, o canal é ocupado por uma função extrovertida, “preta”. Se for introvertido, é ocupado por uma função introvertida, “branca”. As pessoas recebem informações completas e objetivas sobre o mundo por meio desse canal. Seus pensamentos, ações e, frequentemente, sua profissão dependem, de uma forma ou de outra, do tipo de função que atua no Canal do Programa de Personalidade. Esta é a mesma função que Jung descreveu em seu trabalho **Tipos Psicológicos** como a mais decisiva para cada pessoa. Se uma pessoa realiza uma ação que contradiz seu primeiro canal, ela se preocupa com essa ação por muito tempo, vendo-a como o erro menos aceitável que é possível cometer — porque o conteúdo desse primeiro canal representa valores indiscutíveis para o indivíduo.
 
-
-
+----
 

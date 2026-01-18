@@ -103,3 +103,13 @@ Possuem um senso aguçado dos fatos.
 
 Acreditam que para o bem de todos devemos obedece a lei universal. 
 
+Esse tipo pode parecer bastante rigido no seu ambiente familiar, embora ele os ame com muita intensidade. 
+
+![[Pasted image 20260117184925.png]]
+
+" Os fins justificam os meios " 
+
+--------
+
+
+
