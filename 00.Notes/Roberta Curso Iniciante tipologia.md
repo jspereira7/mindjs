@@ -75,7 +75,11 @@ Sensação introvertida.
 
 São pessoas lentas, quietas, que reagem pouco, mas ela sente com muitos detalhes tudo ao seu redor. 
 
-É como uma impressora lenta, que percebe tudo, mas lentamente vai retornando as coisas, ou reagindo. 
+É como uma impressora que é impactada profundamente ,lenta, que percebe tudo, mas lentamente vai retornando as coisas, ou reagindo. 
+
+Por ela ser impactada por tudo, ela consegue perceber os minimos detalhes, e reproduzi-los com muita precisão. 
+
+Pessoas que possuem memoria MUITO boa. 
 
 A Ne infeior desse tipo, é a paranoia que sempre o pior virá, como os japoneses estão sempre acreditando que o pior está por vir. (Guerras, monstros do mar etc..)
 

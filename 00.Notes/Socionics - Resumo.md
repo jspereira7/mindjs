@@ -399,12 +399,124 @@ Ou seja, caracteristicas do individuo cuja função é dominante:
 
 ## Leading Block of a Psychological Type
 
-A sociónica utiliza dois modelos da psique: o **Modelo J**, que contém quatro funções junguianas fortes, e o **Modelo A completo**, no qual todas as oito funções estão incluídas. O Modelo J é suficiente para um primeiro contato com a sociónica. De acordo com o Modelo J, a psique humana é o resultado das ações combinadas de quatro “canais de comunicação”. Nós os numeraremos em ordem de força decrescente. Cada uma das funções ocupa o seu próprio canal, não se repetindo em nenhum outro.
+A sociónica utiliza dois modelos da psique: o **Modelo J**, que contém quatro funções junguianas fortes, e o **Modelo A completo**, no qual todas as oito funções estão incluídas. 
 
-Primeiramente, estudaremos o funcionamento combinado das duas primeiras funções fortes, que chamaremos de **“Bloco Líder do Tipo Psicológico”**.
+O Modelo J é suficiente para um primeiro contato com a sociónica. 
+
+De acordo com o Modelo J, a psique humana é o resultado das ações combinadas de quatro “canais de comunicação”. 
+
+Nós os numeraremos em ordem de força decrescente. 
+
+Cada uma das funções ocupa o seu próprio canal, não se repetindo em nenhum outro.
+
+Primeiramente, estudaremos o funcionamento combinado das duas primeiras funções fortes, que chamaremos de **“Bloco principal do Tipo Psicológico”**.
 
 **I. O primeiro canal.**  
-Este canal é o mais influente e é chamado de **Canal do Programa de Personalidade**, o qual, em grande medida, determina o tipo psicológico de uma pessoa. Se o tipo for extrovertido, o canal é ocupado por uma função extrovertida, “preta”. Se for introvertido, é ocupado por uma função introvertida, “branca”. As pessoas recebem informações completas e objetivas sobre o mundo por meio desse canal. Seus pensamentos, ações e, frequentemente, sua profissão dependem, de uma forma ou de outra, do tipo de função que atua no Canal do Programa de Personalidade. Esta é a mesma função que Jung descreveu em seu trabalho **Tipos Psicológicos** como a mais decisiva para cada pessoa. Se uma pessoa realiza uma ação que contradiz seu primeiro canal, ela se preocupa com essa ação por muito tempo, vendo-a como o erro menos aceitável que é possível cometer — porque o conteúdo desse primeiro canal representa valores indiscutíveis para o indivíduo.
+
+Este canal é o mais influente e é chamado de **Canal do Programa de Personalidade**, o qual, em grande medida, determina o tipo psicológico de uma pessoa. 
+
+Se o tipo for extrovertido, o canal é ocupado por uma função extrovertida, “black”. 
+
+Se for introvertido, é ocupado por uma função introvertida, “white”. 
+
+As pessoas recebem informações completas e objetivas sobre o mundo por meio desse canal. 
+
+Seus pensamentos, ações e, frequentemente, sua profissão dependem, de uma forma ou de outra, do tipo de função que atua no Canal do Programa de Personalidade. 
+
+Esta é a mesma função que Jung descreveu em seu trabalho **Tipos Psicológicos** como a mais decisiva para cada pessoa. 
+
+Se uma pessoa realiza uma ação que contradiz seu primeiro canal, ela se preocupa com essa ação por muito tempo, vendo-a como o erro menos aceitável que é possível cometer — porque o conteúdo desse primeiro canal representa valores indiscutíveis para o indivíduo.
 
 ----
+
+Exemplos: 
+
+**P (Te)** - Por que não percebi imediatamente que o motor estava fazendo barulho?
+
+**L (Ti)** - Estou envergonhado por não ter conseguido resolver um problema tão fácil!
+
+**E (Fe)** - Não consigo me perdoar por ter perdido o controle e gritado!
+
+**R (Fi)** — Como pude não perceber seu difícil estado emocional?
+
+**F (Se)** - Minha fraqueza nesse argumento é imperdoável!
+
+**S (Si)** - Como eu poderia deixar de cuidar da saúde do meu próprio filho?
+
+**I (Ne)** - Foi muita burrice minha perder uma oportunidade dessas!
+
+**T (Ni)** — Foi simplesmente criminoso não prever como isso ia terminar!
+
+---
+
+**II. O segundo canal.**
+
+Este canal é chamado de Canal Produtivo. Ele é um canal dominante voltado para ações dirigidas ao exterior. As habilidades criativas de uma pessoa correspondem à função presente neste canal; por isso, na Socionics, ele também é chamado de Criativo.
+
+Por exemplo, o Sentimento extrovertido «negro» expressa o desejo de compartilhar alegria e tristeza, de simpatizar e inspirar os outros; a Sensação introvertida «white» promove conforto e aconchego; o Pensamento «white» gera novas teorias.
+
+Enquanto a função do primeiro canal define o Programa de Personalidade do tipo psicológico, a do segundo canal define o método de execução desse programa.
+
+Assim, definimos os principais mecanismos de ação das funções presentes no primeiro e no segundo canais, as duas funções fortes do Modelo J.
+
+## Descrição dos 16 tipos psicológicos
+
+## PRAGMÁTICS (Sensing + Thinking):
+
+### P S — Pensador-Sensorial Extrovertido (TSE, _O Profissional_)
+
+A realidade factual é a coisa mais importante para os TSEs. Para eles, é absolutamente necessário compreender as propriedades dos objetos do mundo material (**P — programa da personalidade**).  
+
+O aspecto mais sensato para o Profissional é contribuir para essa realidade, agindo de forma completa e cuidadosa, mantendo alta qualidade e organizando um ambiente de trabalho confortável (**S — método de execução do programa**).
+
+No mbti esse tipo seria, Te Hero + Si Parent 
+
+### S P — Sensorial-Pensador Introvertido (STI, _O Artesão_)
+   
+Tudo ao redor dos Artesãos deve ser estético, confortável, harmonioso, proporcional e equilibrado (S — programa da personalidade).
+   
+O caminho mais seguro para alcançar esse objetivo é entregar produtos de alta qualidade e confiáveis (P — método de execução do programa).
+
+### F L, Extrovertido Sensação-Pensamento (STE, O Organizador)
+
+Os STEs gostam do fato de que o mundo é regido pela força, e estão prontos para testar sua força contra os outros em nome da vitória (F — programa de personalidade). Para os Organizadores, apenas cálculos lúcidos e lógicos levarão à vitória em qualquer situação (L — método de execução do programa).
+
+### L F, Introvertido Pensamento-Sensação (TSI, O Estruturista)
+
+A vida deve estar sujeita a um determinado sistema tanto no mundo material quanto no mundo das relações humanas (L — programa de personalidade). Se esse sistema for perturbado, a força de vontade deve ser usada para restaurar a ordem (F — método de execução do programa).
+
+## Researcherts (Intuition + Thinking)
+
+### P T, Extrovertido Pensamento-Intuição (TIE, O Empreendedor)
+
+As ações dos TIEs devem sempre se basear na realidade factual (P — programa de personalidade). Para esse fim, é importante aprender como gerenciar, manipular e melhorar a realidade, bem como como fazer o melhor uso do seu tempo (T — método de execução do programa).
+
+### T P, Introvertido Intuição-Pensamento (ITI, O Crítico)
+
+O mundo dos ITIs é infinito, fluido, multifacetado; seu estado está em constante mudança. O propósito dos indivíduos é encontrar seu lugar no fluxo incessante de eventos (T — programa de personalidade). Para os Críticos, agir só faz sentido quando o momento ideal para aplicar sua força foi determinado (P — método de execução do programa).
+
+Aqui seria um INTJ 
+
+### I L, Extrovertido Intuição-Pensamento (ITE, O Buscador)
+
+O mundo dos ITEs está cheio de enigmas que transmitem oportunidades únicas (I — programa de personalidade). Esses enigmas podem ser desvendados e as oportunidades plenamente utilizadas se forem encontradas as regularidades fundamentais subjacentes (L — método de execução do programa).
+
+Minha interpretação: 
+
+Aqui seria um ENTP. 
+
+Que basicamente percebe o mundo com muitas oportunidades para serem aproveitadas (Ne/I), e para serem aproveitadas, ele precisa entender/encontrar as regularidades fundamentais subjacentes. 
+
+Ou seja: 
+
+*" Se eu entender como isso funciona por dentro, posso usar essa oportunidade melhor do que os outros. "* 
+
+### L I, Introvertido Pensamento-Intuição (TII, O Analista)
+
+Um determinado conjunto de leis está subjacente a tudo o que acontece ao redor dos TIIs. Essas leis devem ser descobertas (L — programa de personalidade). Para isso, é necessário penetrar o mais profundamente possível no significado real das coisas, eventos e processos (I — método de execução do programa).
+
+
+
+
+
 
