@@ -93,7 +93,7 @@ Isso inclui:
 
 --------
 
-## Parte 1: A base da socionics
+# Parte 1: A base da socionics
 
 Logicamente, cada grupo social precisa incluir indivíduos especializados, biologicamente pré-programados para a especialização em certas funções necessárias à sobrevivência desse grupo. 
 
@@ -662,8 +662,86 @@ E os tipos com *F, S, I, T* dominantes de Irracionais.
 	- Nesse caso, a narradora certamente é racional, enquanto sua colega de quarto e sua amiga são irracionais.
 
 ---
+## Resumo
 
-## Resumo das 4 Dicotomias 
+**Extrovertidos —** focados em tudo o que acontece ao seu redor, conseguem mudar situações que não lhes agradam e iniciam facilmente novas amizades pessoais ou profissionais.
+
+**Os introvertidos** concentram-se nas suas atitudes internas em relação a determinados eventos, preferem adaptar-se à situação em vez de a mudar, e têm dificuldades em estabelecer amizade com pessoas desconhecidas.
+
+**Racionais** preferem planejar suas atividades com antecedência, raramente alternam entre atividades, geralmente evitam multitarefas e se esforçam para concluir e finalizar projetos em andamento.
+
+**Irracionais** guiados pelo poder da sua percepção, mudam facilmente de tarefa e conseguem realizar várias tarefas simultaneamente, podendo distrair-se dos projetos que iniciaram.
+
+**Pensadores** Focados na realidade objetiva, nas leis físicas do mundo, nos processos de produção; essas pessoas mantêm-se firmes em suas convicções e valorizam o profissionalismo.
+
+**Sentimentais** São personalidades emocionais, embora nem sempre manifestem suas emoções externamente. Dependem da opinião dos outros, envolvem-se facilmente em conflitos emocionais e sabem escolher a distância psicológica adequada ao se comunicarem com outras pessoas.
+
+**Sensoriais** Percebem o mundo em detalhes específicos, vivem o «aqui e agora», valorizam o conforto e sabem como proporcioná-lo, apreciam a atividade prática e preferem resultados materiais claros do seu trabalho.
+
+**Intuitivos** Percebem o mundo como um todo, tendem a sonhar acordados, experimentar e gerar muitas ideias que podem não ser fáceis de implementar. Podem ser distraídos e valorizam perspectivas em detrimento de ganhos materiais.
+
+----
+
+# Parte 2: PSYCHOLOGICAL TYPES
+
+
+![[Pasted image 20260119152633.png]]
+
+![[Pasted image 20260119152647.png]]
+
+
+A função do segundo canal deve, atender a dois requisitos: 
+
+1. A «vertência» deve ser o oposto da primeira função. Se a função (aquela que reside no primeiro canal) for introvertida, então a segunda deve ser extrovertida e vice-versa.
+2. A função que opera no segundo canal deve estar no polo oposto do eixo racionalidade-irracionalidade em relação ao primeiro. Ou seja, se o primeiro canal for ocupado por uma função racional, então a função no segundo canal deve ser irracional e vice-versa.
+
+Esses dois requisitos para o segundo canal podem ser comprovados com muita facilidade: a psique de qualquer pessoa normal deve estar em estado de equilíbrio. Devido a isso, as duas funções mais fortes devem se complementar e se compensar mutuamente.
+
+Isso significa que algeum isolado da sociedade não consegue perceber o mundo em sua totalidade. 
+
+Porque os 16 tipos, podem ser uteis uns aos outros, com suas vantagens psicológicas.
+
+Isso nos leva a reconhecer a necessidade de integração com pessoas de outros tipos psicológicos para compensar essa assimetria.
+
+O nível mínimo dessa compensação é alcançado reunindo um par de indivíduos cujas funções são invertidas.
+
+Teoricamente, a integração ideal inclui todos os 16 tipos psicológicos socionicos. 
+
+Tal grupo é capaz de perceber e refletir o mundo circundante em sua totalidade.
+
+Pressupõe-se que cada um dos tipos pertença à mesma origem cultural e que as funções «fortes» dos indivíduos sejam igualmente desenvolvidas.
+
+Duas pessoas com o mesmo tipo psicologico podem se comportar completamente diferente, dependendo e qual função cognitiva no seu bloco dominante está mais desenvolvida. 
+
+**Exemplo:** 
+
+Um tipo introvertido que possui uma função introvertida no primeiro canal e uma extrovertida no segundo canal. 
+
+Se esse introvertido estiver com a função introvertida muito desenvolvida, ele se parece-rá muito absorto em seus próprios pensamentos. 
+
+Agora se ele estiver desenvolvido em seu segundo canal extrovertido, ele irá aparentar uma pessoa completamente diferente, comunicativa extrovertida.
+
+Da mesma forma, os tipos racionais com função aprimorada no primeiro canal serão muito rígidos nas manifestações de sua racionalidade, enquanto aqueles com função aprimorada no segundo canal (que é irracional para os tipos racionais) serão mais flexíveis.
+
+Mas mesmo com a função oposta a sua natureza, que esteja desenvolvida, ele não se parecerá como um tipo extrovertido, porque o papel da segunda função é outro. 
+
+Por isso, cada um dos 16 tipos psicologicos podem ser divididos em dois sub-tipos.
+
+----
+
+### Temporal intuition (T/Ni Dom) Romantic & Critic 
+
+| Functions of the personality program. | Definitions                                                                                                                                                   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| T (Ni)                                | Temporal Intuition. Presentiment, prediction, perception of dynamics in development, poetical spirit, mysticism (I, Personality Program, for the both types). |
+| E (Fe)                                | Susceptibility to emotions, direct emotional influence, exposed feelings **(II, Productive, for the Romantic and III, Vulnerable, for the Critic).**          |
+| P (Te)                                | Pragmatism, efficiency, rationality, affection to technology (II, Productive, for the Critic and III, Vulnerable, for the Romantic).                          |
+| F (Se)                                | Volitional Sensing. Persuasive pressure, determination, persistence, spatial control (IV, Suggestible, for the both types).                                   |
+
+[[The Romantic (I F I)]]
+
+
+
 
 
 

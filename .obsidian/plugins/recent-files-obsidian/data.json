@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "The Romantic (I F I)",
+      "path": "00.Notes/The Romantic (I F I).md"
+    },
+    {
       "basename": "Socionics - Resumo",
       "path": "00.Notes/Socionics - Resumo.md"
     },
     {
-      "basename": "Os 4 Canais Socionics",
-      "path": "00.Notes/Os 4 Canais Socionics.md"
-    },
-    {
       "basename": "Tabela das funções MBTI & Socionics",
       "path": "00.Notes/Tabela das funções MBTI & Socionics.md"
+    },
+    {
+      "basename": "Os 4 Canais Socionics",
+      "path": "00.Notes/Os 4 Canais Socionics.md"
     },
     {
       "basename": "Estudos John Beebe",
@@ -195,10 +199,6 @@
     {
       "basename": "Proxy Free",
       "path": "00.Notes/Proxy Free.md"
-    },
-    {
-      "basename": "How to type yourself 3.0 - Cs Joseph",
-      "path": "00.Notes/How to type yourself 3.0 - Cs Joseph.md"
     }
   ],
   "omittedPaths": [
