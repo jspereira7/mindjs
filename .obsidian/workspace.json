@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2824078356234e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Estudos John Beebe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Estudos John Beebe"
-            }
-          },
-          {
             "id": "860c0dcf4ce495e8",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Socionics - Resumo"
+            }
+          },
+          {
+            "id": "817ab53a56fa6066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Os 4 Canais Socionics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Os 4 Canais Socionics"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "Tabela das funções MBTI & Socionics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,21 +148,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Avaliação de Habitos Diarios.md",
+                "file": "00.Notes/Socionics - Resumo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avaliação de Habitos Diarios"
+              "title": "Outline of Socionics - Resumo"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -353,9 +352,12 @@
   },
   "active": "860c0dcf4ce495e8",
   "lastOpenFiles": [
+    "00.Notes/Os 4 Canais Socionics.md",
     "00.Notes/Tabela das funções MBTI & Socionics.md",
     "00.Notes/Socionics - Resumo.md",
     "00.Notes/Estudos John Beebe.md",
+    "01.Assets/Anexos/Pasted image 20260119141720.png",
+    "01.Assets/Anexos/Pasted image 20260119132646.png",
     "00.Notes/Roberta Curso Iniciante tipologia.md",
     "01.Assets/Anexos/Pasted image 20260117184925.png",
     "01.Assets/Anexos/Pasted image 20260117184215.png",
@@ -369,8 +371,6 @@
     "01.Assets/Anexos/Pasted image 20260113185244.png",
     "01.Assets/Anexos/Pasted image 20260113163643.png",
     "01.Assets/Anexos/Pasted image 20260112163615.png",
-    "01.Assets/Anexos/Pasted image 20260111234426.png",
-    "01.Assets/Anexos/Pasted image 20260111225822.png",
     "00.Notes/Entp Behind the mask.md",
     "00.Notes/Entp Resumo Desenvolvimento da Ti..md",
     "00.Notes/Entp.md",
@@ -389,7 +389,6 @@
     "00.Notes/Anotações ESTP.md",
     "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
     "01.Assets/HowToTypeYourSelf.canvas",
-    "00.Notes/Cursos Ouro Premium v2.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",

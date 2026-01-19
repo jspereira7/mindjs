@@ -497,7 +497,7 @@ O mundo dos ITIs é infinito, fluido, multifacetado; seu estado está em constan
 
 Aqui seria um INTJ 
 
-### I L, Extrovertido Intuição-Pensamento (ITE, O Buscador)
+### I L, Extrovertido Intuição-Pensamento (ITE, O Explorador)
 
 O mundo dos ITEs está cheio de enigmas que transmitem oportunidades únicas (I — programa de personalidade). Esses enigmas podem ser desvendados e as oportunidades plenamente utilizadas se forem encontradas as regularidades fundamentais subjacentes (L — método de execução do programa).
 
@@ -514,6 +514,162 @@ Ou seja:
 ### L I, Introvertido Pensamento-Intuição (TII, O Analista)
 
 Um determinado conjunto de leis está subjacente a tudo o que acontece ao redor dos TIIs. Essas leis devem ser descobertas (L — programa de personalidade). Para isso, é necessário penetrar o mais profundamente possível no significado real das coisas, eventos e processos (I — método de execução do programa).
+
+## SOCIALISTS (Sensing + Feeling)
+
+### E S, Extrovertido Sentimento-Sensação (FSE, O Entusiasta)
+
+As emoções motivam os FSEs em todas as suas ações. O maior valor está nas emoções positivas (E — programa de personalidade), que podem ser multiplicadas se os Entusiastas divertirem as pessoas ao seu redor organizando coisas, criando conforto e agradando-as com presentes (S — método de execução do programa). 
+
+Aqui seria um Fe Hero + Si Parent 
+
+### S E, Introvertido Sensação-Sentimento (SFI, O Epicurista)
+
+O aspecto central da vida dos SFIs é a harmonia, o conforto e a oportunidade de experimentar prazer (S — programa de personalidade). As coisas mais prazerosas da vida são convidar amigos, desfrutar de si mesmo e compartilhar com os outros os momentos de felicidade (E — método de execução do programa).
+
+### F R, Extrovertido Sensação-Sentimento (SFE, O Líder)
+
+Todos os SFEs aspiram à expansão de sua influência, estão cheios de desejo por poder e fama (F — programa de personalidade). Para alcançar esses objetivos, eles devem aprender como controlar as pessoas manipulando suas fraquezas (R — método de execução do programa).
+
+### R F, Introvertido Sentimento-Sensação (FSI, O Guardião)
+
+Para os FSIs, os requisitos de uma vida normal são a harmonia das relações humanas, a observância das normas morais e éticas e o respeito às tradições (R — programa de personalidade). É necessário empregar esforços significativos para manter esse sistema de valores (F — método de execução do programa).
+
+## HUMANISTAS (Intuição + Sentimento)
+
+### E T, Extrovertido Sentimento-Intuição (FIE, O Performer)
+
+A vida para os FIEs não é completa sem tensão emocional e experiências dramáticas (E — programa de personalidade). Os Performers apenas precisam encontrar a ideia que capture a imaginação das pessoas e afete suas emoções (T — método de execução do programa).
+
+### T E, Introvertido Intuição-Sentimento (IFI, O Romântico)
+
+Para os IFIs, a coisa mais importante no mundo é o jardim florescente de sua própria imaginação. Com a ajuda dela, é possível ver o passado e o futuro, reconhecer o mundo em sua totalidade, captar a dinâmica dos eventos ao seu redor (T — programa de personalidade) e, então, inspirar emocionalmente as pessoas às atividades desejadas (E — método de execução do programa).
+
+### I R, Extrovertido Intuição-Sentimento (IFE, O Iniciador)
+
+A coisa mais interessante e cativante no mundo dos IFEs é prever as possibilidades potenciais e as direções de desenvolvimento na sociedade humana, bem como no campo da tecnologia e da produção (I — programa de personalidade), e organizar as pessoas em direção à execução das possibilidades reconhecidas (R — método de execução do programa).
+
+### R I, Introvertido Sentimento-Intuição (EII, O Psicólogo)
+
+As diretrizes da vida normal dos EIIs são a harmonia das relações humanas, o cumprimento das normas de ética e moral e a preservação das tradições (R — programa de personalidade). Por isso, é absolutamente necessário que os Psicólogos pratiquem o autoaperfeiçoamento, treinem e exercitem sua vida espiritual interior e busquem valores reais nas pessoas (I — método de execução do programa).
+
+![[Pasted image 20260119132646.png]]
+
+-----
+
+Preto = Extroversão 
+
+Branco = Introversão 
+
+⬛️ = Te 
+
+⬜️ = Ti 
+
+
+Triangulo Branco = Intuição introvertida
+
+Triangulo Preto = Intuição Extrovertida
+
+L Preto = Sentimento Extrovertido 
+
+L Branco = Sentimento Introvertido
+
+---
+
+## Segundo Bloco do programa de personalidade 
+
+No primeiro bloco, é o que corresponde aos pontos fortes dessa personalidade, já no segundo bloco corresponde as fraquezas desse tipo psicológico. 
+
+Como por exemplo, se a pessoa possui o pensamento como função forte, naturalmente o sentimento será sua função pior, e se a sensação for sua segunda função mais forte, a intuição será sua segunda função mais fraca. 
+
+---
+
+**III. Terceiro Canal.** Aqui, há um esforço (frequentemente impossível de ser satisfeito) para estar em harmonia com o mundo e consigo mesmo. 
+
+Uma pessoa reage dolorosamente a qualquer tipo de pressão aplicada por meio desse canal. 
+
+A função psicológica residente nesse canal torna-se, como resultado, vulnerável à intrusão externa. Por causa disso, o terceiro canal é chamado de Canal da Menor Resistência, ou Canal Vulnerável.
+
+**IV. Quarto Canal:** Este canal é geralmente chamado de Canal Sugestivo. Uma pessoa é mais suscetível à influência externa por meio desse canal. 
+
+A função psicológica residente nesse canal é a mais fraca das quatro. A pessoa não é nada confiante em questões que lidam com essa função e, obviamente, requer correção externa. 
+
+No entanto, no nível consciente, a pessoa é quase *alheia* às informações nesse campo e mal as percebe.
+
+Por exemplo, consideremos o Modelo J de dois tipos psicológicos: um extrovertido intuitivo–sentimental (o Iniciador) e outro introvertido pensador–sensorial (o Estruturista).
+
+Dois exemplos do modelo J de Jung: 
+
+| Channell Number | Intuitive feeling extraverted | Thinking-sensing introvert, the Structurist |
+| --------------- | ----------------------------- | ------------------------------------------- |
+| 1               | I (Ne)                        | L                                           |
+| 2               | R (Fi)                        | F                                           |
+| 3               | L (Ti)                        | I                                           |
+| 4               | S (Si)                        | E                                           |
+
+Apartir de onde o canal está posicionado nessas duas personalidades, podemos concluir que: 
+
+1. **Os extrovertidos intuitivos-sentimentais** são pessoas espontâneas que chegam à essência das coisas por meio de sua «visão», e que envolvem emocionalmente outras pessoas devido à função Sentimento em seu Segundo Canal.
+2. **Os introvertidos pensador–sensoriais** são pessoas da estrutura: eles a buscam, a seguem e a aprimoram. Se alguém reluta em seguir esse sistema, os TSIs agem por meio de pressão volitiva devido à Sensação Volitiva em seu Segundo Canal. É óbvio que as ações engenhosas dos IFEs e sua incapacidade de trabalhar sistematicamente (Pensamento Estrutural no Terceiro Canal) irão irritar extremamente os TSIs. Agora, vamos contar ao leitor um pequeno segredo: o famoso compositor Mozart era um IFE e seu antagonista, Salieri, era um TSI, o que explica alguns dos problemas em seu relacionamento. Eis o que Salieri, o herói do filme de M. Forman «Amadeus», diz sobre a música de Mozart ao ler suas partituras:
+
+*Era inacreditável, impossível de acreditar! Sem rascunhos, sem uma única correção! Ele cobriu o papel com notas como se as ouvisse em sua cabeça! E a música — a música era perfeita. Tire uma única nota, e isso será uma grande perda. Era a própria voz do Senhor!*
+
+----
+
+## Racionalidade x Irracionalidade
+
+Agora é hora de atribuir mais uma característica importante a cada uma das quatro funções psicológicas. 
+
+Já notamos certa dependência entre os opostos de cada par de funções psicológicas: **um Pensamento forte implica um Sentimento fraco e vice-versa, e a mesma regra se aplica à Sensação e à Intuição.** 
+
+Em primeiro lugar, esse fato empírico é uma prova da relação profunda e orgânica entre os polos das dicotomias.
+
+Com base em tudo o que foi dito acima, podemos concluir que a consciência humana, que abrange todo o mundo físico, pode ser dividida em dois campos distintos de percepção: 
+
+O pensante-sentimento e o sensorial- intuitivo (que corresponde à percepção da matéria-energia e do espaço- tempo). 
+
+A psique humana pode estar predominantemente focada em apenas um desses dois campos, conforme estabelecido por Jung. 
+
+Jung chamou os tipos com *P, L, E, R* dominantes de Racionais 
+
+E os tipos com *F, S, I, T* dominantes de Irracionais.
+
+**Racionais:**
+-  os Racionais são aqueles com Pensamento ou Sentimento dominantes, os Irracionais são aqueles com Sensação ou Intuição dominantes.
+
+	Os Racionais percebem o mundo indiretamente, como se estivessem a partir de uma certa distância psicológica, o que lhes permite julgar, avaliar, tomar decisões antecipadamente, definir metas e planejar ações, controlando essas ações por critérios morais, éticos, de simpatia/antipatia etc.
+
+	Tendem a realizar todo o seu trabalho de forma consistente e a concluir tudo o que começam. Se alguma circunstância interferir na execução dos planos dos Racionais, eles se sentem frustrados e
+
+	desconfortáveis. Às vezes, pode acontecer de os Racionais não conseguirem mudar para uma tarefa diferente, mesmo que desejem muito, como se uma força misteriosa os impedisse de mudar; eles ficam "presos", girando em círculos.
+
+**Irracionais**
+- Os tipos irracionais estão diretamente envolvidos nos eventos, sempre "seguem o fluxo", suas ações dependem menos de suas intenções iniciais e mais das circunstâncias.
+- Em seu comportamento, como visto por outras pessoas, podem ser imprevisíveis e instáveis, e essa instabilidade depende diretamente do mundo em constante mudança ao seu redor. Os tipos irracionais podem, às vezes, abandonar projetos já iniciados em busca de novos e interessantes.
+
+— Os racionais trabalham de acordo com um cronograma e tentam evitar riscos, enquanto os irracionais tendem a tomar decisões espontâneas. Sob a influência de um impulso momentâneo, os irracionais podem correr riscos sem pensar nas consequências;
+
+— A incerteza e a ambiguidade tornam a vida difícil para os Racionais, pois eles não conseguem prever e planejar nessas circunstâncias, enquanto para os Irracionais o estado de ambiguidade é seu domínio natural, e uma vida «excessivamente organizada» é entediante e deprimente;
+
+— Esses dois tipos reagem de forma diferente ao jet lag após voos longos: os irracionais se adaptam com muito mais facilidade, enquanto os racionais têm mais dificuldade.
+
+**Exemplo de alguem irracional x racional:** 
+- Eis como começa o nosso dia: acordo sempre à mesma hora, faço os meus exercícios matinais e depois passo algum tempo a ler, tricotar ou estudar. Depois, fico cansada e com fome e começo a preparar o pequeno-almoço. Nesse momento, a minha colega de quarto acorda,
+
+	mas demora algum tempo a levantar-se da cama. Quando o pequeno- almoço está pronto, tenho de a apressar.
+
+	Por isso, sento-me sozinha à mesa e espero por ela para que possamos tomar o café da manhã juntas. Às vezes, uma amiga dela vem passar uns dias conosco. As duas podem roncar metade do dia, sentir fome à meia-noite e começar a fritar batatas.
+	- Nesse caso, a narradora certamente é racional, enquanto sua colega de quarto e sua amiga são irracionais.
+
+---
+
+## Resumo das 4 Dicotomias 
+
+
+
+
+
+
 
 
 
