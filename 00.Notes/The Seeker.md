@@ -89,3 +89,4 @@ No entanto, eles sempre usam a criatividade (I) para encontrar uma nova oportuni
 A melhor aplicação das habilidades dos ITEs está nos campos da ciência fundamental. **Membros desse tipo psicológico são melhores do que qualquer outro em iniciar novas direções de pesquisa científica por meio da combinação Produtiva de esferas do conhecimento às vezes muito distantes.** Alguns ITEs também podem ter sucesso nos negócios ou no comércio, mais frequentemente na produção de produtos intelectuais, por exemplo, uma editora.
 
 ITEs famosos: atores — Dustin Hoffman, Edith Piaf; cientistas — Aushra Augustinavichiute, Niels Bohr, Albert Einstein, Dmitri Mendeleev, Andrei Sakharov, Sêneca; músicos — Sergey Prokofiev, Mstislav Rostropovich; escritor — Miguel Cervantes.
+
