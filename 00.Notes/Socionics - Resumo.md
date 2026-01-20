@@ -740,9 +740,20 @@ Por isso, cada um dos 16 tipos psicologicos podem ser divididos em dois sub-tipo
 
 [[The Romantic (I F I)]]
 
+[[The Critic]]
 
+-----
 
+POTENTIALITY INTUITION: INITIATOR AND SEEKER
 
+| Functions of the personality program. | Definitions                                                                                                                                                                             |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| I                                     | Potentiality Intuition. Ability to assess hidden capacity, potentials, create conceptual models, alternatives (I, Personality Program, for the both types).                             |
+| R                                     | Relational Feeling. Psychological environment, relations between people, morale issues, guarding of principles (II, Productive, for the Initiator and III, Vulnerable, for the Seeker). |
+| L                                     | Structural Thinking. Imaginative structure, system, scientific theories (II, Productive, for the Seeker and III, Vulnerable, for the Initiator).                                        |
+| S                                     | Self-perceptive Sensing. Spatial harmony, contentedness, well-being (IV, Suggestible, for the both types).                                                                              |
+
+[[The Seeker]]
 
 
 
