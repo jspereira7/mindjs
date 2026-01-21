@@ -8,79 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35feaf97d257ca31",
+            "id": "849fe04a7e4a949a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Tabela das funções MBTI & Socionics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tabela das funções MBTI & Socionics"
-            }
-          },
-          {
-            "id": "860c0dcf4ce495e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/The Seeker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Seeker"
-            }
-          },
-          {
-            "id": "ed9084a55de1caec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Resumo Funções Cognitivas + John Beebe"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +86,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resumo Funções Cognitivas + John Beebe"
+              "title": "Outline"
             }
           }
         ],
@@ -351,11 +287,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "ed9084a55de1caec",
+  "active": "849fe04a7e4a949a",
   "lastOpenFiles": [
-    "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "00.Notes/Tabela das funções MBTI & Socionics.md",
+    "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/The Seeker.md",
+    "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "01.Assets/Anexos/Pasted image 20260119223733.png",
     "00.Notes/Socionics - Resumo.md",
     "00.Notes/The Critic.md",
@@ -388,9 +325,7 @@
     "00.Notes/Como ficar mais Alto.md",
     "00.Notes/Como lidar com as mulheres - Nessaham alita..md",
     "00.Notes/How to type your self - Cs Joseph Course.md",
-    "00.Notes/Automação usando API não oficial.md",
     "01.Assets/HowToTypeYourSelf.canvas",
-    "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
