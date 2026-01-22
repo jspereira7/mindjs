@@ -11,10 +11,12 @@
             "id": "849fe04a7e4a949a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Companion Guide - Cs Joseph"
             }
           }
         ]
@@ -86,12 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Companion Guide - Cs Joseph"
             }
           }
         ],
