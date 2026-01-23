@@ -18,8 +18,50 @@
               "icon": "lucide-file-text",
               "title": "Companion Guide - Cs Joseph"
             }
+          },
+          {
+            "id": "b35f727f64abdd51",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01.Assets/HowToTypeYourSelf.canvas",
+                "viewState": {
+                  "x": -3184.189271310609,
+                  "y": -311.8873810466565,
+                  "zoom": -1.1885022415321356
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HowToTypeYourSelf"
+            }
+          },
+          {
+            "id": "db0e00c651b8d622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/How to type yourself 2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to type yourself 2.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,21 +130,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
+                "file": "00.Notes/How to type yourself 2.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Companion Guide - Cs Joseph"
+              "title": "Outline of How to type yourself 2.0"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -128,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00.Notes/How to type yourself 2.0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +182,7 @@
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
@@ -155,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of How to type yourself 2.0"
             }
           },
           {
@@ -265,11 +309,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 876.5,
+    "width": 468.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -290,10 +334,16 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "849fe04a7e4a949a",
+  "active": "db0e00c651b8d622",
   "lastOpenFiles": [
-    "00.Notes/Tabela das funções MBTI & Socionics.md",
+    "01.Assets/HowToTypeYourSelf.canvas",
+    "00.Notes/How to type yourself 2.0.md",
+    "00.Notes/Cursos Ouro Premium v2.md",
+    "00.Notes/Cognitive emulation.md",
+    "00.Notes/SD-UD (Open x Closed).md",
+    "00.Notes/ESTP - SDPM.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
+    "00.Notes/Tabela das funções MBTI & Socionics.md",
     "00.Notes/The Seeker.md",
     "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "01.Assets/Anexos/Pasted image 20260119223733.png",
@@ -323,12 +373,6 @@
     "00.Notes/DropShipping Ouro Twitter..md",
     "00.Notes/Eixo entre Ti - Fe.md",
     "00.Notes/Companion Guide - Grade dos tipos.md",
-    "00.Notes/Controle o seu Lado Emocional -Racionalidade..md",
-    "00.Notes/Como ficar Rico.md",
-    "00.Notes/Como ficar mais Alto.md",
-    "00.Notes/Como lidar com as mulheres - Nessaham alita..md",
-    "00.Notes/How to type your self - Cs Joseph Course.md",
-    "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",

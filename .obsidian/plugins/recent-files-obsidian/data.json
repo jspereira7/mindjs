@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "How to type yourself 2.0",
+      "path": "00.Notes/How to type yourself 2.0.md"
+    },
+    {
+      "basename": "HowToTypeYourSelf",
+      "path": "01.Assets/HowToTypeYourSelf.canvas"
+    },
+    {
+      "basename": "Cursos Ouro Premium v2",
+      "path": "00.Notes/Cursos Ouro Premium v2.md"
+    },
+    {
+      "basename": "Cognitive emulation",
+      "path": "00.Notes/Cognitive emulation.md"
+    },
+    {
+      "basename": "ESTP - SDPM",
+      "path": "00.Notes/ESTP - SDPM.md"
+    },
+    {
       "basename": "Companion Guide - Cs Joseph",
       "path": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
     },
@@ -117,14 +137,6 @@
       "path": "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md"
     },
     {
-      "basename": "HowToTypeYourSelf",
-      "path": "01.Assets/HowToTypeYourSelf.canvas"
-    },
-    {
-      "basename": "Cursos Ouro Premium v2",
-      "path": "00.Notes/Cursos Ouro Premium v2.md"
-    },
-    {
       "basename": "Site com cursos ouros gringos",
       "path": "00.Notes/Site com cursos ouros gringos.md"
     },
@@ -151,10 +163,6 @@
     {
       "basename": "GPT Pago Free",
       "path": "00.Notes/GPT Pago Free.md"
-    },
-    {
-      "basename": "SD-UD (Open x Closed)",
-      "path": "00.Notes/SD-UD (Open x Closed).md"
     },
     {
       "basename": "ftPerfilPatolino2",
@@ -191,14 +199,6 @@
     {
       "basename": "Development of the introverted functions ENTP",
       "path": "00.Notes/Development of the introverted functions ENTP.md"
-    },
-    {
-      "basename": "Cognitive emulation",
-      "path": "00.Notes/Cognitive emulation.md"
-    },
-    {
-      "basename": "J x P Octagram 4.1",
-      "path": "00.Notes/J x P Octagram 4.1.md"
     }
   ],
   "omittedPaths": [

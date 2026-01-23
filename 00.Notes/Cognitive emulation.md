@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 Basicamente você precisa produzir as funções introvertidas que as pessoas estão procurando em você. 
 
 A tecnica é emular o comportamento de um golden par, para interagir com essa pessoa que você está mirando a manipulação. 
