@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "How to type yourself 2.0",
-      "path": "00.Notes/How to type yourself 2.0.md"
-    },
-    {
       "basename": "HowToTypeYourSelf",
       "path": "01.Assets/HowToTypeYourSelf.canvas"
+    },
+    {
+      "basename": "Companion Guide - Cs Joseph",
+      "path": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
+    },
+    {
+      "basename": "Witness",
+      "path": "00.Notes/Witness.md"
+    },
+    {
+      "basename": "How to type yourself 2.0",
+      "path": "00.Notes/How to type yourself 2.0.md"
     },
     {
       "basename": "Cursos Ouro Premium v2",
@@ -19,10 +27,6 @@
     {
       "basename": "ESTP - SDPM",
       "path": "00.Notes/ESTP - SDPM.md"
-    },
-    {
-      "basename": "Companion Guide - Cs Joseph",
-      "path": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf"
     },
     {
       "basename": "Tabela das funções MBTI & Socionics",
@@ -195,10 +199,6 @@
     {
       "basename": "Social Hacker Cs Joseph - Books what you need to read",
       "path": "00.Notes/Social Hacker Cs Joseph - Books what you need to read.md"
-    },
-    {
-      "basename": "Development of the introverted functions ENTP",
-      "path": "00.Notes/Development of the introverted functions ENTP.md"
     }
   ],
   "omittedPaths": [
