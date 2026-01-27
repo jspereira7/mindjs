@@ -28,10 +28,24 @@
             "id": "7d1f67de99a404d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Ego Hacking Love - ESTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ego Hacking Love - ESTP"
             }
           }
         ],
@@ -311,6 +325,7 @@
   "active": "7d1f67de99a404d1",
   "lastOpenFiles": [
     "01.Assets/HowToTypeYourSelf.canvas",
+    "00.Notes/Ego Hacking Love - ESTP.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/Witness.md",
     "00.Notes/How to type yourself 2.0.md",
@@ -346,7 +361,6 @@
     "00.Notes/Entp.md",
     "00.Notes/Cursos que talvez valham a pena comprar.md",
     "00.Notes/DropShipping Ouro Twitter..md",
-    "00.Notes/Eixo entre Ti - Fe.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
