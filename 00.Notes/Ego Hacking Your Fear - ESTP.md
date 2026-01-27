@@ -43,4 +43,9 @@ Ne = Portal para o Super-Ego
 
 ## Guidance Circuity 
 
-- 
+- Ti parent 
+	- Quando irresponsavel ele faz presunções. E fazemos assumptions. (Achamos que sabemos mais do que todo mundo.)
+	- Você é muito mais ignorante do que imagina ser... 
+	- Presumptions = Vem antes da ação 
+	- Assumptions = É relativo a ação de alguem. (resposta a algo que aconteceu)
+	- ESTP veem o ambiente e presumem que sabem os interreses das pessoas. 
