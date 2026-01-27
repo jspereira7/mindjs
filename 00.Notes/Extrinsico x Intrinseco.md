@@ -13,3 +13,5 @@ Se Extrinsic = Está dizendo o que as pessoas devem fazer
 
 Se intrinsic = Está recebendo o que as pessoas estão fazendo
 
+----
+
