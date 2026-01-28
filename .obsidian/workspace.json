@@ -8,71 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b35f727f64abdd51",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01.Assets/HowToTypeYourSelf.canvas",
-                "viewState": {
-                  "x": -3628.9487306261876,
-                  "y": -427.6982427844553,
-                  "zoom": -0.5032106125455386
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "HowToTypeYourSelf"
-            }
-          },
-          {
-            "id": "7d1f67de99a404d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Ego Hacking Love - ESTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ego Hacking Love - ESTP"
-            }
-          },
-          {
-            "id": "f97da611ba2d0eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Extrinsico x Intrinseco.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Extrinsico x Intrinseco"
-            }
-          },
-          {
             "id": "7a6ee767d42c1f3b",
             "type": "leaf",
             "state": {
@@ -95,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Ego Hacking Your Fear - ESTP"
             }
-          },
-          {
-            "id": "59511c1b58c23e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Ego Hacking Fear Masterclass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ego Hacking Fear Masterclass"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -394,13 +304,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "59511c1b58c23e4b",
+  "active": "7a6ee767d42c1f3b",
   "lastOpenFiles": [
-    "00.Notes/Ego Hacking Fear Masterclass.md",
+    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Ego Hacking Your Fear - ESTP.md",
     "00.Notes/Extrinsico x Intrinseco.md",
     "00.Notes/Ego Hacking Love - ESTP.md",
-    "01.Assets/HowToTypeYourSelf.canvas",
+    "00.Notes/Ego Hacking Fear Masterclass.md",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/Witness.md",
     "00.Notes/How to type yourself 2.0.md",
@@ -433,7 +343,6 @@
     "00.Notes/Untitled 1.md",
     "00.Notes/Entp Behind the mask.md",
     "00.Notes/Entp Resumo Desenvolvimento da Ti..md",
-    "00.Notes/Entp.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
