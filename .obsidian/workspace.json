@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a6ee767d42c1f3b",
+            "id": "4179d39eeda8e9af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Ego Hacking Your Fear - ESTP.md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Ego Hacking Your Fear - ESTP"
+              "title": "Building Blocks Of Personality - Functions"
             }
           }
         ]
@@ -304,10 +304,14 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7a6ee767d42c1f3b",
+  "active": "4179d39eeda8e9af",
   "lastOpenFiles": [
-    "01.Assets/HowToTypeYourSelf.canvas",
+    "00.Notes/Se - Extraverted Sensation.md",
+    "00.Notes/Building Blocks Of Personality - Functions.md",
+    "00.Notes/Estudos John Beebe.md",
+    "00.Notes/Os 4 Canais Socionics.md",
     "00.Notes/Ego Hacking Your Fear - ESTP.md",
+    "01.Assets/HowToTypeYourSelf.canvas",
     "00.Notes/Extrinsico x Intrinseco.md",
     "00.Notes/Ego Hacking Love - ESTP.md",
     "00.Notes/Ego Hacking Fear Masterclass.md",
@@ -326,11 +330,9 @@
     "00.Notes/The Critic.md",
     "00.Notes/The Romantic (I F I).md",
     "01.Assets/Anexos/Pasted image 20260119171644.png",
-    "00.Notes/Os 4 Canais Socionics.md",
     "01.Assets/Anexos/Pasted image 20260119160010.png",
     "01.Assets/Anexos/Pasted image 20260119152647.png",
     "01.Assets/Anexos/Pasted image 20260119152633.png",
-    "00.Notes/Estudos John Beebe.md",
     "01.Assets/Anexos/Pasted image 20260119141720.png",
     "01.Assets/Anexos/Pasted image 20260119132646.png",
     "00.Notes/Roberta Curso Iniciante tipologia.md",
@@ -342,7 +344,6 @@
     "00.Notes/Diferença entre homens x mulheres.md",
     "00.Notes/Untitled 1.md",
     "00.Notes/Entp Behind the mask.md",
-    "00.Notes/Entp Resumo Desenvolvimento da Ti..md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
