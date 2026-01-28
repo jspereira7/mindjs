@@ -95,9 +95,33 @@
               "icon": "lucide-file",
               "title": "Ego Hacking Your Fear - ESTP"
             }
+          },
+          {
+            "id": "59511c1b58c23e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Ego Hacking Fear Masterclass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ego Hacking Fear Masterclass"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -370,8 +394,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7a6ee767d42c1f3b",
+  "active": "59511c1b58c23e4b",
   "lastOpenFiles": [
+    "00.Notes/Ego Hacking Fear Masterclass.md",
     "00.Notes/Ego Hacking Your Fear - ESTP.md",
     "00.Notes/Extrinsico x Intrinseco.md",
     "00.Notes/Ego Hacking Love - ESTP.md",
@@ -409,7 +434,6 @@
     "00.Notes/Entp Behind the mask.md",
     "00.Notes/Entp Resumo Desenvolvimento da Ti..md",
     "00.Notes/Entp.md",
-    "00.Notes/Cursos que talvez valham a pena comprar.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",

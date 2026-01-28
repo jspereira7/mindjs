@@ -68,5 +68,7 @@ O segredo é literalmente esse! Exponha-se, porque assim você terá um futuro m
 
 ---
 
+Ou seja o que é realmente valioso pra mim é ter a disciplina pra ler, trabalhar, descansar, é isso. 
+
 
 
