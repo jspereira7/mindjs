@@ -1,3 +1,4 @@
+> Discipline = Freedom (This is the Hack of the life to ESTP)
 # Overview 
 
 - Gatway circuit = Circuito que te leva para x lado da sua mente
@@ -49,3 +50,23 @@ Ne = Portal para o Super-Ego
 	- Presumptions = Vem antes da ação 
 	- Assumptions = É relativo a ação de alguem. (resposta a algo que aconteceu)
 	- ESTP veem o ambiente e presumem que sabem os interreses das pessoas. 
+	- Ti Parent imaturo ignora a realidade para manter o seu senso de liberdade.
+	- Usar o Ti parent de forma responsavel é basicamente fazer perguntas em vez de afirmações.
+	- **Se você tiver a disciplina (Si), para nunca desistir (Ni Inferior), você sempre encontrará a verdade (Ti Parent).** 
+	- Ti parents são os melhores mentirosos de todos os tipos. 
+	- Você cresce o seu Ti Parent, ao ler conteudos de qualidade, absorver informações que desafiem o que você acha que sabe. 
+	- **A skill numero 1 que um Ti parent deve aprender é conversar com estranhos, porque você nunca sabe oque eles sabem, que pode ser valioso pra você.** 
+	- Basicamente você deve consumir conteudos de qualidade, assim você conseguirá evoluir sua função Ti Parent, o que irá guiar sua vida. 
+
+> A melhor forma de desenvolver o caracter de um ESTP é expondo-os a falta de principios deles para terceiros
+
+> Se você quer ter o maior SUCESSO na vida possivel, EXPONHA-SE voluntariamente a outras pessoas, seja verdadeiro sobre o que você fez e o que não fez! 
+
+---------
+
+O segredo é literalmente esse! Exponha-se, porque assim você terá um futuro melhor. 
+
+---
+
+
+
