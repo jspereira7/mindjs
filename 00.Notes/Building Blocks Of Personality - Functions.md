@@ -153,6 +153,7 @@ O Se obtém energia e prazer da interação direta com pessoas, objetos e aconte
 - Valoriza o objeto em si, e não a reação pessoal ou o relacionamento de alguém com ele.
 - Busca a experiência sensorial completa do ambiente no momento presente.
 
+---
 
 ***O QUE ESTÁ ACONTECENDO?***
 
@@ -186,6 +187,132 @@ O Se obtém energia e prazer da interação direta com pessoas, objetos e aconte
 - Estão aproveitando a vida ao máximo, vivendo para o hoje.
 - A própria experiência atual tem intensidade.
 
+---
+**VISTO DE FORA, OLHANDO PARA DENTRO**
+
+Quando vivenciamos pessoas que estão engajando sua Sensação Extrovertida preferida, elas:
+
+- Parecem precisar de estimulação externa quase constante ou rapidamente ficam entediadas.
+- Parecem não perder nada e não deixar passar nenhum detalhe do ambiente imediato.
+- Podem ser propensas a repetir erros por não antecipar o que vai acontecer no futuro como consequência do que está acontecendo agora.
+- Podem ser reflexivas, mas as reflexões estão ligadas ao mundo atual.
+- Frequentemente têm dificuldade em executar as etapas de uma operação em uma sequência ordenada. Preferem uma abordagem aleatória, de “ir levando conforme acontece”.
+- Possuem habilidades práticas e manuais.
+- São muito pé-no-chão, realistas e pragmáticas.
+- Falam sobre fatos objetivos: o que está ali, nem mais nem menos.
+- **Falam em termos muito literais, usando linguagem concreta, sensorial e descritiva no tempo presente: “Eu cheiro, eu ouço, eu vejo”.**
+- Frequentemente demonstram atenção focando os olhos ou inclinando as orelhas ou a cabeça em sua direção.
+- **Às vezes podem ser vistos movimentando rapidamente os olhos por todo o ambiente, observando tudo.**
+- **Ouvem inicialmente as pessoas contando suas próprias experiências, mas não têm necessidade, nem grande interesse, em ouvir as histórias dos outros.**
+- Querem informações dos outros, mas não em excesso de detalhes. Não conseguem vivenciar o mundo por meio das interpretações de outras pessoas.
+- Frequentemente ouvem com atenção intensa e focada. Os olhos se fixam em você, acompanhando cada gesto. Podem se aproximar ou inclinar-se para frente. Estão tão concentrados em absorver informações que podem não demonstrar nenhuma reação ao que você está dizendo.
+- Captam a linguagem corporal e outros sinais das pessoas e frequentemente os espelham automaticamente.
+- Tendem a usar e a precisar de comunicação não verbal, como um sorriso, uma piscadela ou um toque.
+- Parecem aceitar a vida como ela acontece.
+- Parecem se relacionar facilmente com as pessoas e gostar de estar com elas.
+- **Parecem aceitar as pessoas como elas são — têm poucas ilusões a respeito delas.**
+- Podem ser percebidos como superficiais devido à sua tendência externa de “seguir o fluxo”.
+- Estão sempre interagindo com o ambiente.
+- Tendem a avaliar dados rapidamente e a dimensionar uma situação com agilidade.
+- Não parecem sentir necessidade de se conformar ao que os outros acham aceitável, assumindo que as pessoas simplesmente têm seus próprios estilos únicos.
+- Geralmente são ativos, inquietos e aventureiros.
+- Às vezes parecem crianças hiperativas. O ambiente imediato os estimula e distrai constantemente.
+- São envolventes, gostam de diversão e são sociáveis.
+- São muito espontâneos e reagem rapidamente às mudanças em seu ambiente.
+- Conseguem se adaptar a quase qualquer cultura, ambiente ou situação.
+----
+
+**CONTRIBUIÇÕES**
+
+**Perspectivas e abordagens especiais da Sensação Extrovertida**
+
+- Uma atitude de “viver para hoje”.
+- Aprende rapidamente com a experiência.
+- Aptidão para aprender novos idiomas, incluindo os detalhes sutis de entonação e gestos.
+- Negocia chegando rapidamente ao cerne da questão.
+- Confiabilidade ao observar e relatar fatos objetivos.
+- Talento para ser um “realizador” quando se trata de tarefas concretas.
+- Consegue encontrar rapidamente soluções práticas, uma correção imediata para um problema.
+- Disposição para ajudar, para desempenhar o papel de um bom samaritano.
+    
+
+**DE DENTRO PARA FORA**
+
+**Descrições parafraseadas de como é reunir informações por meio da Sensação Extrovertida Dominante**
+
+- Eu preciso realmente vivenciar algo para entendê-lo. Preciso olhar para uma bicicleta ou para a foto de uma bicicleta para montar uma. Depois disso, posso duplicar o que vejo. Instruções escritas não são muito úteis.
+- Eu pessoalmente odeio história. Acho que, se já aconteceu, então quem se importa?
+- Preciso ver e vivenciar algo antes de acreditar. Sou o clássico “Tomé incrédulo”.
+- **Em um restaurante, posso estar completamente atento à conversa e à interação na nossa mesa e, ao mesmo tempo, saber tudo o que está acontecendo em outras partes do ambiente.**
+- Deixo a vida acontecer em vez de tentar controlá-la.
+- Quando criança, eu tinha que tocar em tudo. Ainda tenho. As texturas e as cores simplesmente me atraem.
+- Adoro estar ao ar livre, sentindo o sol e a brisa, ouvindo os insetos e os pássaros. Amo a sensação da terra nas mãos, plantando flores e arrancando ervas daninhas.
+- A primeira coisa que faço pela manhã é olhar para fora para checar o clima. Depois, ligo o noticiário para ver o que está acontecendo no resto do mundo.
+- Nunca assisto a um jogo ou evento gravado. Se já aconteceu, qual é o sentido de assistir?
+- Outros adultos parecem estar constantemente dizendo às crianças “Não toque!” “Não coloque isso na boca!”. Mas eu consigo me identificar com o fascínio da criança pequena em explorar e vivenciar o ambiente.
+- Não faço listas, nem mesmo listas de compras. O que compro é o que chama minha atenção. Ando para cima e para baixo pelos corredores procurando itens que parecem interessantes.
+- Posso ser observador à custa da imaginação.
+- Se você quer chamar minha atenção, conte-me uma história com imagens concretas.
+- Dê-me a informação de que preciso para fazer o trabalho e depois deixe-me fazê-lo.
+- Mostro às pessoas que me importo com elas pelo que faço. Ações falam mais alto do que palavras.
+- Aproveite, use ou aguente.
+- O que você precisa saber está bem na sua frente.
+- Digo as coisas como as vejo.
+- Valorizo minha autonomia e flexibilidade. Se alguma regra interferir nisso, normalmente eu simplesmente a ignoro.
+- Gosto da escola, mas gostaria mais se pudéssemos mudar a rotina diária. É entediante sempre saber o que vem a seguir.
+- Tive problemas na escola por falar e me movimentar muito. Até hoje, tenho dificuldade em ficar parado.
+- Meu estilo de organização é próprio. Por exemplo, é difícil para mim usar o sistema de arquivamento de outra pessoa.
+- Sou impulsivo e tenho dificuldade em ouvir conselhos dos outros.
+- Tudo o que faço é divertido. Se não for divertido, provavelmente não farei.
+- Não me preocupo com o futuro. Lido com as coisas quando elas acontecem.
+- Muitas vezes faço o que faço para provocar reações nos outros. Isso torna a vida mais interessante.
+- Tendo a pular na parte funda da piscina sem pensar.
+- Sou como o coelhinho da Energizer: continuo indo, indo e indo.
+- Ficar sentado me esgota. Se fico parado por dez minutos, adormeço. Quando deito na cama à noite, adormeço imediatamente.
+- Dou o meu melhor em crises. Às vezes, se não há uma crise, eu crio uma.
+- Tendo a deixar tudo para a última hora.
+- Estou em movimento constante. Preciso me mover.
+- Ao olhar para uma árvore, não é tanto ver a árvore como um todo, mas ver cada folha, todos os tons de verde, as formas das folhas, a textura e os detalhes da casca.
+- Normalmente sei a hora do dia, com poucos minutos de precisão, sem usar relógio. Acho que percebo pistas ambientais como sombras ou o ângulo do sol.
+- Ao escolher uma carreira, percebo que preciso realmente vivenciá-la assistindo a um vídeo, indo ao local de trabalho ou até experimentando. Uma descrição escrita do cargo não me interessa nem fornece a informação de que preciso. Não é tangível o suficiente.
+- Sinto muita alegria e energia nas pequenas coisas: flores, nuvens, cheiros. Nenhum detalhe é pequeno demais para ser uma fonte potencial de empolgação e prazer.
+- Consigo dar direções para todo tipo de lugar com bastante facilidade. Posso dizer quantas árvores você vai passar e a cor do telhado da casa na esquina.
+- Meu armário é organizado por cor. Se algo não está no lugar certo, em termos de cor, preciso movê-lo porque não é agradável aos meus olhos.
+- Simplesmente não consegui fazer o exercício do workshop. As cores dos objetos com os quais estávamos trabalhando não combinavam. Era muito distrativo.
+- Nunca gostei de tomates. No entanto, toda vez que provo um, é uma nova experiência; posso até gostar naquele dia.
+- Não consigo ficar parado se algo está acontecendo. A escola em espaço aberto foi muito difícil para mim. Eu não conseguia ignorar as atividades que estavam acontecendo ao redor. Eu ouvia tudo o que acontecia nas salas de aula ao lado da minha, e muitas vezes parecia que eles estavam fazendo algo mais empolgante do que nós.
+- Nunca precisei devolver uma peça de roupa por causa de um furo ou defeito. Percebo isso na loja antes de comprar.
+- Raramente preciso comprar uma bebida quando saio. Sempre conheço alguém ou logo conhecerei. Antes do fim da noite, conhecerei quase todo mundo.
+- Muitas vezes, se alguém está usando roupas que não combinam, acho isso muito distrativo e não consigo me concentrar no que a pessoa está dizendo.
+
+---
+
+**VINHETAS**
+
+**Cenas do mundo da Sensação Extrovertida**
+- Se estou em um barco com amigos, serei aquele que realmente está aproveitando o momento. Estarei conversando com todos, sentindo o vento, ouvindo as gaivotas e pulando na água para ver como é a sensação.
+- Em um exercício de grupo “de tipos semelhantes” que envolve descrever um objeto, nosso grupo geralmente é o primeiro a terminar ou acaba se desviando para outras atividades antes de qualquer outro grupo. Há apenas uma quantidade limitada de dados concretos em um objeto simples. Quando você termina de dizer como o objeto parece, cheira, soa e tem gosto, acabou. Não há mais nada a descrever.
+- Visitando uma galeria de arte com amigos, percebi que ninguém mais via os detalhes na obra que eu notei imediatamente. Em uma pintura de uma casa, por exemplo, vi a pequena chave na porta. Meus amigos não tinham percebido e ficaram impressionados. Por outro lado, não consigo me lembrar do que vesti ontem e tenho apenas uma vaga recordação do que fiz.
+- Gosto de cheirar, tocar, provar ou até ouvir os produtos antes de comprar. Para decidir se frutas e vegetais estão frescos e maduros, bato em melancias, cheiro melões e provo uvas. Normalmente prefiro determinar se o leite ou a comida na geladeira estão frescos pelo cheiro, em vez de ler a data de validade.
+- Consigo voltar a um lugar depois de ficar anos longe e me orientar pelas ruas sem esforço. No entanto, se algum ponto-chave tiver mudado, fico confuso e perdido. Eu me oriento por marcos ou objetos, nunca por nomes de ruas. Visito minha filha toda semana. Um dia, passei direto pela rua dela. Tive que dar a volta e voltar. Por dez anos, sem perceber, eu sabia onde virar por causa de uma caixa de correio na esquina que era feita de um fogão antigo. Quando ela foi removida, simplesmente passei direto pela rua dela sem perceber.
+- Em um restaurante, é difícil pedir apenas lendo o cardápio. Muitas vezes peço com base em ver ou cheirar a comida de outra mesa: “Vou querer o que aquele cara está comendo”.
+- Depois de um exercício envolvendo o uso de maçãs, as maçãs praticamente idênticas foram recolhidas e misturadas. Um homem com preferência por Sensação Extrovertida foi capaz de identificar instantaneamente não apenas a sua maçã, mas também as das pessoas sentadas ao seu lado.
+- Em um casamento, eu não conseguia comer com medo de perder alguma coisa. Eu precisava ficar andando e conversando com as pessoas. Eu só conhecia quatro pessoas quando cheguei. Ao final da recepção, eu conhecia quase todo mundo. Inclusive fui convidado a ir à casa com a família para a abertura dos presentes.
+    
+
+**GIFTS**
+
+**Forças únicas da Sensação Extrovertida**
+- Observação precisa, objetiva e detalhada de uma ampla gama de experiências no ambiente atual
+- Aproveitamento da vida
+- Capacidade de ver todos os lados de uma questão
+- Aptidão para trabalhos práticos
+- Percepção visual extremamente confiável
+- Talento para ensinar os outros, por exemplo, a “sentir o cheiro das rosas”
+- Talento para trazer entusiasmo e vida a qualquer grupo
+- Realismo e praticidade
+
+----
 
 
 
