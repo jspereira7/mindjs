@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/ESTP - SDPM.md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ESTP - SDPM"
+              "title": "Building Blocks Of Personality - Functions"
             }
           }
         ]
@@ -100,22 +100,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Companion Guide - Cs Joseph"
+              "title": "Outline of Building Blocks Of Personality - Functions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -141,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Companion Guide - Cs Joseph"
+              "title": "Graph of Building Blocks Of Personality - Functions"
             }
           },
           {
@@ -304,8 +303,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "4179d39eeda8e9af",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
+    "00.Notes/ESTP - SDPM.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Se - Extraverted Sensation.md",
     "00.Notes/Estudos John Beebe.md",
@@ -321,7 +321,6 @@
     "00.Notes/Cursos Ouro Premium v2.md",
     "00.Notes/Cognitive emulation.md",
     "00.Notes/SD-UD (Open x Closed).md",
-    "00.Notes/ESTP - SDPM.md",
     "00.Notes/Tabela das funções MBTI & Socionics.md",
     "00.Notes/The Seeker.md",
     "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
