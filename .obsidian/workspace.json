@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4179d39eeda8e9af",
+            "id": "9385341aa1be36ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Youtube Traffic Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Building Blocks Of Personality - Functions"
+              "title": "Youtube Traffic Method"
             }
           }
         ]
@@ -100,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Youtube Traffic Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building Blocks Of Personality - Functions"
+              "title": "Outline of Youtube Traffic Method"
             }
           }
         ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Youtube Traffic Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Building Blocks Of Personality - Functions"
+              "title": "Graph of Youtube Traffic Method"
             }
           },
           {
@@ -303,10 +303,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "746679b26d449cbc",
+  "active": "9385341aa1be36ef",
   "lastOpenFiles": [
-    "00.Notes/ESTP - SDPM.md",
+    "00.Notes/Youtube Traffic Method.md",
+    "00.Notes/Logins BuySellMethods.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
+    "00.Notes/ESTP - SDPM.md",
     "00.Notes/Se - Extraverted Sensation.md",
     "00.Notes/Estudos John Beebe.md",
     "00.Notes/Os 4 Canais Socionics.md",
@@ -341,8 +343,6 @@
     "00.Notes/Prompt Revisão de Traduções.md",
     "00.Notes/A função Inferior - Marie Louise.md",
     "00.Notes/Diferença entre homens x mulheres.md",
-    "00.Notes/Untitled 1.md",
-    "00.Notes/Entp Behind the mask.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
