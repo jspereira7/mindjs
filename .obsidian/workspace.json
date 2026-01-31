@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Youtube Traffic Method.md",
+                "file": "00.Notes/Ego Hacking by Cognitive Origins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Youtube Traffic Method"
+              "title": "Ego Hacking by Cognitive Origins"
+            }
+          },
+          {
+            "id": "96a2f1751c16871f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-30 16.00.47.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Youtube Traffic Method.md",
+                "file": "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Youtube Traffic Method"
+              "title": "Outline of Drawing 2026-01-30 16.00.47.excalidraw"
             }
           }
         ],
@@ -114,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -140,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Youtube Traffic Method.md",
+                "file": "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +182,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Youtube Traffic Method"
+              "title": "Graph of Drawing 2026-01-30 16.00.47.excalidraw"
             }
           },
           {
@@ -303,9 +317,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "9385341aa1be36ef",
+  "active": "96a2f1751c16871f",
   "lastOpenFiles": [
-    "00.Notes/Youtube Traffic Method.md",
+    "00.Notes/Ego Hacking by Cognitive Origins.md",
+    "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md",
     "00.Notes/Logins BuySellMethods.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/ESTP - SDPM.md",
@@ -342,7 +357,6 @@
     "01.Assets/Anexos/Pasted image 20260117184009.png",
     "00.Notes/Prompt Revisão de Traduções.md",
     "00.Notes/A função Inferior - Marie Louise.md",
-    "00.Notes/Diferença entre homens x mulheres.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",
