@@ -480,3 +480,196 @@ Forças únicas da Sensação Introvertida
 
 ---
 
+# PT 6 - Ne (Extraverted Intuition)
+
+Neste capítulo, buscamos apresentar um retrato da Intuição Extravertida “pura” que veríamos se pudéssemos cuidadosamente removê-la de seu estado natural, no qual ela é influenciada e colorida por todos os outros elementos da personalidade. 
+
+Embora nenhum processo exista de fato separado do restante da personalidade, o retrato que se segue reflete características centrais que entram em jogo sempre que a Intuição Extravertida está engajada em um nível consciente.
+
+A Intuição Extravertida se assemelha mais claramente às descrições nas páginas seguintes quando está na posição dominante (primeira).
+
+De fato, essas descrições são baseadas em informações de pessoas para quem o processo é dominante (ENTP e ENFP). 
+
+Mas mesmo com a Intuição Extravertida na primeira posição, o que se observa varia perceptivelmente dependendo de outros fatores — particularmente se ela está emparelhada com o Pensamento Introvertido ou com o Sentimento Introvertido na posição auxiliar (segunda).
+
+Para traçar um quadro completo da “essência” da Intuição Extravertida, é preciso usar partes e fragmentos que, individualmente, não demonstram a Ne “pura”.
+
+Assim como as pinceladas de cor em uma pintura impressionista, no entanto, os tópicos deste capítulo, quando considerados em conjunto, revelam um retrato vívido que permitirá reconhecer a Intuição Extravertida quando você a vir. 
+
+Saber como o processo seria se pudesse ser separado de outras influências é a base da observação de processos, a prática que rapidamente o levará o mais longe que desejar na compreensão da personalidade.
+
+**A Intuição Extravertida é um processo de coleta de informações.** 
+
+Ela se concentra no mundo objetivo e externo para encontrar conexões e relações substanciais entre os objetos, as pessoas e os eventos no ambiente. A Ne busca gerar possibilidades no mundo real.
+
+## PRINCIPAIS CARACTERÍSTICAS
+
+> Intuição Extravertida
+
+- É impulsionada a construir possibilidades futuras a partir dos dados objetivos do ambiente.  
+- Explora o que poderia ser.  
+- Tem um foco externo que abrange passado, presente e futuro.  
+- Vê os padrões e conexões que moldam alternativas futuras.  
+- Forma uma série de vínculos verificáveis que criam padrões e possibilidades.  
+- Quase instantaneamente cria um domínio inteiro de possibilidades específicas.  
+- Busca uma compreensão ampla do panorama geral com base na situação externa presente.
+
+## O QUE ESTÁ ACONTECENDO?
+
+Intuição Extravertida
+
+- Detecta possibilidades emergentes nas informações, eventos e objetos do ambiente.  
+- Concentra-se em possibilidades concretas nos ambientes do presente e do futuro.  
+- Salta de um ponto de dados para outro, sem ordem aparente, para encontrar conexões.  
+- Observa tudo no contexto de suas relações e associações com outras informações, eventos e objetivos.  
+- Reúne informações em conjuntos. Nada existe isoladamente, de forma discreta ou desconectada.  
+- Pode absorver informações de forma seletiva, de acordo com sua relevância para a inspiração atual.  
+- Tem a ver com “ligar os pontos”.  
+- Visualiza como situações, objetos e informações podem ser usados.  
+- Conecta o mundo atual a possibilidades e opções futuras.  
+- É acionada pelo mundo externo.
+
+### **Quando as pessoas estão usando sua Intuição Extravertida preferida**
+
+O ponto de partida é sempre informação ou opções retiradas do ambiente externo.
+
+- O estilo de aprendizagem deles é não linear.  
+- A consciência que têm das informações concretas ou das situações no presente pulsa, entrando e saindo à medida que novos dados criam um fluxo de conexões. 
+- Cada verificação de dados é rapidamente seguida por uma jornada em busca de novas possibilidades; depois, eles retornam para verificar dados adicionais e partem novamente com mais possibilidades.  
+- Eles exploram o potencial que está embutido em cada fato, situação, pessoa ou objeto.  
+- A série de associações conectadas à informação é o que cria as possibilidades. 
+- Gerar cada vez mais possibilidades é o objetivo deles. 
+- O valor das possibilidades não é importante. 
+- Geralmente não ocorre edição.  
+- O conhecimento se expande para fora a partir de cada pedaço de informação.  
+- Eles perguntam: “Que coisas novas poderiam ser feitas com…?”  
+- As possibilidades que veem são versões imaginadas do mundo tangível. Embora firmemente baseadas na realidade verificável, essas ideias frequentemente carecem de detalhes concretos específicos.  
+- Eles estão criando oportunidades ao compreender o que pode acontecer.  
+- Novos empreendimentos são empolgantes porque estão cheios de possibilidades.  
+- A metodologia do brainstorming surge de forma muito natural, e eles a utilizam com facilidade e eficácia.  
+- Eles se destacam na criação de novas maneiras de realizar tarefas antigas.  
+- Eles querem mudar o que é para o que poderia ser. Têm a necessidade de transformar informações existentes explorando a mais ampla gama possível de possibilidades.  
+- Eles tendem a fazer surgir ideias de forma espontânea e não estruturada.  
+- Um panorama global aparece de maneira fácil e quase instantânea para eles.
+
+### **VISTO DE FORA, OLHANDO PARA DENTRO**
+
+Quando vivenciamos pessoas que estão engajando sua Intuição Extravertida preferida, elas
+
+- Podem de repente transbordar de entusiasmo inesperado, porque sua energia vem de gerar e perseguir possibilidades que lhes parecem surgir espontaneamente.
+- Podem abandonar projetos atuais e inacabados na empolgação de descobrir uma nova possibilidade. Existe o perigo de isso se tornar um estilo de vida.  
+- Podem ser indecisos. Possibilidades demais podem dificultar as escolhas.  
+- Podem ouvir os outros apenas tempo suficiente para começar a gerar conexões.  
+- Parecem se distrair com facilidade. Em uma tarefa de coleta de dados, por exemplo, podem ser rapidamente distraídos pelas possibilidades que os dados lhes sugerem.  
+- Geralmente se expressam sem esforço, especialmente ao lidar com novas ideias e possibilidades.  
+- Às vezes parecem compelidos a afirmar sua independência.  
+- Ficam rapidamente entediados com condições estáveis. Sem novas possibilidades, podem até se sentir presos.  
+- Normalmente se conectam facilmente com as pessoas.  
+- Podem ficar frustrados e irritados com aqueles que não conseguem ver o panorama geral ou as conexões e possibilidades do que poderia acontecer.  
+- Têm mente aberta. Estão sempre dispostos a mudar teorias ou trocar de direção conforme novas informações surgem.  
+- Podem parecer bastante intensos ao promover uma ideia e, no momento seguinte, parecer volúveis ao saltar dessa ideia para outra e depois para outra.  
+- Frequentemente são vistos como muito rápidos de raciocínio, pois assimilam, conectam e utilizam novas informações com muita rapidez.  
+- Interessam-se por tudo. Pode ser difícil para os outros lidar com alguém que se interessa por tudo.  
+- Normalmente acabam fazendo aquilo que lhes parece mais atraente — o que quer que chame sua atenção — mesmo que isso signifique dar pouca atenção a um compromisso de longa data.  
+- Gostam de ensinar às pessoas novas maneiras de enxergar tudo.  
+- Têm muita dificuldade com pessoas de mente fechada. Pessoas que não estão dispostas a considerar novas ideias são difíceis para elas lidarem.  
+- Amam a mudança pela mudança. Tudo o que é novo e diferente é empolgante.
+
+### CONTRIBUIÇÕES
+
+Perspectivas e abordagens especiais da Intuição Extravertida
+
+- Imaginar novos cenários e sugerir múltiplas opções  
+- Um espírito empreendedor  
+- Habilidades de brainstorming  
+- Habilidades diagnósticas  
+- Talento para avaliar potencial  
+- Facilidade para abordar questões desenvolvendo hipóteses de trabalho  
+- Mobilizar pessoas para apoiar entusiasticamente seus projetos  
+- Networking
+
+### DE DENTRO PARA FORA
+
+Descrições parafraseadas de como é coletar informações por meio da Intuição Extravertida preferida de alguém
+
+- Eu adoro a sensação de encontrar uma nova abordagem, um novo conceito ou uma nova ideia.  
+- O trabalho é diversão, mas precisa ser criativo. Rotina é igual a tédio.  
+- Toda vez que chego a um encerramento, surge uma nova possibilidade.  
+- Sou um malabarista de coração. Sempre tenho várias bolas no ar ao mesmo tempo.  
+- Não se trata tanto de ver o que está ali, mas de ver as conexões entre o que está ali. Quase consigo ver uma imagem das conexões. Vejo as coisas coletivamente, em vez de literalmente ou em detalhes.  
+- Minha vida às vezes pode parecer uma série interminável de projetos novos, muitas vezes inacabados.  
+- Poderíamos fazer isso, ou talvez aquilo, ou talvez essa outra coisa.  
+- Minha conclusão ou decisão nunca é final, apenas a melhor opção no momento.  
+- Tentar explicar aos outros como a situação A se conecta à B e à C e assim por diante pode ser frustrante. A maioria das pessoas não vai entender ou acreditar. Muitas vezes, nem tento explicar.  
+- Mudança é uma oportunidade. Gosto de correr riscos.  
+- Tenho muitos bons amigos.  
+- Cometer erros não é um grande problema. Adoto a melhor abordagem que consigo imaginar e sempre aprendo algo, independentemente de ter sucesso ou não.  
+- Não ousar arriscar o fracasso — isso seria uma forma terrível de viver.
+- Eu prospero com a mudança.  
+- Meu ritmo desgasta muitas pessoas.  
+- Costumo ler cinco ou seis livros ao mesmo tempo.  
+- Meus espaços pessoais em casa e no trabalho podem parecer desorganizados, mas eu sei onde tudo está.  
+- Estou sempre pronto para mudar de direção rapidamente.  
+- Quando estou gerando possibilidades, fico fisicamente engajado. É um esporte ativo.  
+- Às vezes sinto que estou deixando de aproveitar o presente.  
+- Às vezes estou tão à frente de mim mesmo no futuro que não me permito vivenciar o momento.  
+- Não suporto tarefas sendo sempre feitas da mesma maneira. Como você vai saber se pode melhorar algo se não mudar?  
+- Preciso realmente inspirar e você precisa realmente gostar disso, ou eu fracassei.  
+- Respeito pessoas que escutam e tentam compreender todas as informações e que estão dispostas a tentar opções diferentes. Sou alguém que assume riscos e gosto de estar com pessoas que também assumem riscos.  
+- Ainda estou procurando o que quero ser quando crescer.  
+- Estou sempre me perguntando: como posso usar essa nova informação?  
+- No momento em que recebo novas informações, estou gerando uma gama totalmente nova de opções.  
+- Quase instantaneamente, à medida que recebo informações novas ou modificadas, uma nova série de conexões e opções é construída sobre a anterior.  
+- Vejo uma série de vínculos surgindo rapidamente, cada um se conectando ao próximo, sem lacunas. É muito parecido com a forma como um computador opera.  
+- **Gosto de ver tudo como se estivesse a dez mil metros de altitude.**  
+- Gosto de ver como todas as peças se encaixam.  
+- Todas as peças se juntam em um padrão distinto, como em um caleidoscópio. Mas, no momento em que ocorre a menor mudança, então, como um toque no caleidoscópio, as peças individuais se chocam umas com as outras formando um padrão totalmente novo.  
+- **Adoro ver minhas ideias se concretizarem, mas prefiro que outra pessoa seja responsável por essa parte.**  
+- Basta me alimentar com informações e eu disparo como um foguete com possibilidades infinitas. Todo mundo só precisa sair do caminho. Mesmo que eu não esteja mirando certo, acabarei chegando lá eventualmente.
+- Brainstorming é sempre empolgante. Todo mundo se envolve. As coisas realmente acontecem!  
+- Receber informações passivamente, como em uma palestra, é muito difícil para mim. Preciso discutir. Interessa-me como a nova informação muda tudo o mais. Sempre faço muitas perguntas.  
+- Dou o meu melhor em meio à confusão. Organizar uma abundância excessiva de opções é algo que faço o tempo todo de qualquer forma.  
+- **A diversão está em descobrir — seja lá o que for. Quais são as opções e possibilidades escondidas na confusão?**  
+- A abordagem convencional não tem nenhuma atração para mim. Criar uma solução inovadora é o que me entusiasma.  
+- É quase como se eu tivesse um carrossel na mente que está constantemente girando e lançando ideias enquanto gira.  
+- Tentar coletar informações de forma estruturada é desconfortável para mim. É restritivo demais.  
+- Costumo usar a exploração de opções como uma ferramenta básica de construção de equipe.  
+- Seja o que for, tento mudar.  
+- Frequentemente me pego imaginando eventos futuros específicos, como o dia em que minha filha vai tirar a carteira de motorista, se tornar presidente ou ter meus netos. Se nada estiver me estimulando, criarei possibilidades a partir da minha imaginação.  
+- Estou pensando em me mudar apenas para mudar de cenário.  
+- Você praticamente consegue me convencer a tentar qualquer coisa pelo menos uma vez.  
+- Ao escolher carreiras, o ponto-chave para mim é explorar possibilidades mantendo as opções abertas. Em vez de escolher um emprego, preciso projetar um caminho de carreira. A carreira ideal para mim é aquela que pode levar a várias direções diferentes, abrindo uma ampla gama de opções de trabalho no futuro.  
+- **Quando saímos, sou ótimo em sugerir o que poderíamos fazer. Mas não me peça para escolher. Não gosto de tomar a decisão, porque isso também seria uma decisão de não escolher todas as outras opções.**  
+- Gerar possibilidades é a parte divertida. Escolher entre elas reduz as opções, então tendo a continuar reunindo informações e gerando opções em vez de avançar para a tomada de decisão.  
+- Tenho uma garagem cheia de sucata reaproveitada porque vejo todo tipo de projeto que poderia ser feito com isso.
+- Gosto de ter várias bolas no ar ao mesmo tempo. O desafio do malabarismo é realmente o que me motiva. Quanto mais possibilidades vejo, mais entusiasmado fico; e quanto mais entusiasmado fico, mais possibilidades penso.
+
+### VINHETAS
+
+Cenas do mundo da Intuição Extravertida
+
+- Em uma reunião de conselho, alguns números de vendas podem ser apresentados e eu imediatamente salto para as possibilidades: “Devemos lançar nossa nova linha de produtos mais cedo” ou “Podemos economizar no frete se fizermos isso”. Talvez o apresentador nem tenha terminado. Se ele ou ela continuar com mais informações, posso sair novamente com um conjunto totalmente novo de ideias e possibilidades. Isso pode confundir as pessoas se elas não estiverem acostumadas.  
+- Meu neto adora damas pelas possibilidades que elas oferecem. Ele inventa uma variedade infinita de jogos para jogar com o tabuleiro e as peças. Não consigo lembrar a última vez que jogamos uma partida de damas comum.  
+- Minha esposa estava tentando descrever como queria que nossa nova casa fosse. Tudo o que ela conseguia falar era sobre ter tudo projetado de modo que pudéssemos construir ampliações ou cômodos no futuro. Levou dois anos para ela colocar algo específico no papel.  
+- Meu marido, com Intuição Extravertida, de repente começa a falar sobre mais possibilidades quando eu pensei que já tivéssemos tomado uma decisão horas antes.  
+- Quando olho para uma árvore, vejo as possibilidades inerentes à árvore. Posso imaginar uma casa na árvore que poderia ser construída ali. Posso imaginar como a casa na árvore poderia ser decorada, eventos acontecendo ali, crianças brincando ou relaxando, festas, jogos e assim por diante.  
+- Em um restaurante, meu desafio é fazer escolhas entre todas as possibilidades tentadoras. Fico pensando: talvez eu peça isso, mas aquilo também parece bom. Muitas vezes sugiro que peçamos pratos diferentes e compartilhemos. Quase sempre peço por último para ter certeza de que pego algo diferente do que todo mundo pede.  
+- Se estou relaxando em um barco com amigos, posso na verdade estar considerando opções para o jantar: para onde vamos e o que faremos hoje à noite, amanhã, na próxima semana. Estou relaxando ao flutuar com as possibilidades. Não é tanto o barco, a água ou o sol que eu aproveito, mas a oportunidade de conversar com meus amigos sobre ideias e possibilidades para o futuro. Até planejar excursões futuras de barco é divertido.  
+- Em um exercício de grupo “parecido com um quebra-cabeça”, envolvendo um objeto, nosso grupo trabalhou junto para criar possibilidades do que poderia ser feito com o objeto. Poderíamos ter continuado conversando por dias, já que as possibilidades eram virtualmente infinitas.  
+- Depois de dois meses conferindo e reconferindo para ter certeza de que minha família concordava que deveríamos vender nosso piano, finalmente mandei o comprador vir buscá-lo. Quando meu marido, com Intuição Extravertida, e minha filha chegaram em casa, ficaram chocados por eu ter tomado uma decisão tão importante sem eles. Eles haviam presumido que vender era apenas uma opção entre muitas e que a discussão continuaria indefinidamente.
+
+### DONS
+
+Forças únicas da Intuição Extravertida
+
+- Engenhosidade em criar soluções possíveis  
+- Preencher as lacunas com pessoas, objetos ou eventos conectando todas as informações conhecidas em explicações que façam sentido  
+- Percepção em escala global  
+- Habilidade para servir como ponte entre pessoas, conectando suas ideias e buscando cenários alternativos  
+- Ensinar às pessoas novas maneiras de enxergar tudo  
+- Talento para apresentar algo familiar de uma forma nova e envolvente que leva as pessoas a se mobilizarem em apoio  
+- Mente aberta  
+- Talento para criar opções e oportunidades
+
+---
+
