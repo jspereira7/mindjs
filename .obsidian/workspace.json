@@ -54,9 +54,43 @@
               "icon": "lucide-file",
               "title": "Idealistic Complexes Octagram 4.1"
             }
+          },
+          {
+            "id": "98e01c7279a16d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Action plan 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Action plan 2026"
+            }
+          },
+          {
+            "id": "9fc97066234d391b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,13 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Idealistic Complexes Octagram 4.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idealistic Complexes Octagram 4.1"
+              "title": "Outline"
             }
           }
         ],
@@ -139,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 228.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -165,7 +198,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Idealistic Complexes Octagram 4.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +225,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Idealistic Complexes Octagram 4.1"
+              "title": "Graph view"
             }
           },
           {
@@ -328,8 +360,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7c378424bbf9da43",
+  "active": "9fc97066234d391b",
   "lastOpenFiles": [
+    "00.Notes/Action plan 2026.md",
     "00.Notes/Idealistic Complexes Octagram 4.1.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "01.Assets/Anexos/Pasted image 20260131133648.png",
@@ -367,7 +400,6 @@
     "00.Notes/Roberta Curso Iniciante tipologia.md",
     "01.Assets/Anexos/Pasted image 20260117184925.png",
     "01.Assets/Anexos/Pasted image 20260117184215.png",
-    "00.Notes/Prompt Revisão de Traduções.md",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",

@@ -69,6 +69,5 @@
 	- É o capitão salva o dia. 
 	- Esse complexo se cria da insegurança que não é uma pessoa inteligente (Ti), e por isso se conseguirem resolver o problema de outras pessoas, isso é uma prova de que são inteligentes. 
 	- Eles ajudam esperando que vão receber um favor em troca mais tarde...
-	- 
 
 ----
