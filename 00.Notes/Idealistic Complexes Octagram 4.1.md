@@ -71,3 +71,4 @@
 	- Eles ajudam esperando que vão receber um favor em troca mais tarde...
 
 ----
+

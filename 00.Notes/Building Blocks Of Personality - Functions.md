@@ -657,6 +657,7 @@ Cenas do mundo da Intuição Extravertida
 - Se estou relaxando em um barco com amigos, posso na verdade estar considerando opções para o jantar: para onde vamos e o que faremos hoje à noite, amanhã, na próxima semana. Estou relaxando ao flutuar com as possibilidades. Não é tanto o barco, a água ou o sol que eu aproveito, mas a oportunidade de conversar com meus amigos sobre ideias e possibilidades para o futuro. Até planejar excursões futuras de barco é divertido.  
 - Em um exercício de grupo “parecido com um quebra-cabeça”, envolvendo um objeto, nosso grupo trabalhou junto para criar possibilidades do que poderia ser feito com o objeto. Poderíamos ter continuado conversando por dias, já que as possibilidades eram virtualmente infinitas.  
 - Depois de dois meses conferindo e reconferindo para ter certeza de que minha família concordava que deveríamos vender nosso piano, finalmente mandei o comprador vir buscá-lo. Quando meu marido, com Intuição Extravertida, e minha filha chegaram em casa, ficaram chocados por eu ter tomado uma decisão tão importante sem eles. Eles haviam presumido que vender era apenas uma opção entre muitas e que a discussão continuaria indefinidamente.
+  
 
 ### DONS
 
