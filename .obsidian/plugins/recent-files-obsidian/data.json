@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Cognitive Battlegrounds With Chris Taylor",
+      "path": "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md"
+    },
+    {
       "basename": "Web Scraping - Guia",
       "path": "00.Notes/Web Scraping - Guia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Credenciais Binom Tracker",
       "path": "00.Notes/Credenciais Binom Tracker.md"
-    },
-    {
-      "basename": "Binom Tracker Funcionamento",
-      "path": "00.Notes/Binom Tracker Funcionamento.md"
     }
   ],
   "omittedPaths": [
