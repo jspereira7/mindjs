@@ -674,3 +674,183 @@ Forças únicas da Intuição Extravertida
 
 ---
 
+# PT 7 - Ni (Introverted Intuition)
+
+INTUIÇÃO INTROVERTIDA (Ni)
+
+Neste capítulo, buscamos apresentar um retrato da Intuição Introvertida “pura” que veríamos se pudéssemos cuidadosamente removê-la de seu estado natural, onde é influenciada e colorida por todos os outros elementos da personalidade. 
+
+Embora nenhum processo exista de fato separado do restante da personalidade, o retrato que se segue reflete características centrais que estão em jogo sempre que a Intuição Introvertida está engajada em nível consciente.
+
+A Intuição Introvertida se assemelha mais claramente às descrições nas páginas seguintes quando está na posição dominante (primeira). 
+
+De fato, essas descrições são baseadas em informações de pessoas para quem o processo é dominante (INTJ e INFJ). 
+
+Mas, mesmo com a Intuição Introvertida na primeira posição, o que você observa variará de maneira perceptível dependendo de outros fatores — particularmente se ela está pareada com o Pensamento Extrovertido ou com o Sentimento Extrovertido na posição auxiliar (segunda).
+
+Para traçar um quadro completo da “essência” da Intuição Introvertida, é preciso usar partes e fragmentos que não conseguem demonstrar individualmente a Ni “pura”. 
+
+Assim como as manchas de cor em uma pintura impressionista, no entanto, os tópicos deste capítulo, quando considerados em conjunto, revelam um retrato vívido que permitirá a você reconhecer a Intuição Introvertida quando a vir. 
+
+Saber como o processo seria se pudesse ser separado de outras influências é a base da observação de processos, a prática que rapidamente o levará tão longe quanto você desejar na compreensão da personalidade.
+
+**A Intuição Introvertida é um processo de coleta de informações.** 
+
+Ela se concentra no mundo subjetivo e interno do inconsciente para encontrar conexões intangíveis e relações abstratas entre os conteúdos do inconsciente e/ou do ambiente. 
+
+**A Ni busca descobrir significados subjacentes, sistemas e sentido.**
+
+## PRINCIPAIS CARACTERÍSTICAS  
+
+**Intuição Introvertida**
+- Concentra-se nos conteúdos do inconsciente.  
+- Envolve uma consciência psíquica do intangível.  
+- Busca grandes padrões, temas e sistemas para compreender o significado e a importância de tudo.  
+- Opera de forma imprevisível, muitas vezes por meio de lampejos de insight.
+- Procura compreender por meio de um senso abstrato da natureza essencial de todas as coisas e de suas complexas inter-relações. 
+- Atribui significado e simbolismo ao mundo concreto dos sentidos.  
+- Busca compreender toda a “dança do universo”.
+
+## O QUE ESTÁ ACONTECENDO?  
+
+**Intuição Introvertida**
+- É o único processo de percepção que é independente da mente consciente.  
+- É o único processo que não precisa de nenhum estímulo externo. 
+- Pode ser ativado interna ou externamente ou não ter gatilho identificável algum.  
+- Funciona de maneiras misteriosas e em seu próprio ritmo.  
+- Vê tudo no nível mais amplo e complexo possível.  
+- Tem uma abordagem abstrata e futurista da informação.  
+- Pergunta: “O que mais está acontecendo aqui?”  
+- Capta rapidamente o significado por trás das palavras. Seu foco está em ler nas entrelinhas.  
+- É a guardiã do chamado sexto sentido. Informações inexplicáveis podem assumir a forma de pressentimentos, clarividência, intuição abstrata e mensagens do inconsciente.  
+- Em última análise, trata-se de tentar compreender a própria vida.
+
+### **Quando as pessoas estão usando sua Intuição Introvertida preferida**
+
+- Imagens inconscientes são tão reais para elas quanto qualquer coisa tangível. 
+- Um objeto externo é importante principalmente pelo que pode revelar dentro delas.
+- Elas só conseguem acessar intencionalmente o processo criando certas condições e deixando que ele aconteça.  
+- Aquilo que pode ser percebido pelos cinco sentidos é importante principalmente como fonte de pistas para auxiliar na busca de uma compreensão interna das verdades universais que os objetos tangíveis representam.  
+- Elas procuram associações e conexões para identificar padrões e sistemas a fim de ver e compreender tudo de uma vez como um todo interconectado.  
+- O foco está em futuros indistintos, traçados em linhas amplas, com aparentemente pouca consideração por inconsistências factuais evidentes.  
+- Detalhes não são vistos como muito interessantes ou importantes.  
+- **Reunir informações concretas é um desafio. Elas tendem a se mover rapidamente, às vezes de forma prematura, para abstrações internas.**  
+- Uma compreensão do que está abaixo da superfície surge com facilidade.  
+- As conexões que percebem muitas vezes não são demonstráveis. Frequentemente essas conexões parecem para os outros como saltos ou lacunas, mas na verdade são elos de um conhecimento abstrato, possivelmente por meio do reconhecimento de padrões.  
+- A vida é feita de imagens internas: abstrações e visões de como as coisas são e de como poderiam ser. 
+- Elas veem tudo no mundo tangível como um reflexo do mundo muito mais complexo e interessante “por trás da cortina”.  
+- Buscam compreender a complexidade por meio de sua essência subjacente simples.  
+- Visões e insights intuitivos são confiáveis e valorizados. Elas “simplesmente sabem”, com uma confiança e certeza que muitas vezes não podem ser justificadas ou explicadas aos outros.  
+- Elas veem relações abstratas como reais e cenários futuros vagos como futuros alternativos reais. Pessoas que contestam suas previsões simplesmente não têm a visão necessária para ver o que está por vir.  
+- A inspiração é o motor, o energizador e o objetivo.  
+- Elas estão conduzindo uma busca por significado: uma busca pela significância cósmica e pelas semelhanças subjacentes de tudo o que vemos.
+
+---
+
+## VISTO DE FORA, OLHANDO PARA DENTRO
+
+**Quando vivenciamos pessoas que estão engajando sua Intuição Introvertida preferida, elas**
+- Podem ser difíceis de se relacionar ou compreender. A natureza inconsciente de seu processo é muito diferente das outras três abordagens da percepção. Não apenas suas percepções são únicas para o indivíduo, como também são quase impossíveis de explicar ou descrever em palavras.  
+- Podem vivenciar insights que não estão conectados ao mundo tangível de nenhuma forma que faça sentido para qualquer outra pessoa.  
+- Tendem a buscar uma solução melhor, mesmo que a atual funcione perfeitamente bem. Estão sempre procurando algo novo e diferente de tudo o que existe. Não querem ouvir “se não está quebrado, não conserte”, porque acreditam que tudo pode ser reinventado e melhorado.  
+- Podem ser vistas como “muito fora da realidade”. Nos casos mais dramáticos, podem ser chamadas de xamãs, profetas ou visionárias se as reações das outras pessoas forem positivas. Reações negativas podem rotulá-las como excêntricas, radicais ou bruxas. A diferença não depende tanto do conteúdo de suas visões, mas de como essas visões são expressas e se os outros são ou não receptivos às suas mensagens.  
+- Geralmente têm pouca preocupação com a utilidade de seus insights.  
+- Às vezes são vistas como inconsistentes ou até desleais. Sua integridade interna é complexa e privada e pode não ser aparente para os outros.  
+- Frequentemente se comunicam por meio de abstrações, metáforas, imagens e símbolos.  
+- Podem soar hesitantes, divagantes ou estranhas enquanto procuram palavras que transmitam seus pensamentos abstratos.  
+- Precisam criar imagens e linguagem totalmente novas toda vez que tentam explicar algo, já que estão tentando expressar algo que vem de um lugar onde a percepção está fora dos limites da linguagem.  
+- Podem cair em uma linguagem excessivamente vaga e teórica ao tentar explicar algo, provar algo ou convencê-lo.  
+- **Frequentemente comunicam com pouquíssimos dados concretos e específicos, e às vezes com nenhum. O mundo externo dos fatos tangíveis pode ter pouca relação com a validade da mensagem que estão tentando transmitir.**  
+- Podem usar arte abstrata ou simbólica como forma de comunicação.
+- Não têm limites no alcance de sua percepção, exceto pelos desafios de descrevê-la aos outros.  
+- Têm dificuldade em ouvir atentamente por longos períodos. Estão ocupadas demais procurando o significado e os padrões por trás das palavras.  
+- Têm um foco muito orientado para o futuro no que ainda está por vir.  
+- Parecem tornar tudo mais complexo. Para elas, quando se olha abaixo da superfície, todas as coisas estão interconectadas e são, de fato, incrivelmente complexas.  
+- Às vezes demoram a responder. Geralmente não são vistas como rápidas no improviso. Antes de responder, normalmente precisam de tempo para acessar informações internas e considerar como isso se encaixa com o resto do universo. Em outras ocasiões, podem responder rápido demais, porque a informação que apresentam, com tal convicção, está tão distante do assunto imediato que soa como um comentário fora de contexto.  
+- Podem parecer mudar o foco em uma fração de segundo, passando de falar sobre pequenos fragmentos de informação para fazer uma declaração geral dramaticamente ampla sobre o que realmente está acontecendo.  
+- Podem se desligar de conversas que não têm significado ou profundidade para elas.  
+- Frequentemente fazem perguntas muito penetrantes e que podem ser desconfortáveis para os outros.  
+- Gostam de perguntar “por quê”. Se perguntada e respondida vezes suficientes, a questão as leva à profundidade de compreensão que lhes interessa.  
+- **Querem saber o que realmente está acontecendo por trás da fachada.**  
+- **São extremamente independentes e têm orgulho disso.**  
+- Têm pouca consideração pela autoridade. Decidem por si mesmas se regras e regulamentos fazem sentido e devem ser seguidos.  
+- Tendem a ser excepcionalmente teimosas.  
+- **Têm dificuldade em aceitar limitações e restrições. Realmente acreditam que o impossível geralmente só leva um pouco mais de tempo. Se você quiser vê-las agir, diga que não podem fazer algo.**  
+- Entediam-se facilmente com tarefas repetitivas, a menos que a tarefa exija tão pouca atenção que lhes permita focar em seu mundo interno.  
+- São difíceis de desafiar plenamente.  
+- Podem parecer arrogantes.  
+- Frequentemente são silenciosas em seu comportamento. Podem até ser estranhas e desajeitadas.
+- Podem se tornar muito vocais, apaixonadas, animadas e obstinadas quando estão convencidas de que entendem algo que outros precisam saber.  
+- Podem parecer mal-humoradas ou preocupadas. Muitas vezes estão “em outro lugar” internamente. Seu comportamento externo geralmente reflete o que está acontecendo por dentro, o que pode estar fora de sintonia com o que acontece ao seu redor.  
+- Podem ter dificuldade em compartilhar sua criatividade com os outros.  
+- São frequentemente vistas como sonhadoras.  
+- Costumam se destacar em níveis mais elevados, mais teóricos e abstratos da educação.
+
+## CONTRIBUIÇÕES  
+
+**Perspectivas e abordagens especiais da Intuição Introvertida**
+- Uma percepção refinada do nível de autenticidade das pessoas e de quão seguro é ser aberto, honesto e vulnerável com elas.  
+- Uma compreensão de que todas as coisas estão interligadas de maneiras que muitas vezes são intangíveis e talvez até incognoscíveis.  
+- Insight sobre o que está acontecendo abaixo da superfície por meio de um senso do significado do que pode ser visto.  
+- Um talento para operar fora da caixa.  
+- Aplicação de metáforas e símbolos.  
+- Avanço da teoria científica além dos limites da sabedoria convencional.  
+- Capacidade de promover a compreensão ensinando os porquês e os porquês decorrentes.  
+- A visão que orienta o planejamento estratégico.
+
+## POR DENTRO  
+
+**Descrições parafraseadas de como é coletar informações por meio da Intuição Introvertida dominante*.
+- Às vezes eu simplesmente sei algo. Mesmo que eu nem sempre entenda como sei, tenho certeza de que estou certo.  
+- Sempre me pergunto: o que isso realmente significa?  
+- Sempre aceitarei informações para consideração, mas não posso ser coagido.
+- Quero entender como processos e mecanismos complexos funcionam. Amo teoria e conceitos abstratos. Quanto mais teórica e abstrata uma conversa estiver fora do comum, mais empolgante ela é.  
+- Sempre me dizem para tirar a cabeça das nuvens e voltar à realidade.  
+- Fico feliz quando começo a entender o que está acontecendo, a ver o que vai acontecer.  
+- Fico satisfeito quando vejo as coisas acontecendo como eu disse que aconteceriam.  
+- Estou mais interessado em abrir um novo caminho do que em explorar algo ao longo do caminho já batido.  
+- Fico profundamente descontente com trabalho rotineiro que não permite inspiração ou criatividade.  
+- Fico muito frustrado e impaciente quando os outros não conseguem ver o que eu vejo e não querem me ouvir. Parece que invariavelmente, algum tempo depois, outra pessoa dirá a mesma coisa e então as pessoas ouvirão e acharão que é uma ótima ideia.  
+- Em um exercício em grupo “típico”, focado em um objeto, todos no nosso grupo ficaram desapontados por não ser algo mais complexo ou significativo.  
+- O lampejo de inspiração vem quando quer vir. Não posso convocá-lo conscientemente.  
+- Tenho uma percepção de quem as pessoas são muito rapidamente. Preciso me lembrar de que elas provavelmente não me conhecem tão bem quanto eu as conheço.  
+- Você precisa procurar o significado em algo. Você sente o caminho, mas precisa sentir seu caminho ao longo dele. É principalmente nebuloso, com um lampejo de clareza aqui e ali. Você acha que talvez veja algo à distância, mas nunca é claro. Você avança pela névoa com a certeza de que há algo lá fora para alcançar. O que exatamente é esse algo, talvez você nunca saiba.  
+- **Minhas melhores ideias vêm a mim durante meu banho matinal. Acho que faço meu melhor pensamento de manhã porque tive a chance de dormir sobre uma ideia.**  
+- Sempre sei sobre as pessoas.  
+- **Às vezes é difícil começar uma tarefa. Preciso esperar por uma compreensão das implicações, nuances e do escopo amplo dela, porque só então saberei o que preciso fazer e como fazê-lo. As pessoas frequentemente me dizem que eu procrastino.**
+- Normalmente não me lembro muito bem dos nomes das pessoas nem de informações factuais sobre elas.  
+- Morei na mesma cidade a maior parte da minha vida. Não acho que alguém seja melhor do que eu em saber a melhor rota de um ponto a outro em qualquer clima ou trânsito. Por outro lado, eu não saberia dizer o nome da maioria das ruas.  
+- Eu estava jantando com uma amiga. De repente, tive uma imagem clara na minha mente do que aconteceria com ela em suas férias. Às vezes tenho lampejos com muitas informações, e outras vezes preciso refletir para entender o que uma visão significa.  
+- **Muitas vezes me sinto como a criança da história “A Roupa Nova do Imperador”. Sou o único que diz o que realmente está acontecendo. Aprendi que às vezes preciso me conter e não dizer isso em voz alta.**  
+- Às vezes consigo ter uma noção do que o futuro reserva sem que nada no mundo externo pareça sustentar a previsão.  
+- Às vezes consigo sentir a dor das pessoas quando olho para elas ou as toco.  
+- Ao escolher uma carreira, sei o que não gosto, mas é difícil juntar uma visão clara do que eu gostaria de fazer. O que sei é bastante vago, como: “Gostaria de trabalhar com pessoas, trabalhar com as mãos ou com animais, ou fazer um trabalho que tenha significado.”  
+- É realmente frustrante quando sei como algo pode ser feito de forma mais eficaz e vejo pessoas se apegando ao modo antigo.  
+- Não deixo que detalhes e fatos atrapalhem as soluções.  
+- Costumo me perder ao navegar pelo mundo físico. Acho que sou o clássico professor distraído.  
+- Tenho um forte senso de perigo. Em várias ocasiões, desviei do perigo a tempo porque senti que ele estava chegando. Normalmente, porém, isso simplesmente vem como uma sensação confiável de quais situações evitar.  
+- Até meu quinquagésimo aniversário, eu nunca tinha ficado realmente surpreso na vida. Aquela festa foi a primeira vez que não soube de algo com antecedência. Quando criança, eu nunca me surpreendia no Natal ou nos aniversários. Eu sabia quais presentes iria ganhar.  
+- Sinto como se tivesse cerca de quinhentos estudos sociais em andamento na minha cabeça o tempo todo. Todo comportamento que observo é automaticamente incorporado a esses estudos para revisar continuamente minhas hipóteses sobre a natureza humana e a interação.
+
+## VINHETAS  
+
+**Cenas do mundo da Intuição Introvertida**
+- Quando olho para uma árvore, muitas vezes não vejo realmente a árvore em si. Posso estar imaginando a floresta como era centenas de anos atrás, com indígenas vivendo ali, ou vendo a Terra sendo formada antes de a floresta crescer. Posso estar vendo o ambiente da árvore no futuro. Posso sair por uma tangente ambiental, refletindo sobre as contribuições das árvores para o ecossistema e para o futuro do planeta. Posso explorar uma tangente simbólica: a árvore como símbolo da força vital ou como um refúgio seguro para os animais.  
+- Em um restaurante, provavelmente estarei muito atento à atmosfera. Talvez eu nem preste muita atenção à comida, mas geralmente me conectarei à dinâmica social entre as pessoas à mesa. Vou ponderar todo tipo de pergunta: Qual é a ocasião? Devemos encontrar um canto tranquilo onde possamos conversar? O que significa estarmos reunidos aqui juntos? Há uma ocasião especial para celebrar?  
+- Em um barco com amigos, ficarei me perguntando: do que essa viagem realmente se trata? Todo mundo está realmente dizendo o que quer dizer? Como tudo isso se desenrola no esquema maior? Que impacto esse passeio de barco terá em nossos relacionamentos futuros? Talvez eu nem perceba o clima.  
+- Em um exercício em grupo “típico”, envolvendo instruções para falar sobre um determinado objeto, nosso grupo gravita imediatamente para imagens e temas expansivos. Por exemplo, uma vez o objeto era um simples saco de papel. Tivemos pouquíssima discussão. Alguém disse: “Tudo no universo cabe dentro deste saco.” Essa frase foi escrita em um pedaço de papel e colocada dentro do saco. Era tudo o que precisava ser dito. Todos no grupo então seguiram em sua própria jornada interna em busca de significado.
+
+## DONS  
+
+**Forças únicas da Intuição Introvertida**
+- Capacidade de ver a forma de futuros possíveis, sem restrições de tempo, lugar, dados concretos ou eventos.  
+- Compreensão do contexto inteiro em um lampejo de insight.  
+- Tendência a ocupar os papéis de profetas e líderes visionários para inspirar mudanças culturais em direção a novos modos do que pode ser.
+- Um talento para ensinar um nível mais profundo de compreensão  
+- Conectar a sociedade ao mundo intangível e metafísico (xamãs)  
+- Uma habilidade para colocar as coisas em um contexto maior: um contexto universal de significado  
+- Conexão com o inconsciente coletivo
+
+----
+
+
