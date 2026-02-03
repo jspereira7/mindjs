@@ -853,4 +853,175 @@ Ela se concentra no mundo subjetivo e interno do inconsciente para encontrar con
 
 ----
 
+# PT 8 - Te (Extraverted Thinking)
+
+Neste capítulo, buscamos apresentar um retrato do Pensamento Extravertido “puro” que veríamos se pudéssemos removê-lo cuidadosamente de seu estado natural, no qual é influenciado e colorido por todos os outros elementos da personalidade. 
+
+Embora nenhum processo exista de fato separado do restante da personalidade, o retrato que se segue reflete características centrais que entram em ação sempre que o Pensamento Extravertido é engajado em nível consciente.
+
+O Pensamento Extravertido se assemelha mais claramente às descrições das páginas seguintes quando está na posição dominante (primeira). 
+
+De fato, essas descrições baseiam-se em contribuições de pessoas para as quais o processo é dominante (ESTJ e ENTJ).
+
+Mas, mesmo com o Pensamento Extravertido na primeira posição, o que você observa variará de forma perceptível dependendo de outros fatores — particularmente se ele está pareado com Sensação Introvertida ou Intuição Introvertida na posição auxiliar (segunda).
+
+Para traçar um quadro completo da “essência” do Pensamento Extravertido, é preciso usar fragmentos e partes que não conseguem, individualmente, demonstrar o “puro” Te. 
+
+Como as manchas de cor em uma pintura impressionista, no entanto, os tópicos deste capítulo, quando considerados em conjunto, revelam um retrato vívido que permitirá reconhecer o Pensamento Extravertido quando você o vir. 
+
+Saber como o processo seria se pudesse ser separado de outras influências é o fundamento da observação de processos, a prática que rapidamente o levará o mais longe que desejar na compreensão da personalidade.
+
+**O Pensamento Extravertido é um processo de tomada de decisão.** 
+
+**Ele se concentra no mundo externo objetivo ao instituir sistemas de organização e ao atribuir todas as informações a um lugar dentro de um sistema apropriado, baseado na comparação quantificável.** 
+
+**Ele busca avaliar, decidir e concluir uma tarefa usando um sistema de julgamentos binários lógicos.**
+
+## CARACTERÍSTICAS-CHAVE  
+
+**Pensamento Extravertido**
+	• Adota ou desenvolve padrões aplicáveis para orientar decisões.  
+	• É impulsionado a estruturar e organizar o mundo externo.  
+	• Classifica tudo no mundo em seu devido lugar dentro de um sistema organizado. 
+	• Aplica lógica objetiva dentro de uma estrutura de políticas, procedimentos padrão, diretrizes operacionais ou algum outro sistema comum de regras orientadoras.  
+	• Enxerga a criação e a manutenção de sistemas que cuidam das pessoas como mais eficazes e, portanto, mais importantes do que cuidar diretamente de indivíduos. 
+	• É energizado por alcançar metas ou atingir um resultado final.  
+	• Busca clareza e ordem no ambiente.
+
+## O QUE ESTÁ ACONTECENDO?  
+
+**Pensamento Extravertido**
+	• Procura organização ou estrutura lógica no mundo externo e tangível.  
+	• Emprega ferramentas analíticas comprovadas.  
+	• Monta as regras de organização para funcionar como uma matriz.  
+	• Consegue identificar ilogicidades e inconsistências imediatamente.  
+	• É analítico.  
+	• É exemplificado pelo processo científico ocidental de experimentação meticulosa e metódica que examina uma variável por vez.  
+	• Busca igualdade ao lidar com todas as coisas, incluindo pessoas.  
+	• Busca clareza por meio da ordem.
+
+### Quando as pessoas estão usando seu Pensamento Extravertido preferido
+
+• Elas precisam usar sistemas que definam como as coisas interagem e se relacionam, como as leis da física, para fornecer estruturas para organização lógica e análise.  
+• A estrutura do processo é visível. Ela pode ser registrada, explicada e até repetida, como quando uma segunda equipe de cientistas duplica um experimento para confirmar as descobertas da primeira equipe.  
+• Elas precisam de um sistema no qual todas as relações sejam conhecidas para que a lógica do processo de tomada de decisão funcione de forma eficaz.  
+• Buscam padrões ou sistemas claros que sejam amplos em escopo, porque essas estruturas podem ser aplicadas a muitas situações diferentes.  
+• Às vezes são levadas a extremos por seu desejo de antecipar toda e qualquer contingência possível. Podem criar sistemas institucionalizados pesados, como burocracias governamentais complexas, como resultado.  
+• Sentem-se mais confortáveis trabalhando dentro de um modelo mecanicista de causa e efeito.  
+• A clareza e a especificidade que desejam são frequentemente encontradas em leis, regras, regulamentos, políticas, procedimentos e padrões.  
+• Padrões amplos, como as declarações abrangentes da Declaração de Direitos da Constituição dos EUA e a regra de ouro do cristianismo, são ideais, já que podem ser usados quase universalmente.  
+• Sua abordagem é avançar metodicamente a partir dos fatos, por meio de um processo ordenado, até um resultado final.  
+• Querem usar critérios claros, tangíveis, mensuráveis e quantificáveis, como “mais” ou “maior”, em vez de critérios qualitativos, como “melhor” ou “mais importante”.  
+**• Utilizam a tática de reduzir toda escolha a uma sequência de decisões de sim ou não. Rotular, quantificar, aplicar padrões objetivos e analisar são técnicas que sustentam essa abordagem reducionista.**  
+**• Seu processo de tomada de decisão utiliza dados mensuráveis e quantificáveis que podem ser avaliados em uma matriz binária. Isso fornece a estrutura para as decisões de sim ou não.**  
+• Buscam igualdade por meio da aplicação consistente das regras. A necessidade de abrir exceções às regras indica a necessidade de aprimorá-las. Um mundo perfeito teria regras perfeitas, de modo que exceções nunca precisariam ser feitas.  
+**• Embora os resultados finais possam ser seu foco consciente, o ato de concluir tarefas é, em si, a força motriz.**  
+• A conclusão de tarefas é sua recompensa, e a necessidade de uma sensação de movimento em direção à conclusão é poderosa. Contratempos ou uma sensação de estagnação podem ser muito frustrantes.
+• Se não conseguem alcançar o fechamento da conclusão de uma tarefa, o progresso mensurável é tranquilizador.  
+• Uma série de metas de curto prazo, intermediárias, ou marcos pode ser muito útil como forma de mostrar que o progresso, de fato, está sendo feito.  
+**• Se não tiverem sensação de progresso ou sentirem que uma tarefa está atrasada, isso pode levar a altos níveis de frustração, até mesmo ansiedade ou pânico.**  
+• Tendem a focar na tarefa em mãos, não nas ramificações mais amplas.  
+• Podem, por exemplo, deixar de considerar o impacto na equipe de trabalho ao escolher o caminho mais eficiente para atingir um objetivo.  
+**• Frequentemente precisam verbalizar o processo — pensar em voz alta.**
+
+## VISTO DE FORA, OLHANDO PARA DENTRO  
+
+Quando vivenciamos pessoas que estão engajando seu Pensamento Extravertido preferido, elas:
+	• Esforçam-se para garantir que tudo e todos sejam tratados de forma igual, seguindo políticas e procedimentos.  
+	• Parecem manter um padrão de igualdade que orienta a forma como tratam as pessoas.  
+	• Prosperam em uma hierarquia em que os relacionamentos são guiados por regras claras, como nas forças armadas, na Igreja Católica ou em uma estrutura corporativa tradicional.  
+	**• Querem saber qual é o objetivo ou resultado desejado antes de iniciar uma tarefa.**  
+	**• Podem ser consideradas confiáveis por sempre terem um plano de contingência.** 
+	**• Frequentemente são as primeiras a produzir resultados quando recebem uma tarefa. Os resultados quase sempre são quantificáveis.**  
+	• Produzem os critérios necessários para que uma equipe tome decisões.  
+	• Frequentemente usam uma lista de verificação para garantir que as tarefas sejam concluídas.  
+	• Precisam organizar fisicamente seu espaço pessoal e às vezes tentam organizar o espaço dos outros.  
+	• Precisam falar sobre a lógica e as premissas subjacentes das decisões.  
+	**• Não costumam dizer “eu acho”; isso é implícito. Quase tudo o que você ouve delas é pensamento verbalizado.**  
+	• Podem ser percebidas como frias, já que o que você ouve é sua lógica objetiva e impessoal.  
+	**• Frequentemente dão a entender “você deveria” ou “eles deveriam” quando expressam uma opinião.**  
+	• Muitas vezes soam mais rígidas do que realmente são. Pensar em voz alta soa muito como declarar decisões. Na realidade, enquanto ainda estão falando, provavelmente ainda não chegaram a uma decisão final.  
+	• Podem anteceder tudo o que dizem com uma visão geral do que vão dizer, como: “Precisamos cortar custos. Aqui está um esboço geral de como podemos fazer isso.”  
+	• Geralmente tentam determinar se alguém é competente e se suas informações são críveis e objetivas antes de ouvir o que essa pessoa tem a dizer.  
+	• Frequentemente começam com uma agenda distinta, depois fazem referência às regras aplicáveis e então passam por uma série de mini-decisões que levarão à decisão final: Qual resultado é mais desejável? Qual ação produzirá esse resultado? Que equipe será necessária para apoiar essa ação?  
+	**• Podem parecer duros e críticos para as pessoas ao seu redor. Pensar é, por definição, crítico.**  
+	**• Cuidam das pessoas de forma ampla e sistêmica. Tendem, por exemplo, a tentar consertar o sistema de saúde em vez de focar em cuidar dos problemas de saúde individuais.**  
+	• Têm uma posição defensável para toda pergunta ou questão.  
+	• Têm uma justificativa lógica para cada ação.  
+	• Tendem a ser decisivas. As decisões geralmente são “positivo” ou “negativo”, sem zona cinzenta.  
+	**• Buscam fechamento. Sentem-se desconfortáveis em passar para outra tarefa antes de concluir a que estão fazendo**.  
+	• Às vezes podem levar o impulso de alcançar o fechamento ao extremo por meio de uma lógica desapegada. Isso pode se tornar um estado mental em que os fins parecem justificar os meios.  
+	• Parecem propensas a se tornar defensoras firmes e aplicadoras das leis e regras vigentes. Frequentemente estão envolvidas na criação das leis ou regras.  
+	• São muito sistemáticas e estruturadas.
+
+## CONTRIBUIÇÕES  
+
+Perspectivas e abordagens especiais do Pensamento Extravertido
+	• A visão newtoniana de um universo que consiste em objetos que agem uns sobre os outros de maneiras previsíveis e quantificáveis.  
+	• Leis, regras, regulamentos e procedimentos operacionais padrão.  
+	• Sistemas lógicos e padronizados de arquivamento.  
+	• Esboços.  
+	• Priorização.  
+	• Fornecer estrutura lógica para permitir que organizações alcancem o resultado desejado.  
+	• Dar aos outros um ponto de partida para seu trabalho ou discussão ao apresentar uma posição específica.  
+	• Igualdade.
+
+## POR DENTRO  
+
+Descrições parafraseadas de como é tomar decisões por meio do Pensamento Extravertido preferido
+	• Gosto de riscar itens de listas de “a fazer”. Se uma tarefa concluída não está na minha lista, posso colocá-la lá e depois riscá-la para me dar uma sensação de realização.  
+	• Não importa o que seja, preciso analisar ou organizar.  
+	**• Preciso falar para pensar.**  
+	• Quando alguém me faz uma pergunta, muitas vezes começo simplesmente a falar. Posso não saber a resposta até me ouvir dizendo.  
+	• Gosto de debates respeitosos e impessoais porque é assim que penso.  
+	• Tenho muito o hábito de falar para esclarecer meus pensamentos.  
+	• Odeio quando pessoas no trabalho tentam interromper um bom debate, confundindo-o com uma discussão. A conversa me dá novas ideias e me permite trabalhá-las com os outros.  
+	• Consigo levar a análise de algo apenas até certo ponto na minha própria cabeça. Para ir mais fundo, preciso de alguém como minha caixa de ressonância. Se não consigo fazer isso, então escrever, diagramar, fazer esboços ou até falar em voz alta comigo mesmo é útil.  
+	• Vejo competência como algo extremamente importante. Busco competência em tudo o que faço.  
+	• Fico frustrado quando consigo ver a ordem lógica das coisas e os outros se recusam a vê-la ou discuti-la.  
+	• As ideias de dados ponderados e escalas deslizantes entram em conflito com minha necessidade de uma aplicação uniforme e imparcial de padrões e regras.  
+	• Minha inclinação para o debate faz com que alguns me vejam como zangado ou confrontacional.  
+	• Acredito que sempre há uma ordem, lei, regra ou regulamento a ser seguido, embora às vezes isso não seja óbvio para os outros.  
+	• Valorizo muito a competência nos outros e em mim mesmo. É algo que sempre procuro. Sinto-me realmente atraído por pessoas competentes e orientadas a resultados.  
+	• Posso não saber muito sobre um tópico, mas tenho uma opinião. Saberei mais sobre o que é depois que começar a falar.  
+	• Sei que posso parecer frio e impessoal.  
+	• Digo “Esteja preparado!” Sempre tenho um plano de contingência. Na verdade, tenho planos de contingência para meus planos de contingência.  
+	• Sempre chego às reuniões preparado, com uma agenda, e no horário.  
+	• Imagino vários arquivos, cada um rotulado de acordo com um sistema. Cada arquivo tem gavetas rotuladas, que contêm divisórias claramente identificadas, que por sua vez guardam pastas claramente rotuladas. Organizo por meio de um sistema externo, que outros podem compreender rápida e claramente.  
+	• Automaticamente preparo esboços para tudo. É a minha forma de estruturar um problema para saber como enfrentá-lo. Na escola, comecei todos os meus trabalhos fazendo um esboço, fosse isso exigido ou não.  
+	• Criar e melhorar estruturas no meu trabalho é empolgante.  
+	• Tudo pode ser reduzido a causa e efeito.  
+	• Tenho o ano inteiro planejado com antecedência.  
+	• Se não sei exatamente como e quando vou realizar tarefas, fico preocupado por não conseguir fazer tudo.  
+	• Há um lugar para tudo e tudo tem seu lugar.  
+	• Tenho muita dificuldade com o conceito de paradoxo. A ideia de que duas explicações aparentemente contraditórias possam ser ambas verdadeiras me deixa confuso. Tem que ser uma ou outra.
+	**• Preciso “discutir” minhas ideias com meu parceiro. Mesmo que eu não esteja realmente ouvindo o que ele diz, preciso dele como uma caixa de ressonância. Na verdade, estou principalmente ouvindo a mim mesmo para descobrir o que penso.** 
+	• Preciso de estrutura externa. Tenho certeza de que é por isso que fiz carreira no exército.  
+	• Gosto de equilibrar meu talão de cheques e organizar meus pertences e espaços.  
+	• Organizo e orquestro tudo. Até minhas férias são planejadas nos mínimos detalhes. Minha família insiste que deve haver alguma espontaneidade, então coloco horários para isso na agenda também.  
+	• Gosto de planejar férias. Gosto mais do planejamento do que das férias em si. Quando viajamos de carro, sempre tenho vários planos de backup: uma melhor rota, uma melhor rota alternativa, e assim por diante.  
+	• Na minha garagem, tracei o contorno de cada ferramenta na parede, no lugar onde ela deve ficar, para que não haja erro sobre o que vai onde.  
+	• Quando revisei este manuscrito, soube imediatamente quando uma frase não estava estruturada corretamente.
+
+## VINHETAS  
+
+Cenas do mundo do Pensamento Extravertido
+	• Em um exercício em grupo de “tipos semelhantes”, nosso grupo teve que identificar primeiro as prioridades. O que é mais importante? O que é menos importante? Metade do nosso tempo foi usada para criar estrutura dessa forma e identificar o objetivo e o resultado desejado. Depois disso, pudemos rapidamente prosseguir para a realização da tarefa em si.  
+	• Com a intenção de dizer que ela “pensa falando”, uma participante de um workshop afirmou que ela “fala pensando”. Foi um deslize compreensível. Para ela, falar e pensar são essencialmente sinônimos.  
+	• Em exercícios de workshop focados em tarefas, os membros desse grupo de tipo semelhante quase sempre mapeiam como irão abordar a tarefa antes de fazer qualquer outra coisa. Eles criam uma linha do tempo ou delineiam as etapas a serem seguidas para alcançar o objetivo.  
+	• Em um exercício de workshop, esse grupo de tipo semelhante achou extremamente desconfortável ser solicitado a determinar critérios a serem usados na tomada de decisão, quando as informações fornecidas não eram suficientes para criar bons critérios. A falta de dados, combinada com o impulso de concluir a tarefa, criou uma situação que foi muito estressante.
+
+## DONS  
+Forças únicas do Pensamento Extravertido
+	• Organizar ideias, objetos, informações e assim por diante no mundo externo para ajudar os outros a compreendê-los e usá-los.  
+	• Resumir e codificar a visão e a moralidade compartilhadas de uma nação ou cultura em leis.  
+	• Liderar a tomada de decisões lógicas em grupo.  
+	• Decisão.  
+	• Planejamento de contingência.  
+	• Confiabilidade na conclusão de tarefas.  
+	• Tratamento igualitário de todos.  
+	• Objetividade.
+
+---
+
 

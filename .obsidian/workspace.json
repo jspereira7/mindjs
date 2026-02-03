@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Building Blocks Of Personality - Functions"
             }
+          },
+          {
+            "id": "4d0ba88eb88ec070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Web Scraping - Guia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Web Scraping - Guia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Web Scraping - Guia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building Blocks Of Personality - Functions"
+              "title": "Outline of Web Scraping - Guia"
             }
           }
         ],
@@ -140,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Web Scraping - Guia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Building Blocks Of Personality - Functions"
+              "title": "Graph of Web Scraping - Guia"
             }
           },
           {
@@ -303,11 +328,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "6277113b9414d951",
+  "active": "4d0ba88eb88ec070",
   "lastOpenFiles": [
+    "00.Notes/Building Blocks Of Personality - Functions.md",
+    "00.Notes/Web Scraping - Guia.md",
     "00.Notes/Idealistic Complexes Octagram 4.1.md",
     "00.Notes/Action plan 2026.md",
-    "00.Notes/Building Blocks Of Personality - Functions.md",
     "01.Assets/Anexos/Pasted image 20260131133648.png",
     "00.Notes/Ego Hacking by Cognitive Origins.md",
     "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md",
@@ -340,7 +366,6 @@
     "01.Assets/Anexos/Pasted image 20260119152633.png",
     "01.Assets/Anexos/Pasted image 20260119141720.png",
     "01.Assets/Anexos/Pasted image 20260119132646.png",
-    "00.Notes/Roberta Curso Iniciante tipologia.md",
     "01.Assets/Anexos/Pasted image 20260117184925.png",
     "01.Assets/Anexos/Pasted image 20260117184215.png",
     "01.Assets/Anexos/4_A002_AD1.mp4",
