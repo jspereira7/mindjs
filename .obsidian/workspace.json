@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6277113b9414d951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Building Blocks Of Personality - Functions"
-            }
-          },
-          {
             "id": "4d0ba88eb88ec070",
             "type": "leaf",
             "state": {
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "ea935813b8d7f7a1",
+            "id": "993632dbb7b1dea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md",
+                "file": "00.Notes/Deadly Sins x Living Virtues.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Cognitive Battlegrounds With Chris Taylor"
+              "title": "Deadly Sins x Living Virtues"
+            }
+          },
+          {
+            "id": "6277113b9414d951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Building Blocks Of Personality - Functions"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,21 +149,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md",
+                "file": "00.Notes/Deadly Sins x Living Virtues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Cognitive Battlegrounds With Chris Taylor"
+              "title": "Outline of Deadly Sins x Living Virtues"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md",
+                "file": "00.Notes/Deadly Sins x Living Virtues.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Cognitive Battlegrounds With Chris Taylor"
+              "title": "Graph of Deadly Sins x Living Virtues"
             }
           },
           {
@@ -352,11 +351,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "ea935813b8d7f7a1",
+  "active": "993632dbb7b1dea3",
   "lastOpenFiles": [
+    "00.Notes/Deadly Sins x Living Virtues.md",
+    "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Web Scraping - Guia.md",
     "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md",
-    "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Idealistic Complexes Octagram 4.1.md",
     "00.Notes/Action plan 2026.md",
     "01.Assets/Anexos/Pasted image 20260131133648.png",
@@ -383,7 +383,6 @@
     "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "01.Assets/Anexos/Pasted image 20260119223733.png",
     "00.Notes/Socionics - Resumo.md",
-    "00.Notes/The Critic.md",
     "01.Assets/Anexos/Pasted image 20260119171644.png",
     "01.Assets/Anexos/Pasted image 20260119160010.png",
     "01.Assets/Anexos/Pasted image 20260119152647.png",

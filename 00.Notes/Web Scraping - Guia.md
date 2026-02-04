@@ -10,5 +10,6 @@
 
 - Ao escrever scrapers, é importante pensar no padrão geral de seu código a fim de lidar com as exceções e, ao mesmo tempo, deixá-lo legível. É provável que você queira também fazer uma intensa reutilização de código. Ter funções genéricas como getSiteHTML e getTitle (completas, com todo o tratamento para exceções) facilita fazer uma coleta de dados da web de forma rápida – e confiável.
 
-- Então é isso, não tem mais jeito, acabou, boa sorte, é isso que tenho pra dizer... 
+---
+
 

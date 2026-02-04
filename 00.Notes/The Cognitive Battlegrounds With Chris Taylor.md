@@ -81,9 +81,15 @@ O conflito entre cada um dos Campos de Batalha é causado pela oposição ineren
 
 O Campo de Batalha da Inocência ocorre entre o Crítico e a Criança. No fim das contas, o velho Crítico está tentando ser uma Criança novamente, e a Criança está tentando se tornar sábia. Sua função Herói favorece sua Criança e, da mesma forma, seu Demônio favorece sua Criança — o Crítico. Ambas as funções têm um desejo de inocência.
 
-O Campo de Batalha da Inibição ocorre entre dois pontos sensíveis da sua mente: insegurança e preocupação. Não importa o quanto o Inferior e o Nêmesis estejam desenvolvidos, eles sempre têm o potencial de ser um ponto sensível. Eles o inibem, fazem você parar e pensar, olhar para trás e prosseguir com cautela. Ti e Fi Inferior/Nêmesis criam muitas inibições no pensamento, na lógica e na moralidade.
+O Campo de Batalha da Inibição ocorre entre dois pontos sensíveis da sua mente: insegurança e preocupação. Não importa o quanto o Inferior e o Nêmesis estejam desenvolvidos, eles sempre têm o potencial de ser um ponto sensível. 
 
-Há muitos entraves associados a isso. O Campo de Batalha da Inibição pode ser usado como outro vetor para tipagem. Onde estão seus entraves, preocupações e inquietações? Tenha cautela ao usar isso como vetor para tipar, mas pode ser útil.
+Eles o inibem, fazem você parar e pensar, olhar para trás e prosseguir com cautela. 
+
+Ti e Fi Inferior/Nêmesis criam muitas inibições no pensamento, na lógica e na moralidade.
+
+Há muitos entraves associados a isso. O Campo de Batalha da Inibição pode ser usado como outro vetor para tipagem. 
+
+Onde estão seus entraves, preocupações e inquietações? Tenha cautela ao usar isso como vetor para tipar, mas pode ser útil.
 
 ## IV. Qual é a diferença entre a tensão da Órbita Cognitiva e o conflito entre as Funções Refletoras? 
 
@@ -91,19 +97,54 @@ Chris: Na Órbita Cognitiva, a tensão é entre o Ego e a Sombra, não o Supereg
 
 O Superego está em competição direta e em desafio às forças do seu Ego. O Superego e as Funções Refletoras representam “a outra forma de fazer as coisas”.
 
-Vamos olhar para as duas primeiras funções de um Ego ENFP e de um Superego ESTP. Se-Demônio está dizendo ao Ne-Herói que “o que as pessoas querem não importa se elas não são fortes”. E Ti-Trapaceiro (o Pai do Superego) está dizendo ao Fi-Pai: “Você pode ficar aí sendo moral, mas agir ‘moralmente’ aqui não faz sentido”.
+Vamos olhar para as duas primeiras funções de um Ego ENFP e de um Superego ESTP. 
 
-Em todos os Campos de Batalha, uma função do Superego e uma do Ego lutam para ganhar o máximo de influência possível. As funções mais fortes do Ego são as mais fracas do Superego, e vice-versa. Tanto o Ego quanto o Superego pensam um do outro: seu jeito está errado, o meu jeito está certo.
+Se-Demônio está dizendo ao Ne-Herói que “o que as pessoas querem não importa se elas não são fortes”. 
 
-V. Queremos que as Funções Refletoras do nosso Ego vençam, certo?  
-Chris: A implicação de ter um “vencedor” está errada. Não há necessidade de “subjugar” o Superego, mas deixá-lo correr solto também não é a resposta. Você precisa entender que sua preferência pelo Ego é o que está levando o Superego a desafiar o Ego por espaço. O Superego não é o vilão da história.
+E Ti-Trapaceiro (o Pai do Superego) está dizendo ao Fi-Pai: “Você pode ficar aí sendo moral, mas agir ‘moralmente’ aqui não faz sentido”.
 
-No fim das contas, ainda é você. O Superego é apenas o caminho não escolhido. Ele e o Ego caminham na mesma direção, mas por trilhas diferentes. O objetivo final no uso das Funções Refletoras é equilibrá-las. Mas isso é extremamente difícil. Começa com tornar-se atento às alternâncias que ocorrem entre as Funções Refletoras em sua mente. Harmonia em vez de conflito — em vez de um vencedor — é o objetivo.
+Em todos os Campos de Batalha, uma função do Superego e uma do Ego lutam para ganhar o máximo de influência possível. 
 
-VI. Como você chegou às Funções Refletoras?  
-Chris: Tenho dificuldade em dizer que eu “criei” as Funções Refletoras. Houve muita formulação de hipóteses, experimentação e muitas conversas com pessoas nos tempos do Discord. Só mais tarde descobri que John Beebe tinha um conceito conhecido como “funções espelho”. Eu não fazia ideia de que ele tinha um conceito semelhante. Recomendo que as pessoas leiam o livro dele, Energies and Patterns in Psychological Type, para aprender mais. Mas não senti que o conceito estivesse muito desenvolvido nem mesmo no trabalho dele.
+As funções mais fortes do Ego são as mais fracas do Superego, e vice-versa. 
 
-Quanto ao desenvolvimento, comecei a desenhar as pilhas de funções de todos os tipos e a observar a forma como estavam organizadas. Eu meio que fiz engenharia reversa da grade de tipos e encontrei algumas correlações interessantes entre as Funções Cognitivas, os estilos de interação e os temperamentos. E vi que o Superego e o Ego se encontravam em um ponto intermediário. Um empurrava o outro para fora. Se o Ego e o Superego se encontravam dessa forma, então todas as outras funções tinham que fazer o mesmo. Por exemplo, com Ni e Si, você não pode olhar para o futuro e para o passado ao mesmo tempo. O mesmo vale para o restante das Funções Refletoras. É um ou outro.
+**Tanto o Ego quanto o Superego pensam um do outro: seu jeito está errado, o meu jeito está certo.**
+
+## V. Queremos que as Funções Refletoras do nosso Ego vençam, certo?  
+Chris: A implicação de ter um “vencedor” está errada. Não há necessidade de “subjugar” o Superego, mas deixá-lo correr solto também não é a resposta. 
+
+Você precisa entender que sua preferência pelo Ego é o que está levando o Superego a desafiar o Ego por espaço. 
+
+O Superego não é o vilão da história.
+
+No fim das contas, ainda é você. O Superego é apenas o caminho não escolhido. 
+
+Ele e o Ego caminham na mesma direção, mas por trilhas diferentes. 
+
+O objetivo final no uso das Funções Refletoras é equilibrá-las. Mas isso é extremamente difícil. 
+
+Começa com tornar-se atento às alternâncias que ocorrem entre as Funções Refletoras em sua mente. Harmonia em vez de conflito — em vez de um vencedor — é o objetivo.
+
+## VI. Como você chegou às Funções Refletoras?  
+Chris: Tenho dificuldade em dizer que eu “criei” as Funções Refletoras. Houve muita formulação de hipóteses, experimentação e muitas conversas com pessoas nos tempos do Discord. 
+
+Só mais tarde descobri que John Beebe tinha um conceito conhecido como “funções espelho”. 
+
+Eu não fazia ideia de que ele tinha um conceito semelhante. Recomendo que as pessoas leiam o livro dele, Energies and Patterns in Psychological Type, para aprender mais. Mas não senti que o conceito estivesse muito desenvolvido nem mesmo no trabalho dele.
+
+Quanto ao desenvolvimento, comecei a desenhar as pilhas de funções de todos os tipos e a observar a forma como estavam organizadas. 
+
+Eu meio que fiz engenharia reversa da grade de tipos e encontrei algumas correlações interessantes entre as Funções Cognitivas, os estilos de interação e os temperamentos. 
+
+E vi que o Superego e o Ego se encontravam em um ponto intermediário. 
+
+Um empurrava o outro para fora. Se o Ego e o Superego se encontravam dessa forma, então todas as outras funções tinham que fazer o mesmo. Por exemplo, com Ni e Si, você não pode olhar para o futuro e para o passado ao mesmo tempo. O mesmo vale para o restante das Funções Refletoras. É um ou outro.
 
 ## VII. Quem é você e há quanto tempo você acompanha o trabalho do Chase?  
-Chris: Entrei no servidor original do Discord 3 a 4 meses depois de ele ter sido criado. Para quem estava por lá naquela época, eu era o Raka. Então acompanho o Chase há cerca de três anos. Vou ser um dos episódios da temporada 18 em agosto, e vou começar minha própria iteração de “confissões” ou “reflexões” de um ENFP e conteúdos relacionados. Vou discutir meus pensamentos sobre as coisas em breve. Fiquem atentos aos desabafos do Ti-Trapaceiro!
+Chris: Entrei no servidor original do Discord 3 a 4 meses depois de ele ter sido criado. 
+
+Para quem estava por lá naquela época, eu era o Raka. Então acompanho o Chase há cerca de três anos. 
+
+Vou ser um dos episódios da temporada 18 em agosto, e vou começar minha própria iteração de “confissões” ou “reflexões” de um ENFP e conteúdos relacionados. 
+
+Vou discutir meus pensamentos sobre as coisas em breve. Fiquem atentos aos desabafos do Ti-Trapaceiro!
+

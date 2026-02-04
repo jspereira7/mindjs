@@ -1024,4 +1024,161 @@ Forças únicas do Pensamento Extravertido
 
 ---
 
+# PT 9 - Ti (Introverted Thinking)
+
+Neste capítulo, buscamos apresentar um retrato do Pensamento Introvertido “puro” que veríamos se pudéssemos cuidadosamente removê-lo de seu estado natural, onde é influenciado e colorido por todos os outros elementos da personalidade. 
+
+Embora nenhum processo exista de fato separado do restante da personalidade, o retrato a seguir reflete características centrais que entram em jogo sempre que o Pensamento Introvertido é acionado em nível consciente.
+
+O Pensamento Introvertido se assemelha mais claramente às descrições das páginas a seguir quando está na posição dominante (primeira).
+
+De fato, essas descrições são baseadas em informações de pessoas para as quais o processo é dominante (ISTP e INTP). 
+
+Mas mesmo com o Pensamento Introvertido na primeira posição, o que você observa varia de forma perceptível dependendo de outros fatores — particularmente se ele está emparelhado com Sensação Extravertida ou Intuição Extravertida na posição auxiliar (segunda).
+
+Para traçar um quadro completo da “essência” do Pensamento Introvertido, é preciso usar fragmentos que, individualmente, não conseguem demonstrar o Ti “puro”. 
+
+Assim como os respingos de cor em uma pintura impressionista, porém, os tópicos deste capítulo, quando considerados em conjunto, revelam um retrato vívido que permitirá reconhecer o Pensamento Introvertido quando você o vir. 
+
+Saber como o processo seria se pudesse ser separado de outras influências é a base da observação de processos, a prática que rapidamente o levará tão longe quanto você desejar na compreensão da personalidade.
+
+**O Pensamento Introvertido é um processo de tomada de decisão.** 
+
+Ele se concentra no mundo subjetivo e interno de princípios e verdades subjacentes, criando sistemas e categorias originais e atribuindo todas as informações a um lugar dentro da estrutura apropriada, com base na análise lógica. 
+
+**Busca alcançar precisão interna por meio da avaliação lógica e da tomada de decisão.**
+
+## PRINCIPAIS CARACTERÍSTICAS  
+
+**Pensamento Introvertido - Ti** 
+	• Possui um foco interno na análise lógica.  
+	• Quer tomar decisões com base em uma estrutura interna de princípios e verdades.  
+	• Cria um sistema de categorização preciso e refinado, em forma de grade, para organizar informações a fim de tomar decisões.  
+	• Constrói uma estrutura interna subjetiva para estruturar e orientar sua análise.  
+	• Foca em como as tarefas são realizadas.  
+	• Busca precisão interna.  
+	• **É impulsionado a compreender sistemas em termos de relações lógicas: se A, então B.**
+
+## O QUE ESTÁ ACONTECENDO?  
+
+**Pensamento Introvertido**
+	• Constrói uma estrutura lógica que contém categorias precisas.  
+	• Usa categorias que são criadas pelo indivíduo e são únicas para ele.  
+	**• Usa princípios que contêm relações lógicas. Diferentemente dos valores, eles podem ser debatidos, defendidos logicamente e revisados conforme necessário.**  
+	• Depende de princípios como base para a tomada de decisão analítica, da mesma forma que crenças são a base para decisões baseadas em valores.  
+	• Emprega sistemas e categorias para alcançar ordem interna e precisão.  
+	• Aplica-se bem à compreensão de processos de trabalho.
+
+**Quando as pessoas estão usando seu Pensamento Introvertido dominante:**
+	• Elas confiam e dependem de sua estrutura única de conceitos, princípios e conhecimentos sintetizados internamente.  
+	• Expandir princípios básicos as orienta na criação de seus sistemas e categorias originais de classificação.  
+	• Elas trabalham dentro de uma estrutura que é criada e usada internamente.  
+	• Categorias internas precisas são usadas para classificar informações do ambiente a fim de lidar com eventos externos atuais ou futuros.
+	• Elas usam ideias externas de maneiras únicas e subjetivas. As ideias encontradas no ambiente raramente são adotadas em sua forma original. *Elas são mais frequentemente usadas como matéria-prima para projetar e construir sistemas internos únicos.*  
+	**• Elas revisarão uma estrutura interna para integrar novas informações. Por exemplo, podem ter que lidar com um novo sistema de computador que funciona de forma muito diferente do antigo. Ele pode não se encaixar em sua lógica interna existente. Nesse caso, toda a sua estrutura interna deve ser recriada para incorporar as novas informações e novos procedimentos.**  
+	• Determinar o lugar de tudo no sistema e sua posição em relação a todo o resto é como elas dão sentido ao mundo.  
+	• Elas consideram criar, refinar e refinar novamente sistemas organizacionais como uma saída energizante para sua criatividade e originalidade.  
+	• Geralmente focam mais no processo de interação do grupo do que no objetivo do grupo.  
+	• Se novas informações não se encaixam no sistema de classificação existente, elas precisam criar uma nova categoria para isso. Às vezes, toda a estrutura deve ser reconstruída.  
+	• Elas usam um processo de pensamento cíclico, de foco progressivo. Passam por ciclos sucessivos de pensamento sobre algo, com o pensamento tornando-se cada vez mais refinado a cada ciclo.  
+	**• Elas precisam categorizar pessoas, objetos e eventos para identificá-los. A categorização envolve identificar propriedades e características de uma pessoa, objeto ou evento e, então, organizar em categorias cada vez mais precisas até que seja encontrado um lugar no sistema onde apenas aquele item se encaixa.**  
+	**• Sua lógica é objetiva, mas a estrutura dentro da qual ela opera é muito subjetiva. Assim, seu processo de tomada de decisão é um de lógica subjetiva.** 
+	• Elas se relacionam com as pessoas por meio de princípios orientadores como justiça e verdade.  
+	**• Elas querem saber exatamente como tudo funciona.**
+
+## VISTO DE FORA, OLHANDO PARA DENTRO
+
+Quando vivenciamos pessoas que estão engajando seu Pensamento Introvertido preferido, elas:
+	• Às vezes podem ser muito lentas para chegar a uma decisão. Se não existir uma categoria interna apropriada para acomodar novas informações ou eventos, elas precisam primeiro revisar, ou às vezes reinventar, toda a estrutura interna antes de tomar a decisão.  
+	• Às vezes parecem estar desvalorizando as pessoas, mas na verdade não estão fazendo um julgamento de valor algum.  
+	• Podem ficar confusas quando seu processo interno de pensamento não corresponde ao que está acontecendo no mundo externo.  
+	**• Podem demonstrar tensão e frustração com pessoas que chegaram a conclusões diferentes das suas. Isso não é incomum, pois seu processo interno de pensamento é único e geralmente não é compartilhado nem compreendido pelos outros.**  
+	• Defenderão seus princípios acima de tudo.  
+	• Podem soar pouco emocionais e desinteressadas ao discutir qualquer coisa que não se encaixe em sua estrutura interna.  
+	• Demonstram sua paixão ao tentar explicar seus pensamentos originais. Podem até demonstrar um senso de urgência se os outros não forem pacientes com sua explicação detalhada.  
+	**• Tendem a dizer demais ou de menos. Muitas vezes, o nível e o estilo de comunicação são determinados principalmente pelo quanto de tempo gastaram cuidadosamente elaborando os detalhes.**  
+	• Tendem a dizer “eu penso”. Estão cientes de seu processo pessoal de pensamento e querem que os outros reconheçam que há muita análise cuidadosa por trás de suas conclusões.  
+	• Frequentemente simplesmente declaram sua decisão ou apresentam sua conclusão sem qualquer explicação. A expectativa parece ser que a precisão da lógica que os levou àquela conclusão seja óbvia e incontestável.  
+	• Podem precisar que alguém os incentive a explicar como chegaram à sua conclusão ou decisão.  
+	• Resistirão obstinadamente a mudar sua posição.  
+	• Tendem a dizer “meu”, e não “nosso”, ao explicar o processo ou os resultados de uma tarefa de tomada de decisão. Mesmo que tenha sido um processo em grupo, para elas foi pessoal e interno.
+	• Tendem a usar uma linguagem cuidadosamente formulada e precisa.  
+	• Buscam precisão nos outros.  
+	• Frequentemente reformulam declarações de volta ao interlocutor para refinar sua compreensão. Outros podem interpretar isso como tentar superar o outro ou exibir sua inteligência. Na verdade, estão apenas tentando garantir que entenderam exatamente o que foi dito.  
+	• Tratam as opiniões das outras pessoas com respeito, embora estejam certos de que as suas próprias estão corretas. Todos têm direito a uma opinião.  
+	• Podem já ter tomado uma decisão, mas não contar a ninguém.  
+	**• Podem fazer muitas perguntas para tentar entender a decisão de outra pessoa.**  
+	• Geralmente não se interessam muito por tentativas de persuadi-las, nem se sentem ameaçadas por essas tentativas.  
+	• Parecem competir consigo mesmas. Normalmente reanalisam suas decisões, por exemplo, para ver como podem ser melhoradas.  
+	**• Podem ignorar a importância de seus relacionamentos com outras pessoas. Isso é especialmente verdadeiro se o relacionamento não se encaixa em nenhuma categoria de sua estrutura.**  
+	• Relutam em explicar seu pensamento. Expor seus pensamentos em voz alta deve ser feito com precisão, portanto pode ser cansativo e pode estar fadado ao fracasso se não lhes for dada a oportunidade de explicar completamente sua análise.  
+	• Muitas vezes não têm consciência de que sua estrutura de tomada de decisão não é universalmente compartilhada.  
+	• Geralmente assumem que sua conclusão ou decisão está correta, já que foram tão minuciosas e precisas em sua lógica.  
+	• Tendem a ficar impacientes com pessoas que consideram não estar refletindo sobre as consequências de suas próprias ações.  
+	**• Podem confundir os outros, pois conseguem desempenhar muito bem o papel de advogado do diabo. Podem mudar de lado no meio da frase e defender outra posição, levando outras pessoas a pensar que não conseguem se decidir.**  
+	• Geralmente são vistas pelos outros como muito inteligentes.  
+	• Tendem a esconder o estresse. Muitas vezes mantêm uma expressão neutra diante dos outros, e as pessoas não sabem ao certo o que realmente está acontecendo com elas.  
+	• Normalmente seus principais interesses são intelectuais e podem não ser muito úteis em situações sociais. Isso tende a ser particularmente verdadeiro no início da vida, quando o Pensamento Introvertido é o foco do desenvolvimento de seu tipo.  
+	• Geralmente não são externamente emocionais.
+
+## CONTRIBUIÇÕES  
+Perspectivas e abordagens especiais do Pensamento Introvertido
+	• Classificação binomial (o sistema segundo o qual todos os organismos vivos são nomeados com base em categorias definidas pelas características compartilhadas dos organismos naquela categoria, e cada categoria é ainda dividida em subcategorias cada vez mais específicas)  
+	**• Habilidade para fazer o papel de advogado do diabo**  
+	• Incorporar todos os dados logicamente conectados às decisões  
+	• Lógica precisa  
+	• Teorias unificadas, como a relatividade, o big bang e a teoria quântica  
+	• Encontrar novas maneiras de analisar ou organizar  
+	• “Justiça” como princípio orientador  
+	• “Verdade” como princípio orientador
+
+## DE DENTRO  
+
+Descrições parafraseadas de como é tomar decisões por meio do Pensamento Introvertido preferido
+	• Como professor, é difícil para mim facilitar interações em grupo porque quero entrar nas discussões e debates.  
+	• É difícil admitir quando estou errado, porque investi muito tempo e energia em tomar uma decisão. Eu realmente pensei nisso com cuidado.  
+	**• Eu sempre quero saber como fazer as coisas e como as coisas funcionam.**  
+	• Já fui chamado de “teimoso como uma mula” quando outros tentaram me forçar a pensar de forma diferente.  
+	• Minha mente é como uma grade com rótulos em todas as coordenadas. Se você olhasse através de uma lupa, poderia ver que cada uma dessas interseções é, na verdade, composta por uma grade mais fina, que por sua vez é composta por grades ainda mais finas, e assim por diante, com rótulos de categorias correspondentes cada vez mais refinados e precisos.  
+	• Tenho uma imagem mental de mim mesmo sempre peneirando terra com uma tela para separar as partículas sem valor. Estou tentando descobrir o que é importante e onde empilhar isso para uso posterior. Sob estresse, pareço aumentar o aspecto de triagem das minhas atividades e me vejo incapaz de tomar decisões sobre o que fazer com os dados que coleto.
+	**• Durante toda a minha vida pensei que pudesse ter algum tipo de dificuldade de aprendizagem. Quase tudo na escola parecia chegar a mim muito mais lentamente do que aos outros. A escola primária, em particular, recompensava as crianças que levantavam a mão ou gritavam as respostas primeiro. Agora percebo que eu apenas precisava de tempo para deixar minha lógica interna fazer o seu trabalho.**  
+	• A resposta era clara para mim, mas difícil de explicar com a precisão que ela tinha na minha mente.  
+	**• Gosto de trabalhar sozinho e resolver as coisas do meu próprio jeito. Não tente me microgerenciar.**  
+	• As leis são importantes, mas sou seletivo quanto às que respeito ou sigo.  
+	• Posso debater facilmente uma questão a partir de qualquer posição.  
+	**• Preciso que meu trabalho permita horários flexíveis e me deixe ser criativo e independente.**  
+	• Sou controlador comigo mesmo.  
+	• Pensar sobre algo é como usar uma série de filtros; cada filtro classifica a informação em uma categoria mais refinada até que eu encontre a subcategoria única à qual apenas aquele item pertence.  
+	• Uma vez que uma estrutura foi construída, posso lidar de forma rápida e fácil com novas informações, desde que elas possam ser colocadas no contexto apropriado dentro da estrutura.  
+	• Sinto enorme satisfação em conseguir criar ordem na minha mente a partir de dados caóticos.  
+	**• Sou muito independente. É difícil para mim ceder para chegar a um consenso com os outros. Prefiro muito mais continuar discordando do que ser forçado a concordar.**  
+	• Minha lógica independente muitas vezes me leva a conclusões que podem ser muito impopulares. Raramente as digo em voz alta para alguém, exceto para meus amigos mais confiáveis.  
+	**• Embora eu não seja uma pessoa combativa, se verbalizo meu pensamento, as pessoas frequentemente acham que estou atacando, porque ele geralmente é tão contraditório ao delas.**  
+	• Em exercícios de grupo “por tipo”, nosso grupo geralmente pensa bastante antes de começar a registrar qualquer coisa no flip chart.
+
+## VINHETAS  
+
+**Cenas do mundo do Pensamento Introvertido**
+	• Ao relatar após um exercício, os membros individuais desse grupo “de tipo semelhante” geralmente elaboram sobre o que foi escrito no flip chart. Eles querem garantir que sua própria perspectiva única seja compreendida. Não sentem necessidade de chegar a um consenso sobre o que está apresentado no flip chart; apenas de assegurar que todas as diferentes ideias sejam apresentadas.  
+	**• Minha esposa fica chateada comigo por causa da minha necessidade de categorizar antes de agir. Vivemos em uma área rural que tem muitos insetos. Quando ela vê um inseto na parede ou no teto, ela me manda levantar e matá-lo. Primeiro preciso determinar como ele entrou, que tipo de inseto é, como matá-lo, se vai fazer sujeira na parede e como vou descartá-lo. Ela espera que eu reaja imediatamente, mas eu não consigo até completar minha análise.**  
+	*• Um homem que sempre questionou suas habilidades como escritor finalmente aprendeu que seu estilo interno, muito preciso, de escrever simplesmente leva mais tempo e usa um processo diferente daquele que lhe foi ensinado na faculdade. Quando decidiu simplesmente fazer do seu próprio jeito, acabou se tornando um escritor muito competente.*  
+	• Em um exercício de tomada de decisão em grupo, as restrições de tempo foram muito desafiadoras para nosso grupo “de tipo semelhante”. O curto espaço de tempo não permitiu nosso processo interno de lógica nem a interação de grupo que eram necessários. Antecipando isso, optamos por desistir da tarefa e transformamos a atividade em um jogo no qual defendíamos várias posições diferentes.  
+	• A busca por precisão pode levar à confusão para os outros. Em um workshop, um participante apresentou a frase “maximizar o resultado” como sua conclusão ao final de um exercício. Ele havia trabalhado longa e intensamente em sua mente para chegar a essa expressão perfeita do pensamento, mas ninguém mais sabia o que ele queria dizer. De fato, alguns participantes acharam que ele estava tentando exibir sua inteligência ao formular sua conclusão de uma forma que eles não conseguiam entender. Quanto mais precisamente elaborada a redação, melhor ela pode expressar uma ideia única que não será completamente compreendida por mais ninguém. Pode ser necessário “traduzir” isso para uma terminologia mais geral e compartilhada para que os outros entendam.
+
+## DONS  
+**Forças únicas do Pensamento Introvertido**
+	• Ver a estrutura subjacente de pressupostos e as sequências lógicas  
+	• Avaliação e planejamento do fluxo de processos organizacionais  
+	• Habilidade para pensar fora da caixa: perspectivas e percepções não convencionais  
+	• Detectar a ilogicidade da sabedoria convencional e a disfunção em comportamentos comumente aceitos  
+	• Capacidade de apresentar novas explicações ou conclusões sem envolvimento do ego  
+	• Cortar a negação pela raiz  
+	• A aura tranquilizadora de estabilidade que vem de sempre ter um princípio ancorando decisões e ações  
+	• Pensamento sistêmico
+
+---
+
+
+
+
 
