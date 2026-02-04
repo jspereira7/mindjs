@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3e6cf5b72699d044",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "6277113b9414d951",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,7 +363,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "993632dbb7b1dea3",
+  "active": "3e6cf5b72699d044",
   "lastOpenFiles": [
     "00.Notes/Deadly Sins x Living Virtues.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
