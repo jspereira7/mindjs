@@ -1,5 +1,6 @@
 # PT 3: FROM FOUR DICHOTOMIESTO EIGHT MENTAL PROCESSES TO SIXTEEN TYPES
 
+
 **PERCEPÇÃO E JULGAMENTO**
 
 Como dissemos, toda a atividade psíquica humana pode ser vista como dedicada a duas tarefas simples que são essenciais para nossa sobrevivência: captar informações e tomar decisões. 

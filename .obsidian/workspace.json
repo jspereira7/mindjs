@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d0ba88eb88ec070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Web Scraping - Guia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Web Scraping - Guia"
-            }
-          },
-          {
             "id": "993632dbb7b1dea3",
             "type": "leaf",
             "state": {
@@ -56,18 +32,6 @@
             }
           },
           {
-            "id": "3e6cf5b72699d044",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
             "id": "6277113b9414d951",
             "type": "leaf",
             "state": {
@@ -89,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Building Blocks Of Personality - Functions"
+            }
+          },
+          {
+            "id": "4d0ba88eb88ec070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Web Scraping - Guia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Web Scraping - Guia"
             }
           }
         ],
@@ -174,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -200,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Deadly Sins x Living Virtues.md",
+                "file": "00.Notes/Web Scraping - Guia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Deadly Sins x Living Virtues"
+              "title": "Graph of Web Scraping - Guia"
             }
           },
           {
@@ -363,11 +352,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "3e6cf5b72699d044",
+  "active": "4d0ba88eb88ec070",
   "lastOpenFiles": [
-    "00.Notes/Deadly Sins x Living Virtues.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Web Scraping - Guia.md",
+    "00.Notes/Deadly Sins x Living Virtues.md",
     "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md",
     "00.Notes/Idealistic Complexes Octagram 4.1.md",
     "00.Notes/Action plan 2026.md",
