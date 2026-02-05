@@ -154,6 +154,8 @@ O programa usa Selenium, ChromeDriver e uma biblioteca chamada BrowserMob Proxy 
 
 Várias partes são necessárias para que esse projeto execute. A primeira é o software propriamente dito.
 
+----
+
 
 
 

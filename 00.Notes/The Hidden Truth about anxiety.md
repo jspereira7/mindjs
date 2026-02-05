@@ -26,6 +26,10 @@ Eles te convencem que a ansiedade é um problema, e então depois te oferecem um
 
 ---
 
+> Você precisa ser mais responsavel = Responder ao estresse/ansiedade, e não ao avoidance, a evitação. 
+
+Você precisa deixar se levar aonde a vida quer te levar
+
 
 
 
