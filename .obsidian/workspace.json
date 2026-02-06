@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Building Blocks Of Personality - Functions"
             }
-          },
-          {
-            "id": "4d0ba88eb88ec070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Web Scraping - Guia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Web Scraping - Guia"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +69,21 @@
         "id": "cf497fdef67649d5",
         "type": "tabs",
         "children": [
+          {
+            "id": "746679b26d449cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Building Blocks Of Personality - Functions"
+            }
+          },
           {
             "id": "cf321efad4a60738",
             "type": "leaf",
@@ -122,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,28 +133,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "746679b26d449cbc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00.Notes/Deadly Sins x Living Virtues.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Deadly Sins x Living Virtues"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -189,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Web Scraping - Guia.md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Web Scraping - Guia"
+              "title": "Graph of Building Blocks Of Personality - Functions"
             }
           },
           {
@@ -352,10 +327,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "4d0ba88eb88ec070",
+  "active": "6277113b9414d951",
   "lastOpenFiles": [
-    "00.Notes/The Hidden Truth about anxiety.md",
+    "00.Notes/Site com cursos ouros gringos.md",
+    "00.Notes/Cursos Ouro Premium v2.md",
     "00.Notes/Web Scraping - Guia.md",
+    "00.Notes/The Hidden Truth about anxiety.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Deadly Sins x Living Virtues.md",
     "00.Notes/The Cognitive Battlegrounds With Chris Taylor.md",
@@ -377,12 +354,10 @@
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "00.Notes/Witness.md",
     "00.Notes/How to type yourself 2.0.md",
-    "00.Notes/Cursos Ouro Premium v2.md",
     "00.Notes/Cognitive emulation.md",
     "00.Notes/SD-UD (Open x Closed).md",
     "00.Notes/Tabela das funções MBTI & Socionics.md",
     "00.Notes/The Seeker.md",
-    "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "01.Assets/Anexos/Pasted image 20260119223733.png",
     "01.Assets/Anexos/Pasted image 20260119171644.png",
     "01.Assets/Anexos/Pasted image 20260119160010.png",

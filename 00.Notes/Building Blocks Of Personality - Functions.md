@@ -1179,7 +1179,135 @@ Descrições parafraseadas de como é tomar decisões por meio do Pensamento Int
 
 ---
 
+# Extraverted Feeling (Fe)
 
+Neste capítulo, buscamos apresentar um retrato do “puro” Sentimento Extravertido que veríamos se pudéssemos cuidadosamente removê-lo de seu estado natural, no qual ele é influenciado e colorido por todos os outros elementos da personalidade.
 
+Embora nenhum processo seja realmente separado dos demais da personalidade, o retrato que se segue reflete características que estão em jogo sempre que o Sentimento Extravertido está engajado em nível consciente.
 
+O Sentimento Extravertido assemelha-se mais claramente às descrições nos trechos seguintes quando está na posição dominante (primeira).
 
+De fato, essas descrições são baseadas em informações de pessoas para quem o processo é dominante (ESFJ e ENFJ). 
+
+Mas mesmo com o Sentimento Extravertido na primeira posição, o que você observa varia bastante dependendo de outros fatores — particularmente se ele está emparelhado com a Sensação Introvertida ou com a Intuição Introvertida na posição auxiliar (segunda).
+
+Para traçar um quadro completo da “essência” do Sentimento Extravertido, é preciso incluir os fragmentos que não podem, isoladamente, demonstrar o “puro” Sentimento Extravertido. 
+
+Como os toques de cor em uma pintura impressionista, porém, os tópicos neste capítulo, quando considerados em conjunto, revelam um retrato vívido que permitirá reconhecer o Sentimento Extravertido quando você o vir. 
+
+Saber como o processo se pareceria se pudesse ser separado de outras influências é a base da observação de processos, a prática que rapidamente o leva, como arte, a uma compreensão da personalidade.
+
+O Sentimento Extravertido é um processo de tomada de decisões.
+
+Ele se concentra no mundo externo objetivo, usando sistemas de valores culturais e atribuindo a todas as coisas um lugar dentro de um sistema apropriado, com base no valor qualitativo. 
+
+**O Fe quer fazer escolhas e iniciar ações que criem e mantenham harmonia no mundo exterior.**
+
+**CARACTERÍSTICAS PRINCIPAIS**  
+
+- Sentimento Extravertido
+	• É um processo objetivo de tomada de decisão que busca criar ou manter harmonia no ambiente.  
+	• Tem um foco externo que é primariamente voltado para as pessoas e seus relacionamentos.  
+	• Avalia pessoas, eventos, situações e objetos em termos de seus efeitos sobre as pessoas.  
+	• É ativamente preocupado com as necessidades, desejos e valores dos outros.  
+	• Prefere evitar conflitos que possam se tornar pouco produtivos em situações que envolvem outra pessoa.  
+	• Estabelece e mantém convenções sociais.  
+	• É motivado a interagir com as pessoas.
+
+**O QUE ESTÁ ACONTECENDO?**  
+
+- Sentimento Extravertido
+	• Usa valores culturais e sociais e normas como ponto de partida para a tomada de decisões.  
+	• Procura entender o que é importante para os outros.  
+	• Quer compreender as necessidades, desejos e valores das pessoas em termos de como elas apoiam e se alinham aos valores da sociedade e de subculturas, como organizações.  
+	• Busca ajudar a manter a harmonia externa.  
+	• Foca na harmonia interpessoal e nos relacionamentos.  
+	• É orientado por valores, não por lógica. Embora seja racional e objetivo, o processo é avaliativo.  
+	• Busca harmonia externa, mesmo que isso tenha o custo de criar conflito interno.
+
+**Quando as pessoas estão usando seu Sentimento Extravertido preferido**
+	• O valor social é a principal prioridade delas.  
+	• Tendem a focar mais na sociedade e nos grupos do que em indivíduos específicos.
+	• O valor ou mérito de algo orienta suas ações. Por exemplo, provavelmente obedecerão aos limites de velocidade para evitar machucar alguém, em vez de porque poderiam ser pegas e multadas.  
+	• Têm uma consciência aguçada do impacto das decisões sobre os outros.  
+	• São presenças fortes em qualquer ambiente. Todos percebem que estão ali.  
+	• Seus valores orientam suas ações por meio de “deveres” e “não deveres”.  
+	• Buscam ter um impacto positivo nas pessoas e evitar machucar alguém.  
+	• Querem nutrir as pessoas, independentemente de as pessoas quererem ou precisarem ser nutridas.  
+	• Ao tomar decisões, geralmente avançam muito rapidamente para um fechamento.  
+	• Frequentemente defendem pessoas e expressam seus valores assumindo causas.  
+	• Todas as suas decisões levam em conta o impacto sobre as pessoas.  
+	• Tendem a negligenciar suas próprias necessidades emocionais e físicas.  
+	• Precisam discutir seus pensamentos e preocupações sobre as pessoas com outras pessoas.  
+	• Buscam cuidar de todos física, emocional e espiritualmente.  
+	• Muitas vezes têm muita dificuldade em focar em cuidar de si mesmas. É comum que suas próprias necessidades físicas sejam negligenciadas até que uma crise de saúde pessoal exija sua atenção.  
+	• Garantir que as pessoas se sintam valorizadas é uma alta prioridade.  
+	• Mantêm os padrões de valores e comportamentos sociais.
+
+**VISTO** **DE** **FORA**, **OLHANDO** **PARA** **DENTRO**  
+
+- Quando vivenciamos pessoas que estão engajando seu Sentimento Extravertido preferido, elas
+	• Parecem saber a coisa apropriada a dizer ou fazer em toda situação.  
+	• Tendem a casamentos e funerais, por exemplo, para mostrar que se importam.  
+	• Focam seus relacionamentos com as pessoas.  
+	• Tendem a cuidar das necessidades das pessoas de forma coletiva com mais frequência do que individualmente.
+	• Mantêm as normas culturais de uma sociedade, de um país, de uma organização empresarial e de grupos cívicos e religiosos.  
+	• Atuam como guardiões das convenções sociais, da etiqueta, da polidez e do comportamento aceitável.  
+	• Tendem a lembrar e celebrar todas as ocasiões especiais, como aniversários e datas comemorativas. Geralmente são eles, em uma organização, que compram os bolos, flores e cartões para os outros.  
+	• Geralmente colocam os outros à frente de si mesmos.  
+	• Parecem determinados a ajudar as pessoas, queiram elas ser ajudadas ou não.  
+	• Podem ir a extremos para fornecer o que consideram necessário para manter a harmonia externa. Isso às vezes tem um alto custo pessoal. Com frequência adaptam seu estilo e comportamento ao grupo do qual fazem parte.  
+	• Personalizam o desconforto ou a dor dos outros. Parecem movidos a impedir que os outros fiquem constrangidos ou magoados.  
+	• Observam os pequenos detalhes que lubrificam a interação social. Dizer “por favor” e “obrigado”, por exemplo, ajuda a manter relacionamentos harmoniosos.  
+	• Não costumam dizer “eu sinto”. Sua linguagem tende a ser inclusiva, em vez de pessoal. Por exemplo, usam muito a palavra “nós”.  
+	• Oferecem elogios sinceros e esperam recebê-los em troca.  
+	• Dizem ou sugerem “deveria” com frequência na tentativa de impor regras sociais.  
+	• Fazem o que é esperado ou apropriado para uma situação. Podem elogiar algo, por exemplo, porque isso é a reação socialmente correta.  
+	• Podem parecer insinceros ou “bons demais”.  
+	• Trabalham para garantir que todos sejam incluídos, ouvidos e respeitados.  
+	• Frequentemente perguntam: “O que você acha?” ou “Você está bem com isso?”.  
+	• Se solidarizam com os outros e dizem isso em voz alta.  
+	• Frequentemente expressam o conteúdo emocional de um grupo.  
+	• Encaram conversas como uma forma de ação. Você pode ouvi-los usar frases como “vamos falar sobre isso”, “podemos resolver isso” e “duas cabeças são melhores do que uma”.  
+	• Ouvem com empatia as preocupações, questões e histórias das pessoas. Sempre respondem para que as pessoas saibam que foram ouvidas.
+	• Sempre parecem saber as palavras certas a dizer. São escritores naturais de cartões de felicitação.  
+	• Valorizam relacionamentos de trabalho harmoniosos.  
+	• Consideram calor humano e companheirismo extremamente importantes.  
+	• Assumem pessoalmente indiferença e respostas impessoais.  
+	• Vão muito além para dar e receber validação.  
+	• Podem perceber de repente que não estão sendo cuidadas. Podem sentir-se martirizadas e ficar zangadas com aqueles que veem como negligenciando suas obrigações.  
+	• Geralmente são as que se sentem responsáveis por trazer à tona questões que ameaçam a família, como a necessidade de equilibrar prioridades familiares com demandas externas.  
+	• Estão disponíveis e presentes para os outros.  
+	• Podem iluminar um ambiente com sua presença.  
+	• Trabalham ativamente e incansavelmente para manter a harmonia em seu ambiente.  
+	• Podem se tornar defensoras de causas sociais.  
+	• Geralmente são percebidas como alegres, atenciosas e boas conversadoras.  
+	• Tendem a ser as anfitriãs perfeitas.  
+	• Organizam sua casa e espaço de trabalho para promover o conforto de seus convidados. Podem garantir cadeiras confortáveis para todos, um esquema de cores agradável, plantas e obras de arte que acrescentem à atmosfera, além de bastante comida e bebida.
+
+**CONTRIBUIÇÕES**  
+Perspectivas e abordagens especiais do Sentimento Extravertido
+	• Investigação apreciativa  
+	• Facilidade para criar eventos e programas para funcionários, como o piquenique da empresa, a festa de Natal da empresa, programas de assistência ao empregado e oportunidades de desenvolvimento de carreira e educação continuada  
+	• Consciência e promoção de comportamentos apropriados  
+	• Consciência e consideração do impacto das decisões sobre as pessoas
+
+**VINHETAS**  
+
+- Cenas do mundo do Sentimento Extravertido
+	• Em atividades de “aquecimento” em grupo, nosso time passa muito tempo no início do exercício se conhecendo melhor. Primeiro precisamos garantir que haja harmonia no grupo. Precisamos estabelecer um senso de quem é quem para operar como uma equipe. Durante o exercício, faço um esforço para garantir que a voz de todos seja ouvida e registrada. Os resultados do nosso trabalho geralmente são alcançados por consenso.
+	• No ano passado, entrei na trilha da campanha da minha filha, que estava concorrendo a um cargo público. Descobri que sou realmente boa em campanha de porta em porta. Eu conseguia iniciar esse tipo de conversa leve, amistosa e sem conflitos o dia todo.
+	• Um professor tinha dois dias agendados na escola para colocar a papelada em dia enquanto os alunos estavam de férias. No entanto, foi muito difícil para ele ficar sentado, lendo e corrigindo provas sem interação. Ele se viu se levantando e visitando outros professores. Observou que “a interação é onde eu obtenho minha energia”.
+	• Ao dar um jantar, preciso reorganizar tudo. Não quero cozinhar durante a festa. Quero que tudo esteja perfeito. Preciso ter tudo pronto antes que o primeiro convidado chegue, porque sei que, a partir desse momento, não conseguirei me concentrar em nada além das pessoas. Quando elas começam a chegar, fico totalmente focada em garantir que estejam confortáveis e se divertindo. Se não estivessem, isso seria horrível!
+	• Se acho que há um problema afetando as pessoas mais próximas de mim, simplesmente preciso fazer algo a respeito. Quando minha filha estava tendo problemas com sua orientadora na escola, fui até a escola e confrontei a orientadora. Minha filha não queria que eu fosse, mas eu realmente não tive escolha. Eu simplesmente precisava fazer o que fosse necessário para cuidar dela.
+	
+**DONS**  
+Forças únicas do Sentimento Extravertido
+	• Um talento para cuidar das necessidades dos outros
+	• Manutenção da estrutura social, dos padrões e das convenções de uma cultura  
+	• Manutenção dos códigos morais da sociedade  
+	• Empatia  
+	• Capacidade de reconhecer, apreciar e valorizar os outros por quem eles são e pelos dons que possuem  
+	• Calor humano pessoal  
+	• Compaixão  
+	• Servir como a consciência social do mundo
