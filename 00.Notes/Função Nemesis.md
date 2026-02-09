@@ -44,7 +44,7 @@ A função **Nemesis** é nossa fonte de **preocupação e incerteza**. O nome v
 - **Comportamento**: Sacrificam valores próprios pelos padrões alheios
 - **Lição**: "Eu também importo, meus valores também importam"
 
-### 5. **Ne Nemesis** (ISTJ e INFJ)
+### 5. **Ne Nemesis** (INTJ e INFJ)
 
 - **Preocupação**: Intenções alheias e consequências ruins
 - **Comportamento**: Uma das funções mais paranóicas, medo de manipulação
@@ -81,5 +81,4 @@ A Nemesis quer que vejamos **o que não estamos prestando atenção**. Ela nos g
 
 A Nemesis existe para **equilibrar** nosso Hero, evitando que nossa competência e orgulho nos tornem cegos para aspectos importantes que estamos perdendo. É um mecanismo interno de **autocorreção** e **crescimento**.
 
-[[Função Critic]]
 

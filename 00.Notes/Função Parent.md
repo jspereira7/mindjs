@@ -5,17 +5,14 @@ A função **Parent** é a segunda das oito atitudes cognitivas na personalidade
 ### Diferenças entre Hero e Parent
 
 **Hero (Herói):**
-
 - Confiante e dinâmico
 - Age com energia máxima
 - Como alguém que briga "saindo no braço" até vencer
 
 **Parent (Pai/Mãe):**
-
 - Cauteloso e criterioso
 - Usa o mínimo de energia necessária
 - Como alguém que luta de forma precisa e estratégica
-
 ### Por que o Parent é Diferente?
 
 A diferença está na **energia**:
@@ -29,7 +26,7 @@ Por isso nossa mente usa o Parent com cuidado e parcimônia. Na juventude, evita
 
 Cada pessoa tem uma das oito manifestações do Parent, dependendo de sua personalidade:
 
-### 1. **Te Parent** (ISTJ e INFJ)
+### 1. **Te Parent** (ISTJ e INTJ)
 
 - **Responsabilidade**: Pesquisar e ensinar
 - **Imaturo**: Egoísta, exige que outros os mantenham confortáveis
@@ -40,7 +37,6 @@ Cada pessoa tem uma das oito manifestações do Parent, dependendo de sua person
 - **Responsabilidade**: Comprometer-se com a precisão
 - **Imaturo**: Assume que está sempre certo, difícil de lidar
 - **Maduro**: Enxerga através das pessoas, difícil de enganar, melhora o pensamento dos outros
-
 ### 3. **Fe Parent** (ISFJ e INFJ)
 
 - **Responsabilidade**: Cultivar a humanidade nos outros
@@ -82,6 +78,3 @@ Cada pessoa tem uma das oito manifestações do Parent, dependendo de sua person
 O núcleo de um Parent desenvolvido está em **aprender a ser pai/mãe de si mesmo**. Isso significa assumir responsabilidade pela própria maturidade e crescimento pessoal.
 
 A função Parent é essencial porque ela equilibra as outras funções, impedindo que sejamos imprudentes e nos ajudando a crescer como pessoas responsáveis.
-
-[[Função Child]]
-

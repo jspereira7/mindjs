@@ -1,7 +1,7 @@
 ## O que é a Função Trickster?
 
 A função **Trickster** é a fonte da **maior confusão** de cada pessoa. É nossa **maior fraqueza cognitiva** - um ponto cego onde pensamos que entendemos, mas constantemente falhamos.
-
+- Importante então, é o nosso maior ponto cego...
 ### Características do Trickster
 
 **O Paradoxo:**
@@ -100,5 +100,4 @@ A maioria das pessoas não percebe suas limitações no Trickster, então **ter 
 
 O Trickster é nossa **maior fraqueza disfarçada de força**. Precisamos de **outros** para nos proteger e ensinar nessa área. Aceitar essa limitação com humildade é essencial para evitar os desastres que podem acontecer quando deixamos nosso ponto cego assumir o controle.
 
-[[Função Demon]]
 

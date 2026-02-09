@@ -11,7 +11,6 @@ A função **Critic** é nosso **cético interior** - aquela voz amarga e envelh
 - Usa **cinismo** que acusa falta em si mesmo ou nos outros
 
 **Propósito:**
-
 - Assim como Nemesis desafia o Hero
 - **Critic existe para cultivar responsabilidade no Parent**
 
@@ -103,5 +102,4 @@ O Critic é uma das funções mais difíceis de lidar, mas quando superamos noss
 
 A função Critic, quando amadurecida, pode se tornar fonte de **crescimento e milagres** ao invés de apenas amargura e crítica.
 
-[[Função Trickster]]
 

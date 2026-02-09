@@ -3,7 +3,7 @@ author:
   - csjoseph
 ---
 ## Stack das Funções Cognitivas 
-- [[Hero]]
+- [[Função Hero]]
 - [[Parent]]
 - [[Child]]
 - [[Inferior]]

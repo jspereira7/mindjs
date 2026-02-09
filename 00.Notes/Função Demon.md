@@ -14,19 +14,16 @@ Representa **ódio** e é a fonte da "natureza pecaminosa" da humanidade.
 - Permanece **fechada e subdesenvolvida**
 
 **Quando Aparece:**
-
 - **Último recurso** quando ego, inconsciente e subconsciente falham
 - Momento de **extremo desespero**
 
 **Por que é Perigosa:**
-
 - **Muito poderosa** (por ser negligenciada)
 - **Extrema** - difícil não exagerar
 - **Rancorosa** - odeia outras partes da mente por sua ignorância
 - **"Acordo com o diabo"** - solução rápida, mas com danos colaterais
 
 **Lado Positivo:**
-
 - Às vezes **necessária** para colocar pessoas no lugar
 - **Protege** a função Inferior
 - Na verdade é a **função mais amorosa** (mas sempre parece hora/lugar errados)

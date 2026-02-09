@@ -94,4 +94,3 @@ Lembre-se: onde somos mais fracos, podemos nos tornar mais fortes.
 
 A função Inferior, junto com a Nemesis (próximo tópico), são as duas principais fontes de preocupação em nossas mentes.
 
-[[Função Nemesis]]
