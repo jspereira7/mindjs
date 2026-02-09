@@ -19,3 +19,9 @@ Entender somente a função cognitiva não é o suficiente, é necessario entend
 [[Função Trickster]]
 [[Função Demon]]
 
+---
+
+Se users precisam de uma plateia os assistindo para se divertirem com xyz...
+- Querem dar um show para uma audiencia
+- Deveriam sair de casa e fazer amizade com algumas pessoas.
+- Quando vão se divertir sozinhos, ficam o dia todo sentandos assistindo netflix, sem fazer nada de util da sua vida.
