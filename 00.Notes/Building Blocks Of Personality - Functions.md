@@ -1203,7 +1203,7 @@ Ele se concentra no mundo externo objetivo, usando sistemas de valores culturais
 
 **O Fe quer fazer escolhas e iniciar ações que criem e mantenham harmonia no mundo exterior.**
 
-**CARACTERÍSTICAS PRINCIPAIS**  
+## **CARACTERÍSTICAS PRINCIPAIS**  
 
 - Sentimento Extravertido
 	• É um processo objetivo de tomada de decisão que busca criar ou manter harmonia no ambiente.  
@@ -1214,7 +1214,7 @@ Ele se concentra no mundo externo objetivo, usando sistemas de valores culturais
 	• Estabelece e mantém convenções sociais.  
 	• É motivado a interagir com as pessoas.
 
-**O QUE ESTÁ ACONTECENDO?**  
+## **O QUE ESTÁ ACONTECENDO?**  
 
 - Sentimento Extravertido
 	• Usa valores culturais e sociais e normas como ponto de partida para a tomada de decisões.  
@@ -1244,7 +1244,7 @@ Ele se concentra no mundo externo objetivo, usando sistemas de valores culturais
 	• Garantir que as pessoas se sintam valorizadas é uma alta prioridade.  
 	• Mantêm os padrões de valores e comportamentos sociais.
 
-**VISTO** **DE** **FORA**, **OLHANDO** **PARA** **DENTRO**  
+## **VISTO** **DE** **FORA**, **OLHANDO** **PARA** **DENTRO**  
 
 - Quando vivenciamos pessoas que estão engajando seu Sentimento Extravertido preferido, elas
 	• Parecem saber a coisa apropriada a dizer ou fazer em toda situação.  
@@ -1301,7 +1301,7 @@ Perspectivas e abordagens especiais do Sentimento Extravertido
 	• Ao dar um jantar, preciso reorganizar tudo. Não quero cozinhar durante a festa. Quero que tudo esteja perfeito. Preciso ter tudo pronto antes que o primeiro convidado chegue, porque sei que, a partir desse momento, não conseguirei me concentrar em nada além das pessoas. Quando elas começam a chegar, fico totalmente focada em garantir que estejam confortáveis e se divertindo. Se não estivessem, isso seria horrível!
 	• Se acho que há um problema afetando as pessoas mais próximas de mim, simplesmente preciso fazer algo a respeito. Quando minha filha estava tendo problemas com sua orientadora na escola, fui até a escola e confrontei a orientadora. Minha filha não queria que eu fosse, mas eu realmente não tive escolha. Eu simplesmente precisava fazer o que fosse necessário para cuidar dela.
 	
-**DONS**  
+## **DONS**  
 Forças únicas do Sentimento Extravertido
 	• Um talento para cuidar das necessidades dos outros
 	• Manutenção da estrutura social, dos padrões e das convenções de uma cultura  
@@ -1311,3 +1311,168 @@ Forças únicas do Sentimento Extravertido
 	• Calor humano pessoal  
 	• Compaixão  
 	• Servir como a consciência social do mundo
+
+----
+
+# Introverted Feeling (Fi)
+
+Neste capítulo, buscamos apresentar um retrato do Sentimento Introvertido “puro” que veríamos se pudéssemos cuidadosamente removê-lo de seu estado natural, onde é influenciado e colorido por todos os outros elementos da personalidade. 
+
+Embora nenhum processo exista de fato separado do restante da personalidade, o retrato que se segue reflete características que estão em jogo sempre que o Sentimento Introvertido é utilizado em nível consciente.
+
+O Sentimento Introvertido aparece mais claramente nessas descrições nas páginas a seguir quando está na posição dominante (primeira posição). 
+
+De fato, essas descrições baseiam-se em informações de pessoas para quem o processo é dominante (ISFP e INFP). 
+
+Mas mesmo com o Sentimento Introvertido na primeira posição, o observador pode notar que ele varia de forma perceptível dependendo de outros fatores — particularmente se está emparelhado com Sensação Extravertida ou Intuição Extravertida na posição auxiliar (segunda posição).
+
+Para traçar um retrato completo da “essência” do Sentimento Introvertido, devemos usar os trechos e pistas que não podem ser demonstrados individualmente para “extrair” o Fi puro. 
+
+Assim como os respingos de cor em uma pintura impressionista, no entanto, os fragmentos deste capítulo, quando considerados juntos, revelam um retrato vívido que permitirá reconhecer o Sentimento Introvertido quando o vir. 
+
+Saber como o processo se pareceria se pudesse ser separado de outras influências é a base do acompanhamento de processos; essa prática rapidamente o levará o mais longe possível no entendimento da personalidade.
+
+**O Sentimento Introvertido é um processo de tomada de decisão.** 
+
+Ele se concentra no valor interno, nos sistemas de valores e avalia todas as coisas com base em se mantêm esses valores, entram em conflito com eles ou não têm impacto. 
+
+**O Fi quer fazer escolhas e agir de maneiras que criem e mantenham a harmonia interior.**
+
+## PRINCIPAIS CARACTERÍSTICAS  
+
+Sentimento Introvertido (Fi)
+	• É um processo subjetivo de tomada de decisão baseado em valores pessoais.  
+	• Mantém valores centrais privados e inegociáveis profundamente internos.  
+	• Aceita a vida como ela acontece e acolhe a individualidade dos outros, até certo ponto.  
+	• Exala silenciosamente uma aura fundamentada e pacífica. 
+	• Não tolera violações de suas crenças centrais.  
+	• Relaciona-se com as pessoas individualmente, por meio de uma sensibilidade refinada à vida interior dos outros. 
+	• Busca harmonia interior.
+
+**O QUE ESTÁ ACONTECENDO?**  
+
+Sentimento Introvertido
+	• É o mais subjetivo dos quatro processos de tomada de decisão.  
+	• Provavelmente origina muitos conceitos que passaram a ser vistos como direitos inquestionáveis, como justiça e liberdade.  
+	• Desenvolve perícia em reconhecer e cultivar a harmonia interior.  
+	• Tem foco no indivíduo, não no coletivo.  
+	• É o único processo mental com um elemento verdadeiramente inegociável.
+
+**Quando as pessoas estão usando seu Sentimento Introvertido preferido**
+	• Suas crenças são pessoais e não influenciadas pelos sistemas de valores estabelecidos de sua cultura.  
+	• Podem manter valores pessoais únicos que se afastam de valores culturais amplamente aceitos. Alguns de seus valores podem não estar relacionados às normas culturais existentes, e alguns podem até conflitar com elas.  
+	• Mantêm conflitos profundos, não amplos.  
+	• A consciência de um conflito com seus valores muitas vezes surge literalmente por meio de reações físicas. Sentimentos físicos surgem quando algo está errado ou fora de sintonia com seus valores internos e crenças.  
+	• Às vezes, só quando seus valores são violados é que se tornam conscientes deles.  
+	• Podem ver virtualmente qualquer coisa como inatamente boa ou inatamente má, como positiva ou negativa.
+	**• Usam um processo de tomada de decisão que é pessoal demais para compartilhar. Discutir isso geralmente é um exercício improdutivo.**  
+	**• Precisam “sentir que está certo” em relação às coisas.**  
+	• Nutrir e proteger sua vida emocional interior é seu objetivo principal.  
+	• A harmonia interior é mais do que desejável; é crucial para seu bem-estar.  
+	• Seu objetivo é uma vida interior que seja utópica e não definida ou limitada pelas realidades do mundo físico, como a natureza humana ou as leis da física.  
+	• O conforto reside em seus sistemas internos de crenças.  
+	• Têm dificuldade em acessar conscientemente seus valores. Podem nem estar conscientemente cientes de quais são alguns deles.  
+	• Frequentemente têm grande sensibilidade à harmonia ou desarmonia interna nos outros.  
+	**• São hábeis em saber quando algo está errado ou certo nos outros.**  
+	• Trazer seu sistema interno de valores à fruição no mundo real geralmente não é importante para eles.
+
+## **DE FORA, OLHANDO PARA DENTRO**
+
+**Quando vivenciamos pessoas que estão engajando seu Sentimento Introvertido preferido, elas:**
+	• São externamente muito tolerantes com os valores das outras pessoas, desde que esses valores não entrem em conflito direto com os seus.  
+	• Têm um forte senso de certo e errado. 
+	• Apegam-se apaixonadamente às suas crenças internas.  
+	• Tendem a ser tranquilas, tolerantes e flexíveis, a menos que suas crenças centrais sejam violadas. 
+	• Podem não conseguir encontrar as palavras certas para expressar adequadamente seus valores, mesmo quando esses valores se manifestam à superfície.  
+	**• Mostram pouco de si mesmas para o mundo exterior; podem permanecer um mistério para as pessoas ao seu redor, muitas vezes até para seus cônjuges.**  
+	• Muitas vezes não têm consciência de como afetam o mundo e as pessoas ao seu redor.  
+	• Podem cuidar muito bem das pessoas individualmente, com base no reconhecimento e na aceitação de que todos temos necessidades e valores únicos.
+	• Têm sensibilidade à calma ou à turbulência interior dos outros, o que frequentemente resulta na formação de relacionamentos pessoais relativamente profundos. Não se impõem aos outros, mas geralmente sabem, por exemplo, detalhes pessoais e questões dos colegas de trabalho. Sabem quem é casado, quem tem problemas com os filhos, quem tem crises de meia-idade, quem tem problemas de relacionamento e quem está infeliz no trabalho, e muitas vezes oferecem ajuda.
+	• Possuem uma honestidade e integridade essenciais que normalmente não são exibidas para os outros verem. Isso faz parte de quem são.
+	• Aprendem a não falar sobre temas polêmicos como religião ou política. Seus valores são pessoais e subjetivos, portanto podem não corresponder aos valores culturalmente aceitáveis ou politicamente corretos da época. •Como seus valores profundamente arraigados não podem ser alterados, assumem que os valores de todos também são imutáveis, então falar sobre eles não serve para nada além de criar estresse.
+	**• Revelam pistas de seus valores centrais por meio do nível de paixão na voz quando falam sobre algo que é importante para eles.**
+	• Fazem afirmações sobre decisões como “isso não me parece certo”.
+	• Ouvem sem contestar ou julgar até o ponto em que algo entra em conflito com seus valores. Nesse momento, o transgressor pode simplesmente ser excluído de seu mundo.
+	**• Podem encerrar um relacionamento porque seu sistema de valores foi ameaçado, sem dar qualquer indicação de que algo mudou. A outra pessoa pode nem perceber o que aconteceu.**
+	• Resistirão a dados que aparentem conflitar com seus valores. Em uma situação assim, podem se adaptar muito lentamente ou não se adaptar de forma alguma.
+	• Podem expressar seus valores em afirmações do tipo “eu sinto”, já que sua necessidade de harmonia interior é pessoal.
+	• Muitas vezes formam vínculos fortes com outras pessoas que compartilham o Sentimento Introvertido como preferência. Esses vínculos podem ser tão fortes que não há grande necessidade de falar — apenas estar juntos já é suficiente.
+	• Geralmente são muito zelosos com os fatos. São muito julgadores mentalmente, desde que seu sistema interno de crenças não seja violado.
+	• Assumem que os valores de todos são absolutos, portanto não faz sentido discutir ou sequer tentar compreendê-los.
+	• Têm fé inquestionável em seus próprios valores.
+	• Geralmente parecem neutros por fora. Internamente, podem ser calorosos, cuidadosos e empáticos, ou podem ser críticos e ressentidos se seus valores forem desafiados. Costuma ser difícil para os outros perceberem o que está acontecendo por dentro.
+	• Precisam ser envolvidos em um processo de tomada de decisão quando a decisão não tem relação direta com seus valores. Em tal situação, geralmente não ficam muito energizados pela discussão. Podem não ter uma opinião forte de um jeito ou de outro. Isso é frequentemente confundido com indecisão.
+	• Diante de múltiplas escolhas, podem se importar com algumas, mas não com todas as opções. Podem dizer, por exemplo: “Não me importa em qual restaurante você escolha, definitivamente não aquele, porque eles não pagam um salário digno à equipe”.
+	• Fornecem a espinha dorsal ética de qualquer país, cultura, grupo étnico ou organização.
+	**• Adaptam-se às situações ignorando qualquer coisa que seja desagradável ou de mau gosto, a menos que isso viole um valor. Até que um valor seja violado, nada traz indignação ou esforço para se envolver.**
+	• Geralmente viverão uma vida estranha, independentemente das consequências, se descobrirem que seus valores estão em desacordo com os de seu empregador.
+	• Tendem a ser pessoas educadas.
+	**• Influenciam os outros principalmente por meio de seu comportamento. Lideram pelo exemplo.**
+	• Projetam uma harmonia interior e uma atitude tranquila, independentemente do que realmente esteja acontecendo por dentro.
+	• Tendem a ser muito genuínos e sinceros.
+	**• Exalam uma dignidade interior e um charme: o cavalheiro ou a dama perfeitos.**
+	• Muitas vezes atraem outras pessoas por causa de sua serenidade.
+	• Podem organizar seus espaços pessoais para promover serenidade.
+	
+## CONTRIBUIÇÕES  
+Perspectivas e abordagens especiais do Sentimento Introvertido
+	• Consciência das necessidades humanas e dos valores que estão em jogo para indivíduos envolvidos em atividades em grupo.
+	• Trabalhar rapidamente nos bastidores para salvaguardar as crenças e valores de outras pessoas.  
+	• Um talento para fornecer um barômetro confiável do nível de segurança emocional em um grupo.  
+	• Servir como a espinha dorsal ética de uma organização.  
+	• Tolerância não julgadora aos valores dos outros.  
+	• Uma aura de paz interior e serenidade.
+	• Um talento para criar ambientes emocionalmente acolhedores.  
+	• Um senso interior de reconhecer a autenticidade das pessoas.
+
+## DE DENTRO PARA FORA  
+**Descrições parafraseadas de como é tomar decisões por meio do Sentimento Introvertido preferido:**
+	• Meus valores vêm de um nível profundo. Se alguém algum dia me fizer falar sobre eles, eu explicaria, não discutiria, os valores vêm primeiro. Eles simplesmente estão lá.  
+	• Se eu tivesse me sentido realmente mal com o assunto, teria sido seguro falar sobre isso.  
+	• É muito difícil para mim tomar uma posição pública. Preciso passar um tempo tentando decidir se parece certo. Quando tomo uma posição, ela vem de forma muito apaixonada e não fico aberta a debater ou discutir a questão.  
+	• Como gerente, detesto avaliações de desempenho. Não gosto de avaliar meus gerentes nem meus subordinados. As pessoas são quem são e fazem o que fazem. Normalmente, se não sinto que tenho o direito ou a necessidade de julgá-las, não faço. Não dou muitos tapinhas nas costas também, porque não preciso deles e esqueço que os outros precisam.  
+	• Consigo sentir quando as pessoas estão comigo ou contra mim.  
+	**• Uso humor e sarcasmo como forma de manter meus valores longe do público. Preciso desviar a atenção dessa área tão pessoal. Se necessário, posso literalmente fugir em vez de revelar meus valores.**  
+	• Eu nunca poderia trabalhar para alguém cujos valores entram em conflito com os meus.
+	• Meu espaço pessoal é muito importante para mim. Por favor, não invada meu espaço físico e emocional.
+	• As regras precisam “parecer certas” para mim ou eu as ignoro.  
+	• O que mais preciso das pessoas é afirmação, aceitação e liberdade.  
+	• Não gosto de ser rotulada ou colocada em uma caixinha. Se as pessoas não conferem comigo, elas não fazem ideia de quem eu realmente sou.  
+	• Minhas crenças internas são muito poderosas e inegociáveis. Elas simplesmente são.  
+	**• Tenho um forte senso de certo e errado, de bom e mau, que geralmente vem até mim como uma sensação física no centro do meu corpo.**  
+	**• “Sentimento intestinal” é uma descrição literal. Quando algo está errado, isso me dá um nó no estômago.**  
+	• Se tento comprometer meus valores, meu coração começa a disparar.  
+	• Costumo saber muitos detalhes sobre a vida de indivíduos do meu círculo, embora pouquíssimas pessoas, se é que alguma, saibam os meus intimamente.
+	• Muitas vezes, para evitar magoar outras pessoas, farei o que for preciso para agradar, a menos que se trate de um ponto em que estejam violando meus limites. Aí fecho a porta para elas sem sequer perceber que as afastei.  
+	• Aprendi que preciso avisar as pessoas sobre meus limites mais cedo. Aprendi que elas não conseguem vê-los e podem violá-los por acidente.  
+	• Sou muito boa em ajudar em uma crise emocional.  
+	• Capto muito as emoções das outras pessoas, muitas vezes antes mesmo que elas percebam.  
+	• Tenho um senso de certo e errado que não consigo explicar. Quando entra em jogo, ele não pode ser abalado. É simplesmente inato, parte de quem eu sou.  
+	• Se alguém afronta meus valores, eu o cortarei tão rapidamente que ele simplesmente desaparecerá. Provavelmente nunca mais entrarei em contato com essa pessoa. Nunca direi nada para machucá-la, mas terei perdido todo o respeito por ela como pessoa.  
+	• Sou educadora de adultos. Este é o trabalho da minha vida e o abordo com paixão. Mesmo depois de todos esses anos, ainda tenho dificuldades.
+	Quando preciso avaliar projetos ou trabalhos. Se os alunos se esforçaram, não me parece certo atribuir notas ao trabalho deles.
+	• Gosto de ter muitos cômodos diferentes. Os cômodos familiares são agitados, barulhentos e cheios de pessoas. No entanto, os cômodos onde prefiro passar a maior parte do meu tempo são mobiliados e decorados para promover tranquilidade e nutrir meu espírito. Eles são muito privados e só permito o acesso a poucos.  
+	• Não entendo como as pessoas conseguem viver em conflito com seus valores.  
+	• Eu poderia fazer algo só porque outra pessoa quer que eu faça se isso não me parecer certo.  
+	• Não gosto da minha irmã. Mas eu a amo porque ela é da família. Amar minha família é um valor importante para mim.
+
+## VINHETAS  
+Cenas do mundo do Sentimento Introvertido
+	• Uma mulher recusou mentalmente um exercício porque sabia que não haveria tempo suficiente para sua tomada de decisão introvertida. Ela poderia realizar a tarefa. Ela precisava contribuir do seu próprio jeito preferido, mas isso não poderia ser conciliado com a tarefa imposta pelo grupo. Ela sentiu que sua única opção era se afastar do exercício para resolver o conflito interior.
+	• Uma mulher relatou que, no trabalho, a tomada rápida de decisões frequentemente a removia rápido demais. Isso não permite tempo para reflexão privada. É útil se informações e uma pauta forem fornecidas com antecedência para dar a ela a oportunidade de refletir. Mesmo assim, geralmente é difícil para ela participar de forma confortável, a menos que a discussão seja adiada para uma reunião posterior.
+	• Quando meu filho era adolescente, inadvertidamente violei um valor profundamente arraigado dele. Ele não falaria comigo pelos dois anos seguintes.
+	• Meu marido e meu irmão mais novo preferem Sentimento Introvertido. Quando serviram como carregadores do caixão no funeral de nossa mãe, usaram camisas de flanela e jeans azuis. Eles simplesmente sabiam que era a maneira certa de honrá-la. Eles tinham estado com ela todos os dias e nunca se vestiram ou se comportaram como qualquer pessoa além deles mesmos por ela. Eles não iriam mudar isso para o funeral apenas para agradar os outros. Eu não me incomodei em contar à maioria das minhas tias e tios, preocupados com o que é apropriado e costumeiro; eles ficaram horrorizados.
+
+**DONS**  
+Forças únicas do Sentimento Introvertido
+	• Saber quando os outros estão em sofrimento interior  
+	• Talento para ajudar pessoas individualmente  
+	• Facilidade para aceitar e confiar nas pessoas  
+	• Autenticidade emocional e sinceridade excepcionais  
+	• Estabilidade moral  
+	• Espiritualidade  
+	• Gentileza  
+	• Paciência
+
+---
+
