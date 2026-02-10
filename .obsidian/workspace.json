@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "cc0309979941d0c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Dicionario Psylogia Junguiana Cs joseph.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dicionario Psylogia Junguiana Cs joseph"
-            }
-          },
-          {
             "id": "18e5e4731d843fd9",
             "type": "leaf",
             "state": {
@@ -102,8 +78,33 @@
               "icon": "lucide-file",
               "title": "How to Get more Look in your life"
             }
+          },
+          {
+            "id": "92258b60a95667b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/ESTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ESTP"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/ESTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building Blocks Of Personality - Functions"
+              "title": "Outline of ESTP"
             }
           },
           {
@@ -213,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/ESTP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Building Blocks Of Personality - Functions"
+              "title": "Graph of ESTP"
             }
           },
           {
@@ -376,12 +377,16 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "6277113b9414d951",
+  "active": "92258b60a95667b7",
   "lastOpenFiles": [
-    "00.Notes/Dicionario Psylogia Junguiana Cs joseph.md",
-    "00.Notes/Cognitive Origins.md",
-    "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md",
+    "00.Notes/ESTP.md",
     "00.Notes/How to Get more Look in your life.md",
+    "00.Notes/Cognitive Origins.md",
+    "00.Notes/Building Blocks Of Personality - Functions.md",
+    "00.Notes/Dicionario Psylogia Junguiana Cs joseph.md",
+    "00.Notes/ENTP-ESTP Fe Child.md",
+    "00.Notes/ENTP-ESTP Fi Trickster.md",
+    "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md",
     "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Processo logar contas no automatico.md",
@@ -400,10 +405,6 @@
     "00.Notes/Função Nemesis.md",
     "00.Notes/Função Inferior.md",
     "00.Notes/Função Child.md",
-    "00.Notes/Função Parent.md",
-    "00.Notes/Building Blocks Of Personality - Functions.md",
-    "00.Notes/Função Hero.md",
-    "00.Notes/How to type your self - Cs Joseph Course.md",
     "01.Assets/Anexos/Pasted image 20260131133648.png",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
