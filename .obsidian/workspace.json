@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "91ddede952ae8a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John Beebe Model Cognitive Attitudes - MOC"
-            }
-          },
-          {
             "id": "cc0309979941d0c2",
             "type": "leaf",
             "state": {
@@ -127,8 +103,7 @@
               "title": "How to Get more Look in your life"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/How to Get more Look in your life.md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Get more Look in your life"
+              "title": "Outline of Building Blocks Of Personality - Functions"
             }
           },
           {
@@ -238,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/How to Get more Look in your life.md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of How to Get more Look in your life"
+              "title": "Graph of Building Blocks Of Personality - Functions"
             }
           },
           {
@@ -401,12 +376,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "9eb5f1795bfe92bd",
+  "active": "6277113b9414d951",
   "lastOpenFiles": [
-    "00.Notes/How to Get more Look in your life.md",
-    "00.Notes/Cognitive Origins.md",
     "00.Notes/Dicionario Psylogia Junguiana Cs joseph.md",
+    "00.Notes/Cognitive Origins.md",
     "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md",
+    "00.Notes/How to Get more Look in your life.md",
     "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Processo logar contas no automatico.md",

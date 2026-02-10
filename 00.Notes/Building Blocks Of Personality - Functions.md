@@ -1476,3 +1476,287 @@ Forças únicas do Sentimento Introvertido
 
 ---
 
+## The eight process model of type
+
+O modelo de oito processos não é nada mais do que uma descrição de teorias e práticas que foram estabelecidas por C. G. Jung, Katharine Briggs, Isabel Myers, John Beebe, Leona Haas e outros. 
+
+Essa visão do tipo foi construída com base na teoria de Jung sobre a psique (ver apêndio A), com foco específico em como o aspecto consciente/inconsciente influencia a forma como usamos os oito processos mentais. 
+
+Jung organizou e expandiu esses processos mentais a partir de suas observações clínicas, fazendo afirmações amplas sobre o funcionamento da psique humana. 
+
+Briggs e Myers desenvolveram essas teorias em uma estrutura e ferramenta que tornaram possível para milhões de pessoas se beneficiarem de seus insights. 
+
+Beebe ajudou a levar a teoria adiante ao explorar a importância do acesso individual aos oito processos, com cada processo desempenhando uma descrição de papel arquetípico em virtude de sua posição na sequência de preferências (ver apêndice B). 
+
+Haas agora aumentou a acessibilidade do modelo ao descrever os processos em detalhes e desenvolver uma metodologia inovadora e eficaz para ensinar, fornecer feedback, refinar o tipo e oferecer aplicações práticas da teoria de Beebe.
+
+O modelo de oito processos sustenta que compreender a preferência é um aspecto fundamental do tipo que afeta a forma como usamos todos os oito processos mentais. 
+
+Nossa preferência individual inata por um processo em detrimento de outros se estende em uma sequência previsível ao longo dos oito. 
+
+**À medida que descemos nossa sequência de processos do mais preferido ao menos preferido, cada processo sucessivo é inatamente menos confortável e requer mais energia para ser usado.** 
+
+Além disso, cada um é progressivamente mais difícil de desenvolver e acessar. 
+
+Assim, quanto mais descemos nossa escada de preferências, maior a probabilidade de que os processos localizados ali permaneçam no domínio do inconsciente: não utilizados, primitivos e além do nosso controle voluntário.
+
+Observe, porém, que sempre qualificamos tais afirmações. 
+
+Dizemos que os processos mais abaixo em nossa sequência de preferências são cada vez mais difíceis de desenvolver e menos propensos a se tornarem naturalmente conscientes. 
+
+Embora o modelo dos oito processos forneça um guia útil para entender como fazemos ou não desenvolvemos nossos processos mentais à medida que amadurecemos, essa progressão “normal” do desenvolvimento não é uma regra rígida. 
+
+Como observado anteriormente, somos seres complexos que levam vidas complicadas. 
+
+É muito comum que a escola, o trabalho ou a vida doméstica nos forcem a desenvolver processos de maneiras que o modelo não prevê. 
+
+Isso pode nos levar a desenvolver alguns de nossos processos fora de sequência. 
+
+Compreender nossa sequência preferida, no entanto, pode sempre nos dizer muito sobre a energia necessária para engajar esses processos menos acessíveis. 
+
+**Não importa o quão bem os desenvolvamos, os processos que não são naturalmente preferidos nunca serão tão claros e fáceis de usar quanto aqueles que preferimos.**
+
+Jung escreveu que nascemos inconscientes e que o amadurecimento psicológico significa trazer um número cada vez maior de nossos processos inconscientes para a consciência. 
+
+**Essa integração do inconsciente em nossos eus conscientes é realizada por meio da exploração e do uso de nossos processos menos desenvolvidos.** 
+
+**Gradualmente, tornamo-nos cada vez mais familiarizados com esses aspectos negligenciados de nós mesmos e capazes de exercer controle consciente sobre eles.** 
+
+Esse trabalho contínuo de trazer gradualmente processos mentais inconscientes para a consciência é conhecido como “individuação”. 
+
+É assim que expandimos nosso repertório pessoal para incluir formas mais diversas de receber informações e tomar decisões. 
+
+O desenvolvimento geral da personalidade por meio da individuação é conhecido como “desenvolvimento do tipo”.
+
+Crianças normalmente desenvolvem um processo de Percepção e um processo de Julgamento cedo na vida, geralmente entre seis e vinte anos. 
+
+Lidar até mesmo com as situações mais simples da vida exige tanto a captação de informações quanto a tomada de decisões, portanto tanto o processo de Julgamento preferido quanto o processo de Percepção preferido devem ser usados. 
+
+Um deve ser Extravertido e o outro deve ser Introvertido. Embora possamos ter sucesso nos primeiros anos sem precisar desenvolver totalmente o aspecto introvertido, sem dúvida precisamos desenvolver essa “segunda habilidade” que inclui alguma forma de captar informações, uma forma de tomar decisões, uma forma de interagir com o ambiente e uma forma de estar conosco mesmos.
+
+À medida que crescemos, continuamos a experimentar diferentes processos para descobrir o que funciona melhor para nós. 
+
+Como parte do que precisamos fazer pode ser realizado com mais sucesso por meio da mudança de processos mentais específicos, experiências normais da vida nos levam gradualmente a adquirir algum nível de familiaridade com vários deles. 
+
+Esse é o desenvolvimento típico do tipo.
+
+Uma situação recorrente pode nos forçar a usar processos menos preferidos, mesmo que se tornem relativamente familiares e conscientes. 
+
+Circunstâncias como crescer em uma família com um processo incomumente forte podem levar indivíduos a desenvolver e depender de processos que não são inerentemente preferidos por eles. 
+
+Mas Harold Grant sugeriu que, excluindo influências externas fortes, os processos são trazidos à consciência de acordo com uma linha do tempo de desenvolvimento previsível, conforme descrito no apêndice C.
+
+O desenvolvimento do tipo pode, é claro, também ser buscado intencionalmente.
+
+Uma de nossas principais motivações para escrever este livro é ajudar as pessoas a buscar essa abordagem ao crescimento pessoal. 
+
+A autodescoberta potencial ao compreender o tipo sempre foi uma das principais razões do interesse das pessoas pelo assunto. 
+
+Trabalhamos para desenvolver nossos processos mentais em algum grau, mesmo que não percebamos que estamos fazendo isso. 
+
+Podemos aprender a operar fora do conforto de nossos processos preferidos quando nos tornamos conscientes da necessidade de desenvolver habilidades específicas para nosso trabalho, para lidar com a escola, para nos adaptar a conviver com alguém ou simplesmente para satisfazer nossa necessidade inata de nos tornarmos uma pessoa mais completa.
+
+Os processos que são mais difíceis para nós lidar também lidam com os outros, geralmente aqueles que nos deixam desconfortáveis por dentro. 
+
+Quando expressamos reações negativas a essas partes de nós mesmos, fazemos isso externamente: desagrado, desgosto, raiva, desrespeito, desprezo e evitação. 
+
+Para frequentemente nos recusarmos a reconhecer que eles existem dentro de nós. Ao não dar conta desse aspecto de nós mesmos, vemos o palco preparado para quase todo tipo de conflito interpessoal que experimentamos em nossas vidas. 
+
+Comunicação inadequada, falsas suposições e projeção são apenas algumas das sementes de conflito interpessoal. 
+
+Mas suas origens estão nas limitações de nosso próprio desenvolvimento do tipo.
+
+Que os processos inconscientes realmente mantêm uma riqueza de explicações e respostas para nós. Eles guardam dentro de si perspectivas alternativas e formas de operar que podem equilibrar o viés inato de nossas abordagens preferidas. 
+
+Com um conhecimento ampliado do tipo como nosso guia, nosso caminho para uma maior compreensão e aceitação de nós mesmos torna-se muito mais claro. 
+
+A autoaceitação não se trata apenas de aceitar as partes de nós que gostamos ou reconhecemos facilmente. 
+
+**Explorar nossa sombra inconsciente pode levar a um tremendo crescimento pessoal e a melhorias em praticamente todos os aspectos de nossas vidas.**
+
+Ao reconhecer nosso desenvolvimento desigual, nossos processos inconscientes e aprender como eles se encaixam em nosso desenvolvimento do tipo, podemos compreender quais deles são mais facilmente acessíveis para nós. 
+
+Podemos apreciar os benefícios que oferecem. Podemos ver que esses processos inconscientes, em vez de serem lugares a evitar, são na verdade oportunidades de crescimento que aguardam nossa exploração consciente. 
+
+Pode muito bem ser que isso seja principalmente uma questão de um nível incomumente alto de desenvolvimento do tipo, de potencial inconsciente transformado em forças conscientes.
+
+---
+
+# IMPORTANT FACETS AND FACTORS IN EIGHT-PROCESS TYPE
+
+Afirmamos que a importância do modelo dos oito processos reside em sua ênfase em certos aspectos da teoria da personalidade de Jung. 
+
+De fato, o próprio modelo é simplesmente uma descrição do que é revelado quando compreendemos a importância desses “fatos e fatores” e como eles se combinam.
+
+## O ELENCO DE PERSONAGENS
+
+Depois que você se torna razoavelmente habilidoso em reconhecer os processos puros, o próximo passo é começar a observar como eles interagem. 
+
+É correto dizer que podemos engajar os processos um de cada vez. 
+
+Mas também é verdade que os processos que dão suporte ao que está em uso são parte integrante do quadro geral. As interações dos processos e a dinâmica do sistema estão sempre em jogo. 
+
+O que vemos é, na verdade, uma performance de um elenco diverso de personagens.
+
+A singularidade do nosso drama pessoal é mais do que o resultado de alguns poucos protagonistas que avançam uma trama simples. 
+
+Jogadores secundários e terciários, às vezes nos bastidores e às vezes no centro do palco, também estão interagindo, criando camadas sobre camadas de subtramas e contracorrentes.
+
+No apêndice E, você encontrará nosso círculo completo dos oito tipos de processo, um gráfico que descreve o alinhamento dos processos em cada um dos dezesseis tipos. Também fornecemos, para comparação, uma tabela mais tradicional dos tipos, com esboços em miniatura que enfatizam os processos dominantes e auxiliares (apêndice D).
+
+## EQUILÍBRIO
+
+O equilíbrio é um fator-chave para determinar quais processos se unem em uma determinada situação. Não muito pode acontecer até que a Percepção seja complementada pelo Julgamento, e a Extravertida pelo Introvertido, ou vice-versa.
+
+Como Isabel Myers apontou, “Percepção sem julgamento é cega; julgamento sem percepção é vazio. Introversão sem extraversão é impraticável; extraversão sem introversão é superficial.”
+
+Por causa de nossas preferências inatas, a equipe complementar de nossos processos dominantes e auxiliares normalmente lida com a maior parte do “trabalho da vida”. 
+
+De fato, o trabalho em equipe desses dois processos mais preferidos é tão predominante em nossas personalidades e em nossas vidas que os perfis tradicionais de personalidade são principalmente descrições desse duo trabalhando em conjunto. 
+
+No modelo dos oito processos, ainda nos referimos a esses processos sempre que falamos de tipo específico. O tipo ENFP, por exemplo, é referido como “Intuição Extravertida com Sentimento Introvertido”.
+
+## CONSCIÊNCIA E INCONSCIÊNCIA
+
+Quando pensamos em quem somos, especialmente na parte de nós de que gostamos, pensamos principalmente naquilo de que estamos conscientemente cientes, automaticamente, ou seja, em nosso eu consciente. 
+
+O comportamento e a atividade mental que resultam do uso consciente dos processos mentais podem ser intencionalmente controlados e ajustados.
+
+Pensamentos, ideias e atos inconscientes estão sujeitos a restrições como essas. Eles são, por definição, além do nosso controle. 
+
+O inconsciente é o repositório de informações subliminares que nunca foram conscientemente notadas, de memórias reprimidas que foram dolorosas demais para lidar e da memória herdada de nossa história evolutiva.
+
+Os processos inconscientes tentam fazer aquilo para o qual são adequados, assim como os conscientes. 
+
+Sem consideração por nossos desejos ou intenções conscientes, nossos processos inconscientes fazem sua parte para equilibrar os vieses das percepções e decisões de nossos processos conscientes. 
+
+No entanto, como raramente possuem canais conscientes de expressão, geralmente são ouvidos apenas indiretamente — mais comumente por meio de sonhos, de esforços artísticos ou de explosões incontroladas em momentos de estresse. 
+
+Como são subdesenvolvidos, geralmente se expressam de forma grosseira. 
+
+Como um artista primitivo sem ferramentas ou treinamento sofisticados, eles produzem mensagens crípticas na areia. 
+
+Muitas vezes não temos confiança nem clareza sobre essas mensagens. Outros processos conscientes se sobrepõem a elas ou as afogam. 
+
+Tornar-se autoconsciente é em grande parte aprender a reconhecer e acolher essas comunicações vagas do nosso eu sombrio.
+
+Negados e reprimidos, os processos conscientes podem ser uma fonte de negatividade e destrutividade. 
+
+Aceitos e trazidos à nossa consciência, eles podem trazer equilíbrio, criatividade e inteireza à condição humana.
+
+## A SEQUÊNCIA DAS PREFERÊNCIAS DOS OITO PROCESSOS
+
+A dimensão consciência/inconsciência afeta a posição que um processo ocupa na sequência de oito influências de uma pessoa e o papel que esse processo provavelmente desempenhará. 
+
+Quanto mais abaixo o processo estiver localizado, menos consciente ele tende a ser e, portanto, mais compulsivo, primitivo e negativo em suas manifestações. 
+
+Além disso, a posição de cada processo em relação aos outros processos afeta as dinâmicas de oposição, equilíbrio e energia que também influenciam as características dessa posição.
+
+No curso do desenvolvimento normal do tipo, adultos de meia-idade normalmente terão trazido seus três processos preferidos para um nível razoavelmente alto de controle consciente. 
+
+“Processos quatro a oito, no entanto, provavelmente permanecerão inconscientes. 
+
+O quarto será desafiador para a psique, mas terá uma descrição convincente e perturbadora ‘relacionada com o inconsciente’.”
+
+John Beebe associou descritores arquetípicos a essas posições para nos ajudar a compreender os papéis que esses processos tendem a desempenhar. 
+
+Está fora do escopo deste livro ir além de simplesmente mencionar essas descrições (ver apêndice B). 
+
+Basta observar, contudo, que essas quatro primeiras posições carregam conotações principalmente de apoio e papéis positivos para os processos conscientes, tendendo a jogar com os outros quatro processos que estão associados a representações mais negativas, ilustrando efeitos típicos de processos subdesenvolvidos e inconscientes. 
+
+Processos que são observados em posições de alta preferência tenderão a ser mais desenvolvidos.
+
+reconhecíveis a partir das descrições que fornecemos neste livro. 
+
+Não queremos confundir a introdução dos leitores ao acompanhamento dos processos com descrições dos outros papéis oposicionais que nossos processos podem manifestar a partir do lado sombrio de nossas personalidades. 
+
+Uma vez que você se torne adepto a reconhecer os processos em suas posições preferidas, no entanto, provavelmente começará a notar como seus lados mais primitivos também podem aparecer.
+
+## ADEQUAÇÃO
+
+Geralmente empregamos um processo hábil, porém menos adequado, em vez de um processo subdesenvolvido, porém mais apropriado. 
+
+Em uma tarefa focada na coleta de dados concretos, como fazer um inventário, por exemplo, uma pessoa que usa a Intuição Extravertida dominante pode parecer competente no trabalho. 
+
+Mas é bem possível que esses dados não sejam realmente tão confiáveis quanto ela acredita que sejam. 
+
+Em um nível muito básico, a tarefa exigirá treinamento, o que será muito difícil para ela manter o foco nos itens sendo contados enquanto engaja um processo Intuitivo. 
+
+O indivíduo pode rapidamente se cansar do fluxo constante de novos dados, sendo levado a focar em padrões e possibilidades implícitas nos dados — a paixão da Intuição Extravertida. 
+
+O fluxo contínuo de novos dados pode se transformar em uma exploração em constante mudança de possibilidades. 
+
+Seu foco em registrar informações externas pode se perder rapidamente, e parte do que ele registra pode, na verdade, vir dos padrões que percebe estar emergindo dos dados.
+
+Se a pessoa conseguir, em vez disso, engajar seu processo mais apropriado, porém menos desenvolvido, de Sensação Extravertida na tarefa, os resultados podem ser menos precisos ou até inexistentes se ela não tiver desenvolvido um certo nível de conforto e competência no uso desse processo. 
+
+Intuição Extravertida é o processo dominante para dois tipos de personalidade: ENTP e ENFP. 
+
+Para ambos, a Sensação Extravertida é o processo menos preferido. 
+
+Em muitas situações, nossos processos desenvolvidos, porém menos apropriados, nos servem melhor do que processos mais apropriados, porém subdesenvolvidos.
+
+Uma pessoa nessas circunstâncias também pode ter desenvolvido sua Sensação Extravertida em algum grau de competência consciente, apesar de permanecer amplamente inconsciente em outros aspectos de preferência. 
+
+Tornar-se confortável e hábil no uso de mais e mais processos é uma tarefa para a vida toda, chamada “individuação” ou “desenvolvimento do tipo”, e “embora o objetivo seja a inteireza e um relacionamento saudável e funcional com o eu, o verdadeiro valor da individuação está no que acontece ao longo do caminho.”
+
+Embora o desenvolvimento do tipo possa ocorrer involuntariamente por meio das circunstâncias de nossas vidas, isso pode ser traumático e contraproducente. 
+
+Geralmente é mais benéfico explorar e praticar intencionalmente o uso de processos subdesenvolvidos em um ambiente seguro. 
+
+Provavelmente seria mais desejável, por exemplo, desenvolver o Pensamento Extravertido apresentando argumentos lógicos em uma sala de aula ou à mesa de jantar do que evitar completamente o uso desse processo até termos de convencer o conselho de administração da empresa a adotar um novo plano de marketing.
+
+## Energy flow
+
+Em certo sentido, o modelo de tipo é todo sobre energia. 
+
+**Quando você está observando processos, procure o fluxo de energia.** 
+
+A pessoa está animada e atraindo outros para seu entusiasmo? Está baixa em energia — talvez lutando com hesitação — e ficando cada vez mais esgotada à medida que avança?
+
+O aspecto do fluxo de energia do tipo diz respeito à energia necessária para operar a partir de um processo mental específico. 
+
+Não é, como alguns acreditam, simplesmente se alguém está ou não engajando sua orientação energética preferida de Extravertido ou Introvertido. 
+
+**Quando operamos em nossos processos favoritos, tornamo-nos cada vez mais energizados.** 
+
+Perdemos a noção do tempo e sentimos que poderíamos continuar indefinidamente. 
+
+**Por outro lado, usar qualquer processo que não seja o nosso dominante cria tensão interna e exige energia extra.** 
+
+Esforço adicional é necessário para elevar os processos menos confortáveis ao primeiro plano e manter os processos mais familiares em segundo plano. 
+
+Até mesmo o auxiliar consome mais energia para se sustentar no centro do palco. 
+
+**Quanto mais abaixo um processo estiver em nossa sequência de preferências, maior o esforço necessário para empregá-lo, mesmo que seja razoavelmente desenvolvido.**
+
+Questões de energia entram em jogo de muitas maneiras. Elas podem, por exemplo, ter um efeito insidioso em um relacionamento se um indivíduo rotineiramente faz um esforço para operar processos que não são sua preferência inata. 
+
+**Nessa situação, embora duas pessoas possam estar usando um processo comum, a pessoa que está gastando muita energia para fazê-lo pode se sentir esgotada, ressentida ou incompreendida, enquanto a outra se sente confortável e energizada.**
+
+Seu gasto de energia ao fazer isso pode se manifestar mostrando um déficit de energia por meio de lentidão ou estranheza. 
+
+Mesmo que ele esteja, na verdade, fazendo um esforço admirável para se comunicar e se relacionar, o processo com o qual está operando não é natural nem fácil para ele, podendo torná-lo irritado e alienado.
+
+Ele pode fazer suposições errôneas sobre por que está tornando a situação tão difícil. 
+
+Essa é a razão pela qual, em uma situação de resolução de conflitos, é mais importante que os participantes se encontrem em um campo de jogo equilibrado, em termos de preferências de processos mentais, do que que qualquer um deles trabalhe a partir de um processo que seja completamente confortável para si.
+
+## RESUMO DOS FATOS E FATORES
+
+Os seis pontos a seguir são os fatores e dimensões mais importantes do tipo dos oito processos. Eles são as chaves para o que você observará e para o que está acontecendo abaixo da superfície:  
+	• A natureza dos próprios oito processos define os limites de como eles podem operar e se manifestar.  
+	• A necessidade de equilíbrio determina quais processos podem ser acionados para apoiar e compensar efetivamente outro processo.  
+	• Nosso desenvolvimento psíquico, por meio da individuação, traz nossos processos inconscientes cada vez mais para um controle consciente e útil. A correlação típica do desenvolvimento com a idade ajuda a explicar os estágios familiares da vida que todos experimentamos e observamos.  
+	• A sequência inata de preferência de processos impacta os papéis assumidos pelos processos e exerce ampla influência sobre a maneira como nosso drama pessoal se desenrola.  
+	• O fluxo de energia impacta nossa capacidade de operar a partir de nossos processos desenvolvidos. Ele explica muito sobre por que algumas atividades “nos energizam”, enquanto outras nos drenam rapidamente.  
+	• A adequação do processo à situação às vezes influencia quais processos são usados. Quase sempre influencia o quão bem-sucedidos eles são.
+
+Por mais complexa e intimidadora que tudo isso possa parecer, o modelo dos oito processos na verdade nos permite saborear o fruto complexo do tipo em qualquer ritmo que pareça confortável. 
+
+Ele pode ser abordado gradualmente, dando apenas um pequeno passo a mais a cada mordida — primeiro concentrando-se na camada externa revigorante e acessível, a observação de processos, e depois avançando um pouco além da experiência para a rica essência que está em seu núcleo. 
+
+Profissionais experientes em tipo expressaram admiração com a profundidade de compreensão que até mesmo novos aprendizes alcançaram rapidamente por meio dessa abordagem.
+
+---
+
