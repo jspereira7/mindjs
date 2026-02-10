@@ -1,4 +1,7 @@
-# Justification vs. Intimacy
+> Golden Rule: Give to other your cognitive origins
+# Soul - (Ne/Fi)
+
+## Justification vs. Intimacy
 
 **Justification**
 - ***Excuse***, Convince, Favoritism, Grudge, Coerce, Confirmation
@@ -9,7 +12,9 @@
 - ***Connectedness***, Companionship, Affection, Rapport, Confidence, Understanding (Give if they is pull)
 
 ---
-# **Satisfaction vs. Reverence**
+# Hearth Temple (Ni/Fe)
+
+## **Satisfaction vs. Reverence**
 
 **Satisfaction**
 - ***Covetous***, Zealotry, Rivalry, Ruthless, Revenge, Stoic
@@ -20,7 +25,9 @@
 - ***Respect***, Regard, Dignity, Admiration, Treasure, Noticed (Give if they is pull)
 
 ----
-# **Purpose** vs. **Discovery**
+# Mind Temple (Se/Ti)
+
+## **Purpose** vs. **Discovery**
 
 **Purpose**
 - ***Opportunism***, Impulsive, Exploit, Insatiable, Scheming, Materialistic
@@ -31,13 +38,14 @@
 - ***Exploration***, Curiosity, Inquisitiveness, Searching, Investigation, Undertaking (Give if they is pull)
 
 ---
-# **Validation vs. Authority**
+# Body Temple (Si/Te)
+
+## **Validation vs. Authority**
 
 **Authority**
 - ***Power***, Denial, Force, Treachery, Command, Rule
 - ***Prestige***, Legitimate, Credible, Prerogative, Permit, Access (Give if they is pull)
     
-
 **Validation**
 - ***Dismiss***, Disregard, Abrasive, Compelling, Resolute, Somber
 - ***Acceptance***, Affirmation, Appreciation, Compromise, Verification, Certainty (Give if they is pull)
