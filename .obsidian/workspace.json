@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "52a21bdb687a2371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Framework tomada de decisão - 8 Processos Mentais."
+            }
+          },
+          {
             "id": "18e5e4731d843fd9",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "ESTP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building Blocks Of Personality - Functions"
+              "title": "Outline of Framework tomada de decisão - 8 Processos Mentais."
             }
           },
           {
@@ -212,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
+                "file": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +265,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Building Blocks Of Personality - Functions"
+              "title": "Graph of Framework tomada de decisão - 8 Processos Mentais."
             }
           },
           {
@@ -375,10 +400,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "6277113b9414d951",
+  "active": "52a21bdb687a2371",
   "lastOpenFiles": [
-    "00.Notes/ESTP.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
+    "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
+    "01.Assets/Anexos/Pasted image 20260211170703.png",
+    "01.Assets/Anexos/Pasted image 20260211165353.png",
+    "00.Notes/ESTP.md",
     "01.Assets/Anexos/Pasted image 20260211151737.png",
     "01.Assets/Anexos/Pasted image 20260211143418.png",
     "01.Assets/Anexos/Pasted image 20260211143341.png",
@@ -404,7 +432,6 @@
     "00.Notes/Função Trickster.md",
     "00.Notes/Função Critic.md",
     "00.Notes/Função Nemesis.md",
-    "00.Notes/Função Inferior.md",
     "01.Assets/Anexos/Pasted image 20260131133648.png",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
@@ -412,8 +439,6 @@
     "01.Assets/Anexos/Pasted image 20260119171644.png",
     "01.Assets/Anexos/Pasted image 20260119160010.png",
     "01.Assets/Anexos/Pasted image 20260119152647.png",
-    "01.Assets/Anexos/Pasted image 20260119152633.png",
-    "01.Assets/Anexos/Pasted image 20260119141720.png",
     "01.Assets/Anexos/4_A002_AD1.mp4",
     "01.Assets/Anexos/3_A002_AD1.mp4",
     "01.Assets/Anexos/2_A002_AD1.mp4",

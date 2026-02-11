@@ -1924,22 +1924,54 @@ Todos os relacionamentos positivos e saudáveis são construídos sobre respeito
 **Seja o relacionamento com um colega de trabalho, conhecido ou parceiro de vida, aprender como cada parte percebe o mundo e faz escolhas é um caminho direto para esse respeito e apreciação e, por sua vez, para descoberta e crescimento compartilhados.**
 ## TOMADA DE DECISÃO
 
-A tomada de decisão certamente não é um evento ou questão isolada. É um aspecto de praticamente tudo o que fazemos. Mas muitas empresas identificaram habilidades de resolução de problemas ou de tomada de decisão como um ponto de alavancagem principal para melhorar os níveis de desempenho organizacional.
+A tomada de decisão certamente não é um evento ou questão isolada. É um aspecto de praticamente tudo o que fazemos. 
 
-“Quanto mais alguém entende como cada função opera, maior será a capacidade do indivíduo de tomar decisões eficazes.” Além disso, quanto mais processos mentais estiverem envolvidos na chegada a uma decisão, mais equilibrada e sólida essa decisão provavelmente será. É importante obter informações de todos os quatro processos de Percepção e contribuições de todos os quatro processos de Julgamento. Quando mais de uma pessoa está envolvida, obter as contribuições de todos não apenas facilitará alcançar esse equilíbrio de processos, mas também dará a todos um interesse investido na decisão.
+Mas muitas empresas identificaram habilidades de resolução de problemas ou de tomada de decisão como um ponto de alavancagem principal para melhorar os níveis de desempenho organizacional.
 
-No modelo a seguir para tomada de decisão, expandimos os quatro passos que foram originalmente apresentados por Isabel Myers e que se tornaram familiares para a maioria dos profissionais de tipo como o guia de tomada de decisão em “zigue-zague”. A maioria dos indivíduos ou grupos achará difícil envolver efetivamente todos os oito processos sugeridos abaixo. No entanto, ao seguir conscientemente os oito passos, eles podem melhorar sua capacidade de tomar decisões melhores e mais equilibradas. Quanto mais utilizamos cada um dos oito processos, mais familiar e confortável ele se torna. Lembre-se, porém, de que nenhum indivíduo realmente tem acesso consciente a todos os oito processos. Mesmo que todos estejam dentro de nós, afetando nosso comportamento e nossa personalidade, alguns de nossos processos mentais inferiores permanecerão para sempre inconscientes. Com um bom desenvolvimento de tipo, no entanto, podemos reconhecer e valorizar os processos que os outros utilizam, mesmo que não possamos acessar conscientemente alguns desses processos em nós mesmos.
+> **“Quanto mais alguém entende como cada função opera, maior será a capacidade do indivíduo de tomar decisões eficazes.”** 
 
-Usar o modelo dos oito processos de tipo ao tomar decisões pode ser extremamente útil tanto como guia quanto como ferramenta de ensino. Incluímos uma versão breve em formato de lista de verificação dos passos no Apêndice H como uma “folha de cola” para lembrá-lo de incluir todos os processos mentais ao tomar decisões importantes. Recomendamos que você siga passo a passo, verificando cada perspectiva antes de passar para a próxima, até que percorrer toda a sequência se torne um hábito. Faça um esforço para dar a cada passo a mesma ênfase. Se possível, obtenha ajuda nos passos com os quais você é impaciente ou desconfortável, recorrendo a alguém em quem confie nessa área. Imite a maneira como as pessoas que parecem energizadas por esses passos os abordam.
+Além disso, quanto mais processos mentais estiverem envolvidos na chegada a uma decisão, mais equilibrada e sólida essa decisão provavelmente será. 
 
-Para demonstrar como o modelo pode ser aplicado, incluímos um exemplo do Comitê do Jardim Comunitário na cidade mítica de Jungstown. A cidade disponibiliza lotes de terra para jardineiros que não possuem seu próprio espaço de cultivo. O comitê é responsável por supervisionar os jardins no bairro de Myersville. Em sua reunião anual de outono, eles estão avaliando necessidades e fazendo planos para o próximo ano, usando o modelo dos oito processos para orientar sua tomada de decisão.
+É importante obter informações de todos os quatro processos de Percepção e contribuições de todos os quatro processos de Julgamento. 
 
-Passo 1:  
-Reunir informações concretas e atuais.  
+Quando mais de uma pessoa está envolvida, obter as contribuições de todos não apenas facilitará alcançar esse equilíbrio de processos, mas também dará a todos um interesse investido na decisão.
+
+No modelo a seguir para tomada de decisão, expandimos os quatro passos que foram originalmente apresentados por Isabel Myers e que se tornaram familiares para a maioria dos profissionais de tipo como o guia de tomada de decisão em “zigue-zague”. 
+
+A maioria dos indivíduos ou grupos achará difícil envolver efetivamente todos os oito processos sugeridos abaixo. 
+
+No entanto, ao seguir conscientemente os oito passos, eles podem melhorar sua capacidade de tomar decisões melhores e mais equilibradas. 
+
+Quanto mais utilizamos cada um dos oito processos, mais familiar e confortável ele se torna. 
+
+Lembre-se, porém, de que nenhum indivíduo realmente tem acesso consciente a todos os oito processos. Mesmo que todos estejam dentro de nós, afetando nosso comportamento e nossa personalidade, alguns de nossos processos mentais inferiores permanecerão para sempre inconscientes. 
+
+Com um bom desenvolvimento de tipo, no entanto, podemos reconhecer e valorizar os processos que os outros utilizam, mesmo que não possamos acessar conscientemente alguns desses processos em nós mesmos.
+
+Usar o modelo dos oito processos de tipo ao tomar decisões pode ser extremamente útil tanto como guia quanto como ferramenta de ensino. 
+
+Incluímos uma versão breve em formato de lista de verificação dos passos no Apêndice H como uma “folha de cola” para lembrá-lo de incluir todos os processos mentais ao tomar decisões importantes. 
+
+Recomendamos que você siga passo a passo, verificando cada perspectiva antes de passar para a próxima, até que percorrer toda a sequência se torne um hábito. 
+
+Faça um esforço para dar a cada passo a mesma ênfase. Se possível, obtenha ajuda nos passos com os quais você é impaciente ou desconfortável, recorrendo a alguém em quem confie nessa área.
+
+Imite a maneira como as pessoas que parecem energizadas por esses passos os abordam.
+
+Para demonstrar como o modelo pode ser aplicado, incluímos um exemplo do Comitê do Jardim Comunitário na cidade mítica de Jungstown. 
+
+A cidade disponibiliza lotes de terra para jardineiros que não possuem seu próprio espaço de cultivo. 
+
+O comitê é responsável por supervisionar os jardins no bairro de Myersville. 
+
+Em sua reunião anual de outono, eles estão avaliando necessidades e fazendo planos para o próximo ano, usando o modelo dos oito processos para orientar sua tomada de decisão.
+
+**Passo 1:**  Reunir informações concretas e atuais.  
 (Sensação Extravertida)
 
-Um grupo é designado para visitar o cartório municipal e o local do jardim para documentar todas as informações relevantes. A seguir está parte da lista que produzem:
+Um grupo é designado para visitar o cartório municipal e o local do jardim para documentar todas as informações relevantes. 
 
+A seguir está parte da lista que produzem:
 • Há 294 residências em Myersville.  
 • A área de terra disponível é um retângulo medindo 300 pés por 200 pés.  
 • Está dividida em 100 lotes, cada um medindo 30 pés por 20 pés.  
@@ -1948,8 +1980,7 @@ Um grupo é designado para visitar o cartório municipal e o local do jardim par
 
 Para reunir informações adicionais, recomendam que seja realizada uma pesquisa em toda a comunidade.
 
-Passo 2:  
-Reunir informações concretas da experiência passada. Fazer comparações e observar o que funcionou e o que não funcionou.  
+**Passo 2:**  Reunir informações concretas da experiência passada. Fazer comparações e observar o que funcionou e o que não funcionou.  
 (Sensação Introvertida)
 
 Vários jardineiros veteranos da comunidade no comitê contribuem com informações de temporadas anteriores e fazem comparações com a mais recente.
@@ -1961,11 +1992,10 @@ Vários jardineiros veteranos da comunidade no comitê contribuem com informaç�
 
 Eles recomendam que os jardineiros dos últimos dois anos sejam consultados, perguntando o que funcionou e o que não funcionou para eles.
 
-Passo 3:  
-Explorar possibilidades e opções. Fazer conexões para compreender o “quadro geral”.  
-(Intuição Extravertida)
+**Passo 3:**  
+Explorar possibilidades e opções. Fazer conexões para compreender o “quadro geral”.  (Intuição Extravertida)
 
-Partindo das informações reunidas nos passos 1 e 2, esse grupo faz um brainstorming de diferentes opções para responder às questões.
+**Partindo das informações reunidas nos passos 1 e 2, esse grupo faz um brainstorming de diferentes opções para responder às questões.**
 
 • Para questões de acessibilidade:  
 ⇒ Criar canteiros elevados e melhores caminhos para acessibilidade de cadeiras de rodas.  
@@ -1990,12 +2020,14 @@ Partindo das informações reunidas nos passos 1 e 2, esse grupo faz um brainsto
 ⇒ Separar as áreas de jardineiros conscientes e descuidados.  
 ⇒ Permitir que os jardineiros façam o que quiserem.
 
-Passo 4:  
+**Passo 4:**  
+
 Buscar, dentro e além das informações e ideias, significados relevantes, insights e associações abstratas.  
 (Intuição Introvertida)
 
-Os membros do comitê exploram o significado das várias opções. Eles buscam significado e inter-relações além do que pode ser documentado ou comprovado. Acrescentam as seguintes observações à lista:
+Os membros do comitê exploram o significado das várias opções. Eles buscam significado e inter-relações além do que pode ser documentado ou comprovado. 
 
+Acrescentam as seguintes observações à lista:
 • Envolver jardineiros mais velhos para participar abre oportunidades de ensino e aprendizagem para os mais jovens.  
 • Personalizar o tamanho do lote e a acessibilidade pode ajudar a melhorar a qualidade, desencorajando jardineiros a assumir mais do que conseguem administrar.  
 • Um sorteio significaria que realmente não seríamos um jardim comunitário.  
@@ -2003,11 +2035,14 @@ Os membros do comitê exploram o significado das várias opções. Eles buscam s
 • Alguns problemas nunca serão resolvidos se forem tratados de forma fragmentada.  
 • A escolha de estabelecer ou não e fazer cumprir políticas e padrões gerais representa uma escolha entre liberdade e autonomia versus padrões mais elevados e ordem.
 
-Passo 5:  
+**Passo 5:**  (TE)
+
 Analisar as etapas intermediárias e as consequências das alternativas possíveis. Escolher um ou mais cursos de ação que pareçam viáveis e eficazes.  
 (Pensamento Extravertido)
 
-Com todas as informações, opções e insights registrados em quadros, o comitê discute a logística, as etapas práticas e as consequências dos vários cursos de ação. A seguir está uma versão abreviada do resultado:
+Com todas as informações, opções e insights registrados em quadros, o comitê discute a logística, as etapas práticas e as consequências dos vários cursos de ação. 
+
+**A seguir está uma versão abreviada do resultado:**
 
 • Iniciativa A:  
 ⇒ Tratar algumas questões, como pragas, ervas daninhas, estética, fertilidade e acessibilidade, no nível de todo o jardim.  
@@ -2042,38 +2077,67 @@ Iniciativa A / B / C / D
 • Aborda a qualidade do solo e a produtividade do jardim? — Sim / Sim / Não / Sim  
 • Aborda questões de atrito? — Sim / Sim / Não / Sim
 
-Passo 6:  
+**Passo 6:**  
 Determinar uma abordagem de resolução de problemas.  
+
 (Pensamento Introvertido)
 
 Mapas detalhados do processo são desenvolvidos. Por exemplo:
 
-• O subcomitê de planejamento se reúne mensalmente para desenvolver um plano de cinco anos.  
-• O subcomitê de planejamento apresenta relatório ao Comitê do Jardim Comunitário (CGC) até 1º de fevereiro para aprovação do plano estratégico.  
-• Um subcomitê de planejamento recém-criado se reúne para dividir o plano estratégico em metas de 1, 2, 3 e 4 anos.  
-• O subcomitê de planejamento apresenta relatório ao CGC até 1º de março para aprovação das metas e do plano operacional.  
-• Joe Jones e Sam Smith elaboram e enviam os pedidos de subsídio apropriados até 1º de abril.  
-• O CGC apresenta propostas ao Conselheiro Municipal Ginger Grant até 1º de abril.  
-• Os membros do CGC avaliam as horas de voluntariado e os recursos financeiros previstos para o próximo ano até 1º de maio.  
-• O CGC se reúne em maio para modificar o plano operacional e as metas do ano à luz das projeções de recursos.
+![[Pasted image 20260211165353.png]]
 
-Passo 7:  
+**Passo 7:**  Fe 
+
 Verificar se as decisões e planos cuidam das pessoas envolvidas, bem como mantêm bons relacionamentos dentro da comunidade.  
 (Sentimento Extravertido)
 
-O Comitê de Jardinagem Comunitária revisa e, se necessário, modifica os planos para garantir que atendam às necessidades dos jardineiros e da comunidade e aprimorem a experiência geral de jardinagem. As seguintes observações e modificações são acrescentadas aos planos:
+O Comitê de Jardinagem Comunitária revisa e, se necessário, modifica os planos para garantir que atendam às necessidades dos jardineiros e da comunidade e aprimorem a experiência geral de jardinagem. 
 
-Embora estabelecer padrões seja do melhor interesse de todos os jardineiros e vá melhorar a harmonia da experiência, o CGC deve fazer todo esforço para ajudar os jardineiros que ficarem abaixo dos padrões. As recompensas devem ser enfatizadas em vez de medidas punitivas. A educação deve ser enfatizada. Por exemplo, novos jardineiros podem não entender como as ervas daninhas se espalham. O comitê também deve determinar se os jardineiros precisam de ajuda devido a doença, férias e assim por diante. Medidas drásticas devem ser usadas apenas quando absolutamente necessárias para o bem maior. Uma rede de mentoria deve ser criada para ajudar com educação e para auxiliar temporariamente em casos de doença. Fornecer ferramentas facilitadoras e um galpão deve ser uma prioridade.
+As seguintes observações e modificações são acrescentadas aos planos:
 
-Passo 8:  
+Embora estabelecer padrões seja do melhor interesse de todos os jardineiros e vá melhorar a harmonia da experiência, o CGC deve fazer todo esforço para ajudar os jardineiros que ficarem abaixo dos padrões. 
+
+As recompensas devem ser enfatizadas em vez de medidas punitivas. 
+
+A educação deve ser enfatizada. 
+
+Por exemplo, novos jardineiros podem não entender como as ervas daninhas se espalham. 
+
+O comitê também deve determinar se os jardineiros precisam de ajuda devido a doença, férias e assim por diante. 
+
+Medidas drásticas devem ser usadas apenas quando absolutamente necessárias para o bem maior. 
+
+Uma rede de mentoria deve ser criada para ajudar com educação e para auxiliar temporariamente em casos de doença. Fornecer ferramentas facilitadoras e um galpão deve ser uma prioridade.
+
+**Passo 8:**  (Fi)
 Verificar se os planos propostos honram os valores pessoais inegociáveis de todos.  
 (Sentimento Introvertido)
 
-Com um plano completo e integrado preparado com antecedência, o Comitê de Jardinagem Comunitária pede que seus membros reflitam sobre as decisões. Eles são convidados a considerar: “Isso parece certo para mim?” “Estou confortável com este plano?” “Ele respeita as necessidades e os valores de todos os participantes?” “Algum jardineiro se sentirá excluído, ignorado, ofendido ou magoado se tomarmos essas ações?” Em seguida, pede-se aos membros que levem quaisquer respostas negativas a essas perguntas ao conhecimento de todo o comitê. O plano será modificado ou esclarecido, se necessário, para respeitar e incorporar essas ideias.
+Com um plano completo e integrado preparado com antecedência, o Comitê de Jardinagem Comunitária pede que seus membros reflitam sobre as decisões. 
 
-O mundo de hoje valoriza ação rápida e decisiva. Nos negócios, em particular, o indivíduo que consegue lidar com uma enxurrada constante de situações de emergência, enfrentando-as com naturalidade e tomando decisões que resolvem o problema imediato, é visto como um líder. Raramente reservamos tempo para recuar e avaliar os resultados dessas decisões. Se o fizéssemos, veríamos que a maioria dos “incêndios” que exigem essas decisões rápidas poderia ter sido evitada se decisões anteriores tivessem sido pensadas de forma mais cuidadosa.
+Eles são convidados a considerar: “Isso parece certo para mim?” “Estou confortável com este plano?” “Ele respeita as necessidades e os valores de todos os participantes?” “Algum jardineiro se sentirá excluído, ignorado, ofendido ou magoado se tomarmos essas ações?” 
 
-Embora a abordagem dos oito processos ilustrada acima possa parecer pesada e demorada, quanto mais conseguirmos envolver todas as perspectivas e ferramentas que ela oferece, menos provável será que nossas decisões produzam consequências imprevistas. Obviamente, não podemos passar por um procedimento trabalhoso e difícil para cada uma das centenas de escolhas que fazemos todos os dias. Mas certamente vale a pena fazer o esforço para começar a usar essa abordagem na tomada de decisões importantes. A eficiência a longo prazo se tornará evidente para o observador cuidadoso, à medida que cada vez menos consequências inesperadas parecerem surgir de repente para exigir reuniões de emergência e decisões “paliativas”, desviando-nos do trabalho eficaz e metódico que nos conduz às nossas metas. Além disso, quanto mais nos habituarmos à abordagem dos oito processos, mais automaticamente passaremos a utilizá-la na tomada de todas as nossas decisões.
+Em seguida, pede-se aos membros que levem quaisquer respostas negativas a essas perguntas ao conhecimento de todo o comitê. 
+
+O plano será modificado ou esclarecido, se necessário, para respeitar e incorporar essas ideias.
+
+***O mundo de hoje valoriza ação rápida e decisiva.***
+
+Nos negócios, em particular, o indivíduo que consegue lidar com uma enxurrada constante de situações de emergência, enfrentando-as com naturalidade e tomando decisões que resolvem o problema imediato, é visto como um líder. 
+
+Raramente reservamos tempo para recuar e avaliar os resultados dessas decisões. 
+
+Se o fizéssemos, veríamos que a maioria dos “incêndios” que exigem essas decisões rápidas poderia ter sido evitada se decisões anteriores tivessem sido pensadas de forma mais cuidadosa.
+
+Embora a abordagem dos oito processos ilustrada acima possa parecer pesada e demorada, quanto mais conseguirmos envolver todas as perspectivas e ferramentas que ela oferece, menos provável será que nossas decisões produzam consequências imprevistas. 
+
+Obviamente, não podemos passar por um procedimento trabalhoso e difícil para cada uma das centenas de escolhas que fazemos todos os dias. 
+
+Mas certamente vale a pena fazer o esforço para começar a usar essa abordagem na tomada de decisões importantes. 
+
+A eficiência a longo prazo se tornará evidente para o observador cuidadoso, à medida que cada vez menos consequências inesperadas parecerem surgir de repente para exigir reuniões de emergência e decisões “paliativas”, desviando-nos do trabalho eficaz e metódico que nos conduz às nossas metas. 
+
+Além disso, quanto mais nos habituarmos à abordagem dos oito processos, mais automaticamente passaremos a utilizá-la na tomada de todas as nossas decisões.
 
 ## COMUNICAÇÃO
 
