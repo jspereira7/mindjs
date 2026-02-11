@@ -44,3 +44,6 @@
 	- Liberdade/Opções das outras pessoas, eles puxam o tapete de outras pessoas, minando as opções das pessoas.
 	- Eles precisam perceber que existe mais de uma maneira de fazer as coisas, deixando as pessoas ter um pouco mais de liberdade. 
 		- " Quem faz a tarefa escolhe a vassoura " 
+
+---
+
