@@ -2143,259 +2143,795 @@ Além disso, quanto mais nos habituarmos à abordagem dos oito processos, mais a
 
 Uma comunicação aprimorada segue quase automaticamente uma compreensão aprimorada do tipo. À medida que nosso reconhecimento dos processos mentais se aprofunda, também se aprofunda nossa valorização das diferentes perspectivas oferecidas e dos desafios únicos enfrentados ao traduzir nossos insights para os outros.
 
-No entanto, não precisamos nos limitar a insights ocasionais. Podemos nos aplicar de maneira bastante eficaz a melhorar nossas habilidades de comunicação usando o modelo dos oito processos de tipo. Esse sempre foi um dos principais benefícios de estar familiarizado com o tipo de personalidade e, provavelmente, não há área que possamos estudar mais importante para nossa vida diária.
+No entanto, não precisamos nos limitar a insights ocasionais. Podemos nos aplicar de maneira bastante eficaz a melhorar nossas habilidades de comunicação usando o modelo dos oito processos de tipo. 
+
+**Esse sempre foi um dos principais benefícios de estar familiarizado com o tipo de personalidade e, provavelmente, não há área que possamos estudar mais importante para nossa vida diária.**
 
 O contexto da comunicação está nos relacionamentos. São necessárias pelo menos duas pessoas para se comunicar: alguém para iniciar a mensagem e alguém para recebê-la. Embora transmitir informações seja certamente uma função importante da comunicação
 
-significado para todos e as mensagens chegam intactas do remetente ao destinatário. A comparação com um idioma estrangeiro nos ajuda a lembrar dos desafios que enfrentamos. Quando as pessoas não estão operando a partir de processos mentais comuns e desenvolvidos, obstáculos sérios de tradução precisam ser superados antes que uma comunicação eficaz possa acontecer.
+significado para todos e as mensagens chegam intactas do remetente ao destinatário. A comparação com um idioma estrangeiro nos ajuda a lembrar dos desafios que enfrentamos. 
 
-A maioria das equipes gravita rápida e tacitamente para um determinado modo de comunicação. Os líderes podem dar o exemplo ou a linguagem pode refletir o viés de tipo do grupo como um todo. Se alguns membros de um grupo não forem fluentes na linguagem que está sendo falada, suas opções serão limitadas. Eles podem continuar falando em seu próprio “dialeto”, independentemente de serem compreendidos pelos outros ou não. Podem tentar usar a linguagem de um processo não desenvolvido, sentindo-se desconfortáveis e com pouca probabilidade de ter sucesso ao transmitir sua mensagem. Mais comumente, simplesmente não participarão, retendo suas contribuições potenciais e não se envolvendo na conversa ou em seus resultados. Nenhuma dessas escolhas resultará em comunicação eficaz, a menos que os outros participantes ajudem. Imagine como seria diferente se todos os membros do grupo aprendessem a valorizar as diversas contribuições e estivessem dispostos a se adaptar para acomodar e compreender as diferentes linguagens presentes.
+**Quando as pessoas não estão operando a partir de processos mentais comuns e desenvolvidos, obstáculos sérios de tradução precisam ser superados antes que uma comunicação eficaz possa acontecer.**
 
-Observe que, nas descrições abaixo, estamos retratando como cada processo geralmente soa quando está na posição dominante. Descrever processos na posição dominante nos permite traçar distinções mais claras e reconhecíveis entre eles. Quando um processo específico está ativo, mas vem de uma posição inferior na sequência de preferências, mesmo que apenas um nível abaixo na posição auxiliar, as descrições tornam-se mais difíceis de reconhecer. Por exemplo, quando a Intuição Extravertida é o processo mental dominante (ENFP e ENTP), soará semelhante à descrição abaixo. Por outro lado, quando a Intuição Extravertida é o processo auxiliar (INFP e INTP), pode soar muito diferente e ser muito mais difícil de identificar. Mesmo que alguém esteja se comunicando por meio da preferência auxiliar de Intuição Extravertida, o que está sendo comunicado geralmente vem principalmente de seu processo dominante. Você provavelmente está ouvindo algo que se origina de seu Sentimento Introvertido (INFP) ou Pensamento Introvertido (INTP), reformulado à medida que é externalizado por meio do processo Intuitivo. Ao aplicar as descrições dos processos puros abaixo, tente manter em mente as diferentes nuances criadas pelas diversas maneiras como esses processos se combinam com outros nos dezesseis tipos.
+A maioria das equipes gravita rápida e tacitamente para um determinado modo de comunicação. Os líderes podem dar o exemplo ou a linguagem pode refletir o viés de tipo do grupo como um todo. 
+
+Se alguns membros de um grupo não forem fluentes na linguagem que está sendo falada, suas opções serão limitadas. 
+
+Eles podem continuar falando em seu próprio “dialeto”, independentemente de serem compreendidos pelos outros ou não. 
+
+Podem tentar usar a linguagem de um processo não desenvolvido, sentindo-se desconfortáveis e com pouca probabilidade de ter sucesso ao transmitir sua mensagem. 
+
+Mais comumente, simplesmente não participarão, retendo suas contribuições potenciais e não se envolvendo na conversa ou em seus resultados. 
+
+Nenhuma dessas escolhas resultará em comunicação eficaz, a menos que os outros participantes ajudem. 
+
+Imagine como seria diferente se todos os membros do grupo aprendessem a valorizar as diversas contribuições e estivessem dispostos a se adaptar para acomodar e compreender as diferentes linguagens presentes.
+
+Observe que, nas descrições abaixo, estamos retratando como cada processo geralmente soa quando está na posição dominante. 
+
+Descrever processos na posição dominante nos permite traçar distinções mais claras e reconhecíveis entre eles. 
+
+Quando um processo específico está ativo, mas vem de uma posição inferior na sequência de preferências, mesmo que apenas um nível abaixo na posição auxiliar, as descrições tornam-se mais difíceis de reconhecer. 
+
+Por exemplo, quando a Intuição Extravertida é o processo mental dominante (ENFP e ENTP), soará semelhante à descrição abaixo. 
+
+Por outro lado, quando a Intuição Extravertida é o processo auxiliar (INFP e INTP), pode soar muito diferente e ser muito mais difícil de identificar. 
+
+Mesmo que alguém esteja se comunicando por meio da preferência auxiliar de Intuição Extravertida, o que está sendo comunicado geralmente vem principalmente de seu processo dominante. 
+
+Você provavelmente está ouvindo algo que se origina de seu Sentimento Introvertido (INFP) ou Pensamento Introvertido (INTP), reformulado à medida que é externalizado por meio do processo Intuitivo. 
+
+Ao aplicar as descrições dos processos puros abaixo, tente manter em mente as diferentes nuances criadas pelas diversas maneiras como esses processos se combinam com outros nos dezesseis tipos.
 
 ### SENSAÇÃO EXTRAVERTIDA
 
-A linguagem da Sensação Extravertida tende a favorecer o tempo presente. Geralmente, muita atividade física acompanha as palavras — frequentemente movimento constante dos olhos, das mãos ou dos pés, talvez tocando objetos no ambiente. Você ouvirá palavras muito concretas e relacionadas aos cinco sentidos. Há rapidez na linguagem. Aqueles que preferem esse processo envolvem as pessoas com sua cordialidade e vivacidade. Muitas vezes é difícil para os outros inserir uma palavra na conversa. O tom de voz da pessoa costuma ser animado.
+A linguagem da Sensação Extravertida tende a favorecer o tempo presente. 
 
-Aqueles que preferem Sensação Extravertida adoram contar histórias. Se você os seguisse em uma festa, poderia ouvir a mesma história contada cinco vezes para cinco públicos diferentes, com novas adaptações a cada vez. Eles contam histórias para criar uma conexão com o presente e envolver as pessoas ao seu redor. Normalmente não usam metáforas ou analogias. Gostam de interagir com o público e rapidamente captam e refletem as entonações e os maneirismos das pessoas com quem estão. Frequentemente têm um grande senso de humor e gostam de estar no centro da atividade. A linguagem é muito literal.
+Geralmente, muita atividade física acompanha as palavras — frequentemente movimento constante dos olhos, das mãos ou dos pés, talvez tocando objetos no ambiente. 
 
-Você notará que o estilo de comunicação de pessoas cuja Sensação Extravertida está na posição dominante (ESTP, ESFP) tem uma qualidade envolvente que conecta com todos. É claro que o tom da comunicação é influenciado pelo processo auxiliar, seja Pensamento Introvertido ou Sentimento Introvertido. Sensação Extravertida com Pensamento Introvertido (ESTP) soará mais objetiva e analítica, enquanto Sensação Extravertida com Sentimento Introvertido (ESFP) soará mais suave e cuidadosa.
+Você ouvirá palavras muito concretas e relacionadas aos cinco sentidos. 
 
-Com pessoas cuja Sensação Extravertida está na posição auxiliar (ISTP, ISFP), você ouvirá com menos frequência o tom animado que chama a atenção dos outros, mas elas não precisam ser o centro da atividade. Ao ouvir pessoas cuja preferência é por Pensamento Introvertido com Sensação Extravertida (ISTP), você pode notar pausas reflexivas enquanto elas buscam precisão e lógica para sustentar sua interação com o ambiente presente. Pessoas que preferem Sentimento Introvertido com Sensação Extravertida (ISFP) terão pausas reflexivas enquanto avaliam a sinceridade e a autenticidade das pessoas ao seu redor. A energia das pessoas ao redor pode impulsionar tipos ISTP ou ISFP a se tornarem o centro da festa, mas geralmente apenas por um tempo limitado.
+Há rapidez na linguagem. 
+
+Aqueles que preferem esse processo envolvem as pessoas com sua cordialidade e vivacidade. 
+
+Muitas vezes é difícil para os outros inserir uma palavra na conversa. 
+
+O tom de voz da pessoa costuma ser animado.
+
+Aqueles que preferem Sensação Extravertida adoram contar histórias. 
+
+Se você os seguisse em uma festa, poderia ouvir a mesma história contada cinco vezes para cinco públicos diferentes, com novas adaptações a cada vez. 
+
+Eles contam histórias para criar uma conexão com o presente e envolver as pessoas ao seu redor. 
+
+Normalmente não usam metáforas ou analogias. 
+
+Gostam de interagir com o público e rapidamente captam e refletem as entonações e os maneirismos das pessoas com quem estão. 
+
+Frequentemente têm um grande senso de humor e gostam de estar no centro da atividade. 
+
+A linguagem é muito literal.
+
+Você notará que o estilo de comunicação de pessoas cuja Sensação Extravertida está na posição dominante (ESTP, ESFP) tem uma qualidade envolvente que conecta com todos. 
+
+É claro que o tom da comunicação é influenciado pelo processo auxiliar, seja Pensamento Introvertido ou Sentimento Introvertido. 
+
+Sensação Extravertida com Pensamento Introvertido (ESTP) soará mais objetiva e analítica, enquanto Sensação Extravertida com Sentimento Introvertido (ESFP) soará mais suave e cuidadosa.
+
+Com pessoas cuja Sensação Extravertida está na posição auxiliar (ISTP, ISFP), você ouvirá com menos frequência o tom animado que chama a atenção dos outros, mas elas não precisam ser o centro da atividade. 
+
+Ao ouvir pessoas cuja preferência é por Pensamento Introvertido com Sensação Extravertida (ISTP), você pode notar pausas reflexivas enquanto elas buscam precisão e lógica para sustentar sua interação com o ambiente presente. 
+
+Pessoas que preferem Sentimento Introvertido com Sensação Extravertida (ISFP) terão pausas reflexivas enquanto avaliam a sinceridade e a autenticidade das pessoas ao seu redor. 
+
+A energia das pessoas ao redor pode impulsionar tipos ISTP ou ISFP a se tornarem o centro da festa, mas geralmente apenas por um tempo limitado.
 
 ### SENSAÇÃO INTROVERTIDA
 
-A linguagem da Sensação Introvertida é concreta, mas também comparativa. Você frequentemente ouvirá expressões como “parece com”, “tem gosto de”, “é semelhante a” e “lembra quando”. Pode notar um esforço silencioso das pessoas que preferem esse processo enquanto falam, à medida que recordam e comparam. Elas precisam voltar-se para dentro de si e buscar uma lembrança que tenha alguma semelhança com o assunto em questão. Muitas vezes a linguagem é muito sequencial, e você geralmente pode acompanhar todo o processo de pensamento se ouvir com atenção. A linguagem é concreta e fornece exemplos e descrições detalhadas para ajudar os outros a ver o que estão experimentando em sua mente. Outros podem até notar mudanças em suas expressões faciais, tom ou linguagem corporal enquanto reexperimentam o passado.
+A linguagem da Sensação Introvertida é concreta, mas também comparativa. 
 
-Se contarem uma história cinco vezes, a história permanecerá factual e a mesma. Contam histórias para que as pessoas saibam o que aconteceu, não para chamar atenção ou explicar o significado do que aconteceu. Muitas vezes nem percebem se estão ou não envolvendo o público. O propósito da história é simplesmente fornecer informações sobre o que foi e compartilhar uma experiência que se relaciona com o presente. Além disso, o objetivo do relato pode ser observar o que funcionou ou não funcionou em uma situação passada.
+Você frequentemente ouvirá expressões como “parece com”, “tem gosto de”, “é semelhante a” e “lembra quando”. 
 
-Podem permanecer um mistério para os outros em certa medida, porque suas comunicações frequentemente são breves. Outras pessoas muitas vezes têm dificuldade em ouvir todas as informações comparativas detalhadas. Se a pessoa que prefere Sensação Introvertida antecipa ser interrompida ou não ouvida, pode nem tentar entrar na conversa.
+Pode notar um esforço silencioso das pessoas que preferem esse processo enquanto falam, à medida que recordam e comparam. 
+
+Elas precisam voltar-se para dentro de si e buscar uma lembrança que tenha alguma semelhança com o assunto em questão. 
+
+Muitas vezes a linguagem é muito sequencial, e você geralmente pode acompanhar todo o processo de pensamento se ouvir com atenção. 
+
+A linguagem é concreta e fornece exemplos e descrições detalhadas para ajudar os outros a ver o que estão experimentando em sua mente. 
+
+Outros podem até notar mudanças em suas expressões faciais, tom ou linguagem corporal enquanto reexperimentam o passado.
+
+Se contarem uma história cinco vezes, a história permanecerá factual e a mesma. 
+
+Contam histórias para que as pessoas saibam o que aconteceu, não para chamar atenção ou explicar o significado do que aconteceu. 
+
+Muitas vezes nem percebem se estão ou não envolvendo o público. 
+
+O propósito da história é simplesmente fornecer informações sobre o que foi e compartilhar uma experiência que se relaciona com o presente. 
+
+Além disso, o objetivo do relato pode ser observar o que funcionou ou não funcionou em uma situação passada.
+
+Podem permanecer um mistério para os outros em certa medida, porque suas comunicações frequentemente são breves. 
+
+Outras pessoas muitas vezes têm dificuldade em ouvir todas as informações comparativas detalhadas. 
+
+Se a pessoa que prefere Sensação Introvertida antecipa ser interrompida ou não ouvida, pode nem tentar entrar na conversa.
 
 As histórias e recordações da Sensação Introvertida com Pensamento Extravertido (ISTJ) tendem a ter uma conexão lógica com o tema que desencadeou a história e serão apresentadas de maneira organizada.
 
-Sensação Introvertida com Sentimento Extravertido (ISFJ) tende a contar histórias que possuem uma conexão ou tema que reflete um foco nas pessoas. A história provavelmente será relatada na exata ordem cronológica em que aconteceu.
+Sensação Introvertida com Sentimento Extravertido (ISFJ) tende a contar histórias que possuem uma conexão ou tema que reflete um foco nas pessoas. 
 
-Quando a Sensação Introvertida é o processo auxiliar (ESTJ, ESFJ), há uma tendência de as pessoas começarem a falar e encontrarem uma conexão com uma experiência passada enquanto falam. Pessoas que preferem Pensamento Extravertido com Sensação Introvertida (ESTJ) frequentemente apresentam primeiro a lógica e depois percorrem as informações enquanto pensam em voz alta. Aquelas cuja preferência é Sentimento Extravertido com Sensação Introvertida (ESFJ) frequentemente contam histórias com conexões ou relevância diretas para seu público.
+A história provavelmente será relatada na exata ordem cronológica em que aconteceu.
+
+Quando a Sensação Introvertida é o processo auxiliar (ESTJ, ESFJ), há uma tendência de as pessoas começarem a falar e encontrarem uma conexão com uma experiência passada enquanto falam. 
+
+Pessoas que preferem Pensamento Extravertido com Sensação Introvertida (ESTJ) frequentemente apresentam primeiro a lógica e depois percorrem as informações enquanto pensam em voz alta. 
+
+Aquelas cuja preferência é Sentimento Extravertido com Sensação Introvertida (ESFJ) frequentemente contam histórias com conexões ou relevância diretas para seu público.
 
 ### INTUIÇÃO EXTRAVERTIDA
 
-A linguagem da Intuição Extravertida tem uma rapidez característica semelhante à da Sensação Extravertida. Transmite um senso de movimento e entusiasmo. O assunto que visivelmente energiza aqueles que preferem esse processo geralmente envolve possibilidades ou alternativas. Frequentemente não elaboram as possibilidades, apenas as lançam para que outros as peguem e explorem, tentando envolver os demais por meio da descoberta de maneiras novas e diferentes de vivenciar o ambiente. Embora geralmente partam de algo no mundo atual, podem saltar além das conexões óbvias para chegar a algo que seja ao mesmo tempo empolgante e energizante, mas às vezes também confuso para os outros. Não sentem necessidade de discutir completamente cada possibilidade. A discussão de “detalhes” não lhes interessa, e preferem deixar que outros explorem os fatos e detalhes. Pessoas que preferem Intuição Extravertida veem conexões e padrões com tanta facilidade que, para os outros, pode parecer que deram grandes saltos ao passar de informação para opções e de uma opção para a próxima. Muitas vezes presumem que apenas uma ou duas palavras são suficientes para transmitir cada ideia. Outras pessoas podem ficar frustradas porque a Intuição Extravertida frequentemente tem dificuldade em interromper a geração de opções para se concentrar em fatos e detalhes. Para ajudar pessoas com essa preferência em sua comunicação, pode ser útil fazer uma distinção clara entre quando uma reunião ou discussão está em modo de coleta de dados e quando está em modo de tomada de decisão ou resolução de problemas.
+A linguagem da Intuição Extravertida tem uma rapidez característica semelhante à da Sensação Extravertida. 
 
-Pessoas com preferência por Intuição Extravertida com Pensamento Introvertido (ENTP) tendem a expressar possibilidades em linguagem incomumente precisa. Elas podem até soar arrogantes, pois parecem reformular o que os outros disseram para torná-las mais precisas. Ao gerar opções, aqueles que preferem Intuição Extravertida com Sentimento Introvertido (ENFP) podem soar mais humanos e atenciosos, tendendo a enfatizar como as possibilidades apoiariam as pessoas.
+Transmite um senso de movimento e entusiasmo. 
 
-Com Intuição Extravertida como auxiliar (INTP, INFP), percebe-se uma rapidez e um nível de energia mais baixo ao falar sobre possibilidades. Pessoas que preferem Pensamento Introvertido com Intuição Extravertida (INTP) geralmente precisam de um período silencioso de reflexão antes de apresentar uma possibilidade ou opção em voz alta. Tendem a ser muito precisas em sua autoexpressão. Muitas vezes pensaram por muito tempo exatamente no que dizer e como dizer. Com aqueles cuja preferência é Sentimento Introvertido com Intuição Extravertida (INFP), geralmente se ouve um tom de gentileza hesitante com ocasionais explosões de paixão energizada, dependendo se a conversa se relaciona com seus valores centrais. Se esses valores forem violados, você pode ouvir sarcasmo e aspereza ou podem simplesmente se retirar da conversa.
+O assunto que visivelmente energiza aqueles que preferem esse processo geralmente envolve possibilidades ou alternativas. 
+
+Frequentemente não elaboram as possibilidades, apenas as lançam para que outros as peguem e explorem, tentando envolver os demais por meio da descoberta de maneiras novas e diferentes de vivenciar o ambiente. 
+
+Embora geralmente partam de algo no mundo atual, podem saltar além das conexões óbvias para chegar a algo que seja ao mesmo tempo empolgante e energizante, mas às vezes também confuso para os outros. 
+
+Não sentem necessidade de discutir completamente cada possibilidade. 
+
+A discussão de “detalhes” não lhes interessa, e preferem deixar que outros explorem os fatos e detalhes. 
+
+Pessoas que preferem Intuição Extravertida veem conexões e padrões com tanta facilidade que, para os outros, pode parecer que deram grandes saltos ao passar de informação para opções e de uma opção para a próxima. 
+
+Muitas vezes presumem que apenas uma ou duas palavras são suficientes para transmitir cada ideia. 
+
+Outras pessoas podem ficar frustradas porque a Intuição Extravertida frequentemente tem dificuldade em interromper a geração de opções para se concentrar em fatos e detalhes. 
+
+Para ajudar pessoas com essa preferência em sua comunicação, pode ser útil fazer uma distinção clara entre quando uma reunião ou discussão está em modo de coleta de dados e quando está em modo de tomada de decisão ou resolução de problemas.
+
+Pessoas com preferência por Intuição Extravertida com Pensamento Introvertido (ENTP) tendem a expressar possibilidades em linguagem incomumente precisa. 
+
+Elas podem até soar arrogantes, pois parecem reformular o que os outros disseram para torná-las mais precisas. 
+
+Ao gerar opções, aqueles que preferem Intuição Extravertida com Sentimento Introvertido (ENFP) podem soar mais humanos e atenciosos, tendendo a enfatizar como as possibilidades apoiariam as pessoas.
+
+Com Intuição Extravertida como auxiliar (INTP, INFP), percebe-se uma rapidez e um nível de energia mais baixo ao falar sobre possibilidades. 
+
+Pessoas que preferem Pensamento Introvertido com Intuição Extravertida (INTP) geralmente precisam de um período silencioso de reflexão antes de apresentar uma possibilidade ou opção em voz alta.
+
+Tendem a ser muito precisas em sua autoexpressão. 
+
+Muitas vezes pensaram por muito tempo exatamente no que dizer e como dizer. 
+
+Com aqueles cuja preferência é Sentimento Introvertido com Intuição Extravertida (INFP), geralmente se ouve um tom de gentileza hesitante com ocasionais explosões de paixão energizada, dependendo se a conversa se relaciona com seus valores centrais. 
+
+Se esses valores forem violados, você pode ouvir sarcasmo e aspereza ou podem simplesmente se retirar da conversa.
 
 ### INTUIÇÃO INTROVERTIDA
 
-A linguagem da Intuição Introvertida é frequentemente muito generalizada e abstrata, podendo parecer quase totalmente desconectada do mundo externo. Pessoas que preferem esse processo tendem a fazer afirmações com um tom de convicção como se as afirmações soassem como decisões. No entanto, geralmente estão apenas apontando informações que outros podem não perceber ou ver como conectadas ao tópico em discussão. Muitas vezes falam sobre implicações, significado ou uma visão do futuro. Podem hesitar em falar porque seus pensamentos são muito difíceis de expressar em palavras que sejam compreendidas pelos outros. Se estiverem falando sobre algo importante para elas, você ouvirá paixão em sua voz. No entanto, quanto mais tentam explicar, mais confusa, abstrata e difícil de entender sua mensagem pode soar. Podem até parecer pouco inteligentes em sua luta para se comunicar. Muitas vezes apresentam uma ideia que não é compreendida ou aceita no momento. Mais tarde, outra pessoa pode apresentar a mesma ideia, mas expressa em termos mais concretos e com exemplos mais tangíveis, e ela será aceita. A Intuição Introvertida frequentemente salta muito à frente do ambiente atual para que a maioria das pessoas consiga se relacionar com seus insights ou visões.
+A linguagem da Intuição Introvertida é frequentemente muito generalizada e abstrata, podendo parecer quase totalmente desconectada do mundo externo. 
 
-Pessoas que preferem Intuição Introvertida com Pensamento Extravertido (INTJ) podem soar abruptas, como se dessem pouca consideração às opiniões e pensamentos dos outros. Na verdade, estão tentando elaborar uma decisão com informações que ainda são provisórias e abstratas. Aqueles que preferem Intuição Introvertida com Sentimento Extravertido (INFJ) também soam abstratos, mas tendem a estar mais focados no que os outros estão vivenciando. Assim como os INTJ, estão tentando formular uma decisão com informações que podem ainda não compreender plenamente.
+Pessoas que preferem esse processo tendem a fazer afirmações com um tom de convicção como se as afirmações soassem como decisões. 
 
-Quando a Intuição Introvertida está na posição auxiliar (ENTJ, ENFJ), há mais tendência de falar primeiro e organizar o significado ou a visão durante a conversa. Pessoas cuja preferência é Pensamento Extravertido com Intuição Introvertida (ENTJ) usam uma linguagem que muitas vezes soa ainda mais abrupta do que a dos INTJ. Elas precisam se ouvir para organizar todas as imagens que surgem por meio de sua Intuição Introvertida. Sua voz tende a ter um tom muito lógico e frequentemente parecerá que não se importam se os outros estão ouvindo. Aqueles que preferem Sentimento Extravertido com Intuição Introvertida (ENFJ) tendem a falar sobre pessoas e sobre como a visão ou o significado as afeta.
+No entanto, geralmente estão apenas apontando informações que outros podem não perceber ou ver como conectadas ao tópico em discussão. 
+
+Muitas vezes falam sobre implicações, significado ou uma visão do futuro. 
+
+Podem hesitar em falar porque seus pensamentos são muito difíceis de expressar em palavras que sejam compreendidas pelos outros. 
+
+Se estiverem falando sobre algo importante para elas, você ouvirá paixão em sua voz. No entanto, quanto mais tentam explicar, mais confusa, abstrata e difícil de entender sua mensagem pode soar. 
+
+Podem até parecer pouco inteligentes em sua luta para se comunicar. Muitas vezes apresentam uma ideia que não é compreendida ou aceita no momento. 
+
+Mais tarde, outra pessoa pode apresentar a mesma ideia, mas expressa em termos mais concretos e com exemplos mais tangíveis, e ela será aceita. 
+
+A Intuição Introvertida frequentemente salta muito à frente do ambiente atual para que a maioria das pessoas consiga se relacionar com seus insights ou visões.
+
+Pessoas que preferem Intuição Introvertida com Pensamento Extravertido (INTJ) podem soar abruptas, como se dessem pouca consideração às opiniões e pensamentos dos outros. 
+
+Na verdade, estão tentando elaborar uma decisão com informações que ainda são provisórias e abstratas. 
+
+Aqueles que preferem Intuição Introvertida com Sentimento Extravertido (INFJ) também soam abstratos, mas tendem a estar mais focados no que os outros estão vivenciando. 
+
+Assim como os INTJ, estão tentando formular uma decisão com informações que podem ainda não compreender plenamente.
+
+Quando a Intuição Introvertida está na posição auxiliar (ENTJ, ENFJ), há mais tendência de falar primeiro e organizar o significado ou a visão durante a conversa. 
+
+Pessoas cuja preferência é Pensamento Extravertido com Intuição Introvertida (ENTJ) usam uma linguagem que muitas vezes soa ainda mais abrupta do que a dos INTJ. 
+
+Elas precisam se ouvir para organizar todas as imagens que surgem por meio de sua Intuição Introvertida. 
+
+Sua voz tende a ter um tom muito lógico e frequentemente parecerá que não se importam se os outros estão ouvindo. 
+
+Aqueles que preferem Sentimento Extravertido com Intuição Introvertida (ENFJ) tendem a falar sobre pessoas e sobre como a visão ou o significado as afeta.
 
 ### PENSAMENTO EXTRAVERTIDO
 
-A linguagem do Pensamento Extravertido atende à necessidade de expressar os próprios pensamentos em voz alta. Pessoas que preferem esse processo precisam falar para pensar. Ao ouvir, outras pessoas podem sentir como se estivessem sendo bombardeadas por uma enxurrada de pensamentos. Na verdade, não estão necessariamente fazendo julgamentos enquanto falam, mas pode soar assim. Embora pareça que estejam declarando conclusões inegociáveis, na verdade estão apenas externalizando seu processo de pensamento para chegar a uma conclusão. Muitas vezes precisam das respostas dos outros para estimular seus próprios pensamentos. Mas, mesmo que não haja respostas, simplesmente ter um espaço para pensar em voz alta as ajuda a refinar suas análises. Você pode até ouvir pessoas com preferência por esse processo “pensando em voz alta” consigo mesmas. Elas também gostam de debater, embora os outros possam ver isso como discussão ou confronto. Pessoas com Pensamento Extravertido dominante (ESTJ, ENTJ) devem informar aos outros que é assim que se comunicam. Caso contrário, correm o risco de desencorajar a troca e a reciprocidade na comunicação.
+A linguagem do Pensamento Extravertido atende à necessidade de expressar os próprios pensamentos em voz alta. 
 
-conversas que estão tentando estimular. Outros, especialmente subordinados, podem sair para executar o que presumem serem decisões, mas que na verdade são apenas ideias sendo elaboradas.
+Pessoas que preferem esse processo precisam falar para pensar. Ao ouvir, outras pessoas podem sentir como se estivessem sendo bombardeadas por uma enxurrada de pensamentos. 
 
-Pessoas que preferem Pensamento Extravertido com Sensação Introvertida (ESTJ) geralmente soam factuais, analíticas e firmemente fundamentadas na realidade de uma situação. Seu processo de Sensação Introvertida fornece uma abundância de fatos e detalhes para análise e comparação. Elas parecem ter pouco espaço para considerar outras opções ou ideias, como se a decisão já tivesse sido tomada. Quando passam de um tópico para outro, isso geralmente ocorre por meio de uma conexão lógica compartilhada.
+Na verdade, não estão necessariamente fazendo julgamentos enquanto falam, mas pode soar assim. 
 
-Aqueles cuja preferência é por Pensamento Extravertido com Intuição Introvertida (ENTJ) geralmente soam bastante abstratos, e outros podem não entender exatamente o que estão tentando comunicar. Sua necessidade de pensar em voz alta, aliada a um conteúdo de pensamentos com o qual outros têm dificuldade de se relacionar, pode frustrar as pessoas ao redor. O ENTJ tende a ir em muitas direções ao mesmo tempo. A transição de um assunto para outro é tão rápida que os pensamentos podem parecer desconectados. Muitas vezes é difícil para pessoas com essa preferência verbalizar como será o resultado ou objetivo final.
+Embora pareça que estejam declarando conclusões inegociáveis, na verdade estão apenas externalizando seu processo de pensamento para chegar a uma conclusão. 
 
-Pessoas que preferem Pensamento Extravertido como processo auxiliar ao dominante Sensação Introvertida (ISTJ) tendem a buscar fatos internos relevantes e então apresentar a decisão. As decisões não soam tão inegociáveis quanto quando o Pensamento Extravertido está na posição dominante. A comunicação de pessoas cujo Pensamento Extravertido é o processo auxiliar ao dominante Intuição Introvertida (INTJ) pode sofrer com a escassez de informações e exemplos concretos. Embora apresentadas de maneira lógica, as explicações do INTJ tendem a dar grandes saltos intuitivos, deixando lacunas onde outros precisam de detalhes para compreender e acreditar. O INTJ pode perder credibilidade ao omitir detalhes que simplesmente sabe intuitivamente, mas não pode provar ou explicar.
+Muitas vezes precisam das respostas dos outros para estimular seus próprios pensamentos. Mas, mesmo que não haja respostas, simplesmente ter um espaço para pensar em voz alta as ajuda a refinar suas análises. 
+
+Você pode até ouvir pessoas com preferência por esse processo “pensando em voz alta” consigo mesmas. 
+
+Elas também gostam de debater, embora os outros possam ver isso como discussão ou confronto. Pessoas com Pensamento Extravertido dominante (ESTJ, ENTJ) devem informar aos outros que é assim que se comunicam. 
+
+Caso contrário, correm o risco de desencorajar a troca e a reciprocidade na comunicação.
+
+Outros, especialmente subordinados, podem sair para executar o que presumem serem decisões, mas que na verdade são apenas ideias sendo elaboradas.
+
+Pessoas que preferem Pensamento Extravertido com Sensação Introvertida (ESTJ) geralmente soam factuais, analíticas e firmemente fundamentadas na realidade de uma situação. 
+
+Seu processo de Sensação Introvertida fornece uma abundância de fatos e detalhes para análise e comparação. Elas parecem ter pouco espaço para considerar outras opções ou ideias, como se a decisão já tivesse sido tomada. 
+
+Quando passam de um tópico para outro, isso geralmente ocorre por meio de uma conexão lógica compartilhada.
+
+Aqueles cuja preferência é por Pensamento Extravertido com Intuição Introvertida (ENTJ) geralmente soam bastante abstratos, e outros podem não entender exatamente o que estão tentando comunicar. 
+
+Sua necessidade de pensar em voz alta, aliada a um conteúdo de pensamentos com o qual outros têm dificuldade de se relacionar, pode frustrar as pessoas ao redor. 
+
+O ENTJ tende a ir em muitas direções ao mesmo tempo. A transição de um assunto para outro é tão rápida que os pensamentos podem parecer desconectados. 
+
+Muitas vezes é difícil para pessoas com essa preferência verbalizar como será o resultado ou objetivo final.
+
+Pessoas que preferem Pensamento Extravertido como processo auxiliar ao dominante Sensação Introvertida (ISTJ) tendem a buscar fatos internos relevantes e então apresentar a decisão. 
+
+As decisões não soam tão inegociáveis quanto quando o Pensamento Extravertido está na posição dominante. 
+
+A comunicação de pessoas cujo Pensamento Extravertido é o processo auxiliar ao dominante Intuição Introvertida (INTJ) pode sofrer com a escassez de informações e exemplos concretos. 
+
+Embora apresentadas de maneira lógica, as explicações do INTJ tendem a dar grandes saltos intuitivos, deixando lacunas onde outros precisam de detalhes para compreender e acreditar. 
+
+O INTJ pode perder credibilidade ao omitir detalhes que simplesmente sabe intuitivamente, mas não pode provar ou explicar.
 
 ### PENSAMENTO INTROVERTIDO
 
-A comunicação que outros ouvem de pessoas com preferência por Pensamento Introvertido é um resumo de uma análise lógica que já foi concluída internamente. Você não ouvirá um pensamento pela metade. Pessoas com essa preferência precisam pensar para poder falar. A duração do processo de pensamento depende de quão bem o tópico se encaixa na estrutura lógica pessoal que já existe em sua mente. Sua linguagem é muito precisa e, às vezes, elas fazem pausas para buscar a palavra ou expressão exata de que precisam. Outros podem notar sinais visíveis quando isso está acontecendo. Muitas vezes parecem estar realmente fazendo um cálculo mental e seus olhos parecem focar na tarefa interna. Parecem distantes e frequentemente alheias ao mundo externo. Outros não veem o pensamento detalhado que está ocorrendo internamente, pois a pessoa que prefere Pensamento Introvertido faz uma jornada interna na qual a precisão é o objetivo. Frequentemente, suas explicações soam cada vez mais complexas quanto mais tentam esclarecer algo. Podem se alongar em tangentes, já que seu processo de pensamento interno é tão pessoal e único.
+A comunicação que outros ouvem de pessoas com preferência por Pensamento Introvertido é um resumo de uma análise lógica que já foi concluída internamente.
 
-Há uma enorme diferença entre Pensamento Introvertido quando é apoiado por Sensação Extravertida versus Intuição Extravertida. Pessoas que preferem Pensamento Introvertido com Sensação Extravertida (ISTP) frequentemente parecem fortemente opinativas: “Este é o meu processo de pensamento, os fatos estão corretos, a lógica é precisa, e portanto eu estou certo. Fim da conversa.” Elas também tendem a chegar a um fechamento rapidamente porque veem o que está ali e têm certeza de que é tudo o que há para considerar.
+Você não ouvirá um pensamento pela metade. 
 
-Aqueles que preferem Pensamento Introvertido com Intuição Extravertida (INTP) tendem a demorar mais para chegar a um fechamento porque querem continuar explorando possibilidades e opções. O INTP frequentemente se mostra provisório. Outros podem até pensar que foram menos sinceros, já que podem parecer estar constantemente vacilando ou mudando de ideia. Na verdade, estão apenas explicando seus pensamentos. Mas, ao fazer isso, continuam descobrindo mais possibilidades ou opções.
+**Pessoas com essa preferência precisam pensar para poder falar.** 
 
-Para pessoas cujo Pensamento Introvertido é seu processo auxiliar (ESTP e ENTP), os estilos de comunicação se assemelham aos de ISTP e INTP, mas a influência do Pensamento Introvertido é muito menos visível. A maior parte do que é perceptível virá da dominante Sensação Extravertida ou Intuição Extravertida. Ainda é possível ouvir a precisão e a lógica internas, mas a influência é muito sutil.
+A duração do processo de pensamento depende de quão bem o tópico se encaixa na estrutura lógica pessoal que já existe em sua mente. 
+
+Sua linguagem é muito precisa e, às vezes, elas fazem pausas para buscar a palavra ou expressão exata de que precisam. 
+
+Outros podem notar sinais visíveis quando isso está acontecendo. Muitas vezes parecem estar realmente fazendo um cálculo mental e seus olhos parecem focar na tarefa interna. 
+
+Parecem distantes e frequentemente alheias ao mundo externo. Outros não veem o pensamento detalhado que está ocorrendo internamente, pois a pessoa que prefere Pensamento Introvertido faz uma jornada interna na qual a precisão é o objetivo. 
+
+Frequentemente, suas explicações soam cada vez mais complexas quanto mais tentam esclarecer algo. Podem se alongar em tangentes, já que seu processo de pensamento interno é tão pessoal e único.
+
+Há uma enorme diferença entre Pensamento Introvertido quando é apoiado por Sensação Extravertida versus Intuição Extravertida. 
+
+Pessoas que preferem Pensamento Introvertido com Sensação Extravertida (ISTP) frequentemente parecem fortemente opinativas: “Este é o meu processo de pensamento, os fatos estão corretos, a lógica é precisa, e portanto eu estou certo. 
+Fim da conversa.
+
+Elas também tendem a chegar a um fechamento rapidamente porque veem o que está ali e têm certeza de que é tudo o que há para considerar.
+
+Aqueles que preferem Pensamento Introvertido com Intuição Extravertida (INTP) tendem a demorar mais para chegar a um fechamento porque querem continuar explorando possibilidades e opções. 
+
+O INTP frequentemente se mostra provisório. Outros podem até pensar que foram menos sinceros, já que podem parecer estar constantemente vacilando ou mudando de ideia. 
+
+Na verdade, estão apenas explicando seus pensamentos. Mas, ao fazer isso, continuam descobrindo mais possibilidades ou opções.
+
+Para pessoas cujo Pensamento Introvertido é seu processo auxiliar (ESTP e ENTP), os estilos de comunicação se assemelham aos de ISTP e INTP, mas a influência do Pensamento Introvertido é muito menos visível. 
+
+A maior parte do que é perceptível virá da dominante Sensação Extravertida ou Intuição Extravertida. 
+
+Ainda é possível ouvir a precisão e a lógica internas, mas a influência é muito sutil.
 
 ### SENTIMENTO EXTRAVERTIDO
 
-A linguagem daqueles que preferem Sentimento Extravertido é cheia de “nós” e “nos”. Mesmo quando dizem “eu”, os outros frequentemente têm a sensação de que estão refletindo um consenso, de que estão falando em nome de todos. Muitas vezes começam a falar abruptamente, especialmente quando estão envolvidos em sua atividade favorita de promover uma causa ou cuidar dos menos favorecidos. Sua linguagem, assim como suas atividades, frequentemente dá a impressão de um cruzado avançando para a batalha. Ao mesmo tempo, geralmente exercem extremo cuidado e habilidade na escolha das palavras e no momento de dizê-las. Sua prioridade de manter a harmonia entre as pessoas pode ser algo sutil, e tendem a ser politicamente corretos e a não ofender ninguém. Sua habilidade em conversar e gerenciar situações é desenvolvida para cumprir a necessidade de manter a harmonia ao se comunicar e aplicar as regras de comportamento social aceitável. Embora outros possam nem perceber, “deverias” e “não deverias” são falados ou implícitos ao longo da conversa. Pessoas que favorecem o Sentimento Extravertido tendem a cuidar do grupo, garantindo que todos sejam incluídos na conversa, que todos sejam ouvidos e que todos estejam confortáveis. Costumam ter um bom radar para o estado emocional de um grupo, e você pode vê-las reagindo a esse componente emocional em vez do que foi dito ou feito. Tendem a conduzir os processos do grupo rapidamente em direção a um fechamento, às vezes rápido demais para outros. Como tendem a presumir que sabem o que é melhor para o grupo, a discussão muitas vezes é apenas uma formalidade.
+A linguagem daqueles que preferem Sentimento Extravertido é cheia de “nós” e “nos”. 
 
-Pessoas que preferem Sentimento Extravertido com Sensação Introvertida (ESFJ) falam e ao menos em parte se baseiam na experiência passada sobre o que funcionou e o que não funcionou para criar e manter a harmonia ao seu redor. Sua comunicação frequentemente se concentra na saúde física dos outros e em cuidar deles. Ações frequentemente acompanham suas palavras. Em uma festa, você pode vê-las oferecendo comida ou bebida às pessoas ao mesmo tempo em que tentam resolver problemas relacionados às pessoas no momento.
+Mesmo quando dizem “eu”, os outros frequentemente têm a sensação de que estão refletindo um consenso, de que estão falando em nome de todos. 
 
-Aqueles que preferem Sentimento Extravertido com Intuição Introvertida (ENFJ) estão mais preocupados em nutrir o crescimento pessoal dos outros. Podem recomendar livros ou cursos para ajudá-lo em seu desenvolvimento pessoal. Frequentemente se envolvem em organizações que promovem esses esforços.
+Muitas vezes começam a falar abruptamente, especialmente quando estão envolvidos em sua atividade favorita de promover uma causa ou cuidar dos menos favorecidos. 
 
-Pessoas cujo Sentimento Extravertido é o processo auxiliar ao dominante Sensação Introvertida (ISFJ) imediatamente relembram sua última interação e passam rapidamente a corrigir qualquer problema que tenha ocorrido ou vindo à tona durante essa experiência anterior. Aqueles com Sentimento Extravertido como processo auxiliar ao dominante Intuição Introvertida (INFJ) tendem a focar no que pode acontecer em uma interação futura, em vez do que aconteceu no passado. Eles ouvirão atentamente você, mas podem estar escutando o significado por trás de suas palavras em vez de se concentrarem no que você está dizendo.
+Sua linguagem, assim como suas atividades, frequentemente dá a impressão de um cruzado avançando para a batalha. 
 
-### SENTIMENTO INTROVERTIDO
+Ao mesmo tempo, geralmente exercem extremo cuidado e habilidade na escolha das palavras e no momento de dizê-las. 
 
-A linguagem do Sentimento Introvertido é a mais difícil de identificar entre todos os processos, exceto nas ocasiões em que uma crença ou valor forte está sendo apresentado. Ouvir o estilo de comunicação de pessoas que preferem o processo de Sentimento Introvertido geralmente é mais sobre perceber o que não está ali do que o que está. Você geralmente não ouvirá uma agenda, paixão ou posições bem fundamentadas ou firmemente defendidas, nem “deverias” e “não deverias”. Frequentemente são tão agradáveis, abertas e dispostas a seguir o fluxo que outros podem incorretamente vê-las como “moles” ou sem valores. Nunca impõem seus valores aos outros. Se você prestar bastante atenção nelas, porém, pode notar que transmitem um certo grau de certeza que vem de saber o que é importante para elas.
+Sua prioridade de manter a harmonia entre as pessoas pode ser algo sutil, e tendem a ser politicamente corretos e a não ofender ninguém. 
 
-Quando falam ou agem, geralmente há um nível incomumente alto de energia e paixão; a primeira reação dos outros pode ser surpresa com esse comportamento aparentemente fora do comum. No entanto, isso não é realmente inconsistente ou fora de caráter. Somente quando seus valores centrais são ameaçados ou de outra forma envolvidos é que a paixão e a convicção associadas vêm à tona para que outros vejam.
+Sua habilidade em conversar e gerenciar situações é desenvolvida para cumprir a necessidade de manter a harmonia ao se comunicar e aplicar as regras de comportamento social aceitável. 
 
-Às vezes, sua defesa apaixonada de seus valores não pode ser diretamente observada, pois podem simplesmente se fechar e não dizer nada. Mesmo nessa situação, porém, pistas sutis podem ser percebidas em suas palavras, e sua linguagem corporal é particularmente expressiva. Podem ficar um pouco mais rígidas ou até mesmo rigidamente caladas. Com mais frequência, no entanto, simplesmente se afastam rápida e abruptamente da pessoa, do trabalho ou de outra situação que esteja em conflito com seus valores, sem explicação. Isso pode parecer uma total falta de comunicação. Mas a saída repentina e a recusa em discutir o assunto
+Embora outros possam nem perceber, “deverias” e “não deverias” são falados ou implícitos ao longo da conversa. 
+
+Pessoas que favorecem o Sentimento Extravertido tendem a cuidar do grupo, garantindo que todos sejam incluídos na conversa, que todos sejam ouvidos e que todos estejam confortáveis. 
+
+Costumam ter um bom radar para o estado emocional de um grupo, e você pode vê-las reagindo a esse componente emocional em vez do que foi dito ou feito. 
+
+Tendem a conduzir os processos do grupo rapidamente em direção a um fechamento, às vezes rápido demais para outros. 
+
+Como tendem a presumir que sabem o que é melhor para o grupo, a discussão muitas vezes é apenas uma formalidade.
+
+Pessoas que preferem Sentimento Extravertido com Sensação Introvertida (ESFJ) falam e ao menos em parte se baseiam na experiência passada sobre o que funcionou e o que não funcionou para criar e manter a harmonia ao seu redor. 
+
+Sua comunicação frequentemente se concentra na saúde física dos outros e em cuidar deles. 
+
+Ações frequentemente acompanham suas palavras. 
+
+Em uma festa, você pode vê-las oferecendo comida ou bebida às pessoas ao mesmo tempo em que tentam resolver problemas relacionados às pessoas no momento.
+
+Aqueles que preferem Sentimento Extravertido com Intuição Introvertida (ENFJ) estão mais preocupados em nutrir o crescimento pessoal dos outros. 
+
+Podem recomendar livros ou cursos para ajudá-lo em seu desenvolvimento pessoal. 
+
+Frequentemente se envolvem em organizações que promovem esses esforços.
+
+Pessoas cujo Sentimento Extravertido é o processo auxiliar ao dominante Sensação Introvertida (ISFJ) imediatamente relembram sua última interação e passam rapidamente a corrigir qualquer problema que tenha ocorrido ou vindo à tona durante essa experiência anterior.
+
+Aqueles com Sentimento Extravertido como processo auxiliar ao dominante Intuição Introvertida (INFJ) tendem a focar no que pode acontecer em uma interação futura, em vez do que aconteceu no passado. 
+
+Eles ouvirão atentamente você, mas podem estar escutando o significado por trás de suas palavras em vez de se concentrarem no que você está dizendo.
+
+### SENTIMENTO INTROVERTIDO (Fi)
+
+A linguagem do Sentimento Introvertido é a mais difícil de identificar entre todos os processos, exceto nas ocasiões em que uma crença ou valor forte está sendo apresentado. Ouvir o estilo de comunicação de pessoas que preferem o processo de Sentimento Introvertido geralmente é mais sobre perceber o que não está ali do que o que está. 
+
+Você geralmente não ouvirá uma agenda, paixão ou posições bem fundamentadas ou firmemente defendidas, nem “deverias” e “não deverias”. 
+
+Frequentemente são tão agradáveis, abertas e dispostas a seguir o fluxo que outros podem incorretamente vê-las como “moles” ou sem valores. 
+
+Nunca impõem seus valores aos outros. 
+
+Se você prestar bastante atenção nelas, porém, pode notar que transmitem um certo grau de certeza que vem de saber o que é importante para elas.
+
+Quando falam ou agem, geralmente há um nível incomumente alto de energia e paixão; a primeira reação dos outros pode ser surpresa com esse comportamento aparentemente fora do comum. 
+
+No entanto, isso não é realmente inconsistente ou fora de caráter. Somente quando seus valores centrais são ameaçados ou de outra forma envolvidos é que a paixão e a convicção associadas vêm à tona para que outros vejam.
+
+Às vezes, sua defesa apaixonada de seus valores não pode ser diretamente observada, pois podem simplesmente se fechar e não dizer nada. 
+
+Mesmo nessa situação, porém, pistas sutis podem ser percebidas em suas palavras, e sua linguagem corporal é particularmente expressiva. 
+
+Podem ficar um pouco mais rígidas ou até mesmo rigidamente caladas. 
+
+Com mais frequência, no entanto, simplesmente se afastam rápida e abruptamente da pessoa, do trabalho ou de outra situação que esteja em conflito com seus valores, sem explicação. 
+
+Isso pode parecer uma total falta de comunicação. Mas a saída repentina e a recusa em discutir o assunto
 
 …continuar ou se associar à parte ofensora comunicam claramente muita coisa, se você souber o que procurar.
 
-Além da natureza aberta, serena e descontraída que normalmente influencia seu tom, geralmente é muito difícil ouvir a voz do processo de Sentimento Introvertido nessas pessoas. Muitas vezes, a maior parte do que você ouve vem do processo auxiliar Extravertido.
+Além da natureza aberta, serena e descontraída que normalmente influencia seu tom, geralmente é muito difícil ouvir a voz do processo de Sentimento Introvertido nessas pessoas. 
 
-Pessoas que preferem Sentimento Introvertido com Sensação Extravertida (ISFP) geralmente têm um ar de gentileza. Estão em paz consigo mesmas e sabem quem são. Não procuram impressionar ou influenciar os outros, por isso tendem a falar sobre o que realmente está acontecendo no momento. Falam no tempo presente, e o que você vê é o que você tem.
+Muitas vezes, a maior parte do que você ouve vem do processo auxiliar Extravertido.
 
-Aqueles que preferem Sentimento Introvertido com Intuição Extravertida (INFP) demonstram uma postura tranquila diante do mundo. Somente quando se sentem completamente seguros para se expressar você ouvirá a paixão em sua voz que revela a verdadeira importância de certas coisas e pessoas em suas vidas. Não procuram impressionar ou convencer os outros, e focam em possibilidades e opções que sustentam seu sistema de valores.
+Pessoas que preferem Sentimento Introvertido com Sensação Extravertida (ISFP) geralmente têm um ar de gentileza. 
 
-Pessoas cujo processo de Sentimento Introvertido é auxiliar ao dominante Sensação Extravertida (ESFP) possuem uma vivacidade que pode esconder seus valores profundamente mantidos. Envolvem-se facilmente em seu ambiente atual, acompanhando o fluxo, exceto nas ocasiões em que seus valores centrais são ameaçados. A paixão do Sentimento Introvertido quase nunca é trazida à tona de forma visível ou audível para os outros.
+Estão em paz consigo mesmas e sabem quem são. Não procuram impressionar ou influenciar os outros, por isso tendem a falar sobre o que realmente está acontecendo no momento. 
 
-Aqueles com Sentimento Introvertido como processo auxiliar ao dominante Intuição Extravertida (ENFP) também apresentam uma vivacidade perceptível que oculta seus valores profundamente enraizados. Para o ENFP, o foco extrovertido e ativo está em gerar e explorar possibilidades que apoiem as pessoas.
+Falam no tempo presente, e o que você vê é o que você tem.
 
-Não podemos encerrar nossa discussão sobre comunicação sem mencionar brevemente outra questão intimamente relacionada às organizações: o trabalho em equipe. Tudo o que mencionamos sobre comunicação pode ser aplicado diretamente à construção e ao aprimoramento de equipes. Abordar questões de comunicação por meio do modelo de oito processos de tipo levará a mudanças em um nível muito mais fundamental do que simplesmente ensinar algumas técnicas de melhoria da comunicação. Embora técnicas aprimoradas de escuta e fala venham junto com o pacote, as mudanças mais importantes são aquelas das quais essas melhorias visíveis devem surgir — em áreas como confiança, respeito e apreciação. Uma boa comunicação não é o único ingrediente essencial para um bom trabalho em equipe, mas abordar a comunicação nesse nível também trata dos outros fatores.
+Aqueles que preferem Sentimento Introvertido com Intuição Extravertida (INFP) demonstram uma postura tranquila diante do mundo. 
 
-Por meio de uma comunicação autêntica e eficaz, indivíduos e equipes podem se tornar forças poderosas. Seja em uma parceria empresarial, uma equipe de trabalho ou um relacionamento pessoal íntimo, a comunicação ineficaz representa a barreira mais comum e persistente para o sucesso e a felicidade nos relacionamentos. Com a profundidade de compreensão e apreciação dos dons de cada um que pode ser alcançada por meio de melhorias na comunicação orientadas por uma compreensão de tipo, a própria equipe pode se tornar uma entidade mais completa, utilizando habilmente seu conjunto coletivo de processos mentais desenvolvidos. Juntos, os indivíduos podem alcançar um nível de completude além do que provavelmente alcançariam individualmente. Tornam-se uma força substancial em todos os seus empreendimentos mútuos, enquanto, juntos, se aproximam do senso de totalidade que todos buscamos.
+Somente quando se sentem completamente seguros para se expressar você ouvirá a paixão em sua voz que revela a verdadeira importância de certas coisas e pessoas em suas vidas. 
 
-Certamente é possível ter uma equipe eficaz sem uma consciência consciente de tipo. Mas, ao abordar a construção de equipes por meio do ensino sobre tipo, estamos promovendo um processo natural de desenvolvimento pessoal em todos os participantes. Não apenas a equipe em si pode se tornar significativamente mais eficaz, como os membros da equipe podem se tornar mais equilibrados, eficazes e realizados em praticamente tudo o que fazem. O tempo e o esforço dedicados a estabelecer as bases, familiarizando o grupo com as bases do tipo, geralmente produzem um retorno sobre o investimento muito rapidamente e com resultados que podem ser dramáticos. A maioria dos líderes que presenciou o que esse conhecimento pode realizar nem consideraria trabalhar sem ele novamente.
+Não procuram impressionar ou convencer os outros, e focam em possibilidades e opções que sustentam seu sistema de valores.
+
+Pessoas cujo processo de Sentimento Introvertido é auxiliar ao dominante Sensação Extravertida (ESFP) possuem uma vivacidade que pode esconder seus valores profundamente mantidos. 
+
+Envolvem-se facilmente em seu ambiente atual, acompanhando o fluxo, exceto nas ocasiões em que seus valores centrais são ameaçados. 
+
+A paixão do Sentimento Introvertido quase nunca é trazida à tona de forma visível ou audível para os outros.
+
+Aqueles com Sentimento Introvertido como processo auxiliar ao dominante Intuição Extravertida (ENFP) também apresentam uma vivacidade perceptível que oculta seus valores profundamente enraizados. 
+
+Para o ENFP, o foco extrovertido e ativo está em gerar e explorar possibilidades que apoiem as pessoas.
+
+Não podemos encerrar nossa discussão sobre comunicação sem mencionar brevemente outra questão intimamente relacionada às organizações: o trabalho em equipe. 
+
+Tudo o que mencionamos sobre comunicação pode ser aplicado diretamente à construção e ao aprimoramento de equipes. Abordar questões de comunicação por meio do modelo de oito processos de tipo levará a mudanças em um nível muito mais fundamental do que simplesmente ensinar algumas técnicas de melhoria da comunicação. 
+
+Embora técnicas aprimoradas de escuta e fala venham junto com o pacote, as mudanças mais importantes são aquelas das quais essas melhorias visíveis devem surgir — em áreas como confiança, respeito e apreciação.
+
+Uma boa comunicação não é o único ingrediente essencial para um bom trabalho em equipe, mas abordar a comunicação nesse nível também trata dos outros fatores.
+
+Por meio de uma comunicação autêntica e eficaz, indivíduos e equipes podem se tornar forças poderosas. Seja em uma parceria empresarial, uma equipe de trabalho ou um relacionamento pessoal íntimo, a comunicação ineficaz representa a barreira mais comum e persistente para o sucesso e a felicidade nos relacionamentos. 
+
+Com a profundidade de compreensão e apreciação dos dons de cada um que pode ser alcançada por meio de melhorias na comunicação orientadas por uma compreensão de tipo, a própria equipe pode se tornar uma entidade mais completa, utilizando habilmente seu conjunto coletivo de processos mentais desenvolvidos. 
+
+Juntos, os indivíduos podem alcançar um nível de completude além do que provavelmente alcançariam individualmente. Tornam-se uma força substancial em todos os seus empreendimentos mútuos, enquanto, juntos, se aproximam do senso de totalidade que todos buscamos.
+
+Certamente é possível ter uma equipe eficaz sem uma consciência consciente de tipo. Mas, ao abordar a construção de equipes por meio do ensino sobre tipo, estamos promovendo um processo natural de desenvolvimento pessoal em todos os participantes. 
+
+Não apenas a equipe em si pode se tornar significativamente mais eficaz, como os membros da equipe podem se tornar mais equilibrados, eficazes e realizados em praticamente tudo o que fazem. 
+
+O tempo e o esforço dedicados a estabelecer as bases, familiarizando o grupo com as bases do tipo, geralmente produzem um retorno sobre o investimento muito rapidamente e com resultados que podem ser dramáticos. 
+
+A maioria dos líderes que presenciou o que esse conhecimento pode realizar nem consideraria trabalhar sem ele novamente.
 
 ### GERENCIANDO MUDANÇA E TRANSIÇÃO
 
 A gestão da mudança tornou-se um tema em destaque na última década porque os avanços tecnológicos criaram uma economia global na qual as empresas descobriram que a adaptabilidade ágil é vital para o sucesso.
 
 • As empresas estão terceirizando cada vez mais trabalhos que antes eram realizados internamente, criando uma epidemia de choque de transição.
-
 • As expectativas dos clientes podem mudar repentinamente e você precisa reprojetar seu produto ou serviço da noite para o dia.  
 • Seu sistema de informações é atualizado e todos precisam mudar subitamente a forma como trabalham sem perder o ritmo.  
 • Uma fusão reúne culturas corporativas completamente diferentes, criando caos, enquanto os acionistas esperam que a nova organização seja imediatamente mais forte do que a soma de suas partes.
 
-Mas lidar com a transição é, na verdade, algo que nós, seres humanos, fazemos relativamente bem. Sem essa capacidade de adaptação, nossa espécie não teria sobrevivido para evoluir até os organismos altamente complexos que nos tornamos. A complexidade e a diversidade de nossas estruturas sociais deram origem à nossa capacidade de inovar em nossos relacionamentos também. Evoluímos em um mundo onde a mudança é constante, não uma condição ocasional e temporária que ocorre entre situações estáveis. Como indivíduos, todos temos formas eficazes de adaptação — seja a mudanças dramáticas, como o primeiro dia de aula ou a perda de um ente querido, ou às reviravoltas normais do dia a dia no trabalho, como mudanças de prioridades e “incêndios” diários.
+Mas lidar com a transição é, na verdade, algo que nós, seres humanos, fazemos relativamente bem. 
 
-Em _A Simpler Way_, Margaret Wheatley e Myron Kellner-Rogers apontam que “A resistência que experimentamos dos outros não é ao conflito em si. É ao processo particular de mudança que acredita na imposição em vez da criação.” As organizações podem gerenciar a mudança e a transição de forma mais eficaz ao aproveitar a adaptabilidade individual de seus colaboradores, permitindo e capacitando-os a cocriar a nova realidade necessária. Transições malsucedidas geralmente são resultado de excesso de controle ou de falta de apoio a esse processo natural. Em vez de tentar controlar a transição, os líderes podem contribuir melhor definindo primeiro limites e, então, dedicando atenção ao que indivíduos e equipes precisam para realizar seu trabalho. É aqui que a compreensão de tipo pode ser extremamente útil.
+Sem essa capacidade de adaptação, nossa espécie não teria sobrevivido para evoluir até os organismos altamente complexos que nos tornamos. 
 
-Pessoas com diferentes preferências de processo têm necessidades diferentes e utilizarão abordagens distintas para lidar com a mudança. A seguir, uma visão rápida de como essas necessidades e abordagens funcionam.
+A complexidade e a diversidade de nossas estruturas sociais deram origem à nossa capacidade de inovar em nossos relacionamentos também. 
 
-## PERCEPÇÃO
+Evoluímos em um mundo onde a mudança é constante, não uma condição ocasional e temporária que ocorre entre situações estáveis. 
+
+Como indivíduos, todos temos formas eficazes de adaptação — seja a mudanças dramáticas, como o primeiro dia de aula ou a perda de um ente querido, ou às reviravoltas normais do dia a dia no trabalho, como mudanças de prioridades e “incêndios” diários.
+
+Em _A Simpler Way_, Margaret Wheatley e Myron Kellner-Rogers apontam que “A resistência que experimentamos dos outros não é ao conflito em si. 
+
+É ao processo particular de mudança que acredita na imposição em vez da criação.” 
+
+As organizações podem gerenciar a mudança e a transição de forma mais eficaz ao aproveitar a adaptabilidade individual de seus colaboradores, permitindo e capacitando-os a cocriar a nova realidade necessária. 
+
+Transições malsucedidas geralmente são resultado de excesso de controle ou de falta de apoio a esse processo natural. Em vez de tentar controlar a transição, os líderes podem contribuir melhor definindo primeiro limites e, então, dedicando atenção ao que indivíduos e equipes precisam para realizar seu trabalho. 
+
+É aqui que a compreensão de tipo pode ser extremamente útil.
+
+Pessoas com diferentes preferências de processo têm necessidades diferentes e utilizarão abordagens distintas para lidar com a mudança. 
+
+A seguir, uma visão rápida de como essas necessidades e abordagens funcionam.
+
+**PERCEPÇÃO**
 
 Pessoas com diferentes preferências de Percepção precisam de diferentes tipos de informação para tomar uma decisão:
 
-• Sensação Extravertida:  
-⇒ Como essa mudança está me afetando agora?  
-⇒ Como essa mudança está afetando a organização agora?
+• (Se) - Sensação Extravertida:  
+	⇒ Como essa mudança está me afetando agora?  
+	⇒ Como essa mudança está afetando a organização agora?
 
-• Sensação Introvertida:  
-⇒ Como essa mudança se compara às mudanças que vivenciei no passado?  
-⇒ Como essa mudança se compara às mudanças anteriores na organização?
+• (Si) - Sensação Introvertida:  
+	⇒ Como essa mudança se compara às mudanças que vivenciei no passado?  
+	⇒ Como essa mudança se compara às mudanças anteriores na organização?
 
-• Intuição Extravertida:  
-⇒ Quais são as possibilidades para mim?  
-⇒ Quais são as possibilidades para a organização?
+• (Ne) Intuição Extravertida:  
+	⇒ Quais são as possibilidades para mim?  
+	⇒ Quais são as possibilidades para a organização?
 
-• Intuição Introvertida:  
-⇒ O que essa mudança significa para mim?  
-⇒ O que essa mudança significa para a organização?
+• (Ni) Intuição Introvertida:  
+	⇒ O que essa mudança significa para mim?  
+	⇒ O que essa mudança significa para a organização?
 
-## JULGAMENTO
+**JULGAMENTO**
 
 Pessoas com diferentes preferências de Julgamento utilizam maneiras distintas de tomar as decisões necessárias para se adaptar.
 
-• Pensamento Extravertido:  
-⇒ Existe uma ordem lógica, regras ou procedimentos padrão para orientar o esforço de mudança?  
-⇒ Essa lógica externa faz sentido para mim? Consigo enxergar a lógica?
+• (Te) - Pensamento Extravertido:  
+	⇒ Existe uma ordem lógica, regras ou procedimentos padrão para orientar o esforço de mudança?  
+	⇒ Essa lógica externa faz sentido para mim? Consigo enxergar a lógica?
 
-• Pensamento Introvertido:  
-⇒ Qual será o processo da mudança?  
-⇒ O processo é justo e bem elaborado e se encaixa na minha estrutura lógica subjetiva?
+•(Ti) Pensamento Introvertido:  
+	⇒ Qual será o processo da mudança?  
+	⇒ O processo é justo e bem elaborado e se encaixa na minha estrutura lógica subjetiva?
 
-• Sentimento Extravertido:  
-⇒ Como as pessoas na organização serão impactadas pela mudança?  
-⇒ Como minha família será impactada pela mudança?
+•(Fe) Sentimento Extravertido:  
+	⇒ Como as pessoas na organização serão impactadas pela mudança?  
+	⇒ Como minha família será impactada pela mudança?
 
-• Sentimento Introvertido:  
-⇒ Essa mudança cria um conflito com meu sistema de valores?  
-⇒ Essa mudança apoiará meu sistema de valores?
+•(Fi) Sentimento Introvertido:  
+	⇒ Essa mudança cria um conflito com meu sistema de valores?  
+	⇒ Essa mudança apoiará meu sistema de valores?
 
 Tomemos, por exemplo, a história de Moisés sob a lente do tipo.
 
-Moisés tinha uma visão. Ele sabia o que precisava acontecer e conseguia ver o resultado em sua mente. Seu desafio era comunicar essa visão ao seu povo de uma forma que os inspirasse a abandonar suas vidas familiares como escravos no Egito e embarcar em uma jornada longa e perigosa. Moisés, nesta versão da história, preferia Intuição Introvertida. Esse processo mental abstrato e visionário lhe permitia saber com certeza que a liberdade aguardava os israelitas em um lugar que ele pensava como a Terra Prometida. Mas, quando Moisés falava sobre a Terra Prometida e tentava persuadir o povo a segui-lo, ninguém se animava. Ninguém queria segui-lo. Ele foi sozinho ao deserto e passou um tempo considerável contemplando por que isso acontecia. Como muitos grandes líderes no mundo corporativo atual, Moisés tinha uma visão, mas seu modo abstrato de comunicação apresentava um problema sério.
+Moisés tinha uma visão. Ele sabia o que precisava acontecer e conseguia ver o resultado em sua mente. 
 
-A chave para o sucesso de Moisés foi seu desenvolvimento de tipo. Isso lhe permitiu perceber que simplesmente não estava se comunicando de uma forma que todos pudessem entender. Ele precisava mudar sua linguagem para ajudar seu povo a visualizar a Terra Prometida também. Ao simplesmente mudar a expressão de “Terra Prometida” para “Terra de Leite e Mel”, ele conseguiu imediatamente mobilizar os israelitas em torno da visão. Por meio dessa simples mudança de traduzir sua visão abstrata em termos concretos e tangíveis, Moisés forneceu informações úteis para cada um dos processos de coleta de dados e tomada de decisão.
+Seu desafio era comunicar essa visão ao seu povo de uma forma que os inspirasse a abandonar suas vidas familiares como escravos no Egito e embarcar em uma jornada longa e perigosa. 
 
-As pessoas com preferência por Sensação Extravertida precisavam de informações sobre como o ambiente atual afetaria suas vidas de maneiras concretas. Elas seguiriam Moisés porque isso as impactaria imediatamente. Quando limparam os pratos dos egípcios, provaram a comida que havia sobrado. Entenderam vividamente a diferença entre o que lhes era dado para comer e o que os egípcios estavam comendo. Foram as primeiras a dizer: “Nós o seguiremos para que possamos comer boa comida.”
+Moisés, nesta versão da história, preferia Intuição Introvertida. Esse processo mental abstrato e visionário lhe permitia saber com certeza que a liberdade aguardava os israelitas em um lugar que ele pensava como a Terra Prometida. 
 
-As pessoas com preferência por Sensação Introvertida precisavam de informações com as quais pudessem se relacionar por meio de experiências passadas sobre coisas tangíveis que pudessem comparar ao presente. Embora talvez nunca tivessem tomado leite e mel, seus avós haviam descrito essas iguarias em histórias vívidas sobre os bons e velhos tempos. Lembravam-se dos anciãos falando sobre como, muito tempo atrás, nunca passavam sede e sempre tinham comida suficiente. Isso lhes recordava que, nas histórias, seus avós e bisavós também falavam com carinho sobre liberdade. Liberdade e comida e bebida boas e abundantes eram obviamente superiores a trabalho duro, água escassa e escravidão, e eles queriam experimentar essa vida melhor. Assim, estavam prontos para seguir Moisés até a Terra de Leite e Mel.
+Mas, quando Moisés falava sobre a Terra Prometida e tentava persuadir o povo a segui-lo, ninguém se animava. 
 
-Aqueles cuja preferência era por Intuição Extravertida precisavam de informações que contivessem a promessa de novas e empolgantes opções para o futuro. Falavam sobre essa Terra de Leite e Mel e sobre tudo o que poderiam fazer com leite e mel. Poderiam fazer bolos, tortas e muitos outros alimentos deliciosos. Seguiram Moisés porque poderiam fazer mais do que apenas beber leite e comer mel. Um mundo totalmente novo de possibilidades e opções se abriria para eles.
+Ninguém queria segui-lo. 
 
-As pessoas com preferência por Intuição Introvertida precisavam de informações que evocassem visões abstratas de como o futuro poderia ser. Aderiram à ideia da jornada porque, para elas, o conceito e a imagem de uma Terra de Leite e Mel traziam associações do que a liberdade realmente significava. Para alguns, isso significava segurança e evocava imagens de um lugar seguro para seus filhos crescerem e viverem em liberdade. Para outros, significava o fim da degradação e do medo, pois nunca mais precisariam se preocupar com outra pessoa ou com a fome.
+Ele foi sozinho ao deserto e passou um tempo considerável contemplando por que isso acontecia. 
 
-Observe que cada um dos processos de Percepção tem um foco de tempo muito diferente. Para apelar a todos, Moisés precisava usar imagens com as quais as pessoas pudessem se relacionar por meio do passado, do presente e do futuro. (Veja o apêndice I.)
+Como muitos grandes líderes no mundo corporativo atual, Moisés tinha uma visão, mas seu modo abstrato de comunicação apresentava um problema sério.
 
-Aqueles com preferência por Pensamento Extravertido precisavam ver um objetivo concreto. “A Terra Prometida” não havia sido específica o suficiente. Quando Moisés apresentou um resultado final tangível — a Terra de Leite e Mel —, eles puderam discutir logicamente o objetivo em relação às suas condições de vida atuais. Então tomaram a decisão de segui-lo e trabalhar juntos para alcançar esse objetivo.
+A chave para o sucesso de Moisés foi seu desenvolvimento de tipo. 
 
-As pessoas com preferência por Pensamento Introvertido enxergaram a lógica em passar da escravidão para serem livres e bem alimentadas. Antes de estarem prontas para partir, cada uma se reuniu com Moisés e explicou seus pensamentos.
+Isso lhe permitiu perceber que simplesmente não estava se comunicando de uma forma que todos pudessem entender. Ele precisava mudar sua linguagem para ajudar seu povo a visualizar a Terra Prometida também. 
+
+Ao simplesmente mudar a expressão de “Terra Prometida” para “Terra de Leite e Mel”, ele conseguiu imediatamente mobilizar os israelitas em torno da visão. 
+
+**Por meio dessa simples mudança de traduzir sua visão abstrata em termos concretos e tangíveis, Moisés forneceu informações úteis para cada um dos processos de coleta de dados e tomada de decisão.**
+
+As pessoas com preferência por Sensação Extravertida precisavam de informações sobre como o ambiente atual afetaria suas vidas de maneiras concretas. 
+
+Elas seguiriam Moisés porque isso as impactaria imediatamente. Quando limparam os pratos dos egípcios, provaram a comida que havia sobrado. 
+
+Entenderam vividamente a diferença entre o que lhes era dado para comer e o que os egípcios estavam comendo. Foram as primeiras a dizer: “Nós o seguiremos para que possamos comer boa comida.”
+
+As pessoas com preferência por Sensação Introvertida precisavam de informações com as quais pudessem se relacionar por meio de experiências passadas sobre coisas tangíveis que pudessem comparar ao presente. 
+
+Embora talvez nunca tivessem tomado leite e mel, seus avós haviam descrito essas iguarias em histórias vívidas sobre os bons e velhos tempos. 
+
+Lembravam-se dos anciãos falando sobre como, muito tempo atrás, nunca passavam sede e sempre tinham comida suficiente. 
+
+Isso lhes recordava que, nas histórias, seus avós e bisavós também falavam com carinho sobre liberdade. 
+
+Liberdade e comida e bebida boas e abundantes eram obviamente superiores a trabalho duro, água escassa e escravidão, e eles queriam experimentar essa vida melhor. 
+
+Assim, estavam prontos para seguir Moisés até a Terra de Leite e Mel.
+
+Aqueles cuja preferência era por Intuição Extravertida precisavam de informações que contivessem a promessa de novas e empolgantes opções para o futuro. 
+
+Falavam sobre essa Terra de Leite e Mel e sobre tudo o que poderiam fazer com leite e mel. 
+
+Poderiam fazer bolos, tortas e muitos outros alimentos deliciosos. Seguiram Moisés porque poderiam fazer mais do que apenas beber leite e comer mel. 
+
+Um mundo totalmente novo de possibilidades e opções se abriria para eles.
+
+**As pessoas com preferência por Intuição Introvertida precisavam de informações que evocassem visões abstratas de como o futuro poderia ser.** 
+
+Aderiram à ideia da jornada porque, para elas, o conceito e a imagem de uma Terra de Leite e Mel traziam associações do que a liberdade realmente significava. 
+
+Para alguns, isso significava segurança e evocava imagens de um lugar seguro para seus filhos crescerem e viverem em liberdade. 
+
+Para outros, significava o fim da degradação e do medo, pois nunca mais precisariam se preocupar com outra pessoa ou com a fome.
+
+Observe que cada um dos processos de Percepção tem um foco de tempo muito diferente. 
+
+**Para apelar a todos, Moisés precisava usar imagens com as quais as pessoas pudessem se relacionar por meio do passado, do presente e do futuro.** 
+
+(Veja o apêndice I.)
+
+Aqueles com preferência por Pensamento Extravertido precisavam ver um objetivo concreto. “A Terra Prometida” não havia sido específica o suficiente. Quando Moisés apresentou um resultado final tangível — a Terra de Leite e Mel —, eles puderam discutir logicamente o objetivo em relação às suas condições de vida atuais. 
+
+Então tomaram a decisão de segui-lo e trabalhar juntos para alcançar esse objetivo.
+
+As pessoas com preferência por Pensamento Introvertido enxergaram a lógica em passar da escravidão para serem livres e bem alimentadas. 
+
+Antes de estarem prontas para partir, cada uma se reuniu com Moisés e explicou seus pensamentos.
 
 …sobre como realizariam a partida, bem como todo o processo que seria necessário para que a jornada fosse bem-sucedida.
 
-Todos com preferência por Sentimento Extravertido conseguiam perceber que viver em sua própria terra de fartura traria harmonia à tribo. Todos os demais seguiriam Moisés. A jornada seria feita com família e amigos. Estariam juntos nessa nova Terra de Leite e Mel. É claro que queriam fazer parte desse grande evento social.
+Todos com preferência por Sentimento Extravertido conseguiam perceber que viver em sua própria terra de fartura traria harmonia à tribo. 
 
-A maioria das pessoas com preferência por Sentimento Introvertido sustentava o valor central de que a escravidão era errada. Outros haviam experimentado um desconforto instintivo com algum aspecto de suas vidas no Egito: humilhação, não ter comida suficiente para alimentar seus filhos e assim por diante. Estar em uma nova terra onde todos pudessem ser fiéis a si mesmos lhes daria uma sensação de paz interior.
+Todos os demais seguiriam Moisés. A jornada seria feita com família e amigos. Estariam juntos nessa nova Terra de Leite e Mel. É claro que queriam fazer parte desse grande evento social.
+
+A maioria das pessoas com preferência por Sentimento Introvertido sustentava o valor central de que a escravidão era errada. 
+
+Outros haviam experimentado um desconforto instintivo com algum aspecto de suas vidas no Egito: humilhação, não ter comida suficiente para alimentar seus filhos e assim por diante. 
+
+Estar em uma nova terra onde todos pudessem ser fiéis a si mesmos lhes daria uma sensação de paz interior.
 
 Quando Moisés encontrou uma linguagem capaz de energizar todos os tipos de personalidade, por meio das formas como cada um preferia obter informações e tomar decisões, todos aderiram e partiram rumo à Terra de Leite e Mel!
 
 ## PARENTALIDADE E EDUCAÇÃO
 
-Compreender o tipo é um recurso incrivelmente poderoso para a parentalidade. Pais conhecedores de tipo de crianças mais novas frequentemente nos dizem que não conseguem imaginar criar seus filhos sem esse entendimento. Aqueles que aprendem sobre tipo mais tarde na vida estão sempre dizendo, geralmente com um grande suspiro, o quanto gostariam de ter sabido disso quando eram mais jovens.
+Compreender o tipo é um recurso incrivelmente poderoso para a parentalidade. 
 
-Em _Gifts Differing_, Isabel Myers compartilha uma verdadeira joia de percepção sobre o desenvolvimento infantil. Ela resumiu essa percepção ao observar que “O que as crianças precisam é da convicção de que a satisfação pode e deve ser conquistada.” Pais que valorizam essa convicção podem transmiti-la aos filhos, mas os pais devem começar cedo e lembrar tanto o “pode” quanto o “deve”. Suas observações são particularmente relevantes na sociedade atual, onde, para muitos de nós, dar aos nossos filhos quase tudo o que desejam não é mais visto como mimá-los, ao passo que puni-los saiu de moda e o amor severo é um conceito tão novo que precisa de um rótulo, enquanto, ao mesmo tempo, muitas outras crianças sofrem vidas de negligência e abandono nas ruas.
+Pais conhecedores de tipo de crianças mais novas frequentemente nos dizem que não conseguem imaginar criar seus filhos sem esse entendimento. 
 
-Myers aponta que, desde muito cedo, o desenvolvimento do tipo acontece à medida que aprendemos maneiras eficazes de receber informações e fazer escolhas com base nessas informações. Precisamos tanto de sucessos quanto de fracassos para nos incentivar a avançar em direção às abordagens de Percepção e Julgamento que funcionam para nós e evitar aquelas que não funcionam. Normalmente, começamos experimentando uma ampla gama de táticas e, então, focamos e refinamos essas abordagens à medida que aprendemos o que produz resultados mais desejáveis. Se esse ciclo de feedback for interrompido, se uma criança não vivenciar tanto sucesso quanto fracasso, essa criança carece tanto da motivação quanto das informações necessárias para um desenvolvimento saudável do tipo.
+Aqueles que aprendem sobre tipo mais tarde na vida estão sempre dizendo, geralmente com um grande suspiro, o quanto gostariam de ter sabido disso quando eram mais jovens.
 
-Myers afirmou que uma criança que é recompensada não importa o que faça nunca aprende a lição essencial de que “a satisfação deve ser conquistada”. Por outro lado, uma criança que raramente vivencia sucesso em suas escolhas pode nunca aprender que “a satisfação pode ser conquistada”. Embora as circunstâncias desses dois cenários de infância sejam essencialmente opostas, os resultados podem ser surpreendentemente semelhantes. Nenhuma das duas experiências fornece a ela ou a ele “Essa abordagem funcionou; tente novamente da próxima vez” e “Aquilo não funcionou; tente uma abordagem diferente na próxima vez”. Esse é o tipo de feedback que normalmente transforma as experiências das crianças com estratégias de enfrentamento em lições para o desenvolvimento de seus pontos fortes na coleta de informações e na tomada de decisões. Em vez disso, ambas aprendem que o que acontece em suas vidas está fora de seu controle. É culpa de outra pessoa.
+Em _Gifts Differing_, Isabel Myers compartilha uma verdadeira joia de percepção sobre o desenvolvimento infantil. 
 
-Sem o equilíbrio de respostas às suas escolhas que nutrem um desenvolvimento saudável do tipo, o provável resultado a longo prazo é um nível desequilibrado e geralmente baixo de desenvolvimento de tipo. Provavelmente não possuirão o conforto e as habilidades com um conjunto equilibrado de processos nas várias fases da vida que Grant nos leva a esperar (apêndice C). Como adultos, podem lidar bem dentro do tempo limitado de sua personalidade, mas quando uma situação exige algo além de seu repertório pessoal limitado, serão incapazes de se adaptar. A tarefa muda de uma que envolve pregos para outra que exige parafusos e você percebe que alguém ainda está usando um martelo, por mais habilmente que o faça; então você pode estar testemunhando um desenvolvimento de tipo severamente limitado em ação.
+Ela resumiu essa percepção ao observar que “O que as crianças precisam é da convicção de que a satisfação pode e deve ser conquistada.” 
 
-Talvez menos dramático, mas muito comum, é a incapacidade dos pais de reconhecer e valorizar as preferências de processo inatas de uma criança. Em uma família em que prevalece a preferência por Pensamento Extravertido, por exemplo, a preferência de uma criança por…
+Pais que valorizam essa convicção podem transmiti-la aos filhos, mas os pais devem começar cedo e lembrar tanto o “pode” quanto o “deve”. 
 
-…seu processo natural de Sentimento Introvertido pode ser desconsiderado. Ao longo de seus anos formativos, essa criança pode receber consistentemente a mensagem de que seus valores intuitivos não são importantes porque “não fazem sentido”.
+Suas observações são particularmente relevantes na sociedade atual, onde, para muitos de nós, dar aos nossos filhos quase tudo o que desejam não é mais visto como mimá-los, ao passo que puni-los saiu de moda e o amor severo é um conceito tão novo que precisa de um rótulo, enquanto, ao mesmo tempo, muitas outras crianças sofrem vidas de negligência e abandono nas ruas.
 
-Essa situação normalmente não terá efeito positivo, pois a criança adquirirá alguma consciência e atenção precoces e conscientes ao seu terceiro ou quarto processo bem antes da linha normal de desenvolvimento. No exemplo da preferência inata por Sentimento Introvertido, a criança pode desenvolver alguma habilidade e conforto em usar Pensamento Extravertido. Se a pressão desse viés familiar for suficientemente forte, o dano superará os benefícios. Por exemplo, nem o processo de Sentimento Introvertido naturalmente preferido nem qualquer outro processo de Julgamento provavelmente será desenvolvido no alto nível de competência que poderia ter alcançado por meio do desenvolvimento normal. Além disso, o cenário está preparado para uma batalha entre o processo natural, embora reprimido e menos eficaz na tomada de decisões, e os processos que a criança foi ensinada a usar. O resultado pode ser uma vida inteira de confusão de identidade, conflito interno e baixo desempenho. Essa batalha também é uma das causas comuns de relatos imprecisos por meio do Indicador de Tipo Myers-Briggs® e instrumentos de personalidade semelhantes.
+Myers aponta que, desde muito cedo, o desenvolvimento do tipo acontece à medida que aprendemos maneiras eficazes de receber informações e fazer escolhas com base nessas informações. 
 
-“Quando cada criança tem a liberdade de usar os pontos fortes de seu tipo psicológico sem restrições, o desenvolvimento é constante, sólido e seguro. Pais e professores são as pessoas que têm a maior influência sobre as crianças, e é importante que as diferenças de tipo psicológico nas crianças sejam reconhecidas tanto em casa quanto na escola.” Diferenças de tipo parecem ter um efeito profundo na aprendizagem inicial e parecem impactar quase todas as áreas da vida.
+**Precisamos tanto de sucessos quanto de fracassos para nos incentivar a avançar em direção às abordagens de Percepção e Julgamento que funcionam para nós e evitar aquelas que não funcionam.** 
 
-O _Manual do MBTI®_ observa que “Profissionais nessa área [usando avaliação de tipo com crianças] geralmente aconselham cautela ao especificar um tipo para crianças pequenas e pré-adolescentes, pois há grande variação no processo de desenvolvimento das crianças individualmente. Ainda assim, conselheiros e terapeutas que tratam crianças pequenas frequentemente constatam que o tipo hipotetizado de uma criança pode estar relacionado aos problemas apresentados pela criança.” Em outras palavras, informações sobre tipo podem ser muito úteis ao trabalhar com crianças, mas apenas se houver muito cuidado em considerar quão única é essa fase do desenvolvimento normal da personalidade e quão enganoso o comportamento nessa idade pode ser, além de quão difícil é chegar a conclusões razoavelmente confiáveis sobre as preferências de processo inatas das crianças.
+Normalmente, começamos experimentando uma ampla gama de táticas e, então, focamos e refinamos essas abordagens à medida que aprendemos o que produz resultados mais desejáveis. 
 
-Sob a perspectiva do modelo de oito processos, faremos bem em adotar essa mesma abordagem cautelosa ao trabalhar com indivíduos de qualquer idade. Isso também é verdadeiro para adultos: compreender um processo que está sendo usado em determinado momento pode ser mais fundamental para o aconselhamento do que saber se ele é ou não inatamente preferido (ou seja, reflexo do tipo verdadeiro da pessoa). Conhecer as verdadeiras preferências de processo de um indivíduo é uma peça extremamente valiosa do quebra-cabeça da personalidade, mas, para entender o que está acontecendo com aquele indivíduo, muitas vezes é mais crucial compreender o processo que ele ou ela está usando no momento.
+Se esse ciclo de feedback for interrompido, se uma criança não vivenciar tanto sucesso quanto fracasso, essa criança carece tanto da motivação quanto das informações necessárias para um desenvolvimento saudável do tipo.
 
-É claro que isso se aplica especialmente a jovens que estão em uma idade em que estão experimentando ativamente várias abordagens de Percepção e Julgamento. Na terapia e no aconselhamento de uma criança que está profundamente envolvida na exploração e no desenvolvimento de determinado processo mental, o melhor ponto de partida provavelmente é entender onde a criança está. Saber se ela preferiria estar em outro lugar (ou seja, se sua preferência inata provavelmente a levará a desenvolver outro processo mais plenamente) pode ou não ser útil para a questão em pauta. Ao lidar, por exemplo, com o problema de comportamento de um aluno da primeira série que nunca consegue ficar sentado e não presta atenção na aula, seria extremamente útil entender se ele está passando por uma fase normal de exploração de sua Sensação Extravertida, interessado, neste momento, apenas em explorar o mundo ao seu redor. Provavelmente seria muito menos relevante para essa situação saber que sua preferência natural é por algum outro processo.
+Myers afirmou que uma criança que é recompensada não importa o que faça nunca aprende a lição essencial de que **“a satisfação deve ser conquistada”.** 
 
-Nos Estados Unidos, nosso sistema escolar sofre de um viés institucionalizado de processo. A pré-escola e o jardim de infância normalmente focam na estimulação externa (Sensação Extravertida). As crianças são incentivadas a explorar cores e formas por meio do desenho. Constroem objetos tangíveis como colagens e móbiles. Interagem fisicamente com seu ambiente por meio de brincadeiras. Cantam músicas, observam o que vive nos lagos e descobrem como são as minhocas.
+Por outro lado, uma criança que raramente vivencia sucesso em suas escolhas pode nunca aprender que **“a satisfação pode ser conquistada”.** 
 
-As séries do primeiro ao segundo ano incentivam a socialização que apela ao Sentimento Extravertido e ao Sentimento Introvertido. Atividades e comportamentos incentivados incluem fazer amigos e participar de muitos tipos diferentes de atividades em grupo. As crianças experimentam ser más com os outros. Em todos esses relacionamentos e interações, estão explorando o que funciona e o que não funciona para elas com outras pessoas. O foco é a socialização.
+Embora as circunstâncias desses dois cenários de infância sejam essencialmente opostas, os resultados podem ser surpreendentemente semelhantes.
 
-As séries do terceiro ao quinto ano enfatizam as relações lógicas e previsíveis entre coisas concretas, utilizando o tipo de informação que é naturalmente coletado por meio da Sensação Introvertida e trabalhando com essa informação usando as ferramentas analíticas preferidas pelo Pensamento Extravertido. Ao categorizar suas descobertas e aprender a arquivar informações para referência futura, as crianças podem trazer um novo nível de compreensão a tudo o que vivenciam. A experiência prévia e as informações conhecidas podem então ser transferidas para o novo, aumentando drasticamente a capacidade das crianças de ampliar o novo conhecimento. Girinos são entendidos como bebês sapos. Árvores, como grupo, são compreendidas como diferentes das flores, e pinheiros são diferentes das macieiras. Mesmo em seu primeiro contato com um carvalho, essas crianças podem rapidamente compreender muito sobre ele, porque aprenderam que provavelmente se parece mais com um bordo do que com uma margarida.
+Nenhuma das duas experiências fornece a ela ou a ele “Essa abordagem funcionou; tente novamente da próxima vez” e “Aquilo não funcionou; tente uma abordagem diferente na próxima vez”. 
 
-As séries do sexto ao décimo ano podem estimular o processo de Intuição Extravertida ao enfatizar conexões e diferentes possibilidades. Os alunos são introduzidos à ambiguidade da interpretação da poesia. Eles podem escolher entre diferentes opções de disciplinas eletivas que permitem flexibilidade em sua aprendizagem.
+**Esse é o tipo de feedback que normalmente transforma as experiências das crianças com estratégias de enfrentamento em lições para o desenvolvimento de seus pontos fortes na coleta de informações e na tomada de decisões.** 
 
-No décimo primeiro e décimo segundo anos, o processo de Intuição Introvertida começa a entrar em cena com a ênfase na teoria para alunos que se preparam para a faculdade, adicionando um senso de significado e propósito ao que é vivenciado. Os alunos aprendem a projetar e extrapolar a partir de uma sequência conhecida de informações concretas para imaginar possibilidades futuras e retroceder até explicações hipotéticas de como as coisas vieram a ser como são.
+**Em vez disso, ambas aprendem que o que acontece em suas vidas está fora de seu controle. É culpa de outra pessoa.**
 
-Nos níveis do ensino fundamental final e médio, a Sensação Extravertida — o mundo do tangível — é o foco para aqueles em uma trajetória vocacional. Esses alunos aprendem a observar e manipular materiais e ferramentas para criar móveis, casas, automóveis, aviões e suflês. Aprendem a usar dados, softwares e hardwares para criar jogos de computador, bancos de dados e filmes.
+Sem o equilíbrio de respostas às suas escolhas que nutrem um desenvolvimento saudável do tipo, o provável resultado a longo prazo é um nível desequilibrado e geralmente baixo de desenvolvimento de tipo. 
 
-A faculdade continua na direção do abstrato e teórico que favorece a Intuição Introvertida. Nesse nível, os alunos estão sendo treinados para identificar padrões, conexões e significados subjacentes a fim de apreciar plenamente as teorias e construções que formam a base de seus campos escolhidos. Mesmo faculdades técnicas e currículos mais práticos exigem altos níveis de compreensão teórica. Não basta para um engenheiro civil conhecer a mecânica do projeto de pontes. Ela precisa compreender as teorias envolvidas para que seja capaz de projetar uma ponte que atenda a um novo desafio técnico com um design inovador e ainda saber que não irá desabar. Da mesma forma, para atuar no mais alto nível, músicos, artistas visuais, mecânicos de automóveis, programadores de computador e bibliotecários são todos treinados dessa maneira para trazer plenamente seu talento e habilidades técnicas à fruição.
+Provavelmente não possuirão o conforto e as habilidades com um conjunto equilibrado de processos nas várias fases da vida que Grant nos leva a esperar (apêndice C). 
 
-Esse progresso institucionalizado de ênfase no exercício de certos processos mentais funciona razoavelmente bem para a maioria de nós. Mas dificilmente é um encaixe perfeito para qualquer criança ao longo de todo o tempo dentro do sistema. A maioria de nós consegue lembrar de um período ou dois em que a escola simplesmente não era nada divertida. Frequentemente ouvimos pessoas dizerem coisas como: “Eu realmente odiava a terceira série.” Nosso sistema educacional público, como existe atualmente, foi modelado a partir da fábrica. Suas proporções aluno-professor, abordagens de avaliação e progressão, currículo relativamente inflexível e viés de processo acompanhante, tudo serve para oferecer um nível moderado de educação a muitas pessoas — para ser eficiente. Apesar dos esforços heroicos da maioria dos educadores, a estrutura do sistema em si é virtualmente incapaz da flexibilidade que seria necessária para oferecer uma excelente educação a qualquer indivíduo. Em qualquer ponto em que as preferências inatas de uma criança estejam em desacordo com o viés de processo predominante do sistema escolar, ela não será capaz de absorver muito do que está sendo ensinado em sala de aula. Tampouco obterá a valorização e validação de seus processos preferidos que são necessárias para incentivar seu desenvolvimento pessoal.
+Como adultos, podem lidar bem dentro do tempo limitado de sua personalidade, mas quando uma situação exige algo além de seu repertório pessoal limitado, serão incapazes de se adaptar. 
+
+A tarefa muda de uma que envolve pregos para outra que exige parafusos e você percebe que alguém ainda está usando um martelo, por mais habilmente que o faça; então você pode estar testemunhando um desenvolvimento de tipo severamente limitado em ação.
+
+Talvez menos dramático, mas muito comum, é a incapacidade dos pais de reconhecer e valorizar as preferências de processo inatas de uma criança. 
+
+Em uma família em que prevalece a preferência por Pensamento Extravertido, por exemplo, a preferência de uma criança por seu processo natural de Sentimento Introvertido pode ser desconsiderado. 
+
+Ao longo de seus anos formativos, essa criança pode receber consistentemente a mensagem de que seus valores intuitivos não são importantes porque “não fazem sentido”.
+
+Essa situação normalmente não terá efeito positivo, pois a criança adquirirá alguma consciência e atenção precoces e conscientes ao seu terceiro ou quarto processo bem antes da linha normal de desenvolvimento. 
+
+No exemplo da preferência inata por Sentimento Introvertido, a criança pode desenvolver alguma habilidade e conforto em usar Pensamento Extravertido. 
+
+Se a pressão desse viés familiar for suficientemente forte, o dano superará os benefícios. 
+
+Por exemplo, nem o processo de Sentimento Introvertido naturalmente preferido nem qualquer outro processo de Julgamento provavelmente será desenvolvido no alto nível de competência que poderia ter alcançado por meio do desenvolvimento normal. 
+
+Além disso, o cenário está preparado para uma batalha entre o processo natural, embora reprimido e menos eficaz na tomada de decisões, e os processos que a criança foi ensinada a usar. 
+
+O resultado pode ser uma vida inteira de confusão de identidade, conflito interno e baixo desempenho. 
+
+Essa batalha também é uma das causas comuns de relatos imprecisos por meio do Indicador de Tipo Myers-Briggs® e instrumentos de personalidade semelhantes.
+
+“Quando cada criança tem a liberdade de usar os pontos fortes de seu tipo psicológico sem restrições, o desenvolvimento é constante, sólido e seguro. Pais e professores são as pessoas que têm a maior influência sobre as crianças, e é importante que as diferenças de tipo psicológico nas crianças sejam reconhecidas tanto em casa quanto na escola.” 
+
+Diferenças de tipo parecem ter um efeito profundo na aprendizagem inicial e parecem impactar quase todas as áreas da vida.
+
+O _Manual do MBTI®_ observa que “Profissionais nessa área usando avaliação de tipo com crianças geralmente aconselham cautela ao especificar um tipo para crianças pequenas e pré-adolescentes, pois há grande variação no processo de desenvolvimento das crianças individualmente. 
+
+Ainda assim, conselheiros e terapeutas que tratam crianças pequenas frequentemente constatam que o tipo hipotetizado de uma criança pode estar relacionado aos problemas apresentados pela criança.” 
+
+Em outras palavras, informações sobre tipo podem ser muito úteis ao trabalhar com crianças, mas apenas se houver muito cuidado em considerar quão única é essa fase do desenvolvimento normal da personalidade e quão enganoso o comportamento nessa idade pode ser, além de quão difícil é chegar a conclusões razoavelmente confiáveis sobre as preferências de processo inatas das crianças.
+
+Sob a perspectiva do modelo de oito processos, faremos bem em adotar essa mesma abordagem cautelosa ao trabalhar com indivíduos de qualquer idade. 
+
+Isso também é verdadeiro para adultos: compreender um processo que está sendo usado em determinado momento pode ser mais fundamental para o aconselhamento do que saber se ele é ou não inatamente preferido (ou seja, reflexo do tipo verdadeiro da pessoa). 
+
+Conhecer as verdadeiras preferências de processo de um indivíduo é uma peça extremamente valiosa do quebra-cabeça da personalidade, mas, para entender o que está acontecendo com aquele indivíduo, muitas vezes é mais crucial compreender o processo que ele ou ela está usando no momento.
+
+É claro que isso se aplica especialmente a jovens que estão em uma idade em que estão experimentando ativamente várias abordagens de Percepção e Julgamento.
+
+Na terapia e no aconselhamento de uma criança que está profundamente envolvida na exploração e no desenvolvimento de determinado processo mental, o melhor ponto de partida provavelmente é entender onde a criança está. 
+
+Saber se ela preferiria estar em outro lugar (ou seja, se sua preferência inata provavelmente a levará a desenvolver outro processo mais plenamente) pode ou não ser útil para a questão em pauta. 
+
+Ao lidar, por exemplo, com o problema de comportamento de um aluno da primeira série que nunca consegue ficar sentado e não presta atenção na aula, seria extremamente útil entender se ele está passando por uma fase normal de exploração de sua Sensação Extravertida, interessado, neste momento, apenas em explorar o mundo ao seu redor. 
+
+Provavelmente seria muito menos relevante para essa situação saber que sua preferência natural é por algum outro processo.
+
+Nos Estados Unidos, nosso sistema escolar sofre de um viés institucionalizado de processo. A pré-escola e o jardim de infância normalmente focam na estimulação externa (Sensação Extravertida). 
+
+As crianças são incentivadas a explorar cores e formas por meio do desenho. 
+
+Constroem objetos tangíveis como colagens e móbiles. Interagem fisicamente com seu ambiente por meio de brincadeiras. 
+
+Cantam músicas, observam o que vive nos lagos e descobrem como são as minhocas.
+
+As séries do primeiro ao segundo ano incentivam a socialização que apela ao Sentimento Extravertido e ao Sentimento Introvertido. 
+
+Atividades e comportamentos incentivados incluem fazer amigos e participar de muitos tipos diferentes de atividades em grupo. 
+
+As crianças experimentam ser más com os outros. Em todos esses relacionamentos e interações, estão explorando o que funciona e o que não funciona para elas com outras pessoas. 
+
+O foco é a socialização.
+
+As séries do terceiro ao quinto ano enfatizam as relações lógicas e previsíveis entre coisas concretas, utilizando o tipo de informação que é naturalmente coletado por meio da Sensação Introvertida e trabalhando com essa informação usando as ferramentas analíticas preferidas pelo Pensamento Extravertido. 
+
+Ao categorizar suas descobertas e aprender a arquivar informações para referência futura, as crianças podem trazer um novo nível de compreensão a tudo o que vivenciam. 
+
+A experiência prévia e as informações conhecidas podem então ser transferidas para o novo, aumentando drasticamente a capacidade das crianças de ampliar o novo conhecimento. 
+
+Girinos são entendidos como bebês sapos. Árvores, como grupo, são compreendidas como diferentes das flores, e pinheiros são diferentes das macieiras. Mesmo em seu primeiro contato com um carvalho, essas crianças podem rapidamente compreender muito sobre ele, porque aprenderam que provavelmente se parece mais com um bordo do que com uma margarida.
+
+As séries do sexto ao décimo ano podem estimular o processo de Intuição Extravertida ao enfatizar conexões e diferentes possibilidades. 
+
+Os alunos são introduzidos à ambiguidade da interpretação da poesia. Eles podem escolher entre diferentes opções de disciplinas eletivas que permitem flexibilidade em sua aprendizagem.
+
+No décimo primeiro e décimo segundo anos, o processo de Intuição Introvertida começa a entrar em cena com a ênfase na teoria para alunos que se preparam para a faculdade, adicionando um senso de significado e propósito ao que é vivenciado. 
+
+Os alunos aprendem a projetar e extrapolar a partir de uma sequência conhecida de informações concretas para imaginar possibilidades futuras e retroceder até explicações hipotéticas de como as coisas vieram a ser como são.
+
+Nos níveis do ensino fundamental final e médio, a Sensação Extravertida — o mundo do tangível — é o foco para aqueles em uma trajetória vocacional. 
+
+Esses alunos aprendem a observar e manipular materiais e ferramentas para criar móveis, casas, automóveis, aviões e suflês. 
+
+Aprendem a usar dados, softwares e hardwares para criar jogos de computador, bancos de dados e filmes.
+
+A faculdade continua na direção do abstrato e teórico que favorece a Intuição Introvertida. 
+
+Nesse nível, os alunos estão sendo treinados para identificar padrões, conexões e significados subjacentes a fim de apreciar plenamente as teorias e construções que formam a base de seus campos escolhidos. 
+
+Mesmo faculdades técnicas e currículos mais práticos exigem altos níveis de compreensão teórica. Não basta para um engenheiro civil conhecer a mecânica do projeto de pontes. 
+
+Ela precisa compreender as teorias envolvidas para que seja capaz de projetar uma ponte que atenda a um novo desafio técnico com um design inovador e ainda saber que não irá desabar. 
+
+Da mesma forma, para atuar no mais alto nível, músicos, artistas visuais, mecânicos de automóveis, programadores de computador e bibliotecários são todos treinados dessa maneira para trazer plenamente seu talento e habilidades técnicas à fruição.
+
+Esse progresso institucionalizado de ênfase no exercício de certos processos mentais funciona razoavelmente bem para a maioria de nós. 
+
+Mas dificilmente é um encaixe perfeito para qualquer criança ao longo de todo o tempo dentro do sistema. 
+
+A maioria de nós consegue lembrar de um período ou dois em que a escola simplesmente não era nada divertida. 
+
+Frequentemente ouvimos pessoas dizerem coisas como: “Eu realmente odiava a terceira série.” 
+
+Nosso sistema educacional público, como existe atualmente, foi modelado a partir da fábrica. Suas proporções aluno-professor, abordagens de avaliação e progressão, currículo relativamente inflexível e viés de processo acompanhante, tudo serve para oferecer um nível moderado de educação a muitas pessoas — para ser eficiente. 
+
+Apesar dos esforços heroicos da maioria dos educadores, a estrutura do sistema em si é virtualmente incapaz da flexibilidade que seria necessária para oferecer uma excelente educação a qualquer indivíduo. 
+
+Em qualquer ponto em que as preferências inatas de uma criança estejam em desacordo com o viés de processo predominante do sistema escolar, ela não será capaz de absorver muito do que está sendo ensinado em sala de aula. 
+
+Tampouco obterá a valorização e validação de seus processos preferidos que são necessárias para incentivar seu desenvolvimento pessoal.
 
 ## DESENVOLVIMENTO DE CARREIRA
 
-Por que tantos de nós trabalhamos em empregos que não atendem a muitas de nossas necessidades — empregos que drenam nossa energia e nos deixam sentindo frustrados e insatisfeitos? Por que passamos a maior parte de nossas vidas trabalhando para sustentar as vidas muito diferentes que podemos levar nos fins de semana?
+Por que tantos de nós trabalhamos em empregos que não atendem a muitas de nossas necessidades — empregos que drenam nossa energia e nos deixam sentindo frustrados e insatisfeitos? 
 
-Quando tomamos decisões de carreira, frequentemente deixamos de compreender a verdadeira natureza de um trabalho. Se decidimos que queremos ser bombeiros, podemos imaginar combater incêndios e salvar vidas, mas talvez não pensemos nos outros 99% de nossa vida profissional que passaremos no quartel. Podemos desejar o status e a renda de um executivo e a empolgação de tomar…
+Por que passamos a maior parte de nossas vidas trabalhando para sustentar as vidas muito diferentes que podemos levar nos fins de semana?
 
-…tomar decisões importantes, mas e quanto a sentir-se responsável por tantas pessoas? E quanto a passar a maior parte da vida em reuniões?
+Quando tomamos decisões de carreira, frequentemente deixamos de compreender a verdadeira natureza de um trabalho. 
 
-Descobrir como um caminho de carreira ou uma posição específica é realmente e quais recursos psíquicos são necessários é crucial para nosso sucesso e felicidade profissional a longo prazo. Mas essa é a parte relativamente fácil. Qualquer orientador de carreira competente e inúmeros livros podem ajudá-lo a compreender a verdadeira natureza do trabalho. O desafio maior é descobrir sua própria natureza verdadeira para que você possa tomar uma boa decisão. Para entender seus talentos, como prefere atuar e o que é realmente mais importante para você, não há ferramenta melhor do que o modelo dos oito processos do tipo de personalidade. Muitos orientadores de carreira e diversos livros abordam a escolha profissional por meio do tipo, embora atualmente nada esteja disponível sobre carreiras que incorpore o modelo dos oito processos. Decisões de carreira tomadas sem compreender suas preferências de processo têm grande probabilidade de serem escolhas ruins. O conhecimento de tipo é virtualmente indispensável nessa área.
+Se decidimos que queremos ser bombeiros, podemos imaginar combater incêndios e salvar vidas, mas talvez não pensemos nos outros 99% de nossa vida profissional que passaremos no quartel. 
 
-“O uso do inventário de personalidade Myers-Briggs Type Indicator® na orientação profissional para ajudar as pessoas a encontrar um trabalho significativo e produtivo foi uma das motivações originais de Isabel B. Myers no desenvolvimento do instrumento (Saunders, 1991). Aplicações em orientação profissional foram uma das primeiras áreas de pesquisa aplicada sobre tipo, e o campo continua a gerar um grande número de estudos de pesquisa.”
+Podemos desejar o status e a renda de um executivo e a empolgação de tomar decisões importantes, mas e quanto a sentir-se responsável por tantas pessoas? E quanto a passar a maior parte da vida em reuniões?
 
-Não subscrevemos a ideia de que as pessoas devam buscar posições e que os empregadores devam contratar com base no tipo “ideal” para o trabalho. Tal prática não apenas violaria os padrões éticos para o uso de instrumentos de tipo de personalidade, como também não funcionaria bem para a organização ou para seus funcionários. O resultado de tal prática poderia deixar indivíduos desafiados a se estender e desenvolver seus processos menos preferidos. Para a organização, o resultado seriam segmentos da força de trabalho que carecem da rica percepção e agilidade que uma mistura de perspectivas de processos pode proporcionar, bem como equipes que provavelmente teriam muita dificuldade em lidar com outras equipes. O tipo pode ajudá-lo na escolha de carreira não prescrevendo determinadas vocações para certos tipos, mas oferecendo insights sobre suas necessidades e pontos fortes. Compreender como seus processos preferidos, particularmente o dominante, podem ser melhor utilizados, não para encontrar algum trabalho teoricamente perfeito e sob medida, mas sim para encontrar um trabalho que de alguma forma apoie suas preferências. É esse tipo de ajuste que produz funcionários muito mais satisfeitos e valiosos. Aborde as decisões de carreira com os insights do tipo, mas não se sinta limitado por eles.
+Descobrir como um caminho de carreira ou uma posição específica é realmente e quais recursos psíquicos são necessários é crucial para nosso sucesso e felicidade profissional a longo prazo. 
 
-Uma contadora com preferência por Intuição Introvertida com Sentimento Extravertido (INFJ), por exemplo, seria incomum em sua área. Mas suas habilidades naturais de abstrair e conceitualizar e de se relacionar com as necessidades dos outros podem torná-la uma ótima chefe de contabilidade. Por outro lado, ela precisa estar ciente de que o foco diário de seu trabalho — lidar com dados concretos e manipular números de acordo com regras específicas — exige fortemente processos menos preferidos. Ela precisa compreender o desgaste de energia que isso causa e desenvolver táticas para lidar com isso.
+Mas essa é a parte relativamente fácil. 
 
-Um diretor de recursos humanos com preferências por Pensamento Extravertido com Intuição Introvertida (ENTJ) e um quarto processo bem desenvolvido (Sentimento Introvertido) aprende a aproveitar sua capacidade de focar nas necessidades e valores individuais de cada funcionário e tratá-los como indivíduos únicos, ajudando-os a cuidar dessas necessidades e valores. Ao apoiar seus funcionários dessa maneira, ele consegue liberá-los da preocupação em atender às próprias necessidades e capacitá-los a redirecionar seu foco para as necessidades da organização. Essa não é a abordagem convencional, e provavelmente não seria a abordagem de um gerente de RH estereotipado, mas funciona muito bem para esse gerente de RH.
+Qualquer orientador de carreira competente e inúmeros livros podem ajudá-lo a compreender a verdadeira natureza do trabalho. 
 
-A lista de verificação de desenvolvimento de carreira abaixo é uma versão resumida de alguns fatores-chave relacionados às preferências a serem considerados ao escolher uma carreira. Respeitar as necessidades e o foco de seus processos dominante e auxiliar é crucial para encontrar satisfação em sua vida profissional.
+O desafio maior é descobrir sua própria natureza verdadeira para que você possa tomar uma boa decisão. 
+
+Para entender seus talentos, como prefere atuar e o que é realmente mais importante para você, não há ferramenta melhor do que o modelo dos oito processos do tipo de personalidade. 
+
+Muitos orientadores de carreira e diversos livros abordam a escolha profissional por meio do tipo, embora atualmente nada esteja disponível sobre carreiras que incorpore o modelo dos oito processos. 
+
+Decisões de carreira tomadas sem compreender suas preferências de processo têm grande probabilidade de serem escolhas ruins. 
+
+O conhecimento de tipo é virtualmente indispensável nessa área.
+
+“O uso do inventário de personalidade Myers-Briggs Type Indicator® na orientação profissional para ajudar as pessoas a encontrar um trabalho significativo e produtivo foi uma das motivações originais de Isabel B. Myers no desenvolvimento do instrumento (Saunders, 1991). 
+
+Aplicações em orientação profissional foram uma das primeiras áreas de pesquisa aplicada sobre tipo, e o campo continua a gerar um grande número de estudos de pesquisa.”
+
+Não subscrevemos a ideia de que as pessoas devam buscar posições e que os empregadores devam contratar com base no tipo “ideal” para o trabalho. 
+
+Tal prática não apenas violaria os padrões éticos para o uso de instrumentos de tipo de personalidade, como também não funcionaria bem para a organização ou para seus funcionários. 
+
+O resultado de tal prática poderia deixar indivíduos desafiados a se estender e desenvolver seus processos menos preferidos. 
+
+Para a organização, o resultado seriam segmentos da força de trabalho que carecem da rica percepção e agilidade que uma mistura de perspectivas de processos pode proporcionar, bem como equipes que provavelmente teriam muita dificuldade em lidar com outras equipes. 
+
+O tipo pode ajudá-lo na escolha de carreira não prescrevendo determinadas vocações para certos tipos, mas oferecendo insights sobre suas necessidades e pontos fortes. 
+
+Compreender como seus processos preferidos, particularmente o dominante, podem ser melhor utilizados, não para encontrar algum trabalho teoricamente perfeito e sob medida, mas sim para encontrar um trabalho que de alguma forma apoie suas preferências. 
+
+É esse tipo de ajuste que produz funcionários muito mais satisfeitos e valiosos.
+
+Aborde as decisões de carreira com os insights do tipo, mas não se sinta limitado por eles.
+
+Uma contadora com preferência por Intuição Introvertida com Sentimento Extravertido (INFJ), por exemplo, seria incomum em sua área. 
+
+Mas suas habilidades naturais de abstrair e conceitualizar e de se relacionar com as necessidades dos outros podem torná-la uma ótima chefe de contabilidade. 
+
+Por outro lado, ela precisa estar ciente de que o foco diário de seu trabalho — lidar com dados concretos e manipular números de acordo com regras específicas — exige fortemente processos menos preferidos. 
+
+Ela precisa compreender o desgaste de energia que isso causa e desenvolver táticas para lidar com isso.
+
+Um diretor de recursos humanos com preferências por Pensamento Extravertido com Intuição Introvertida (ENTJ) e um quarto processo bem desenvolvido (Sentimento Introvertido) aprende a aproveitar sua capacidade de focar nas necessidades e valores individuais de cada funcionário e tratá-los como indivíduos únicos, ajudando-os a cuidar dessas necessidades e valores. 
+
+Ao apoiar seus funcionários dessa maneira, ele consegue liberá-los da preocupação em atender às próprias necessidades e capacitá-los a redirecionar seu foco para as necessidades da organização. 
+
+Essa não é a abordagem convencional, e provavelmente não seria a abordagem de um gerente de RH estereotipado, mas funciona muito bem para esse gerente de RH.
+
+A lista de verificação de desenvolvimento de carreira abaixo é uma versão resumida de alguns fatores-chave relacionados às preferências a serem considerados ao escolher uma carreira. 
+
+Respeitar as necessidades e o foco de seus processos dominante e auxiliar é crucial para encontrar satisfação em sua vida profissional.
 
 No ambiente de trabalho, uma pessoa que prefere Sensação Extravertida tende a:  
 □ Destacar-se em trabalhos que são realistas, tangíveis e práticos  
