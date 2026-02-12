@@ -2974,7 +2974,9 @@ No ambiente de trabalho, uma pessoa que prefere Sentimento Introvertido tende a:
 □ Contribuir oferecendo estabilidade moral ao local de trabalho e à equipe  
 □ Precisar de um ambiente de trabalho que apoie sua harmonia interior e seus valores
 
-Como as outras questões de vida destacadas neste capítulo, o desenvolvimento de carreira é uma área em que a compreensão do tipo de personalidade pode ser uma ferramenta particularmente poderosa. Ao levar em consideração nossas necessidades e encontrar maneiras de cultivar e usar nossos dons, aumentamos drasticamente a probabilidade de que nossa vida profissional seja produtiva e gratificante.
+Como as outras questões de vida destacadas neste capítulo, o desenvolvimento de carreira é uma área em que a compreensão do tipo de personalidade pode ser uma ferramenta particularmente poderosa. 
+
+Ao levar em consideração nossas necessidades e encontrar maneiras de cultivar e usar nossos dons, aumentamos drasticamente a probabilidade de que nossa vida profissional seja produtiva e gratificante.
 
 ---
 
