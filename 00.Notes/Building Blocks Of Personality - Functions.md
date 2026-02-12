@@ -2135,7 +2135,7 @@ Obviamente, não podemos passar por um procedimento trabalhoso e difícil para c
 
 Mas certamente vale a pena fazer o esforço para começar a usar essa abordagem na tomada de decisões importantes. 
 
-A eficiência a longo prazo se tornará evidente para o observador cuidadoso, à medida que cada vez menos consequências inesperadas parecerem surgir de repente para exigir reuniões de emergência e decisões “paliativas”, desviando-nos do trabalho eficaz e metódico que nos conduz às nossas metas. 
+**A eficiência a longo prazo se tornará evidente para o observador cuidadoso, à medida que cada vez menos consequências inesperadas parecerem surgir de repente para exigir reuniões de emergência e decisões “paliativas”, desviando-nos do trabalho eficaz e metódico que nos conduz às nossas metas.** 
 
 Além disso, quanto mais nos habituarmos à abordagem dos oito processos, mais automaticamente passaremos a utilizá-la na tomada de todas as nossas decisões.
 

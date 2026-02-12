@@ -127,8 +127,7 @@
               "title": "ESTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Framework tomada de decisão - 8 Processos Mentais."
+              "title": "Outline of Building Blocks Of Personality - Functions"
             }
           },
           {
@@ -237,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
+                "file": "00.Notes/Building Blocks Of Personality - Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Framework tomada de decisão - 8 Processos Mentais."
+              "title": "Graph of Building Blocks Of Personality - Functions"
             }
           },
           {
@@ -400,10 +399,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "52a21bdb687a2371",
+  "active": "6277113b9414d951",
   "lastOpenFiles": [
-    "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
+    "00.Notes/Building Blocks Of Personality - Functions.md",
     "01.Assets/Anexos/Pasted image 20260211170703.png",
     "01.Assets/Anexos/Pasted image 20260211165353.png",
     "00.Notes/ESTP.md",
