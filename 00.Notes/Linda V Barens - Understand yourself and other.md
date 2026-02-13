@@ -293,17 +293,25 @@ Um espírito explorador surge automaticamente à medida que investigam e compart
 
 Em sua melhor forma, catalisam pessoas e moldam espontaneamente situações, espalhando facilmente uma atmosfera de mudança por meio de liderança emergente.
 
-Como a Intuição extrovertida costuma ser o processo em que mais confiam, podem se envolver demais nisso. Podem interpretar em excesso e ler a mente das outras pessoas sem verificar a precisão de suas interpretações. Também podem ficar fragmentados com enxurradas de ideias e querer fazer mudanças continuamente para incorporar seus insights mais recentes, não permanecendo tempo suficiente em uma ideia para ver suas ideias chegarem à fruição. E podem superestimar o poder da visualização mental — mantendo-se em um estado imaginado de coisas mais interessante até que as exigências da realidade concreta sejam consideradas.
+**Como a Intuição extrovertida costuma ser o processo em que mais confiam, podem se envolver demais nisso.** 
+
+**Podem interpretar em excesso e ler a mente das outras pessoas sem verificar a precisão de suas interpretações.** 
+
+**Também podem ficar fragmentados com enxurradas de ideias e querer fazer mudanças continuamente para incorporar seus insights mais recentes, não permanecendo tempo suficiente em uma ideia para ver suas ideias chegarem à fruição.** 
+
+**E podem superestimar o poder da visualização mental — mantendo-se em um estado imaginado de coisas mais interessante até que as exigências da realidade concreta sejam consideradas.**
 
 #### Ti Parent
 
 Apoie com Pensamento introvertido (Ti)
 
-Analisar, categorizar e avaliar de acordo com princípios
+Analisar, categorizar e avaliar de acordo com princípios.
 
 Como um pai ou mãe de apoio, eles são prestativos quando resolvem problemas analisando rapidamente uma situação para determinar a ação mais adequada e eficiente a ser tomada. 
 
-Descobrem como uma coisa ou um sistema funciona para consertá-lo ou melhorá-lo. Isso pode envolver desmontar um problema, examiná-lo sob diferentes ângulos e, talvez, testá-lo para encontrar pontos de alavancagem que gerem impacto máximo com o mínimo de esforço. 
+Descobrem como uma coisa ou um sistema funciona para consertá-lo ou melhorá-lo. 
+
+**Isso pode envolver desmontar um problema, examiná-lo sob diferentes ângulos e, talvez, testá-lo para encontrar pontos de alavancagem que gerem impacto máximo com o mínimo de esforço.** 
 
 Sua mente verifica automaticamente inconsistências lógicas. 
 
@@ -320,12 +328,11 @@ Como o Pensamento introvertido tende a ser um processo em que confiam, podem se 
 Sob estresse, podem aderir rigidamente a certos princípios e modelos e ficar impacientes com discussões. 
 
 E podem ser críticos e duros ao julgar falhas percebidas, sejam as suas próprias ou as dos outros.
-
 #### Fe Child 
 
 Encontre alívio com Sentimento extrovertido (Fe)
 
-Conectando-se e considerando os outros e o grupo
+Conectando-se e considerando os outros e o grupo.
 
 Eles podem gostar de se conectar com os outros, estabelecendo facilmente conexões sociais para realizar tarefas. 
 
@@ -355,15 +362,15 @@ E podem deixar os outros inquietos com sua conexão fácil e sua leitura do que 
 
 Aspire à Sensação introvertida (Si)
 
-Revisar e relembrar experiências passadas e buscar dados detalhados
+Revisar e relembrar experiências passadas e buscar dados detalhados.
 
 Às vezes, podem negligenciar os detalhes de registro e preparação minuciosa, mesmo quando querem estar bem preparados com todos os dados de que precisam. 
 
-Com o tempo, podem adquirir paciência para a coleta cuidadosa de dados e ver valor em seguir o trabalho, as ideias e os exemplos de outros que vieram antes.
+**Com o tempo, podem adquirir paciência para a coleta cuidadosa de dados e ver valor em seguir o trabalho, as ideias e os exemplos de outros que vieram antes.**
 
 Embora possam não querer participar de tradições ou outras atividades costumeiras pela mesmice, frequentemente têm um senso de nostalgia por como as coisas eram antes, muitas vezes com noções românticas. 
 
-Da mesma forma, muitas vezes desejam algum conforto futuro que seja estável, com características convencionais, mas são atraídos pela novidade.
+**Da mesma forma, muitas vezes desejam algum conforto futuro que seja estável, com características convencionais, mas são atraídos pela novidade.**
 
 Podem ter uma memória rica de detalhes — não percebendo os detalhes no momento, mas sendo capazes de recordá-los depois com uma especificidade que surpreende os outros. 
 
@@ -373,59 +380,241 @@ Ao mesmo tempo, evitam situações em que pensamentos sobre bons momentos possam
 
 Suas recordações podem parecer incrivelmente reais e convincentes.
 
-Eles podem se envolver excessivamente nesse processo e acabar presos ao acúmulo de dados e informações, de modo que estejam sempre preparados e evitem imprevistos. 
+**Eles podem se envolver excessivamente nesse processo e acabar presos ao acúmulo de dados e informações, de modo que estejam sempre preparados e evitem imprevistos.** 
 
-Da mesma forma, podem se preparar demais e se perder nos detalhes. Se não reconhecerem o valor desse processo, provavelmente desaprovarão a coleta cuidadosa de dados. Sua incapacidade de se estabelecer pode se tornar um problema para si mesmos e para os outros.
+Da mesma forma, podem se preparar demais e se perder nos detalhes. 
 
+Se não reconhecerem o valor desse processo, provavelmente desaprovarão a coleta cuidadosa de dados. 
+
+Sua incapacidade de se estabelecer pode se tornar um problema para si mesmos e para os outros.
 ### The Shadow Process 
 
 #### Ni Nemesis 
 
 Pode ser opositor com Intuição introvertida (Ni)
 
-Prever implicações, transformações e efeitos prováveis
+Prever implicações, transformações e efeitos prováveis.
 
-Podem tornar-se teimosos em relação às suas percepções sobre como será o futuro. 
+Podem tornar-se teimosos em relação às suas percepções sobre como será o futuro.
 
 Para si mesmos, podem se prender a uma visão de algo que não está acontecendo. 
 
 Por outro lado, esse processo pode fornecer insights profundos sobre tendências futuras.
-
 #### Te critic 
 
 Pode imobilizar com Pensamento extrovertido (Te)
 
 Segmentar, organizar para eficiência e sistematizar
 
-Podem tornar-se bastante críticos e descontentes com a falta de ordem, lógica e eficiência e tender a se rebelar contra estrutura e cronogramas à medida que o tempo os pressiona. 
+Podem tornar-se bastante críticos e descontentes com a falta de ordem, lógica e eficiência e tender a se rebelar contra estrutura e cronogramas à medida que o tempo os pressiona.
 
 Ainda assim, às vezes podem quase magicamente trazer ordem ao caos.
 
 #### Fi Trickster 
 
 Pode enganar os outros com Sentimento introvertido (Fi)
+> Valorizar e considerar importância, crenças e valor
 
-Valorizar e considerar importância, crenças e valor
+Geralmente não se interessam por questões de lealdade ou por aderir a crenças. 
 
-Geralmente não se interessam por questões de lealdade ou por aderir a crenças. Mas, sob estresse, podem se decidir a aceitar e seguir rigidamente um sistema de crenças ou aquilo que pessoalmente acham importante (ou desejam pessoalmente), pensando que isso garantirá o sucesso quando na verdade não garantirá. 
+Mas, sob estresse, podem se decidir a aceitar e seguir rigidamente um sistema de crenças ou aquilo que pessoalmente acham importante (ou desejam pessoalmente), pensando que isso garantirá o sucesso quando na verdade não garantirá. 
 
-Podem agir de forma infantil com declarações como “Eu quero” e “Eu não gosto”. 
+**Podem agir de forma infantil com declarações como “Eu quero” e “Eu não gosto”.** 
 
 Ainda assim, às vezes podem ter grande prazer em explorar sistemas de crenças.
-
 #### Se Demon 
 
 Pode tornar-se destrutivo com Sensação extrovertida (Se)
 
-Vivenciar e agir no contexto imediato
+**Vivenciar e agir no contexto imediato.**
 
 Quando realmente estressados, podem ficar presos a um estado de estar no momento físico. 
 
-Isso pode resultar em buscar estímulos de forma excessiva ou seguir o impulso de dormir ou não fazer nada. 
+Isso pode resultar em buscar estímulos de forma excessiva ou seguir o impulso de dormir ou não fazer nada.
 
 Podem se concentrar em detalhes isolados, agindo sobre eles de maneira caótica e desarticulada. 
 
 No entanto, às vezes podem realmente viver no que é tangível, usando o mundo físico para transformar e mudar.
+
+---
+## INTP - Designer Theorizer 
+
+*O tema é projetar e configurar. Os talentos estão em compreender os princípios subjacentes de algo e definir suas qualidades essenciais. Procura definir com precisão e trazer coerência aos sistemas com base no padrão de organização que está naturalmente presente. Percebe facilmente inconsistências. Aprecia teorias e modelos elegantes por si mesmos e para uso na resolução de problemas técnicos e humanos. Interesse em teorizar, analisar e aprender. Prosperar ao explorar, entender e explicar como o mundo funciona.*
+### The Primary Process 
+
+#### Ti hero 
+
+Lidera com Pensamento Introvertido (Ti)  
+>Analisando, categorizando e avaliando de acordo com princípios.
+
+Eles se afastam das interações para analisar fatores a partir de vários ângulos e aproveitar pontos. 
+
+São energizados ao analisar problemas desafiadores ou quebra-cabeças técnicos.
+
+Abordam um problema específico aplicando princípios e resolvem problemas analisando rapidamente a situação para obter a solução mais eficaz e de longo prazo a ser adotada. 
+
+A análise pode envolver descobrir como algo ou um sistema funciona para consertá-lo ou aprimorá-lo. 
+
+Eles verificam consistências lógicas, definições claras e princípios teóricos fundamentais que proporcionam uma compreensão profunda. 
+
+Buscam palavras precisas para descrever e explicar as coisas de forma clara, indo à essência da questão ou do conceito. 
+
+Valorizam tanto a clareza quanto a precisão e julgam a maioria dos empreendimentos como não atingindo o padrão. 
+
+Quando apresentados a novas ideias ou dados, analisam e criticam para eliminar o que não se encaixa em um princípio. 
+
+Tendem a aplicar o conhecimento de sua área de especialização ao serem solicitados a avaliar outras áreas. 
+
+Costumam ser habilidosos em dar um passo atrás, manter a objetividade e não reagir em excesso. As decisões de vida são preferencialmente baseadas em princípios objetivos.
+
+Como o Pensamento Introvertido é frequentemente o processo em que mais confiam, podem se envolver demais e usá-lo de maneira dominante. 
+
+Podem insistir excessivamente em analisar uma situação ou problema e se tornar excessivamente críticos. 
+
+Também podem aderir rigidamente a certos princípios e modelos do que consideram lógico, descartando dados que não se encaixam. 
+
+Podem insistir em completa precisão e em estar certos. 
+
+Outros frequentemente os veem como muito críticos, pois criticam primeiro e esquecem de elogiar.
+#### Ne Parent 
+
+Apoio com Intuição Extrovertida (Ne)  
+>Interpretando situações e relacionamentos e captando significados e interconexões com outros contextos.
+
+Como um pai apoiador, são úteis ao explorar uma variedade de possíveis resultados, opções e oportunidades. 
+
+Quando estimulados por uma ideia ou por um problema a ser resolvido, uma enxurrada de ideias pode surgir. 
+
+Embora as ideias muitas vezes estejam inter-relacionadas e tenham relação com a situação, frequentemente vêm de fora do contexto imediato. 
+
+Na verdade, procuram relacionar ideias isoladas a um contexto mais amplo e isso frequentemente reformula um problema para que uma nova solução surja. 
+
+Gostam de buscar padrões e processos associados a como o universo funciona, muitas vezes usando a imaginação para explorar mundos teóricos. 
+
+Apreciam interpretar os muitos significados possíveis envolvidos em uma situação e gerar hipóteses que podem ajudar a descobrir o que realmente está acontecendo, muitas vezes fazendo inferências notáveis. 
+
+Confiam fortemente na imaginação e na capacidade de formular hipóteses para compreender a natureza universal e a verdade de seus princípios.
+
+Como a Intuição Extrovertida provavelmente é um processo confiável, podem se envolver demais nela de maneira excessivamente interpretativa e sufocante. 
+
+Às vezes, podem se deixar levar ao inferir as necessidades das pessoas antes que elas tenham a chance de perceber seus próprios significados. 
+
+Outros podem vê-los como um tanto hesitantes, querendo explorar e experimentar muitas possibilidades e não querendo fechar opções com potencial. 
+
+Sob estresse, podem se convencer da precisão de suas interpretações ou da eficácia de ideias baseadas principalmente em hipóteses feitas de forma especulativa.
+
+#### Si Child 
+
+Encontre alívio com Sensação Introvertida (Si)  
+
+Revisando e recordando experiências passadas e buscando dados detalhados.
+
+Eles podem apreciar atividades como revisitar lugares onde estiveram, ideias que exploraram e a história de sua família, sua organização ou até mesmo sua cultura.
+
+Coletam informações detalhadas sobre o que lhes interessa e podem dedicar tempo para pesquisar o passado a fim de construir sobre o que outros já fizeram. 
+
+Podem sentir-se atraídos a colecionar memorabilia ou manter registros extensos de atividades e interesses.
+
+Reconhecem elementos sensoriais sutis e familiares, como sabores, aromas e cheiros. 
+
+No mundo físico, encontram conforto na familiaridade. 
+
+Podem até evitar ou resistir a experiências, preferindo que novas experiências correspondam às antigas que foram agradáveis.
+
+Quando mais jovens, tendem a não se lembrar de detalhes nem a dar importância a resultados esperados com base na experiência passada. 
+
+À medida que crescem, percebem que adquiriram um rico acervo de memórias e tornam-se mais propensos a recordar com precisão como algo era antes e a revisar lições passadas que foram aprendidas. 
+
+Muitas vezes passam de evitar a participação em tradições e feriados a realmente apreciá-los.
+
+Engajar-se na Sensação Introvertida pode ser inquietante e perturbador às vezes. 
+
+Podem fornecer detalhes em excesso ou ficar excessivamente focados em revisar o passado, mesmo que seja por lições aprendidas. 
+
+Ou podem acabar acumulando grandes quantidades de itens que lhes dão conforto na familiaridade, mas que acabam por sobrecarregar suas vidas físicas com desordem.
+#### Fe Aspirational 
+
+Aspirar ao Sentimento Extrovertido (Fe)  
+>Conectando-se, considerando os outros e o grupo.
+
+Eles querem saber a maneira certa de dizer as coisas para deixar as pessoas confortáveis ou influenciá-las, mas muitas vezes sentem que não são tão habilidosos nisso quanto gostariam. 
+
+Podem sentir-se compelidos a se responsabilizar e cuidar dos sentimentos dos outros e frequentemente são muito afetados pelas opiniões alheias, especialmente daquelas pessoas que admiram e respeitam, mas às vezes podem ser bastante insensíveis. 
+
+Quando mais jovens, podem se irritar com o que consideram comportamento emocional ilógico dos outros, tornando os relacionamentos difíceis de lidar. 
+
+Sua capacidade de usar um ponto de vista observador pode dar a impressão de que não se importam. 
+
+Ainda assim, manter a objetividade os ajuda a se tornarem bons gestores de grupo, se receberem “ferramentas interpessoais” eficazes.
+
+Com o tempo, convenções sociais e papéis esperados tornam-se mais fáceis, especialmente quando encontram uma estrutura de comportamento humano que não contradiz o que consideram lógico. 
+
+Aderir a papéis socialmente prescritos e envolver-se em conversas informais pode ser muito desgastante. 
+
+Valorizam conexões sociais e fazem as pessoas se sentirem confortáveis ao acolher e cuidar. 
+
+Podem tornar-se mais confortáveis ao revelar seus sentimentos, seus valores e opiniões, e questões que têm. 
+
+Mais tarde na vida, podem oferecer o elogio, o calor humano e o respeito pelos sentimentos e opiniões das pessoas que podem ter retido inadvertidamente antes.
+### The shadow Process 
+
+#### Te nemesis 
+Pode ser opositor com Pensamento Extrovertido (Te)  
+>Segmentando, organizando para eficiência e sistematizando.
+
+Podem tornar-se teimosos sobre como as coisas são organizadas e insistir em uma abordagem muito sistemática para algo. No entanto, às vezes podem ser bastante habilidosos em estabelecer ordem com base nos princípios que reconheceram.
+#### Ni Critic 
+Pode se imobilizar com Intuição Introvertida (Ni)  
+>Prevendo implicações, transformações e efeitos prováveis.
+
+Podem colocar um freio nos planos para o futuro com pensamentos negativos sobre como os eventos se desenrolarão. 
+
+Ainda assim, às vezes podem perceber magicamente um significado profundo ou uma visão positiva forte, embora nebulosa, de uma direção a seguir.
+#### Se Trickster 
+Pode ser enganado com Sensação Extrovertida (Se)  
+>Vivenciando e agindo no contexto imediato.
+
+Podem enganar a si mesmos e aos outros com um foco equivocado nos detalhes percebidos de uma situação. 
+
+Sob estresse, tendem a se deixar levar por ações impulsivas. 
+
+No entanto, às vezes podem ficar energizados ao notar e apreciar o mundo físico ao seu redor. 
+
+Podem rir de sua própria falta de conforto ao lidar com o mundo físico.
+#### Fi Demon 
+Pode tornar-se destrutivo com Sentimento Introvertido (Fi)  
+>Valorizando e considerando importância, crenças e valor pessoal.
+
+Geralmente demoram a escolher o que é importante para si. Podem concentrar-se excessivamente na congruência com crenças limitantes e julgar mal a importância relativa das coisas. 
+
+Quando muito estressados, provavelmente acabam gastando dinheiro e tempo com coisas que são indulgentes. 
+
+Ainda assim, ocasionalmente acessam valores universais que, quando integrados ao contexto de suas vidas, podem ser transformadores.
+
+---
+
+## Para Onde Você Vai a Partir Daqui?
+
+**Seja Você Mesmo**  
+
+É importante honrar suas preferências. O objetivo não é desenvolver todos os processos igualmente bem.
+	• Tome consciência dos tipos de informação aos quais você tende a prestar atenção e dos tipos de informação que tende a ignorar.
+	• Tome consciência do tipo de decisões que você acha fácil tomar e daquelas que tende a adiar.  
+	• Às vezes, podemos não ter “assumido” completamente nossas preferências por diversos motivos. Se isso se aplica a você, recupere-as. Elas são seus pontos fortes.
+
+**Seja Apreciativo**  
+	Reconheça o valor em outras abordagens. Dê espaço para que os outros usem suas preferências, mesmo que você não esteja inclinado a processar informações dessa forma. Fazer isso ajudará você a trabalhar melhor em conjunto e também a melhorar a resolução mútua de problemas.
+
+**Seja Adaptável**  
+	Perceba quando você aumentou demais o “volume” e está usando excessivamente suas preferências. Diminua o volume envolvendo-se em atividades que utilizem outros processos.
+	**Peça a pessoas que tenham processos diferentes dos seus que orientem você em comportamentos distintos, para que possa se adaptar aos outros.**
+
+**Seja Único**  
+	É importante reconhecer que você é único, mesmo que tenha preferências pelos mesmos processos que outras pessoas. Lembre-se de que, embora você compartilhe um padrão de melhor ajuste de tipo com outros, cada um de vocês ainda é único. Celebre sua singularidade enquanto valoriza o que têm em comum.
+
+**Esteja Aberto ao Desenvolvimento**  
+	O desenvolvimento do nosso tipo de personalidade é um processo para a vida toda. Às vezes, para se desenvolver, é preciso arriscar, abrindo mão de algo em que você já é bom e com o qual se sente confortável. Lembre-se de que o crescimento é um processo natural e, embora às vezes seja doloroso, vale o esforço.
+	Para ajudar em seu processo de crescimento, encontre alguém que você admira e que tenha o processo que você deseja desenvolver como preferência. Passe tempo com essa pessoa. Observe como ela faz as coisas. Em pouco tempo, você começará a incorporar alguns dos comportamentos que está tentando desenvolver.
 
 
 
