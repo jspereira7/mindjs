@@ -599,7 +599,7 @@ Ainda assim, ocasionalmente acessam valores universais que, quando integrados ao
 
 É importante honrar suas preferências. O objetivo não é desenvolver todos os processos igualmente bem.
 	• Tome consciência dos tipos de informação aos quais você tende a prestar atenção e dos tipos de informação que tende a ignorar.
-	• Tome consciência do tipo de decisões que você acha fácil tomar e daquelas que tende a adiar.  
+	• Tome consciência do tipo de decisões que você acha fácil tomar e daquelas que tende a adiar.
 	• Às vezes, podemos não ter “assumido” completamente nossas preferências por diversos motivos. Se isso se aplica a você, recupere-as. Elas são seus pontos fortes.
 
 **Seja Apreciativo**  
