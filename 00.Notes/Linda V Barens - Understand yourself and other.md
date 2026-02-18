@@ -95,7 +95,15 @@ Pense nos quatro processos sombra como estando situados logo abaixo da figura em
 
 ![[Pasted image 20260213133519.png]]
 
-O tema é promover. Os talentos estão em persuadir os outros e agilizar para que as coisas aconteçam. Possui um estilo envolvente e cativante que atrai os outros. Hábil em captar sinais não verbais mínimos. Antecipa as ações e reações dos outros e, assim, conquista-os com sua confiança. Gosta da empolgação e do desafio de negociar, vender, fechar acordos, arbitrar e, de modo geral, alcançar o impossível. Prosperam com a ação e com a liberdade de usar todos os recursos disponíveis para obter os resultados desejados.
+O tema é promover. Os talentos estão em persuadir os outros e agilizar para que as coisas aconteçam. Possui um estilo envolvente e cativante que atrai os outros. 
+
+Hábil em captar sinais não verbais mínimos. 
+
+Antecipa as ações e reações dos outros e, assim, conquista-os com sua confiança. 
+
+Gosta da empolgação e do desafio de negociar, vender, fechar acordos, arbitrar e, de modo geral, alcançar o impossível. 
+
+Prosperam com a ação e com a liberdade de usar todos os recursos disponíveis para obter os resultados desejados.
 
 ### Processos dominantes 
 
