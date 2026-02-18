@@ -103,19 +103,23 @@ O tema é promover. Os talentos estão em persuadir os outros e agilizar para qu
 
 > Vivenciando e agindo no contexto imediato.
 
-Eles vivenciam a vida em sua plenitude, estando incrivelmente presentes no momento. Estão sintonizados com sinais não verbais mínimos do que está acontecendo com as pessoas. 
+Eles vivenciam a vida em sua plenitude, estando incrivelmente presentes no momento. 
 
-Suas mentes estão continuamente percebendo e examinando reações e dados relevantes. 
+**Estão sintonizados com sinais não verbais mínimos do que está acontecendo com as pessoas.** 
 
-Entrar em sintonia física com as pessoas e com o ambiente ao redor geralmente acontece de forma natural para eles. Gostam da emoção da ação e das experiências físicas no momento presente. 
+**Suas mentes estão continuamente percebendo e examinando reações e dados relevantes.** 
 
-Conhecem todas as opções e atividades disponíveis em qualquer situação e são habilidosos em realizar várias atividades ao mesmo tempo, mantendo olhos e ouvidos atentos a diversas coisas simultaneamente. 
+Entrar em sintonia física com as pessoas e com o ambiente ao redor geralmente acontece de forma natural para eles. 
+
+Gostam da emoção da ação e das experiências físicas no momento presente. 
+
+**Conhecem todas as opções e atividades disponíveis em qualquer situação e são habilidosos em realizar várias atividades ao mesmo tempo, mantendo olhos e ouvidos atentos a diversas coisas simultaneamente.** 
 
 Movem-se rapidamente para agir e obter algum tipo de resultado imediato, muitas vezes após fazer apenas algumas perguntas-chave sobre as opções disponíveis, limites prováveis e resultados desejados. 
 
 Enquanto outros ainda estão processando o que está acontecendo, eles já agiram para evitar uma crise inesperada. 
 
-Gostam de impressionar as pessoas ao demonstrar uma habilidade extraordinária para superar limites e expectativas. 
+**Gostam de impressionar as pessoas ao demonstrar uma habilidade extraordinária para superar limites e expectativas.** 
 
 Às vezes dizem ou fazem algo apenas para provocar uma reação, para descobrir do que algo ou alguém realmente é feito. 
 
@@ -123,9 +127,9 @@ Em sua melhor forma, extraem resultados criativos e ação dos outros simplesmen
 
 Como a Sensação Extrovertida costuma ser seu processo mais confiável, podem se envolver demais nele. 
 
-Podem se entregar excessivamente aos sentidos, insistir em obter muitos dados ou se preocupar apenas com o que têm no momento imediato. 
+**Podem se entregar excessivamente aos sentidos, insistir em obter muitos dados ou se preocupar apenas com o que têm no momento imediato.** 
 
-Como resultado, podem repetir as mesmas experiências repetidas vezes, acabando por se sentir limitados e entediados. 
+**Como resultado, podem repetir as mesmas experiências repetidas vezes, acabando por se sentir limitados e entediados.** 
 
 Também podem agir com excesso de confiança, sentindo-se imunes ao perigo, ou agir rápido demais quando uma análise ou uma verificação de valores é realmente necessária.
 
@@ -205,7 +209,7 @@ Suas ações rápidas são mais eficazes quando se sintonizam tanto com o mundo 
 
 Muitas vezes têm um amor secreto pelo aprendizado, especialmente sobre pessoas. 
 
-Isso pode se manifestar como leitura ávida ou outras atividades tranquilas. 
+**Isso pode se manifestar como leitura ávida ou outras atividades tranquilas.** 
 
 Com o tempo, à medida que aumentam a autoconsciência, sentem maior conforto em passar tempo olhando para dentro. 
 
@@ -223,7 +227,7 @@ Se não reconhecem o valor desse processo, é provável que rejeitem todo simbol
 
 Pode se tornar opositor com Sensação Introvertida (Si):
 
-Revisando e recordando experiências passadas e buscando dados detalhados
+> Revisando e recordando experiências passadas e buscando dados detalhados
 
 Podem tornar-se teimosos quanto às suas percepções de como as coisas já aconteceram e se fixar em como essa recordação se conecta ao presente. 
 
@@ -426,9 +430,9 @@ Ainda assim, às vezes podem ter grande prazer em explorar sistemas de crenças.
 
 Pode tornar-se destrutivo com Sensação extrovertida (Se)
 
-**Vivenciar e agir no contexto imediato.**
+> **Vivenciar e agir no contexto imediato.**
 
-Quando realmente estressados, podem ficar presos a um estado de estar no momento físico. 
+Quando realmente estressados, podem ficar presos a um estado de estar no momento físico.
 
 Isso pode resultar em buscar estímulos de forma excessiva ou seguir o impulso de dormir ou não fazer nada.
 
@@ -582,6 +586,7 @@ No entanto, às vezes podem ficar energizados ao notar e apreciar o mundo físic
 
 Podem rir de sua própria falta de conforto ao lidar com o mundo físico.
 #### Fi Demon 
+
 Pode tornar-se destrutivo com Sentimento Introvertido (Fi)  
 >Valorizando e considerando importância, crenças e valor pessoal.
 
