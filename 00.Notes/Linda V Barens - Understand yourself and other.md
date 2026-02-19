@@ -95,7 +95,9 @@ Pense nos quatro processos sombra como estando situados logo abaixo da figura em
 
 ![[Pasted image 20260213133519.png]]
 
-O tema é promover. Os talentos estão em persuadir os outros e agilizar para que as coisas aconteçam. Possui um estilo envolvente e cativante que atrai os outros. 
+O tema é promover. Os talentos estão em persuadir os outros e agilizar para que as coisas aconteçam. 
+
+Possui um estilo envolvente e cativante que atrai os outros. 
 
 Hábil em captar sinais não verbais mínimos. 
 
@@ -111,7 +113,7 @@ Prosperam com a ação e com a liberdade de usar todos os recursos disponíveis 
 
 > Vivenciando e agindo no contexto imediato.
 
-Eles vivenciam a vida em sua plenitude, estando incrivelmente presentes no momento. 
+Eles vivenciam a vida em sua plenitude, estando incrivelmente presentes no momento.
 
 **Estão sintonizados com sinais não verbais mínimos do que está acontecendo com as pessoas.** 
 
@@ -119,11 +121,11 @@ Eles vivenciam a vida em sua plenitude, estando incrivelmente presentes no momen
 
 Entrar em sintonia física com as pessoas e com o ambiente ao redor geralmente acontece de forma natural para eles. 
 
-Gostam da emoção da ação e das experiências físicas no momento presente. 
+**Gostam da emoção da ação e das experiências físicas no momento presente.** 
 
-**Conhecem todas as opções e atividades disponíveis em qualquer situação e são habilidosos em realizar várias atividades ao mesmo tempo, mantendo olhos e ouvidos atentos a diversas coisas simultaneamente.** 
+Conhecem todas as opções e atividades disponíveis em qualquer situação e são habilidosos em realizar várias atividades ao mesmo tempo, mantendo olhos e ouvidos atentos a diversas coisas simultaneamente. 
 
-Movem-se rapidamente para agir e obter algum tipo de resultado imediato, muitas vezes após fazer apenas algumas perguntas-chave sobre as opções disponíveis, limites prováveis e resultados desejados. 
+**Movem-se rapidamente para agir e obter algum tipo de resultado imediato, muitas vezes após fazer apenas algumas perguntas-chave sobre as opções disponíveis, limites prováveis e resultados desejados.** 
 
 Enquanto outros ainda estão processando o que está acontecendo, eles já agiram para evitar uma crise inesperada. 
 
@@ -135,7 +137,7 @@ Em sua melhor forma, extraem resultados criativos e ação dos outros simplesmen
 
 Como a Sensação Extrovertida costuma ser seu processo mais confiável, podem se envolver demais nele. 
 
-**Podem se entregar excessivamente aos sentidos, insistir em obter muitos dados ou se preocupar apenas com o que têm no momento imediato.** 
+**Podem se entregar excessivamente aos sentidos, insistir em obter muitos dados ou se preocupar apenas com o que têm no momento imediato.**
 
 **Como resultado, podem repetir as mesmas experiências repetidas vezes, acabando por se sentir limitados e entediados.** 
 
@@ -165,7 +167,9 @@ Como o Pensamento Introvertido tende a ser um processo confiável, podem se envo
 
 Às vezes, os outros podem vê-los como um tanto arrogantes e condescendentes, especialmente quando tratam debate e análise como um jogo a ser vencido. 
 
-Sob estresse, podem se apegar rigidamente a certos princípios e modelos e ao que consideram lógico, demonstrando impaciência com discussões. E podem ser críticos e mordazes em relação a falhas percebidas, sejam as próprias ou as dos outros.
+Sob estresse, podem se apegar rigidamente a certos princípios e modelos e ao que consideram lógico, demonstrando impaciência com discussões. 
+
+E podem ser críticos e mordazes em relação a falhas percebidas, sejam as próprias ou as dos outros.
 
 ---
 
@@ -181,7 +185,7 @@ Eles podem até sentir-se impelidos a ser responsáveis por cuidar dos outros e 
 
 Frequentemente perguntam e compartilham preferências e opiniões como forma de se conectar. 
 
-Desejam o respeito dos outros. 
+**Desejam o respeito dos outros.** 
 
 Suas tentativas diplomáticas podem ser mal interpretadas como resposta a políticas interpessoais. 
 
@@ -209,7 +213,7 @@ Desenvolver uma imagem de mudança ou transformação futura pode ser muito ener
 
 Com o tempo, passam a demonstrar maior paciência ao abstrair experiências em novos aprendizados, apreciando que algumas coisas na vida parecem de uma maneira na superfície quando, na verdade, têm muitos outros níveis.
 
-Frequentemente têm um senso de otimismo de que o futuro será positivo. 
+**Frequentemente têm um senso de otimismo de que o futuro será positivo.** 
 
 Às vezes têm uma percepção do que está por vir e apreciam aqueles momentos repentinos de “aha!” que surgem do nada. 
 
@@ -243,9 +247,10 @@ Por outro lado, esse processo pode fornecer boas informações de referência so
 #### Te Critic 
 
 Pode imobilizar com Pensamento Extrovertido (Te)  
-Segmentando, organizando para eficiência e sistematizando
 
-Quando mais jovens, tendem a se rebelar contra estrutura e cronogramas como restrições de tempo. 
+> Segmentando, organizando para eficiência e sistematizando
+
+**Quando mais jovens, tendem a se rebelar contra estrutura e cronogramas como restrições de tempo.** 
 
 Mais tarde, podem tornar-se bastante críticos e desanimados com desordem, ilogicidade e ineficiência.
 
@@ -255,7 +260,7 @@ Ainda assim, às vezes conseguem quase magicamente trazer ordem ao caos.
 
 Pode enganar com Sentimento Introvertido (Fi)  
 
-Valorizando e considerando importância, crenças e valor.
+> Valorizando e considerando importância, crenças e valor.
 
 Geralmente não se interessam por questões de lealdade ou por aderir a crenças. 
 
@@ -271,7 +276,7 @@ Pode tornar-se destrutivo com Intuição Extrovertida (Ne)
 
 Interpretando situações e relacionamentos e captando significados e interconexões com outros contextos.
 
-Quando realmente estressados, interpretam excessivamente “nas entrelinhas”, muitas vezes interpretando erroneamente o significado das ações de alguém e atribuindo intenções negativas onde não existem. 
+**Quando realmente estressados, interpretam excessivamente “nas entrelinhas”, muitas vezes interpretando erroneamente o significado das ações de alguém e atribuindo intenções negativas onde não existem.** 
 
 Ainda assim, ocasionalmente conseguem chegar a interpretações profundas que realmente transformam situações e suas vidas cotidianas.
 
@@ -629,6 +634,7 @@ Ainda assim, ocasionalmente acessam valores universais que, quando integrados ao
 	O desenvolvimento do nosso tipo de personalidade é um processo para a vida toda. Às vezes, para se desenvolver, é preciso arriscar, abrindo mão de algo em que você já é bom e com o qual se sente confortável. Lembre-se de que o crescimento é um processo natural e, embora às vezes seja doloroso, vale o esforço.
 	Para ajudar em seu processo de crescimento, encontre alguém que você admira e que tenha o processo que você deseja desenvolver como preferência. Passe tempo com essa pessoa. Observe como ela faz as coisas. Em pouco tempo, você começará a incorporar alguns dos comportamentos que está tentando desenvolver.
 
+----
 
 
 
