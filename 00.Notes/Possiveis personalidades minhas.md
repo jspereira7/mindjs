@@ -10,3 +10,9 @@
 
 ---
 
+Me identifiquei com ENTP por exemplo.
+- Devo considerar olhar tambem 
+	- ESTP 
+	- INTP 
+	- ENFP
+

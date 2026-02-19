@@ -553,3 +553,12 @@ Depois de revisar os temas nas páginas 8–9, use a matriz à direita.
 
 Certifique-se de pensar em si mesmo em todos os contextos, não apenas no trabalho ou em casa. Quem é você realmente?
 
+Com base no tipo que você escolher, considere outros tipos tambem, e leia as descrições.
+
+![[Pasted image 20260219163146.png]]
+
+[[ESTP - Description ]]
+[[ENTP - Description]]
+
+
+

@@ -9,6 +9,14 @@
       "path": "00.Notes/Possiveis personalidades minhas.md"
     },
     {
+      "basename": "ESTP - Description",
+      "path": "00.Notes/ESTP - Description.md"
+    },
+    {
+      "basename": "ENTP - Description",
+      "path": "00.Notes/ENTP - Description.md"
+    },
+    {
       "basename": "Linda V Barens - Understand yourself and other",
       "path": "00.Notes/Linda V Barens - Understand yourself and other.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ESTP Social Optmization - Video CSJ",
       "path": "00.Notes/ESTP Social Optmization - Video CSJ.md"
-    },
-    {
-      "basename": "Deadly Sins x Living Virtues (ESTP)",
-      "path": "00.Notes/Deadly Sins x Living Virtues (ESTP).md"
-    },
-    {
-      "basename": "Site com cursos ouros gringos",
-      "path": "00.Notes/Site com cursos ouros gringos.md"
     }
   ],
   "omittedPaths": [
