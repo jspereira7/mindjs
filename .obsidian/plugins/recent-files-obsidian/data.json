@@ -5,6 +5,10 @@
       "path": "00.Notes/Linda V Barens - Type Descriptions.md"
     },
     {
+      "basename": "Possiveis personalidades minhas",
+      "path": "00.Notes/Possiveis personalidades minhas.md"
+    },
+    {
       "basename": "Linda V Barens - Understand yourself and other",
       "path": "00.Notes/Linda V Barens - Understand yourself and other.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Site com cursos ouros gringos",
       "path": "00.Notes/Site com cursos ouros gringos.md"
-    },
-    {
-      "basename": "Cursos Ouro Premium v2",
-      "path": "00.Notes/Cursos Ouro Premium v2.md"
     }
   ],
   "omittedPaths": [
