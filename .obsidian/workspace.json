@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "Possiveis personalidades minhas"
             }
+          },
+          {
+            "id": "c951f392b3afd783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Como monetizar videos facilmente com Yt Shorts"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,13 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Linda V Barens - Type Descriptions.md",
+                "file": "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linda V Barens - Type Descriptions"
+              "title": "Outline of Como monetizar videos facilmente com Yt Shorts"
             }
           },
           {
@@ -163,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Linda V Barens - Type Descriptions.md",
+                "file": "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linda V Barens - Type Descriptions"
+              "title": "Graph of Como monetizar videos facilmente com Yt Shorts"
             }
           },
           {
@@ -326,8 +351,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "3cbbda0b1207015d",
+  "active": "c951f392b3afd783",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20260220160600.png",
+    "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
     "00.Notes/Possiveis personalidades minhas.md",
     "00.Notes/Linda V Barens - Type Descriptions.md",
     "00.Notes/ESTP - Description.md",
@@ -362,8 +389,6 @@
     "00.Notes/Como ter sucesso usando seu tipo.md",
     "00.Notes/Resumo Encontrando flow como Entp.md",
     "00.Notes/Tabela dos Tipos.md",
-    "00.Notes/Resumo sobre o modelo de carro das funcoes cognitivas.md",
-    "00.Notes/Podcast Zona de Genialidade..md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
