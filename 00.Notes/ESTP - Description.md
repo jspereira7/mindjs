@@ -1,7 +1,6 @@
 
 > Temperament: Artisan
 > Interaction style: In-charge
-> 
 
 ## VISÃO GERAL
 
@@ -10,6 +9,7 @@ O tema é promover. Talento para persuadir os outros e agilizar para que as cois
 ## RETRATO  
 
 **Temas**:
+
 Para os Executores Promotores, a vida é um processo de assumir o comando das situações e fazer as coisas acontecerem. 
 
 Eles apreciam uma certa exaltação e a vantagem que vem de obter os resultados que desejam. 

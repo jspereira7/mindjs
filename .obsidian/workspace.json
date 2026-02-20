@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Linda V Barens - Type Descriptions.md",
+                "file": "00.Notes/ESTP - Description.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linda V Barens - Type Descriptions"
+              "title": "ESTP - Description"
             }
           },
           {
@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Como monetizar videos facilmente com Yt Shorts"
             }
+          },
+          {
+            "id": "310316d4153b3ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Usos da Tipologia na prática.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Usos da Tipologia na prática"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
+                "file": "00.Notes/Usos da Tipologia na prática.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Como monetizar videos facilmente com Yt Shorts"
+              "title": "Outline of Usos da Tipologia na prática"
             }
           },
           {
@@ -188,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
+                "file": "00.Notes/Usos da Tipologia na prática.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Como monetizar videos facilmente com Yt Shorts"
+              "title": "Graph of Usos da Tipologia na prática"
             }
           },
           {
@@ -351,13 +375,16 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "c951f392b3afd783",
+  "active": "310316d4153b3ce3",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20260220160600.png",
+    "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
+    "00.Notes/Interaction Styles 2.0 Linda Berens.md",
+    "01.Assets/Anexos/Pasted image 20260220171658.png",
     "00.Notes/Possiveis personalidades minhas.md",
-    "00.Notes/Linda V Barens - Type Descriptions.md",
     "00.Notes/ESTP - Description.md",
+    "00.Notes/Linda V Barens - Type Descriptions.md",
+    "01.Assets/Anexos/Pasted image 20260220160600.png",
     "00.Notes/ENTP - Description.md",
     "00.Notes/Linda V Barens - Understand yourself and other.md",
     "01.Assets/Anexos/Pasted image 20260219163146.png",
@@ -368,8 +395,6 @@
     "01.Assets/Anexos/Pasted image 20260219144210.png",
     "01.Assets/Anexos/Pasted image 20260219144153.png",
     "01.Assets/Anexos/Pasted image 20260219143457.png",
-    "01.Assets/Anexos/Pasted image 20260219143424.png",
-    "01.Assets/Anexos/Pasted image 20260219143041.png",
     "00.Notes/Ego Hacking Your Fear.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Deep typology book - Traduzido.md",
@@ -388,7 +413,6 @@
     "00.Notes/Framework Girls.md",
     "00.Notes/Como ter sucesso usando seu tipo.md",
     "00.Notes/Resumo Encontrando flow como Entp.md",
-    "00.Notes/Tabela dos Tipos.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
