@@ -220,7 +220,6 @@ Geralmente, quando funções inconscientes assumem o controle da psique, não go
 > Quanto mais conscientes formos de nossas funções, mais escolhas teremos disponíveis.
 
 ---
-
 ## A psique é dinâmica e está sempre buscando equilíbrio.
 
 A função das funções perceptivas é coletar informações. Elas continuarão coletando informações para sempre.
@@ -231,8 +230,252 @@ A função das funções de julgamento é encerrar o processo e tomar decisões.
 
 As funções perceptivas dependem das funções de julgamento para fazer algo com os dados que fornecem. 
 
-As funções de julgamento dependem das funções perceptivas para fornecer informações úteis em tempo hábil. Esse compartilhamento de responsabilidade cria uma das tensões dinâmicas na psique que foi descrita por Jung.
+As funções de julgamento dependem das funções perceptivas para fornecer informações úteis em tempo hábil. 
 
-As quatro maneiras de perceber irão, de uma forma ou de outra, trabalhar juntas ou interferir umas nas outras. Uma vez que a função perceptiva preferida esteja razoavelmente bem desenvolvida, ela será consciente e as outras três serão principalmente inconscientes.
+Esse compartilhamento de responsabilidade cria uma das tensões dinâmicas na psique que foi descrita por Jung.
 
-Da mesma forma, as quatro maneiras de tomar decisões irão, de uma forma ou de outra, trabalhar juntas ou interferir umas nas outras. Uma vez que a função de julgamento preferida esteja razoavelmente bem desenvolvida, ela será consciente e as outras três serão principalmente inconscientes. Esta é uma situação estável, a menos que um evento (ou mesmo uma carga emocional) ative dinamicamente uma das funções de julgamento inconscientes e altere esse equilíbrio.
+As quatro maneiras de perceber irão, de uma forma ou de outra, trabalhar juntas ou interferir umas nas outras. 
+
+Uma vez que a função perceptiva preferida esteja razoavelmente bem desenvolvida, ela será consciente e as outras três serão principalmente inconscientes.
+
+Da mesma forma, as quatro maneiras de tomar decisões irão, de uma forma ou de outra, trabalhar juntas ou interferir umas nas outras. 
+
+Uma vez que a função de julgamento preferida esteja razoavelmente bem desenvolvida, ela será consciente e as outras três serão principalmente inconscientes. 
+
+Esta é uma situação estável, a menos que um evento (ou mesmo uma carga emocional) ative dinamicamente uma das funções de julgamento inconscientes e altere esse equilíbrio.
+
+A dinâmica de permanecer em equilíbrio manifesta-se no equilíbrio entre a Dominante e a Auxiliar com as outras seis funções. 
+
+Por exemplo, uma pessoa cuja preferência é ENTJ provavelmente desenvolverá conscientemente Te e Ni. 
+
+O uso excessivo dessas funções pode significar que seus opostos, Fi e Se, não serão bem desenvolvidos o suficiente para chamar a atenção ou serem desenvolvidos de modo que a parte consciente da psique possa confiar neles. 
+
+**Assim, à medida que as pessoas se desenvolvem, precisam confiar que, na maioria das situações, os processos Dominante e Auxiliar estão lhes fornecendo dados sólidos e avaliações apropriadas, mas saber que cada uma dessas funções muito provavelmente possui pontos cegos.** 
+
+Esses pontos cegos podem ser evitados ou, pelo menos, minimizados com o desenvolvimento das outras funções.
+
+À medida que você lê as descrições das funções neste livro, precisará decidir quais funções você desenvolveu e quais precisa desenvolver. 
+
+Um breve questionário de autoavaliação foi fornecido para cada função, que você pode usar para ajudar a direcionar suas avaliações do desenvolvimento de suas habilidades.
+
+-----
+## O desenvolvimento de tipo envolve o desenvolvimento de habilidades relacionadas às oito funções psicológicas.
+
+Com base na teoria e nos dados obtidos de pessoas que participam de programas de treinamento e no Questionário de Avaliação de Habilidades das Funções, a maioria das pessoas relata que suas funções dominante e auxiliar tendem a ser suas funções mais altamente desenvolvidas. 
+
+Isso significa que elas desenvolveram uma gama mais ampla de habilidades e habilidades mais sofisticadas relacionadas a essas funções. 
+
+As pessoas tendem a usar essas habilidades com frequência e geralmente confiam nos resultados que produzem, sejam eles dados, organização, avaliações ou decisões.
+
+O desenvolvimento das outras seis funções não é tão claro. 
+
+Dois padrões estão emergindo de nossa pesquisa:
+
+1. **As mesmas funções com atitudes opostas às da dominante e da auxiliar são a terceira e a quarta mais desenvolvidas.** Por exemplo, se a dominante e a auxiliar forem Fe e Si, as próximas mais desenvolvidas seriam Fi e Se. Ne e Ni, Ti e Te são menos desenvolvidas. A única ordenação que aparece nas quatro últimas é que a função inferior é a última, isto é, se a dominante for Fe, então Ti será a menos desenvolvida.
+    
+2. A ordem das funções é próxima à ordem das funções listadas no modelo de John Beebe (ver Apêndice A: Desenvolvimento de Tipo Avançado), com algumas pequenas alterações na ordem das quatro últimas. Usando o exemplo ESFJ (dominante Fe, auxiliar Si) acima, a seguinte seria a ordem do mais ao menos desenvolvido:
+    
+
+dominante — Fe  
+auxiliar — Si  
+terciária — Ne  
+inferior — Ti  
+quinta — Fi  
+sexta — Se  
+sétima — Ni  
+oitava — Te
+
+Lembre-se de que há variações frequentes na ordem das quatro últimas funções, de modo que a quinta pode ser a sétima ou a sexta. 
+
+O que é constante é que as quatro últimas funções são vistas como menos desenvolvidas do que as quatro primeiras.
+
+Para algumas pessoas, devido às circunstâncias da vida, a quantidade de desenvolvimento não seguirá nenhum dos padrões. A seguir estão algumas das circunstâncias que podem influenciar o nível de desenvolvimento:
+
+Durante a infância (aproximadamente dos 3 aos 12 anos de idade):
+
+1. Houve feedback negativo quando a dominante estava sendo usada.
+2. A vida familiar exigiu o uso de uma função não preferida para sobreviver (por exemplo, um pai abusivo ou alcoólatra, ou irmãos).
+3. Houve feedback positivo pelo uso de funções não preferidas.
+
+Mais tarde na vida:
+
+4. Empregos escolhidos exigiram uso extensivo de funções não preferidas.
+5. Habilidades parentais exigiram uso de funções não preferidas.
+
+Em qualquer uma dessas situações, pode ser difícil determinar as preferências de tipo da pessoa; assim, o padrão de desenvolvimento dessa pessoa também pode não ser claro.
+
+-----
+## Há um impulso interior para crescer, para se tornar mais consciente.
+
+Jung não apenas observou as oito funções, como também percebeu e descreveu o impulso interior de crescer e se tornar mais consciente. 
+
+Esse impulso muitas vezes é bloqueado pelos estresses da vida e, às vezes, pelas expectativas de outras pessoas. 
+
+No entanto, ele continua a nos impulsionar em direção aos nossos sonhos.
+
+Este livro permite que você escolha como se tornar mais consciente e eficaz.
+
+## Using This book
+
+As atividades incluídas neste livro foram elaboradas para que você possa aumentar consciente e intencionalmente sua capacidade de usar adequadamente as habilidades associadas a cada uma das oito funções junguianas. 
+
+À medida que realizar qualquer uma dessas atividades, primeiro avalie o quão confortável você está com a habilidade estabelecida e, em seguida, aprenda a incorporar as habilidades aos seus comportamentos.
+
+No início, você pode esperar que o uso de funções menos desenvolvidas seja estranho e/ou inadequado, especialmente aquelas que são opostas à sua Dominante e Auxiliar. 
+
+Recomendamos fortemente que você pratique essas novas habilidades apenas quando for seguro usá-las de forma imperfeita. 
+
+Se a habilidade envolver outras pessoas, provavelmente é melhor tentar com pessoas em quem você confia para lhe dar um feedback honesto sobre como elas se sentem em relação ao seu comportamento.
+
+Mais tarde, é claro, você provavelmente passará por uma fase em que usará a função em excesso, assim como pode agora usar sua Dominante em excesso. 
+
+Usar uma função em excesso é uma fase importante do aprendizado de como utilizar as funções adequadamente. 
+
+Ao usar uma função em demasia (e às vezes sendo “punido” pelo excesso), a pessoa se torna consciente do limite superior do uso apropriado.
+
+Tem sido nossa experiência que, se você tentar trabalhar muitas novas habilidades ao mesmo tempo, pode se desencorajar e desistir ou desenvolver uma autoimagem menos positiva. 
+
+Isso é especialmente verdadeiro se as habilidades exercitadas estiverem relacionadas a qualquer função diferente da sua Dominante ou Auxiliar. 
+
+O sucesso também parece vir mais facilmente se o desenvolvimento de uma habilidade atender a uma necessidade determinada pela Dominante; portanto, procure uma razão para desenvolver a habilidade que a Dominante compreenda.
+
+## Sumario as 8 Funções Cognitivas 
+
+| Função                                             | Descrição                                                                                                                                                                                                      |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sensação Extrovertida (Se) — O Explorador**      | • Coleta dados objetivamente por meio dos cinco sentidos<br>• Foca no momento presente<br>• Foca em experiências que proporcionam maior estimulação                                                            |
+| **Sensação Introvertida (Si) — O Conservador**     | • Vivencia situações presentes incorporando percepções de situações passadas, incluindo respostas internas à situação passada<br>• Compara o presente com o passado<br>• Mantém objetos e tradições            |
+| **Intuição Extrovertida (Ne) — O Idealizador**     | • Vê conexões e possibilidades no mundo externo<br>• Gera múltiplas possibilidades<br>• Foca em como as coisas e os relacionamentos poderiam ser                                                               |
+| **Intuição Introvertida (Ni) — O Visionário**      | • Vê conexões e possibilidades no mundo interno<br>• Observa situações a partir de múltiplas perspectivas até que o “melhor” seja percebido<br>• Reconhece e valoriza símbolos                                 |
+| **Pensamento Extrovertido (Te) — O Administrador** | • Organiza os recursos necessários para alcançar metas mensuráveis<br>• Organiza pessoas e recursos de forma objetiva e lógica<br>• Avalia o desempenho com base em padrões mensuráveis                        |
+| **Pensamento Introvertido (Ti) — O Analista**      | • Organiza ideias e informações em categorias funcionais<br>• Constrói uma compreensão de como as coisas e as ideias funcionam<br>• Usa categorias e entendimentos para tomar decisões                         |
+| **Sentimento Extrovertido (Fe) — O Guia**          | • Inicia e mantém redes sociais<br>• Organiza pessoas em redes sociais harmoniosas para realizar atividades valiosas<br>• Busca manter relacionamentos                                                         |
+| **Sentimento Introvertido (Fi) — A Consciência**   | • Busca compreender o que é realmente importante: seus valores profundamente enraizados<br>• Toma decisões baseadas em valores para manter a integridade pessoal<br>• Ajuda os outros a manter sua integridade |
+
+---
+
+# Extraverted Sensing (Se) - The Scout 
+
+The Scout 
+
+Sensação Extrovertida (Se), a parte Exploradora de nós, é um processo de percepção que se concentra na realidade tangível ao nosso redor. 
+
+O Explorador depende principalmente de informações “como são” obtidas do mundo externo por meio dos cinco sentidos: ver, ouvir, tocar, cheirar e saborear. 
+
+O Explorador absorve os detalhes do ambiente de forma objetiva, o que significa que ele não avalia nem reage aos dados, mas reconhece que “o que é, é”.
+
+O Explorador em cada um de nós vivencia as coisas fora de nós mesmos como elas realmente são e utiliza os cinco sentidos físicos para experimentar a vida como ela é no presente. 
+
+O Explorador vê, ouve, prova, cheira e sente (pelo toque) as coisas em detalhes, exatamente como elas são, agora mesmo. 
+
+Além disso, o Explorador desenvolvido pode manter essa percepção na consciência ou evocá-la do inconsciente quando necessário.
+
+Assim, a parte Exploradora de nós é capaz de experimentar a fragrância de uma flor, discernir perfeitamente uma cor, distinguir entre notas musicais, combinar um material em uma loja com o papel de parede de casa ou identificar um pássaro pelo seu canto. 
+
+Para ter uma ideia de como é o mundo cheio de sentidos do Explorador, coloque as mãos atrás das orelhas e ouça o mundo.
+
+Todos nós precisamos desenvolver uma quantidade mínima de Se para levantar e ir trabalhar. 
+
+A maioria de nós desenvolve habilidades suficientes do Explorador Se para sermos razoavelmente seguros ao realizar todas as tarefas complexas do nosso dia. 
+
+Alguns de nós encontram verdadeira alegria em poder “parar para cheirar as flores.”
+
+## Habilidades de Sensação Extrovertida
+
+**O Explorador em Desenvolvimento**
+
+A habilidade mental básica da Sensação Extrovertida é absorver objetivamente detalhes tangíveis do ambiente usando os sentidos da audição, visão, olfato, paladar e tato (Se1). 
+
+“Objetivamente” significa que os dados (percebidos como fatos) não são avaliados e a informação não é personalizada. 
+
+Por exemplo, quando um indivíduo com Se desenvolvido entra em um cômodo, ele absorve os detalhes tangíveis do ambiente: suas cores e texturas nas paredes, seus odores, seus sons, o tipo de piso, cores e texturas, e assim por diante.
+
+À medida que o Explorador se desenvolve, há cada vez mais discriminação nos detalhes coletados (Se2). 
+
+No nível mais baixo de desenvolvimento, o Explorador pode ver um grande carro vermelho. 
+
+Em níveis mais avançados de desenvolvimento, o Explorador pode ver um carro vermelho carmesim de 6 metros (20 pés) com rodas individuais bordô, teto solar e acabamento cromado. 
+
+Em níveis ainda mais altos de desenvolvimento, ela notará ainda mais detalhes (a porta está amassada) e uma discriminação ainda mais refinada de cores (o teto está um pouco desbotado).
+
+Com um pouco mais de habilidade avançada de Se, o Explorador é capaz de recordar detalhes de forma impessoal quando necessário. 
+
+Por exemplo, pessoas que desenvolveram seu Explorador podem lembrar (“ver com os olhos da mente”) exatamente o que aconteceu em um acidente de carro que testemunharam. 
+
+Como o incidente é percebido objetivamente, ele pode ser descrito com precisão e imparcialidade. 
+
+Nossos tribunais confiam nessa habilidade para relatos de testemunhas oculares.
+
+Essa capacidade de lembrar detalhes também possibilita discernir diferenças específicas entre objetos, mesmo que eles não estejam presentes no momento (Se3). 
+
+Assim, o Explorador desenvolvido pode sentir o cheiro de uma vela e afirmar se é exatamente a mesma fragrância de uma determinada flor ou fruta.
+
+O Explorador, em todos os níveis de desenvolvimento, tem uma orientação para o aqui e agora (Se4). 
+
+Uma qualidade significativa da função Se é sua capacidade de perceber com precisão e adaptar-se ao que está acontecendo no momento.
+
+No próximo nível de desenvolvimento, o Explorador amplia sua consciência para incluir o contexto, bem como os detalhes da situação (Se5). 
+
+Por exemplo, o Explorador desenvolvido pode lembrar a imagem de onde viu as chaves de um amigo pela última vez, não recordando a ação física de colocá-las ali, mas estando, em sua mente, onde estava quando as viu pela última vez.
+
+Com mais desenvolvimento, o Explorador busca estimulação sensorial do mundo exterior (Se6). 
+
+Ele gosta de ver, cheirar, provar, ouvir e/ou sentir mais. 
+
+Por exemplo, surfar as ondas é muito mais estimulante sensorialmente do que observar as ondas.
+
+A força da subpersonalidade do Explorador é que ele realmente confia que tudo o que é vivenciado pelos cinco sentidos no presente é realidade absoluta (Se7). 
+
+Sua fraqueza é que o Explorador pode rejeitar a ideia de que se pode “ler nas entrelinhas” e confiar apenas em interpretações literais de declarações e coisas.
+
+No nível mais elevado de desenvolvimento, o Explorador pode se manter tão focado que se funde com o ambiente (Se8). 
+
+Por exemplo, um jogador de tênis com Se altamente desenvolvido pode “tornar-se a bola”. 
+
+Esse foco intenso inclui não apenas o objeto, mas também o contexto no qual ele está sendo vivenciado.
+
+Para alcançar um equilíbrio na personalidade, a pessoa que usa Se eventualmente precisará aprender que o presente é resultado do passado (Si) e que os padrões nos dados (Ne) são tão importantes quanto os próprios dados sensoriais, e que existem algumas coisas que podem ser conhecidas sem ser possível identificar a evidência necessária para comprová-las (Ni).
+
+## Autoavaliação das Habilidades de Sensação Extrovertida
+
+Usando o sistema de pontuação a seguir, avalie sua capacidade de utilizar as habilidades associadas à Sensação Extrovertida:
+
+5 – Sou capaz de fazer isso com facilidade e eficiência e obter resultados nos quais posso confiar.
+
+4 – Sou capaz de fazer isso com esforço e reflexão, geralmente obtendo resultados nos quais posso confiar.
+
+3 – Sou capaz de fazer isso quando preciso, mas preferiria não ter que fazê-lo. Quando faço isso, obtenho resultados que às vezes posso confiar, mas não tenho certeza em quais situações não devo confiar no resultado.
+
+2 – Ocasionalmente faço isso, mas geralmente não me sinto confortável confiando no resultado.
+
+1 – Não tenho consciência de me envolver nesse comportamento.
+
+-----
+
+**Avaliação:** 
+
+- Eu percebo, experimento diretamente e confio nos dados fornecidos pelos meus cinco sentidos: ver, ouvir, sentir, cheirar e provar. (Se1)
+	- 5
+- Eu examino continuamente o mundo externo usando meus cinco sentidos em busca de dados particulares, específicos e indispensáveis. (Se2)
+	- 5
+- Tenho a capacidade de discriminar pequenas diferenças entre objetos à medida que os experimento. (Se3)
+	- 5
+- Minha atenção tende a estar no momento presente e na experiência atual, em vez de em eventos passados ou possibilidades futuras. (Se4)
+	- 5
+- Eu me concentro no contexto da situação presente. (Se5)
+	- 5
+- Busco estimulação sensorial do mundo externo. (Se6)
+	- 5
+- Reconheço que o mundo real é exatamente o que parece ser e trabalho com os dados fornecidos por ele. (Se7)
+	- 5
+- Quando estou envolvido em um esporte, sou capaz de “ser a bola” e/ou, ao dirigir, sou capaz de “ser o carro”. (Se8)
+	- 5
+
+Se você avaliar uma habilidade com menos de 3, provavelmente essa é uma área na qual você vai querer trabalhar. 
+
+Se der nota 3, pode querer praticá-la até se sentir mais confortável e experimentar mais sucesso com ela. 
+
+Os códigos na coluna da direita relacionam a habilidade às descrições na página anterior e às atividades de aprendizagem nas duas páginas seguintes.
+
+---
+
