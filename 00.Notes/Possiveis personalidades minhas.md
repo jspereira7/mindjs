@@ -16,3 +16,4 @@ Me identifiquei com ENTP por exemplo.
 	- INTP 
 	- ENFP
 
+---
