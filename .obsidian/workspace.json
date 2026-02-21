@@ -69,9 +69,33 @@
               "icon": "lucide-file",
               "title": "Livro Functions Of the Type - Traduzido"
             }
+          },
+          {
+            "id": "643a55a05aacbe68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Auto Pilot Money.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Auto Pilot Money"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Livro Functions Of the Type - Traduzido.md",
+                "file": "00.Notes/Auto Pilot Money.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Livro Functions Of the Type - Traduzido"
+              "title": "Outline of Auto Pilot Money"
             }
           },
           {
@@ -180,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Livro Functions Of the Type - Traduzido.md",
+                "file": "00.Notes/Auto Pilot Money.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Livro Functions Of the Type - Traduzido"
+              "title": "Graph of Auto Pilot Money"
             }
           },
           {
@@ -343,8 +367,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "10e49fbdc8d71120",
+  "active": "643a55a05aacbe68",
   "lastOpenFiles": [
+    "00.Notes/Auto Pilot Money.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
     "00.Notes/ESTP - Description.md",
     "00.Notes/Possiveis personalidades minhas.md",
@@ -380,7 +405,6 @@
     "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Processo logar contas no automatico.md",
-    "00.Notes/Funções Cognitivas - Cs Joseph.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
