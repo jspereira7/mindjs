@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Usos da Tipologia na prática"
             }
+          },
+          {
+            "id": "0cb880dfe2a84979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Sites com conteudos sobre os 16 tipos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sites com conteudos sobre os 16 tipos"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Usos da Tipologia na prática.md",
+                "file": "00.Notes/Sites com conteudos sobre os 16 tipos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Usos da Tipologia na prática"
+              "title": "Outline of Sites com conteudos sobre os 16 tipos"
             }
           },
           {
@@ -212,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Usos da Tipologia na prática.md",
+                "file": "00.Notes/Sites com conteudos sobre os 16 tipos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Usos da Tipologia na prática"
+              "title": "Graph of Sites com conteudos sobre os 16 tipos"
             }
           },
           {
@@ -375,8 +399,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "310316d4153b3ce3",
+  "active": "0cb880dfe2a84979",
   "lastOpenFiles": [
+    "00.Notes/Sites com conteudos sobre os 16 tipos.md",
     "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
     "00.Notes/Interaction Styles 2.0 Linda Berens.md",
@@ -412,7 +437,6 @@
     "00.Notes/Funções Cognitivas - Cs Joseph.md",
     "00.Notes/Framework Girls.md",
     "00.Notes/Como ter sucesso usando seu tipo.md",
-    "00.Notes/Resumo Encontrando flow como Entp.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
