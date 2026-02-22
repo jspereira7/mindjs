@@ -69,33 +69,9 @@
               "icon": "lucide-file",
               "title": "Livro Functions Of the Type - Traduzido"
             }
-          },
-          {
-            "id": "643a55a05aacbe68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Auto Pilot Money.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Auto Pilot Money"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Auto Pilot Money.md",
+                "file": "00.Notes/Usos da Tipologia na prática.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Auto Pilot Money"
+              "title": "Outline of Usos da Tipologia na prática"
             }
           },
           {
@@ -204,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Auto Pilot Money.md",
+                "file": "00.Notes/Usos da Tipologia na prática.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Auto Pilot Money"
+              "title": "Graph of Usos da Tipologia na prática"
             }
           },
           {
@@ -367,11 +343,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "643a55a05aacbe68",
+  "active": "310316d4153b3ce3",
   "lastOpenFiles": [
-    "00.Notes/Auto Pilot Money.md",
-    "00.Notes/Livro Functions Of the Type - Traduzido.md",
     "00.Notes/ESTP - Description.md",
+    "00.Notes/Livro Functions Of the Type - Traduzido.md",
+    "00.Notes/Auto Pilot Money.md",
     "00.Notes/Possiveis personalidades minhas.md",
     "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Sites com conteudos sobre os 16 tipos..md",
