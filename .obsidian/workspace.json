@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Usos da Tipologia na prática.md",
+                "file": "00.Notes/Livro Functions Of the Type - Traduzido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Usos da Tipologia na prática"
+              "title": "Outline of Livro Functions Of the Type - Traduzido"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Usos da Tipologia na prática.md",
+                "file": "00.Notes/Livro Functions Of the Type - Traduzido.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Usos da Tipologia na prática"
+              "title": "Graph of Livro Functions Of the Type - Traduzido"
             }
           },
           {
@@ -343,13 +343,13 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "310316d4153b3ce3",
+  "active": "10e49fbdc8d71120",
   "lastOpenFiles": [
     "00.Notes/ESTP - Description.md",
+    "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
     "00.Notes/Auto Pilot Money.md",
     "00.Notes/Possiveis personalidades minhas.md",
-    "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Sites com conteudos sobre os 16 tipos..md",
     "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
     "00.Notes/Teste.md",
