@@ -69,9 +69,33 @@
               "icon": "lucide-file",
               "title": "Livro Functions Of the Type - Traduzido"
             }
+          },
+          {
+            "id": "7c071c60edbeeab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Planejamento 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento 2026"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Livro Functions Of the Type - Traduzido.md",
+                "file": "00.Notes/Planejamento 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Livro Functions Of the Type - Traduzido"
+              "title": "Outline of Planejamento 2026"
             }
           },
           {
@@ -180,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Livro Functions Of the Type - Traduzido.md",
+                "file": "00.Notes/Planejamento 2026.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Livro Functions Of the Type - Traduzido"
+              "title": "Graph of Planejamento 2026"
             }
           },
           {
@@ -343,11 +367,12 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "10e49fbdc8d71120",
+  "active": "7c071c60edbeeab8",
   "lastOpenFiles": [
     "00.Notes/ESTP - Description.md",
     "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
+    "00.Notes/Planejamento 2026.md",
     "00.Notes/Auto Pilot Money.md",
     "00.Notes/Possiveis personalidades minhas.md",
     "00.Notes/Sites com conteudos sobre os 16 tipos..md",
@@ -380,7 +405,6 @@
     "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md",
     "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
     "00.Notes/Projeto Ttk Ads.md",
-    "00.Notes/Processo logar contas no automatico.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",

@@ -56,5 +56,10 @@ Ou seja, quando uma tarefa for requisitada, você será capaz de realizar essa t
 Livro com atividades para desenvolver os 8 processos cognitivos:
 - https://www.amazon.com/gp/product/0974375160/ref=as_li_ss_tl?ie=UTF8&tag=careerplanningco&linkCode=as2&camp=1789&creative=390957&creativeASIN=0974375160
 
+---
+
+
+
+
 
 

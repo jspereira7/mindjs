@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Livro Functions Of the Type - Traduzido",
-      "path": "00.Notes/Livro Functions Of the Type - Traduzido.md"
+      "basename": "Planejamento 2026",
+      "path": "00.Notes/Planejamento 2026.md"
     },
     {
       "basename": "ESTP - Description",
@@ -11,6 +11,10 @@
     {
       "basename": "Usos da Tipologia na prática",
       "path": "00.Notes/Usos da Tipologia na prática.md"
+    },
+    {
+      "basename": "Livro Functions Of the Type - Traduzido",
+      "path": "00.Notes/Livro Functions Of the Type - Traduzido.md"
     },
     {
       "basename": "Auto Pilot Money",
@@ -195,10 +199,6 @@
     {
       "basename": "Ataque de inteligencia artificial - Atacando Sites que usam LLM - PortSwigger",
       "path": "00.Notes/Ataque de inteligencia artificial - Atacando Sites que usam LLM - PortSwigger.md"
-    },
-    {
-      "basename": "Analise de Métricas para cortar campanhas sem lucro.",
-      "path": "00.Notes/Analise de Métricas para cortar campanhas sem lucro..md"
     }
   ],
   "omittedPaths": [
