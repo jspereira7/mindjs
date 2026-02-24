@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VidIQ Free",
+      "path": "00.Notes/VidIQ Free.md"
+    },
+    {
       "basename": "Planejamento 2026",
       "path": "00.Notes/Planejamento 2026.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Anotações Sensacao Extrovertida - Lenore Thomson.",
       "path": "00.Notes/Anotações Sensacao Extrovertida - Lenore Thomson..md"
-    },
-    {
-      "basename": "Ataque de inteligencia artificial - Atacando Sites que usam LLM - PortSwigger",
-      "path": "00.Notes/Ataque de inteligencia artificial - Atacando Sites que usam LLM - PortSwigger.md"
     }
   ],
   "omittedPaths": [

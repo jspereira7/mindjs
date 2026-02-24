@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Planejamento 2026.md",
+                "file": "00.Notes/VidIQ Free.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,7 +91,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planejamento 2026"
+              "title": "VidIQ Free"
             }
           }
         ],
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Planejamento 2026.md",
+                "file": "00.Notes/VidIQ Free.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planejamento 2026"
+              "title": "Outline of VidIQ Free"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Planejamento 2026.md",
+                "file": "00.Notes/VidIQ Free.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Planejamento 2026"
+              "title": "Graph of VidIQ Free"
             }
           },
           {
@@ -369,10 +369,10 @@
   },
   "active": "7c071c60edbeeab8",
   "lastOpenFiles": [
+    "00.Notes/Planejamento 2026.md",
     "00.Notes/ESTP - Description.md",
     "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
-    "00.Notes/Planejamento 2026.md",
     "00.Notes/Auto Pilot Money.md",
     "00.Notes/Possiveis personalidades minhas.md",
     "00.Notes/Sites com conteudos sobre os 16 tipos..md",
