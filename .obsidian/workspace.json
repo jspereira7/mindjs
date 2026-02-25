@@ -23,30 +23,6 @@
             }
           },
           {
-            "id": "310316d4153b3ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Usos da Tipologia na prática.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Usos da Tipologia na prática"
-            }
-          },
-          {
             "id": "10e49fbdc8d71120",
             "type": "leaf",
             "state": {
@@ -69,33 +45,8 @@
               "icon": "lucide-file",
               "title": "Livro Functions Of the Type - Traduzido"
             }
-          },
-          {
-            "id": "7c071c60edbeeab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/VidIQ Free.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "VidIQ Free"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -367,12 +318,14 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "7c071c60edbeeab8",
+  "active": "3cbbda0b1207015d",
   "lastOpenFiles": [
-    "00.Notes/Planejamento 2026.md",
-    "00.Notes/ESTP - Description.md",
-    "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
+    "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
+    "00.Notes/Usos da Tipologia na prática.md",
+    "00.Notes/ESTP - Description.md",
+    "00.Notes/VidIQ Free.md",
+    "00.Notes/Planejamento 2026.md",
     "00.Notes/Auto Pilot Money.md",
     "00.Notes/Possiveis personalidades minhas.md",
     "00.Notes/Sites com conteudos sobre os 16 tipos..md",
@@ -403,8 +356,6 @@
     "00.Notes/ENTP-ESTP Fe Child.md",
     "00.Notes/ENTP-ESTP Fi Trickster.md",
     "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md",
-    "00.Notes/How to type yourself 3.0 - Cs Joseph.md",
-    "00.Notes/Projeto Ttk Ads.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
