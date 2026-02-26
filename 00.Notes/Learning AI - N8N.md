@@ -89,33 +89,72 @@ When you run a Docker container, it's like spinning up a small virtual machine (
 
 Esses são os nodes que você precisa aprender e dominar para conseguir criar qualquer automação. 
 
-- Code
+- **Code**
 	- Executar **JavaScript ou Python** para manipular dados.
 	- **Run once for all items** → Executa 1 vez pegando todos os itens.
 	- **Run once for each item** → Executa uma vez para cada item (loop automático).
-- Edit Fields
+- **Edit Fields**
 	- Organizar e estruturar os dados.
 		- Renomear campos
 		- Criar novos campos
 		- Preparar dados para enviar pro google Sheets
 		- *Use quando você quer "arrumar" os dados antes de enviar para outro sistema.*
-- Filter
+- **Filter**
 	- Filtrar dados com base em condições.
 		- Exemplo:
 		- Mostrar apenas capítulos > 4
 		- Filtrar leads quentes
 		- Filtrar valores maiores que X
 	- Use quando você quer manter apenas dados que atendem uma condição.
-- If
+- **If**
 	- Criar dois caminhos: Verdadeixo x Falso
 	- Exemplo: Se capítulo > 8 → caminho A 
 	- Senão → caminho B
-- Switch
-- Merge
-- Loop Over Items
-- Convert to File
-- Extract from File
-- HTTP Request
-- Execute Command
-- Webhook + Respond to Webhook
+- **Switch**
+	- Criar múltiplos caminhos (mais de 2).
+	- Use quando: Você tem várias categorias.
+- **Merge**
+	- Unir dados de dois fluxos diferentes.
+	- ***Ele é especialmente necessário para dados binários (imagens, arquivos).***
+	- Porque: 
+		- Dados de texto passam automaticamente entre nodes.
+		- Dados binários NÃO passam automaticamente.
+		- Para juntar dois arquivos → precisa usar Merge.
+	- Use quando você precisa juntar dois arquivos ou dois fluxos separados.
+- **Loop Over Items**
+	- Processar itens em lotes.
+	- use quando você precisa controlar quantos itens processar por vez.
+	- Util para: 
+		- Evitar limite de API
+		- Controlar consumo de memória
+- **Convert to File**
+	- Faz o contrário: Base64 → Arquivo novamente.
+- **Extract from File**
+	- Converter arquivo → Base64 (texto).
+	- Base64 é uma forma de transformar arquivos em texto.
+	- Use quando: 
+		- Está enviando arquivos via API
+		- Recebe imagens em bs64
+		- Trabalha com servidores
+- **HTTP Request**
+	- Fazer requests 
+- **Execute Command**
+	- Executar comandos do terminal dentro do n8n.
+	- Exemplo: ffmpeg, mkdir, ls etc...
+	- Use quando quiser rodar comandos direto no servidor
+- **Webhook + Respond to Webhook**
+	- Webhook = Recebe requisições externas
+	- Respond to Webhook = Envia resposta personalizada pra quem enviou a request
+	- Use quando: 
+		- Alguem faz post pra sua url 
+		- Seu fluxo processa 
+		- Você responde algo customizado 
+
+----
+
+## Data Types 
+
+**JSON** stands for **JavaScript Object Notation**. It's a lightweight format for storing and transporting data, commonly used when data is sent from a server to a web page.
+
+
 
