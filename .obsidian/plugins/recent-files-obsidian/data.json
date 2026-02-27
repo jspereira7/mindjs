@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Eleven Labs Api Keys",
+      "path": "00.Notes/Eleven Labs Api Keys.md"
+    },
+    {
       "basename": "Learning AI - N8N",
       "path": "00.Notes/Learning AI - N8N.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Função Parent",
       "path": "00.Notes/Função Parent.md"
-    },
-    {
-      "basename": "Função Hero",
-      "path": "00.Notes/Função Hero.md"
     }
   ],
   "omittedPaths": [
