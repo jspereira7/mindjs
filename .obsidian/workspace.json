@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "5e64c2135b9d57ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Learning AI - N8N.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Learning AI - N8N"
-            }
-          },
-          {
             "id": "9a56473445929f6a",
             "type": "leaf",
             "state": {
@@ -65,6 +41,30 @@
               },
               "icon": "lucide-file",
               "title": "Eleven Labs Api Keys"
+            }
+          },
+          {
+            "id": "1a6df23040c29041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Dias de Venvanse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dias de Venvanse"
             }
           }
         ],
@@ -340,8 +340,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "9a56473445929f6a",
+  "active": "1a6df23040c29041",
   "lastOpenFiles": [
+    "00.Notes/Dias de Venvanse.md",
     "00.Notes/Eleven Labs Api Keys.md",
     "00.Notes/Learning AI - N8N.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
@@ -377,7 +378,6 @@
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Deep typology book - Traduzido.md",
     "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
-    "00.Notes/ESTP.md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
