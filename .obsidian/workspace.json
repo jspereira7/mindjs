@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Dias de Venvanse.md",
+                "file": "00.Notes/Passo a passo RTK + CartPanda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dias de Venvanse"
+              "title": "Passo a passo RTK + CartPanda"
+            }
+          },
+          {
+            "id": "7f4016c768efb041",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -342,7 +352,9 @@
   },
   "active": "1a6df23040c29041",
   "lastOpenFiles": [
-    "00.Notes/Dias de Venvanse.md",
+    "01.Assets/Anexos/Pasted image 20260227215039.png",
+    "01.Assets/Anexos/Pasted image 20260227212316.png",
+    "00.Notes/Passo a passo RTK + CartPanda.md",
     "00.Notes/Eleven Labs Api Keys.md",
     "00.Notes/Learning AI - N8N.md",
     "00.Notes/Livro Functions Of the Type - Traduzido.md",
@@ -373,11 +385,9 @@
     "01.Assets/Anexos/Pasted image 20260219144945.png",
     "01.Assets/Anexos/Pasted image 20260219144824.png",
     "01.Assets/Anexos/Pasted image 20260219144210.png",
-    "01.Assets/Anexos/Pasted image 20260219144153.png",
     "00.Notes/Ego Hacking Your Fear.md",
     "00.Notes/Building Blocks Of Personality - Functions.md",
     "00.Notes/Deep typology book - Traduzido.md",
-    "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
     "01.Assets/Anexos/4_A002_AD1.mp4",
