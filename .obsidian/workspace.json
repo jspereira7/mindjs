@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,7 +337,7 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "997fb13466593613",
+  "active": "9a56473445929f6a",
   "lastOpenFiles": [
     "00.Notes/Planejamento 2026.md",
     "00.Notes/Eleven Labs Api Keys.md",
