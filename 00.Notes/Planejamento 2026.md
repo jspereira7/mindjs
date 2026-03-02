@@ -25,3 +25,9 @@
 
 ---
 
+## Financeiro Atual 
+
+Minha situação financeira atual é: 
+- 5 Dividas ativas de dividas negativadas no cpf (2.000,00 reais no total)
+- Devendo 6.000 pra um amigo 
+
