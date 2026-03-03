@@ -67,7 +67,6 @@ Seu problema não é incapacidade.
 - Falta de estrutura estável.
 
 ----
-
 ### Insights resoluções de problemas 
 
 > Não conseguimos resolver um problema usando o mesmo modo de pensar que causou esse problema.
@@ -81,5 +80,7 @@ Se uma empresa entra em crise porque sempre priorizou lucro imediato e ignorou i
 Será necessário mudar a mentalidade — talvez investir em criatividade, ouvir clientes, assumir riscos diferentes.
 
 Ou seja: **Não tem como ter resultados diferentes, fazendo as mesmas coisas que antes**
+
+---
 
 

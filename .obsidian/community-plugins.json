@@ -6,7 +6,6 @@
   "obsidian-excalidraw-plugin",
   "language-translator",
   "obsidian-icon-folder",
-  "periodic-notes",
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-git",
@@ -15,5 +14,5 @@
   "quickadd",
   "obsidian-outliner",
   "obsidian-custom-frames",
-  "new-3d-graph"
+  "obsidian-day-planner"
 ]

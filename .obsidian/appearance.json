@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 22,
-  "theme": "obsidian",
-  "cssTheme": "Dracula for Obsidian",
+  "theme": "moonstone",
+  "cssTheme": "Things",
   "translucency": false,
   "showRibbon": true,
   "showViewHeader": true,
