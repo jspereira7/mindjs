@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Estudos John Beebe",
+      "path": "00.Notes/Estudos John Beebe.md"
+    },
+    {
+      "basename": "Resumo Funções Cognitivas + John Beebe",
+      "path": "00.Notes/Resumo Funções Cognitivas + John Beebe.md"
+    },
+    {
+      "basename": "John Beebe Model Cognitive Attitudes - MOC",
+      "path": "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md"
+    },
+    {
       "basename": "Eleven Labs Api Keys",
       "path": "00.Notes/Eleven Labs Api Keys.md"
     },
@@ -133,10 +145,6 @@
       "path": "00.Notes/ENTP-ESTP Fi Trickster.md"
     },
     {
-      "basename": "John Beebe Model Cognitive Attitudes - MOC",
-      "path": "00.Notes/John Beebe Model Cognitive Attitudes - MOC.md"
-    },
-    {
       "basename": "How to type yourself 3.0 - Cs Joseph",
       "path": "00.Notes/How to type yourself 3.0 - Cs Joseph.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Função Critic",
       "path": "00.Notes/Função Critic.md"
-    },
-    {
-      "basename": "Função Nemesis",
-      "path": "00.Notes/Função Nemesis.md"
-    },
-    {
-      "basename": "Função Inferior",
-      "path": "00.Notes/Função Inferior.md"
     }
   ],
   "omittedPaths": [

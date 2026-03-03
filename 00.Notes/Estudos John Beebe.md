@@ -22,7 +22,7 @@ Versão expandida e facilitada para o entendimento, que o dr john beebe fez:
 
 **Cada função cognitiva pode ser descrita por uma sequência de três palavras**, que mostram:
 
-1. **Como a função aparece para quem observa de fora** (nível inicial) (primeira palavra)
+1. **Como a função aparece para quem observa de fora** (nível inicial) (primeira palavra) (persona level)
 2. **Qual é a essência psicológica do processo** (nível central) (segunda palavra)
 3. **Para que o processo amadurecido serve** (nível mais desenvolvido) (terceira palavra)
 
