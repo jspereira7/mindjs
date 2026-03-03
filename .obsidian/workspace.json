@@ -4,25 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "cc3385943afe7abe",
+        "id": "f7b752ead69727b8",
         "type": "tabs",
         "children": [
           {
-            "id": "513ac22fd85a9934",
+            "id": "abdbbcdaebac8639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/ESTP Development.md",
+                "file": "00.Notes/Desenvolviemento Cognitivo Estp.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "ESTP Development"
+              "title": "Desenvolviemento Cognitivo Estp"
+            }
+          },
+          {
+            "id": "3f432d30aab2bb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/ESTP desenvolvimento cognitivo artigo chat gpt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ESTP desenvolvimento cognitivo artigo chat gpt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/ESTP Development.md",
+                "file": "00.Notes/ESTP desenvolvimento cognitivo artigo chat gpt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ESTP Development"
+              "title": "Outline of ESTP desenvolvimento cognitivo artigo chat gpt"
             }
           },
           {
@@ -100,11 +134,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
+    "width": 291.5,
     "collapsed": true
   },
   "right": {
@@ -289,11 +324,18 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "513ac22fd85a9934",
+  "active": "3f432d30aab2bb37",
   "lastOpenFiles": [
+    "00.Notes/ESTP desenvolvimento cognitivo artigo chat gpt.md",
+    "00.Notes/Desenvolviemento Cognitivo Estp.md",
+    "01.Assets/Desenvolvimento Pessoal/Insight Carl Jung - Equilibrar a personalidade ao inves de focar nos pontos fortes..md",
+    "01.Assets/Desenvolvimento Pessoal/Livros Recomendados pelo naval.md",
+    "01.Assets/Desenvolvimento Pessoal/Live Guilherme Bifi - Fisica Quantica e Lei da Atração..md",
+    "01.Assets/Desenvolvimento Pessoal/Entp - Anotacoes..md",
+    "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
+    "00.Notes/ESTP Development.md",
     "+Daily Notes/2026-03-03 Tuesday.md",
     "+Daily Notes",
-    "00.Notes/ESTP Development.md",
     "00.Notes/ID Big Five.md",
     "00.Notes/Planejamento 2026.md",
     "00.Notes/Estudos John Beebe.md",
@@ -313,15 +355,8 @@
     "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
     "00.Notes/Usos da Tipologia na prática.md",
     "00.Notes/VidIQ Free.md",
-    "00.Notes/Auto Pilot Money.md",
-    "00.Notes/Possiveis personalidades minhas.md",
-    "00.Notes/Sites com conteudos sobre os 16 tipos..md",
-    "00.Notes/Como monetizar videos facilmente com Yt Shorts.md",
-    "00.Notes/Teste.md",
     "01.Assets/Anexos/Pasted image 20260221000612.png",
-    "00.Notes/Interaction Styles 2.0 Linda Berens.md",
     "01.Assets/Anexos/Pasted image 20260220171658.png",
-    "00.Notes/Linda V Barens - Type Descriptions.md",
     "01.Assets/Anexos/Pasted image 20260220160600.png",
     "01.Assets/Anexos/Pasted image 20260219163146.png",
     "01.Assets/Anexos/Pasted image 20260219151532.png",
