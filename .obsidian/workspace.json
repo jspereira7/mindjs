@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73481857e530a1c2",
+            "id": "8b8e2eddaaebe833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/ESTP Inferior.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ESTP Inferior"
+              "title": "New tab"
             }
           }
         ]
@@ -287,10 +282,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "73481857e530a1c2",
+  "active": "8b8e2eddaaebe833",
   "lastOpenFiles": [
-    "00.Notes/Insights sobre tipologia.md",
     "00.Notes/ESTP Inferior.md",
+    "00.Notes/Insights sobre tipologia.md",
     "00.Notes/Youtube Dark - Hacks.md",
     "00.Notes/ID Big Five.md",
     "00.Notes/Learning AI - N8N.md",
