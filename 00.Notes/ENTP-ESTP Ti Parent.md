@@ -45,41 +45,24 @@
 **Ao usar você mesmo:**
 
 • Gosta de expandir o conhecimento resolvendo problemas
-
 • Gosta de estar na vanguarda de um problema ou questão
-
 • Gosta de mostrar aos outros as complexidades de como algo funciona
-
 • Apresenta um estilo de liderança independente, estabelecendo uma tendência que todos desejam imitar
-
 • Inspira outras pessoas ao demonstrar independência de pensamento e ação.
-
 • Tem uma curiosidade experimental que não tenta influenciar o resultado 
-
-**• A aparente falta de desejo de influenciar os outros, paradoxalmente, influencia os outros.** 
-
+**• A aparente falta de desejo de influenciar os outros, paradoxalmente, influencia os outros.** (isso é muito eu)
 • Pode criar uma impressão notável de confiança e destemor 
-
 • Consegue manter um distanciamento invejável diante de um desastre 
-
-• Frequentemente desempenha um papel socrático, fazendo perguntas que permitem que outros encontrem uma solução 
-
+• Frequentemente desempenha um papel socrático, fazendo perguntas que permitem que outros encontrem uma solução.
 • Consegue fornecer uma análise tão elaborada que outros tenham dificuldade em entender o que está acontecendo 
-
-• Pode buscar precisão além do ponto de utilidade 
-
-• Pode alertar outras pessoas contra ouvirem seus sentimentos 
-
+• Pode buscar precisão além do ponto de utilidade.
+• Pode alertar outras pessoas contra ouvirem seus sentimentos.
 • A disposição de defender posições iconoclastas pode criar oposição e também devoção 
-
-• Pode parecer distante, indiferente e descomprometido 
+• Pode parecer distante, indiferente e descomprometido.
 
 **Quando outros usam:** 
 
 • Pode considerá-los uma companhia inteligente e/ou boa 
-
 • Geralmente gosta do desafio e está à altura dele 
-
 • Frequentemente gosta de bancar o advogado do diabo e raramente reconhece a derrota em uma discussão 
-
 • Pode não se importar em ouvir a perspectiva de outra pessoa

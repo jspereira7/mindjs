@@ -45,41 +45,23 @@
 **Ao usar você mesmo:**
 
 • Tem antenas para todos os tipos de ideias, especialmente as mais novas
-
 • Busca informações externas contínuas para manter o fluxo de ideias
-
 • Pode achar fácil mudar os planos de uma direção para outra
-
 • Pode expressar verbalmente ideias e possibilidades no estilo fluxo de consciência
-
-• Associa-se livremente continuamente, fazendo conexões entre tópicos díspares
-
-• Consegue manter uma sala sob controle com agilidade verbal
-
-• A flexibilidade de alguém pode parecer apatia e irresponsabilidade para os outros e falta de compromisso ou compaixão
-
-• Pode sobrecarregar os outros com verbosidade – abundância e velocidade de ideias diversas
-
-• Gosta de iniciar projetos, mas não gosta de terminá-los
-
-• Pode pensar demais e antecipar resultados futuros
-
-• Para evitar decepções, pode preparar o plano A, o plano B, o plano C, ad infinitum
-
-• Consegue manter opções abertas indefinidamente, evitando comprometer-se com qualquer
-
-• Pode achar impossível fazer a mesma coisa duas vezes
-
-• Pode ficar superestimulado por ideias e facilmente distraído
+• Associa-se livremente continuamente, fazendo conexões entre tópicos díspares.
+• Consegue manter uma sala sob controle com agilidade verbal.
+• A flexibilidade de alguém pode parecer apatia e irresponsabilidade para os outros e falta de compromisso ou compaixão.
+• Pode sobrecarregar os outros com verbosidade – abundância e velocidade de ideias diversas.
+• Gosta de iniciar projetos, mas não gosta de terminá-los.
+• Pode pensar demais e antecipar resultados futuros.
+• Para evitar decepções, pode preparar o plano A, o plano B, o plano C, ad infinitum...
+• Consegue manter opções abertas indefinidamente, evitando comprometer-se com qualquer.
+• Pode achar impossível fazer a mesma coisa duas vezes.
+• Pode ficar superestimulado por ideias e facilmente distraído.
 
 **Quando outros usam:**
 
 • Geralmente gosta de participar, mas pode sentir necessidade de acelerar o ritmo
-
 • Podem descobrir que falam demais e são surdos à própria verbosidade
-
-• Pode desfrutar de uma maratona verbal
-
-• Pode ser facilmente distraído pelas ideias dos outros
-
-• Pode superá-los com uma demonstração de fluência verbal
+• Pode ser facilmente distraído pelas ideias dos outros.
+• Pode superá-los com uma demonstração de fluência verbal.
