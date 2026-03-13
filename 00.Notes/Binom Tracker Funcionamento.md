@@ -24,3 +24,13 @@ Podemos colocar a conexão o tipo de conexão para bloquear que quebrem o cloack
 
 ----
 
+Insights para bloquear bots/moderadores do tiktok: 
+
+Versoes antigas de IOS/Browsers
+
+Versoes antigas de android
+
+Dados desconhecidos "Unknown" 
+
+Ou seja o jeito é bloquear versões de OS/Browsers que são menos comuns. 
+
