@@ -15,11 +15,12 @@ P1: 4729530018910388
 P2: 4729530013136583
 
 ---
-
 ## Insights Cloacking 
 
 Podemos colocar a conexão o tipo de conexão para bloquear que quebrem o cloacker, colocar a conexão bloqueada: 
 - CABLE/DLS
 
 ![[Pasted image 20260108194740.png]]
+
+----
 
