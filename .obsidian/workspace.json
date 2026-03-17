@@ -11,10 +11,15 @@
             "id": "63a158dc3f65593a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Login Binom Tracker - 16-03-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Login Binom Tracker - 16-03-26"
             }
           }
         ]
@@ -99,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -284,8 +288,9 @@
   },
   "active": "63a158dc3f65593a",
   "lastOpenFiles": [
-    "00.Notes/Login Binom Tracker - 16-03-26.md",
     "00.Notes/Parametros Campanha.md",
+    "00.Notes/Hipergamia Estudo.md",
+    "00.Notes/Login Binom Tracker - 16-03-26.md",
     "01.Assets/Excalidraw/Drawing 2026-03-16 23.37.48.excalidraw.md",
     "+Daily Notes/2026-03-16 Monday.md",
     "00.Notes/Binom Tracker 30 days Free.md",
@@ -309,7 +314,6 @@
     "00.Notes/Eleven Labs Api Keys.md",
     "00.Notes/Passo a passo RTK + CartPanda.md",
     "00.Notes/Desenvolviemento Cognitivo Estp.md",
-    "00.Notes/Insight sobre ganhar dinheiro com trafego Free.md",
     "+Daily Notes",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",

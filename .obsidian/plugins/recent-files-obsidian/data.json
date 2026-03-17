@@ -9,6 +9,10 @@
       "path": "00.Notes/Parametros Campanha.md"
     },
     {
+      "basename": "Hipergamia Estudo",
+      "path": "00.Notes/Hipergamia Estudo.md"
+    },
+    {
       "basename": "Drawing 2026-03-16 23.37.48.excalidraw",
       "path": "01.Assets/Excalidraw/Drawing 2026-03-16 23.37.48.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Teste",
       "path": "00.Notes/Teste.md"
-    },
-    {
-      "basename": "Interaction Styles 2.0 Linda Berens",
-      "path": "00.Notes/Interaction Styles 2.0 Linda Berens.md"
     }
   ],
   "omittedPaths": [
