@@ -1,0 +1,3 @@
+afa3179b4da64d37ab8722d38c3a77e5
+
+https://news.fwpromotions.eu.cc/d5ljkyabim/?src=__CSITE__&sku=__PLACEMENT__&ttclid=__CALLBACK_PARAM__&utm_medium=__AID_NAME__&utm_content=__CID_NAME__&key=afa3179b4da64d37ab8722d38c3a77e5&clickidtt=__CLICKID__&campaign_id=__CAMPAIGN_ID__&campaign_name=__CAMPAIGN_NAME__&adgroup_id=__AID__&adgroup_name=__AID_NAME__&creative_id=__ADID_V2__&creative_name=__ADID_V2_NAME__&placement=__PLACEMENT__
