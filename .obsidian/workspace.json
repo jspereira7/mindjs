@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Links Traffego.md",
+                "file": "00.Notes/Analise Funcionando Requests BH ADS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Links Traffego"
+              "title": "Analise Funcionando Requests BH ADS"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -317,13 +317,16 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "272d695e3a7b057e",
+  "active": "3b6a659ab88d7f72",
   "lastOpenFiles": [
-    "00.Notes/Analise Funcionando Requests BH ADS.md",
     "00.Notes/Links Traffego.md",
+    "01.Assets/Desenvolvimento Pessoal/Livros Recomendados pelo naval.md",
+    "01.Assets/Desenvolvimento Pessoal/Insight Carl Jung - Equilibrar a personalidade ao inves de focar nos pontos fortes..md",
+    "00.Notes/ESTP.md",
+    "00.Notes/Analise Funcionando Requests BH ADS.md",
+    "00.Notes/Hipergamia Estudo.md",
     "00.Notes/Login Binom Tracker - 16-03-26.md",
     "00.Notes/Parametros Campanha.md",
-    "00.Notes/Hipergamia Estudo.md",
     "01.Assets/Excalidraw/Drawing 2026-03-16 23.37.48.excalidraw.md",
     "+Daily Notes/2026-03-16 Monday.md",
     "00.Notes/Binom Tracker 30 days Free.md",
@@ -342,9 +345,6 @@
     "00.Notes/ESTP Inferior.md",
     "00.Notes/Insights sobre tipologia.md",
     "00.Notes/Youtube Dark - Hacks.md",
-    "00.Notes/ID Big Five.md",
-    "00.Notes/Learning AI - N8N.md",
-    "00.Notes/Eleven Labs Api Keys.md",
     "+Daily Notes",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",

@@ -9,16 +9,24 @@
       "path": "00.Notes/Links Traffego.md"
     },
     {
+      "basename": "Livros Recomendados pelo naval",
+      "path": "01.Assets/Desenvolvimento Pessoal/Livros Recomendados pelo naval.md"
+    },
+    {
+      "basename": "ESTP",
+      "path": "00.Notes/ESTP.md"
+    },
+    {
+      "basename": "Hipergamia Estudo",
+      "path": "00.Notes/Hipergamia Estudo.md"
+    },
+    {
       "basename": "Login Binom Tracker - 16-03-26",
       "path": "00.Notes/Login Binom Tracker - 16-03-26.md"
     },
     {
       "basename": "Parametros Campanha",
       "path": "00.Notes/Parametros Campanha.md"
-    },
-    {
-      "basename": "Hipergamia Estudo",
-      "path": "00.Notes/Hipergamia Estudo.md"
     },
     {
       "basename": "Drawing 2026-03-16 23.37.48.excalidraw",
@@ -121,14 +129,6 @@
       "path": "00.Notes/Credenciais Binom Tracker.md"
     },
     {
-      "basename": "Insight Carl Jung - Equilibrar a personalidade ao inves de focar nos pontos fortes.",
-      "path": "01.Assets/Desenvolvimento Pessoal/Insight Carl Jung - Equilibrar a personalidade ao inves de focar nos pontos fortes..md"
-    },
-    {
-      "basename": "Livros Recomendados pelo naval",
-      "path": "01.Assets/Desenvolvimento Pessoal/Livros Recomendados pelo naval.md"
-    },
-    {
       "basename": "Live Guilherme Bifi - Fisica Quantica e Lei da Atração.",
       "path": "01.Assets/Desenvolvimento Pessoal/Live Guilherme Bifi - Fisica Quantica e Lei da Atração..md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Possiveis personalidades minhas",
       "path": "00.Notes/Possiveis personalidades minhas.md"
-    },
-    {
-      "basename": "Sites com conteudos sobre os 16 tipos.",
-      "path": "00.Notes/Sites com conteudos sobre os 16 tipos..md"
     }
   ],
   "omittedPaths": [
