@@ -1,4 +1,4 @@
-Modulo 2: Reconhecimento do Alvo. 
+**Modulo 2**: Reconhecimento do Alvo. 
 
 O que vamos fazer aqui é osint, descobrir mais sobre a estrutura do nosso alvo de ataque. 
 

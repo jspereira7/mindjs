@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Palavras chaves pesquisa de ofertas de SOI.md",
+                "file": "00.Notes/Links Traffego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Palavras chaves pesquisa de ofertas de SOI"
+              "title": "Links Traffego"
             }
           }
         ]
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -288,6 +289,7 @@
   },
   "active": "0ab1544f119f188a",
   "lastOpenFiles": [
+    "01.Assets/Cursos/Do bug ao bouty - Gabriel Pato..md",
     "00.Notes/Palavras chaves pesquisa de ofertas de SOI.md",
     "00.Notes/Login Binom Tracker - 16-03-26.md",
     "00.Notes/Analise Funcionando Requests BH ADS.md",
@@ -313,7 +315,6 @@
     "00.Notes/ESTP desenvolvimento cognitivo artigo chat gpt.md",
     "00.Notes/ESTP Development.md",
     "00.Notes/ESTP Inferior.md",
-    "00.Notes/Insights sobre tipologia.md",
     "+Daily Notes",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",

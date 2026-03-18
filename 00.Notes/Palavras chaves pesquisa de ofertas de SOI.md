@@ -12,8 +12,7 @@ Enter your email"
 
 ---
 
-- `$750 Shein`
-- `$750 towards Shein`
+- `$750 Shein` - palavra chave ouro
 - `LevelRewards`
 - `Level Rewards Shein`
 - `750 Shein gift card`
@@ -21,3 +20,7 @@ Enter your email"
 - `product reviewer Shein`
 - `free Shein gift card`
 - `win Shein voucher`
+- 🇬🇧 Find out how to save money shopping at SHEIN🥰🥰🥰
+
+-----
+
