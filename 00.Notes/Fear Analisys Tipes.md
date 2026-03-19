@@ -90,3 +90,11 @@ Isso pode resultar em carreiras pouco convencionais, mas é o que permite que vo
 - Independencia flexivel 
 - Mudanças de tarefas ou ambientes mantem seu interresse e energia alta. 
 
+-----
+
+Suas crenças te limitam... 
+
+Interresante... 
+
+Porque o medo nada mais é do que uma crença, uma falsa evidencia se parecendo real. 
+
