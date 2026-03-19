@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "EPC",
+      "path": "00.Notes/EPC.md"
+    },
+    {
+      "basename": "Fear Analisys Tipes",
+      "path": "00.Notes/Fear Analisys Tipes.md"
+    },
+    {
       "basename": "Links Traffego",
       "path": "00.Notes/Links Traffego.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Usos da Tipologia na prática",
       "path": "00.Notes/Usos da Tipologia na prática.md"
-    },
-    {
-      "basename": "VidIQ Free",
-      "path": "00.Notes/VidIQ Free.md"
-    },
-    {
-      "basename": "Auto Pilot Money",
-      "path": "00.Notes/Auto Pilot Money.md"
     }
   ],
   "omittedPaths": [
