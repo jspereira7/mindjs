@@ -8,33 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ab1544f119f188a",
+            "id": "f8432e7f9f7706a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Links Traffego.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Links Traffego"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "14bb9393eb614109",
+            "id": "7fe1ba4897d63b66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Daily Notes/2026-03-23 Monday.md",
+                "file": "00.Notes/Dashboard de Limpeza de Notas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-23 Monday"
+              "title": "Dashboard de Limpeza de Notas"
             }
           }
         ],
@@ -57,12 +52,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Dashboard de Limpeza de Notas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dashboard de Limpeza de Notas"
             }
           },
           {
@@ -115,13 +111,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -303,12 +297,34 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "14bb9393eb614109",
+  "active": "7fe1ba4897d63b66",
   "lastOpenFiles": [
-    "00.Notes/Fear Analisys Tipes.md",
     "+Daily Notes/2026-03-23 Monday.md",
-    "00.Notes/EPC.md",
+    "00.Notes/Dashboard de Limpeza de Notas.md",
+    "00.Notes/Observações Aleatorias.md",
+    "00.Notes/ESTP Inferior.md",
+    "00.Notes/Medos dos Tipos.md",
+    "00.Notes/Gideão Pereira - Tipar.md",
+    "00.Notes/Exercicio 3 - N mais o cara bonzinho.md",
+    "00.Notes/Ego Hacking Fear Masterclass.md",
     "00.Notes/Links Traffego.md",
+    "01.Assets/Clippings/Kevin Kelly Book Recommendations.md",
+    "01.Assets/Clippings/4 Insane Reading Tricks Elon Musk Uses to Outlearn Everyone.md",
+    "01.Assets/Livros/Leis Diarias - Robert Greene.md",
+    "01.Assets/Livros/As Leis da Natureza Humana.md",
+    "01.Assets/Livros/A guerra da Paixão - Nessaham Alita.md",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/The Manual What women want and how to give it to them -- W_ Anton -- 69edec191e026383889aec7b0a53544c -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Não Mais O Cara Bonzinho! -- Robert A_ Glover -- Prince Frederick, MD, ℗2004, [2003 -- Barnes&Noble -- 9781402580222 -- 43229c8be081944615851cc488ed91f4 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Atomic Attraction_ The Psychology of Attraction -- Christopher Canwell -- 1, PS, 2017 -- Rampage Books -- 9781999872274 -- 3ac0d57521bb8c6be1ea50fbdebe0be7 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Bang_ More Lays In 60 Days -- Roosh Valizadeh -- 0 -- 9dd9057bd3b9a0ae6044fb6338acfc73 -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/He -- Robert A_ Johnson -- 2016 -- Le Livros -- 3b30bc046c9be018c49ae4c46da23628 -- Anna’s Archive.pdf",
+    "00.Notes/Fear Analisys Tipes.md",
+    "00.Notes/EPC.md",
     "01.Assets/Cursos/Do bug ao bouty - Gabriel Pato..md",
     "00.Notes/Palavras chaves pesquisa de ofertas de SOI.md",
     "00.Notes/Login Binom Tracker - 16-03-26.md",
@@ -319,19 +335,6 @@
     "00.Notes/Hipergamia Estudo.md",
     "00.Notes/Parametros Campanha.md",
     "01.Assets/Excalidraw/Drawing 2026-03-16 23.37.48.excalidraw.md",
-    "+Daily Notes/2026-03-16 Monday.md",
-    "00.Notes/Binom Tracker 30 days Free.md",
-    "00.Notes/Binom Tracker Funcionamento.md",
-    "+Daily Notes/2026-03-12 Thursday.md",
-    "+Daily Notes/2026-03-11 Wednesday.md",
-    "00.Notes/Breakdown of UCT, Function's Genders, and the dynamics and relationships between them..md",
-    "00.Notes/ENTP-ENFP Ne Hero.md",
-    "00.Notes/ENTP-ESTP Ti Parent.md",
-    "00.Notes/ENTP-ENFP Se Demon.md",
-    "00.Notes/ENTP-ESTP Fe Child.md",
-    "00.Notes/ENTP-ESTP Fi Trickster.md",
-    "00.Notes/Entp Development - Yt Video Cs Joseph.md",
-    "+Daily Notes",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",
     "01.Assets/Anexos/Pasted image 20260221000612.png",
@@ -343,17 +346,8 @@
     "01.Assets/Anexos/Pasted image 20260219144945.png",
     "01.Assets/Anexos/Pasted image 20260219144824.png",
     "01.Assets/HowToTypeYourSelf.canvas",
-    "01.Assets/PDF's/Companion Guide - Cs Joseph.pdf",
-    "01.Assets/Anexos/4_A002_AD1.mp4",
-    "01.Assets/Anexos/3_A002_AD1.mp4",
-    "01.Assets/Anexos/2_A002_AD1.mp4",
-    "01.Assets/Anexos/1_A002_AD1.mp4",
-    "01.Assets/Anexos/0_A002_AD1.mp4",
-    "01.Assets/Anexos/A Escola dos Deuses - Elio DAnna (Livro Completo).pdf",
     "01.Assets/Untitled 2.canvas",
-    "00.Notes/DeppoCloakingGuide2.pdf",
     "01.Assets/Untitled 1.canvas",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "00.Notes/Visual Thinking Canva.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
