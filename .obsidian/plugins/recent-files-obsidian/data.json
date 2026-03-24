@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Falha em lógica de negocio é igual a dinheiro",
+      "path": "00.Notes/Falha em lógica de negocio é igual a dinheiro.md"
+    },
+    {
+      "basename": "Dashboard de Limpeza de Notas",
+      "path": "00.Notes/Dashboard de Limpeza de Notas.md"
+    },
+    {
       "basename": "Male Litmus Test",
       "path": "00.Notes/Male Litmus Test.md"
     },
     {
       "basename": "High Value Men - Framework",
       "path": "00.Notes/High Value Men - Framework.md"
-    },
-    {
-      "basename": "Dashboard de Limpeza de Notas",
-      "path": "00.Notes/Dashboard de Limpeza de Notas.md"
     },
     {
       "basename": "2026-03-23 Monday",
@@ -195,10 +199,6 @@
     {
       "basename": "ESTP Development",
       "path": "00.Notes/ESTP Development.md"
-    },
-    {
-      "basename": "Insights sobre tipologia",
-      "path": "00.Notes/Insights sobre tipologia.md"
     }
   ],
   "omittedPaths": [
