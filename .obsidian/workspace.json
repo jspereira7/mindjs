@@ -31,9 +31,24 @@
               "icon": "lucide-file",
               "title": "Dashboard de Limpeza de Notas"
             }
+          },
+          {
+            "id": "56a672ea82212e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Male Litmus Test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Male Litmus Test"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,13 +67,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Dashboard de Limpeza de Notas.md",
+                "file": "00.Notes/Male Litmus Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard de Limpeza de Notas"
+              "title": "Outline of Male Litmus Test"
             }
           },
           {
@@ -115,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 316.5110321044922
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -297,10 +312,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "7fe1ba4897d63b66",
+  "active": "56a672ea82212e4c",
   "lastOpenFiles": [
-    "+Daily Notes/2026-03-23 Monday.md",
+    "00.Notes/Male Litmus Test.md",
+    "00.Notes/High Value Men - Framework.md",
     "00.Notes/Dashboard de Limpeza de Notas.md",
+    "+Daily Notes/2026-03-23 Monday.md",
     "00.Notes/Observações Aleatorias.md",
     "00.Notes/ESTP Inferior.md",
     "00.Notes/Medos dos Tipos.md",
@@ -333,8 +350,6 @@
     "01.Assets/Desenvolvimento Pessoal/Insight Carl Jung - Equilibrar a personalidade ao inves de focar nos pontos fortes..md",
     "00.Notes/ESTP.md",
     "00.Notes/Hipergamia Estudo.md",
-    "00.Notes/Parametros Campanha.md",
-    "01.Assets/Excalidraw/Drawing 2026-03-16 23.37.48.excalidraw.md",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",
     "01.Assets/Anexos/Pasted image 20260221000612.png",
