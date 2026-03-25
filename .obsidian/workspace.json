@@ -46,9 +46,39 @@
               "icon": "lucide-file",
               "title": "Male Litmus Test"
             }
+          },
+          {
+            "id": "dc528b21515d6293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Anotações Livro A Meta.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Anotações Livro A Meta"
+            }
+          },
+          {
+            "id": "0f8d4ab0c89e58f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Teste de Campanha.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Teste de Campanha"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Male Litmus Test.md",
+                "file": "00.Notes/Teste de Campanha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Male Litmus Test"
+              "title": "Outline of Teste de Campanha"
             }
           },
           {
@@ -312,10 +342,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "56a672ea82212e4c",
+  "active": "0f8d4ab0c89e58f5",
   "lastOpenFiles": [
-    "00.Notes/Untitled 2.md",
+    "00.Notes/Teste de Campanha.md",
+    "00.Notes/Anotações Livro A Meta.md",
     "00.Notes/Male Litmus Test.md",
+    "00.Notes/Untitled 2.md",
     "00.Notes/Dashboard de Limpeza de Notas.md",
     "00.Notes/Falha em lógica de negocio é igual a dinheiro.md",
     "01.Assets/Anexos/search_realizesolucoesfinanceiras_com_brcartoes_renner_2026_03_2.txt",
@@ -348,8 +380,6 @@
     "00.Notes/Palavras chaves pesquisa de ofertas de SOI.md",
     "00.Notes/Login Binom Tracker - 16-03-26.md",
     "00.Notes/Analise Funcionando Requests BH ADS.md",
-    "01.Assets/Desenvolvimento Pessoal/Livros Recomendados pelo naval.md",
-    "01.Assets/Desenvolvimento Pessoal/Insight Carl Jung - Equilibrar a personalidade ao inves de focar nos pontos fortes..md",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",
     "01.Assets/Anexos/Pasted image 20260221000612.png",
