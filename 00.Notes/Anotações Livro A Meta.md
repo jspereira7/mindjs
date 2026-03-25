@@ -21,7 +21,6 @@ tags:
 - Para salvar a empresa, tenho de torná-la produtiva.
 
 ---
-
 ## Cap6
 
 - A meta de uma empresa é ganhar dinheiro, e no caso de uma industria produzir produtos é apenas um meio para um fim. 
@@ -46,6 +45,19 @@ tags:
 > A meta é aumentar o lucro liquido, ROI e fluxo de caixa. 
 
 ----
+
+## Cap 8 
+
+- Há várias formas de expressar a meta , formas que significam a mesma coisa. " Ganhar dinheiro"
+- Essas métricas Lucro liquido, ROI, Fluxo de caixa, não são uteis para o dia a dia. 
+- Jonah desenvolveu outras métricas que são mais uteis para ganhar dinheiro (ganho,inventário,despesa operacional)
+
+### As 3 metricas de jonah 
+
+1. **Ganho:** é a taxa na qual o sistema gera dinheiro atráves das vendas.
+2. **Inventário:** é todo o dinheiro que o sistema investiu na compra de coisas que tem a intenção de vender.
+3. **Despesa operacional:** é todo o dinheiro que o sistema gasta para transformar inventário em ganho.
+
 
 
 
