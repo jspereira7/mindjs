@@ -75,3 +75,11 @@ Dezenas a centenas de milhares de dólares extraídos assim.
 
 O timing é a chave: o ciclo de pagamento de comissão é mais rápido que o ciclo de chargeback.
 
+----
+
+## Método Black Hat de Cartões de Crédito com limite
+
+![[search_realizesolucoesfinanceiras_com_brcartoes_renner_2026_03_2.txt]]
+
+Usar essa pesquisa de cartões de crédito com limite pra usar etc... 
+
