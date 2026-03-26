@@ -58,6 +58,18 @@ tags:
 2. **Inventário:** é todo o dinheiro que o sistema investiu na compra de coisas que tem a intenção de vender.
 3. **Despesa operacional:** é todo o dinheiro que o sistema gasta para transformar inventário em ganho.
 
+----
+
+Ganho é o dinheiro que entra. (Uma medida para o dinheiro que entra)
+
+Inventário é o dinheiro atualmente dentro do sistema. (Uma medida para o dinheiro que ainda está retido)
+
+E despesa operacional é o dinheiro que temos de desenbolsar para que o ganho aconteça. (Uma medida para o dinheiro que sai)
+
+---
+
+
+
 
 
 
