@@ -1,6 +1,8 @@
 ---
 tags:
   - autoconhecimento/entp
+  - csjoseph
+  - psicologia_junguiana
 ---
 O maior ponto de alavancagem para o entp é desenvolver a sua Ti (Precisão), porque isso vai evitar ele cair em loops, e apelar para o Sentimento extrovertido, que irá fazer tomar decisões e ter reações baseadas no que as outras pessoas pensam dele. 
 

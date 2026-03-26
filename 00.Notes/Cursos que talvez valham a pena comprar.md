@@ -10,3 +10,4 @@ Lista de cursos:
 | Tej Dosa - 7 Figures Build                           | https://coursesbetter.com/download/tej-dosa-7-figure-builds/                               |
 | Create Startup with AI                               | https://course24h.com/downloads/ai-web-course-build-a-startup-in-12-hours/                 |
 |                                                      |                                                                                            |
+|                                                      |                                                                                            |

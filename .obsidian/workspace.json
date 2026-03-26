@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8432e7f9f7706a7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7fe1ba4897d63b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Dashboard de Limpeza de Notas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard de Limpeza de Notas"
-            }
-          },
-          {
-            "id": "56a672ea82212e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Male Litmus Test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Male Litmus Test"
-            }
-          },
-          {
             "id": "dc528b21515d6293",
             "type": "leaf",
             "state": {
@@ -61,9 +21,24 @@
               "icon": "lucide-file",
               "title": "Anotações Livro A Meta"
             }
+          },
+          {
+            "id": "1eaadb2044c241f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Attomic atraction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Attomic atraction"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Anotações Livro A Meta.md",
+                "file": "00.Notes/Attomic atraction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anotações Livro A Meta"
+              "title": "Outline of Attomic atraction"
             }
           },
           {
@@ -141,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -327,29 +303,36 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "dc528b21515d6293",
+  "active": "1eaadb2044c241f9",
   "lastOpenFiles": [
-    "00.Notes/Links Traffego.md",
-    "00.Notes/Teste de Campanha.md",
-    "00.Notes/Anotações Livro A Meta.md",
-    "00.Notes/Male Litmus Test.md",
-    "00.Notes/Untitled 2.md",
-    "00.Notes/Dashboard de Limpeza de Notas.md",
-    "00.Notes/Falha em lógica de negocio é igual a dinheiro.md",
+    "00.Notes/How to dating right - CsJoseph.md",
+    "00.Notes/Funções Cognitivas - Cs Joseph.md",
+    "00.Notes/Framework Girls.md",
+    "00.Notes/Como ter sucesso usando seu tipo.md",
+    "00.Notes/Melhora da Aparencia - Livro Models.md",
+    "00.Notes/Assuntos Chick Crack.md",
+    "00.Notes/Octagram.md",
+    "00.Notes/Como se livrar da paixão by Js.md",
+    "00.Notes/Spy Sw - Words to search ads.md",
+    "00.Notes/Workflow Entp Focus.md",
+    "00.Notes/Zona de Genialidade.md",
+    "00.Notes/chave_dbt.md",
+    "00.Notes/Type Grid - Cs Joseph.md",
+    "00.Notes/Visual Thinking Canva.canvas",
+    "00.Notes/Pensamento de alto nível.md",
+    "00.Notes/Perfil Instagram Brain-Storm..md",
+    "00.Notes/Plan to second temp.md",
+    "00.Notes/O poder de um Sumario.md",
+    "00.Notes/Os quatro lados da mente de um ENTP.md",
+    "00.Notes/Ne - Intuição Extrovertida.md",
+    "00.Notes/Ne dominante.md",
+    "00.Notes/Nota diaria de hoje.md",
+    "00.Notes/Modulo 1 - Fundamentos do Tipo.md",
+    "00.Notes/Modulo 2 - Flow.md",
+    "00.Notes/Login VPN e Paypal nova keitaro.md",
+    "00.Notes/Looks maximing..md",
+    "00.Notes/MOC - ENTP Owner - Course..md",
     "01.Assets/Anexos/search_realizesolucoesfinanceiras_com_brcartoes_renner_2026_03_2.txt",
-    "00.Notes/High Value Men - Framework.md",
-    "+Daily Notes/2026-03-23 Monday.md",
-    "00.Notes/Observações Aleatorias.md",
-    "00.Notes/ESTP Inferior.md",
-    "00.Notes/Medos dos Tipos.md",
-    "00.Notes/Gideão Pereira - Tipar.md",
-    "00.Notes/Exercicio 3 - N mais o cara bonzinho.md",
-    "00.Notes/Ego Hacking Fear Masterclass.md",
-    "01.Assets/Clippings/Kevin Kelly Book Recommendations.md",
-    "01.Assets/Clippings/4 Insane Reading Tricks Elon Musk Uses to Outlearn Everyone.md",
-    "01.Assets/Livros/Leis Diarias - Robert Greene.md",
-    "01.Assets/Livros/As Leis da Natureza Humana.md",
-    "01.Assets/Livros/A guerra da Paixão - Nessaham Alita.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The Manual What women want and how to give it to them -- W_ Anton -- 69edec191e026383889aec7b0a53544c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/People patterns _ a popular culture introduction to -- Montgomery MD, Stephen -- 1st ed, Del Mar, CA, ©2002 -- Archer Pubns; Archer Publications -- 9781885705037 -- 39b6bbae9f3111b08388563b8a63242c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
@@ -359,12 +342,6 @@
     "01.Assets/Livros PDF's/Se torne um homem melhor/Atomic Attraction_ The Psychology of Attraction -- Christopher Canwell -- 1, PS, 2017 -- Rampage Books -- 9781999872274 -- 3ac0d57521bb8c6be1ea50fbdebe0be7 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Bang_ More Lays In 60 Days -- Roosh Valizadeh -- 0 -- 9dd9057bd3b9a0ae6044fb6338acfc73 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/O código dos homens -- JACK DONOVAN, LUIZ OTAVIO TALU -- 2015 -- Editora Simonsen -- 9788569041016 -- c4d2181717b50ef1fe2f8fb6192d82dd -- Anna’s Archive.pdf",
-    "00.Notes/Fear Analisys Tipes.md",
-    "00.Notes/EPC.md",
-    "01.Assets/Cursos/Do bug ao bouty - Gabriel Pato..md",
-    "00.Notes/Palavras chaves pesquisa de ofertas de SOI.md",
-    "00.Notes/Login Binom Tracker - 16-03-26.md",
-    "00.Notes/Analise Funcionando Requests BH ADS.md",
     "01.Assets/Anexos/Pasted image 20260227215039.png",
     "01.Assets/Anexos/Pasted image 20260227212316.png",
     "01.Assets/Anexos/Pasted image 20260221000612.png",
@@ -378,7 +355,6 @@
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Untitled 2.canvas",
     "01.Assets/Untitled 1.canvas",
-    "00.Notes/Visual Thinking Canva.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
     "01.Assets/DataBaseTikTok.canvas",

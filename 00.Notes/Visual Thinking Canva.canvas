@@ -4,14 +4,14 @@
 		{"id":"9ce5f0cc454939f9","type":"text","text":"**Mind Mapping**","x":-28,"y":-820,"width":260,"height":50},
 		{"id":"980beeef7615d7a0","type":"text","text":"**Brainstorming Webs**","x":300,"y":-820,"width":260,"height":50},
 		{"id":"96456b63134a2d3c","type":"text","text":"**Diagrama de espinha de peixe**","x":-18,"y":-554,"width":250,"height":84},
-		{"id":"ad63cb4dd44f921d","x":-1460,"y":-604,"width":256,"height":64,"type":"text","text":"**Mapas Conceituais**"},
-		{"id":"c1bd91cc5de6266d","x":-1075,"y":-1060,"width":305,"height":87,"type":"text","text":"**Ferramentas para Pensamento Reflexivo**"},
-		{"id":"4cacf46a25a24b33","type":"text","text":"# Visual Thinking\n\nO objetivo final é \"ser mais deliberado na escolha da ferramenta de pensamento para a tarefa, seja pensamento criativo, pensamento analítico ou pensamento reflexivo.\" A capacidade de escolher a ferramenta visual correta, como no exemplo da \"chave Torx\" para o uniciclo, é crucial para a eficácia na transformação de informações em conhecimento.","x":-797,"y":-1560,"width":714,"height":320},
+		{"id":"ad63cb4dd44f921d","type":"text","text":"**Mapas Conceituais**","x":-1460,"y":-604,"width":256,"height":64},
+		{"id":"c1bd91cc5de6266d","type":"text","text":"**Ferramentas para Pensamento Reflexivo**","x":-1075,"y":-1060,"width":305,"height":87},
 		{"id":"a179124dfcf60aae","type":"text","text":"**Ferramentas para analise de causa raiz**","x":-552,"y":-973,"width":305,"height":102},
 		{"id":"0007747332eb4602","type":"text","text":"**Diagramas de Venn**","x":-399,"y":-554,"width":265,"height":72},
-		{"id":"958f1d928f447b5f","x":-731,"y":-604,"width":200,"height":50,"type":"text","text":"**Torre Indutiva**"},
-		{"id":"b30b7289cd77bb88","x":-1020,"y":-600,"width":250,"height":60,"type":"text","text":"**Mindscaping**"},
-		{"id":"2bf432b7bc404a0f","x":-1204,"y":-470,"width":259,"height":124,"type":"text","text":"**Pensamento Sistêmico e Fluxos de Feedback**"}
+		{"id":"958f1d928f447b5f","type":"text","text":"**Torre Indutiva**","x":-731,"y":-604,"width":200,"height":50},
+		{"id":"b30b7289cd77bb88","type":"text","text":"**Mindscaping**","x":-1020,"y":-600,"width":250,"height":60},
+		{"id":"2bf432b7bc404a0f","type":"text","text":"**Pensamento Sistêmico e Fluxos de Feedback**","x":-1204,"y":-470,"width":259,"height":124},
+		{"id":"4cacf46a25a24b33","type":"text","text":"# Visual Thinking\n\nO objetivo final é \"ser mais deliberado na escolha da ferramenta de pensamento para a tarefa, seja pensamento criativo, pensamento analítico ou pensamento reflexivo.\" A capacidade de escolher a ferramenta visual correta, como no exemplo da \"chave Torx\" para o uniciclo, é crucial para a eficácia na transformação de informações em conhecimento.","x":-848,"y":-1600,"width":714,"height":320}
 	],
 	"edges":[
 		{"id":"bfb1475bd3b38e4b","fromNode":"ea1bb52899976239","fromSide":"bottom","toNode":"980beeef7615d7a0","toSide":"top"},
