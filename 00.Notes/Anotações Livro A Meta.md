@@ -68,6 +68,14 @@ E despesa operacional é o dinheiro que temos de desenbolsar para que o ganho ac
 
 ---
 
+Qualquer dinheiro que perdemos é despesa operacional, qualquer investimento que podemos vender é inventário. 
+
+---
+
+A meta é diminuir o inventario e despesa operacional, e aumentar o ganho. 
+
+----
+
 
 
 
