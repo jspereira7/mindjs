@@ -74,6 +74,8 @@ Qualquer dinheiro que perdemos é despesa operacional, qualquer investimento que
 
 A meta é diminuir o inventario e despesa operacional, e aumentar o ganho. 
 
+
+
 ----
 
 
