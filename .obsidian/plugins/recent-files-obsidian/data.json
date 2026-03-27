@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CC test",
+      "path": "00.Notes/CC test.md"
+    },
+    {
       "basename": "Anotações Livro A Meta",
       "path": "00.Notes/Anotações Livro A Meta.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Login Mult-login X",
       "path": "00.Notes/Login Mult-login X.md"
-    },
-    {
-      "basename": "Login Shopify - Sweeps",
-      "path": "00.Notes/Login Shopify - Sweeps.md"
     }
   ],
   "omittedPaths": [
