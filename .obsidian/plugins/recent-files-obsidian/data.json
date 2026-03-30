@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "CC test",
-      "path": "00.Notes/CC test.md"
+      "basename": "2026-03-30 Monday",
+      "path": "+Daily Notes/2026-03-30 Monday.md"
+    },
+    {
+      "basename": "Falha em lógica de negocio é igual a dinheiro",
+      "path": "00.Notes/Falha em lógica de negocio é igual a dinheiro.md"
     },
     {
       "basename": "Anotações Livro A Meta",
       "path": "00.Notes/Anotações Livro A Meta.md"
+    },
+    {
+      "basename": "CC test",
+      "path": "00.Notes/CC test.md"
     },
     {
       "basename": "Linda V Barens - Understand yourself and other",
@@ -191,14 +199,6 @@
     {
       "basename": "Limpeza de dados",
       "path": "00.Notes/Limpeza de dados.md"
-    },
-    {
-      "basename": "Login BitWarden",
-      "path": "00.Notes/Login BitWarden.md"
-    },
-    {
-      "basename": "Login Mult-login X",
-      "path": "00.Notes/Login Mult-login X.md"
     }
   ],
   "omittedPaths": [
