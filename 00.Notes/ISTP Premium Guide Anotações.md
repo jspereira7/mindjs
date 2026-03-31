@@ -77,5 +77,6 @@ Eles devem encarar a vida social como um quebra-cabeça, e mais uma habilidade a
 
 A atração pela inovação ousada e pela resolução de problemas é o que lhes dá energia e confiança.
 
+ >Tente encontrar uma intersecção entre seus talentos e seus interesses. Você pode ter habilidade em algo, mas não gostar de fazer. Tente encontrar um trabalho que seja uma boa combinação de coisas em que você é naturalmente bom, mas que também gosta de fazer.
 
 
