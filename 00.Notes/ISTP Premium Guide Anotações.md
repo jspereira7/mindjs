@@ -79,4 +79,90 @@ A atração pela inovação ousada e pela resolução de problemas é o q
 
  >Tente encontrar uma intersecção entre seus talentos e seus interesses. Você pode ter habilidade em algo, mas não gostar de fazer. Tente encontrar um trabalho que seja uma boa combinação de coisas em que você é naturalmente bom, mas que também gosta de fazer.
 
+---
+
+Pessoas com esse tipo de personalidade buscam experiencias sensuais, coisas que podem experimetar com seus 5 sentidos, e não gostam tanto de coisas abstratas e mentais
+
+As vezes podem até inventar desafios ou problemas artificiais apenas para animar o ambiente ao seu redor, não suportam tédio e rotina
+
+Tendem a ser extremamente otimistas e até mesmo descuidadosos, dentro e fora do seu ambiente profissional
+
+Costumam ter nervos de aço e provavelmente estão acostumados a situações de perigo iminente, sempre salvos por suas habilidades de observação altamente desenvolvidas e pela disposição de fazer tudo o que seja necessário para atingir seu objetivo. 
+
+## Desenvolva sua inteligencia emocional 
+
+Pessoas com esse tipo são bastante reservadas e possuem dificuldade para expressar seus proprios sentimentos, seus parceiros romanticos podem velos como frios e calculistas... 
+
+É importante aprenderem a lidar com as emoções dos outros, principalmente fora do ambiente profissional... 
+
+Os virtuosos podem ter dificuldade ou relutância em se abrir e permitir que os outros se aproximem, sempre focando no que é divertido e evitando o que é desconfortável ou doloroso.
+
+Esse tipo de pessoa iradia uma aura de lógica e distanciamento
+
+----
+## Excelentes improvisadores
+
+A caracteristica mais impressionante dos virtuosos é a sua capacidade de improviso, quase sempre conseguem se safar de situações desafiadoras... 
+
+Possuem uma capacidade incrivel de tomar decisões rapidamente
+
+E tambem tendem a ser lobos solitários esteriotipados, optando por trabalhar sozinhos sempre que possivel 
+
+Esse tipo mostra o melhor desempenho possivel quando conseguem trabalhar com outros que lidam com a logistica por trás da operação - ISTP's são otimos artesãos e improvisadores brilhantes, mas administradores ou especialistas em logistica mediocres... 
+- Isso talvez possa ser o motivo de eu me dar tão bem na camera, mas não sou tão bom administrando o time inteiro. 
+
+Eles são ousados e e capazes de perceber e aproveitar oportunidades que outros tipos não conseguem ou não querem. 
+
+Pessoas com esse tipo não devem hesitar em abraçar sua espontaniedade se as circustancias forem favoraveis, elas estão muito bem preparadas para lidar com desafios inesperados e ter sucesso com recursos escassos. 
+
+> “O homem cauteloso se adapta ao mundo; o imprudente persiste em tentar adaptar o mundo a si mesmo. Portanto, todo o progresso depende do homem imprudente”
+
+É importante que esse tipo reconheça suas limitações, mas não deixe de explorar seus pontos fortes... 
+
+Pessoas com esse tipo de personalidade não devem se preocupar em ir atras de parceiros, porque muito provavelmente que os parceiros os encontrem. 
+
+----
+## Relacionamentos Romanticos
+
+São enigmáticos, os virtuosos, fazem que seus parceiros romanticos experimentem um relacionamento complexo, porem fascinante
+
+Seu Ti fornece a esses tipos uma certa aura de frieza e distanciamento, mas isso é compensado pela preferencia por prospectar, de maneiras que podem ser muito atraentes para parceiros em potencial.  
+
+Eles vivem no presente, aproveitando novas oportunidades e experiencias, enquanto evitam rotinas e horarios rigidos... 
+
+Se exforçam ao maximo para evitar qualuquer tentativa de ser controlado, direta e indiretamente
+
+### Namoro e virtuosos solteiros
+
+São muito independentes e precisam de um espaço sozinhos, especialmente em suas vidas pessoais
+
+Não gostam de se comprometer com nada sem uma clausula que permite a rescisão
+
+Pessoas com esse tipo de personalidade não são muito expressivas emocionalmente e tendem a se esforçar para proteger seus sentimentos. 
+
+Suas emoções são profundas e o desconforto que sentem com elas faz com que permaneçam ocultas. 
+
+Apaixonar-se por alguem assim requer abrir mão de muitas expressoes de amor no relacionamento...
+
+Eles vivem no presente, então em um dia podem estar muito apaixonados e no outro estar focados no trabalho, seus parceiros romanticos não devem levar isso para o lado pessoal, pois é assim que eles funcionam. 
+
+Eles expressam seus sentimentos de formas tangiveis, com presentes ou fazendo algo para a pessoa. 
+
+----
+
+## Amizades
+
+Os virtuosos não querem se prender a nada, nem mesmo a amigos para a vida toda. 
+
+Esses tipos gostam de uma boa competição, pois são talentosos em usar seus sentidos. 
+
+Fazem amigos em atividades fisicas, como futebol, pesca e qualquer coisa que seja fisica. 
+
+Tambem são pessoas ponderadas e racionais, muito criativos e apreciam discutir novas ideias, mas o objetivo de falar sobre essas ideias é coloca-las em prática.
+
+Sonhar é bom, mas falar é facil e discussões sobre assuntos abstratos ou distantes como a politica da Eurásia, só conseguem prender a atenção deles por um tempo limitado. 
+
+Eles são populares, quase involuntariamente.
+
+Sua mente aberta, hobbies interessantes e atitude descontraída atraem uma gama notavelmente ampla de personalidades.
 
