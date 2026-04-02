@@ -57,4 +57,66 @@ Sob estresse, ou quando impacientes e frustrados com o comportamento repetidamen
 
 Sob estresse podem parecer evasivos ou confusos.
 
+## Descrição ISTP 
+
+Os ISTPs são solucionadores de problemas práticos. Eles observam atentamente como as coisas funcionam. Desmontam ou examinam cuidadosamente algo para entender. Possuem talento para usar ferramentas e encontrar a melhor abordagem para resolver um problema. Os ISTPs precisam de independência para trilhar seus próprios caminhos. Gostam de testar, desafiar e ultrapassar seus próprios limites para alcançar o sucesso. Agem de acordo com seus palpites e intuições. Fazer e compartilhar suas próprias descobertas é gratificante. Experiências emocionais intensas podem realmente perturbá-los.
+
+## Insights Importantes
+
+Não devemos deixar a unilateridade causar problemas na nossa vida, devemos integrar as outras partes de nós mesmos que são reprimidas. 
+# Sub tipos 
+
+## Dominante (D)
+Possui um estilo assertivo. É motivado, focado em objetivos e confiante. Frequentemente ocupa um cargo de liderança ou empreendedor, ou está em busca de alcançá-lo. Adapta-se bem à hierarquia e ao lidar com tarefas conhecidas e líderes definidos, podendo trabalhar de forma independente quando necessário. Tende a focar em resultados, é competitivo e conhece e segue as regras do jogo. Seja homem ou mulher, há uma forte presença de testosterona. Pode agir de forma precipitada ou causar danos, e se beneficiaria de uma abordagem mais aberta e reflexiva. A densidade das conexões cerebrais é maior na parte frontal e/ou no hemisfério esquerdo.
+
+## Criativo (C)
+Possui um estilo entusiasmado, trazendo novas ideias e estimulando interações e conexões. Está sempre disposto a causar impacto de uma forma divertida ou inovadora. Frequentemente é um inovador ou criador de tendências. Gosta de viajar sempre que possível. Tende a parecer excêntrico, com interesses diversos e respostas tangenciais. A dopamina é o hormônio chave aqui — a descarga de excitação é a recompensa. Pode se distrair facilmente ou se empenhar em algo impossível, e se beneficia ao seguir algumas normas. A estrutura cerebral pode ser um padrão de "brainstorming completo" ou um conjunto de redes complexas não sobrepostas.
+
+## Normalização (N)
+Possui um estilo linear. Trabalha de forma cuidadosa, minuciosa e detalhada, o que tende a garantir um valor ou resultado específico. Nas organizações, frequentemente ocupa um cargo de nível básico ou especializado, ou, em um nível mais alto, busca tornar uma prática específica a norma. De resto, é bastante equilibrado e sociável. A serotonina é o hormônio chave aqui. Pode agir muito lentamente ou ficar preso a certas formas de comportamento. A conectividade cerebral costuma ser distribuída uniformemente pelo córtex, como um campo agrícola quadriculado, com talvez um ou dois núcleos densos refletindo especialização. Ou apresenta uma clara tendência para o hemisfério esquerdo ou posterior.
+
+## Harmonizador 
+Possui um estilo relacional e igualitário que presta atenção à linguagem corporal, voz, símbolos, emoções e valores. Pode recorrer à imaginação para preencher lacunas e fazer inferências poderosas. Frequentemente desempenha um papel nas relações humanas ou de apoio social, como o de psicólogo. Tende a ser cooperativo em interações individuais, trabalhando com os outros em seu contexto e de acordo com suas capacidades. Seja homem ou mulher, há uma forte presença de estrogênio. Pode agir de forma muito suave ou ter dificuldade em se impor ou ser ouvido. A densidade das conexões cerebrais é maior na parte posterior e/ou no hemisfério direito, ou apresenta padrões em forma de diamante.
+
+----
+# Como o cerebro funciona 
+
+O cerebro é feito de várias partes pequenas, que executam certas tarefas, isso é chamado de modulo. 
+
+Por exemplo, o cerebro tem um modulo para reconhecer um rosto, tem outro modulo para conversar com alguem, tem outro modulo para se lembrar de coisas. 
+
+Ou seja, cada modulo faz um tipo de trabalho espesifico. 
+
+E cada cerebro humano é diferente do outro, alguns ativam melhor certos modulos, dai veem a diferença entre as pessoas. 
+
+Alguns modulos mais usados e outros menos usados dependendo do cerebro da pessoa. 
+## O estado de fluxo 
+
+É quando tudo funciona perfeitamente junto. 
+
+- Todos os instrumentos(modulos) da orquestra tocando em harmonia
+- Nenhum erro, tudo sincronizado
+
+isso é o estado de fluxo ou flow
+
+- Alta concentração
+- Alta produtividade
+- Sensação de estar na "zona"
+
+## Seu cerebro é moldado pela vida
+
+As ligações entre os módulos variam de pessoa para pessoa.
+
+Isso depende de:
+
+- Hábitos
+- Experiências
+- Aprendizado
+- Desenvolvimento pessoal
+
+Ou seja: seu cérebro é moldado pela sua vida.
+
+![[Pasted image 20260402174921.png]]
+
+---
 
