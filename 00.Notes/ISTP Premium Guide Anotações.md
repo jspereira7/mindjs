@@ -166,3 +166,67 @@ Eles são populares, quase involuntariamente.
 
 Sua mente aberta, hobbies interessantes e atitude descontraída atraem uma gama notavelmente ampla de personalidades.
 
+----
+
+## Hábitos de aprendizagem
+
+Os virtuosos não gostam de ficar sentados absorvendo informação, lhes de algo prático pra fazer e eles vão se envolver completamente
+
+O estilo de aprendizagem ideal para eles é ver alguem demonstrando uma técnica e executá-la imediatamente, e em seguida receber feedback sobre seu desempenho. 
+
+E quando aprenderem a tecnica, concerteza colocarão seu proprio estilo ao trabalho. 
+
+----
+
+## Virtuosos no ensino médio 
+
+Podem ser reclusos, especialmente se se sentem deslocados na sala de aula, frequentemente são vistos como o tipo forte e silencioso, capaz de soltar uma frase de efeito impactante... 
+
+## Desenvolvimento profissional 
+
+Os virtuosos possuem uma incansavel sede por fatos e conhecimentos, eles apreciam descobrir como as coisas funcionam e como reunir fatos corretos pode resolver problemas complexos, porem práticos
+
+Nunca se deve confundir a busca dos Virtuosos por fatos e compreensão com a abordagem mais teórica e abstrata preferida pelos acadêmicos.
+
+Eles preferem a abordagem prática. 
+
+Eles são otimos mecanicos, engenheiros, cientistas forenses etc... 
+
+Eles se sentem mais a vontade com proffisoes que os levem a colocar a mão na massa.
+
+Preferem agir do que ponderar... 
+
+Eles nasceram para lidar com o caos... 
+
+O pensamento a longo prazo não é para esse tipo, mas existem profissoes que são beneficas para esse tipo, policiais, analistas de sistemas freelancers, atletas e empreendedores. 
+
+## Tipos de trabalho ideias para os virtuosos
+
+O que é engenharia ? É a arte de resolver problemas práticos usando conhecimento técnico e cientifico.
+
+Se a ciência pergunta _"como o mundo funciona?"_, a engenharia pergunta _"como podemos usar isso para construir, melhorar ou resolver algo?"_.
+
+Mecanica e engenharia
+- Mecanico de carros, barcos ou aviões 
+- Mecanico de motores pequenos
+- Engenheiro(mecanico,computacional, estrutural, ambiental,acustico,robotico)
+
+Engenharia no geral é uma area interresante para os virtuosos. 
+
+## Desafios na carreira profissional 
+
+- Trabalho monotono e repetitivo 
+- Ambientes restritivos (com muitas regras)
+- Trabalho que dependa demais de equipe - ambientes centrados na equipe podem não ser a melhor decisão. 
+
+## Evoluindo na carreira
+
+O que mais importa para eles é o desejo de se tornarem mestres em sua area. 
+
+Não devem escolher uma profissão apenas por status ou por ser bem remunerada, pois podem não se adequar as suas habilidades e principios unicos. 
+
+Não vão estar felizes em uma area que sufoque o seu desejo de independencia. 
+
+---
+
+
