@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "cfd3b67ba810a67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Brainstorming Planejamento de 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorming Planejamento de 2026"
+            }
+          },
+          {
             "id": "a7970f4f15d66430",
             "type": "leaf",
             "state": {
@@ -53,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,13 +334,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "d5d4993ccf2a32d4",
+  "active": "cfd3b67ba810a67a",
   "lastOpenFiles": [
+    "00.Notes/Brainstorming Planejamento de 2026.md",
+    "00.Notes/ISTP Premium Guide Anotações.md",
     "00.Notes/Produtividade Jason Fladlien.md",
+    "00.Notes/Insights Elon Musnk.md",
     "+Daily Notes/2026-04-01 Wednesday.md",
     "00.Notes/Planejamento Venvanse e consulta psiquiatra.md",
-    "00.Notes/ISTP Premium Guide Anotações.md",
-    "00.Notes/Insights Elon Musnk.md",
     "00.Notes/Insights para melhora da estética em 2026 - Js.md",
     "00.Notes/Analise claude Ai sobre mim.md",
     "00.Notes/Traffic Brokering - How to Make Money with Affiliates.md",
@@ -348,7 +364,6 @@
     "00.Notes/DeppoCloakingGuide2.pdf",
     "00.Notes/Sweeps Hoje.md",
     "00.Notes/Call Gato Ads - Caixa Rápido com Delivery.md",
-    "00.Notes/Visual Typing - Cs Joseph.md",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/Anexos/search_realizesolucoesfinanceiras_com_brcartoes_renner_2026_03_2.txt",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The Manual What women want and how to give it to them -- W_ Anton -- 69edec191e026383889aec7b0a53544c -- Anna’s Archive.pdf",
