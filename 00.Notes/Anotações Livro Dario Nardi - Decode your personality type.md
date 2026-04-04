@@ -120,3 +120,61 @@ Ou seja: seu cérebro é moldado pela sua vida.
 
 ---
 
+## Ni - Intuição introvertida neurotica (ISTP & ISFP)
+
+Se manifesta como delirios de inutilidade e grandeza. 
+
+isso se aplica não somente ao ISTP, mas as vezes tambem a ESTP's e ESFP's. 
+
+Ou a qualquer tipo, até mesmo aqueles que preferem naturalmente esse processo. 
+
+Por exemplo, aqueles com Ni neurótica podem se envolver em teorizações excessivamente negativas, particularmente sobre situações cotidianas.
+
+Isso se manifesta como uma tendência a prever os piores resultados possíveis e a se deter em cenários pessimistas, o que pode contribuir para uma visão geralmente negativa da vida.
+
+Além disso, pessoas com Ni neurótico podem se ver como estúpidas ou como supergênios.
+
+Exibem entusiasmo maníaco em relação a visões de resultados incríveis ou possibilidades futuras — profundamente fascinadas por suas ideias e pelo que certamente acontecerá, mas rapidamente perdem o interesse ou desistem ao se depararem com as realidades da implementação.
+
+Podem oscilar entre sentimentos de inadequação e baixa autoestima, questionando sua própria inteligência e habilidades, enquanto também vivenciam episódios de grandiosidade e um senso inflado de superioridade.
+
+Esse padrão de entusiasmo seguido de desilusão pode dificultar o progresso e criar um ciclo de potencial não realizado.
+
+Demonstram uma forte confiança em suas suposições, mesmo quando estão objetivamente erradas.
+
+Por fim, indivíduos com Ni neurótico podem apresentar uma tendência à espiritualidade antissocial.
+
+Eles são atraídos a se envolver em comportamentos ou a adotar crenças consideradas incomuns, extremas ou não convencionais pelos padrões sociais.
+
+Isso pode resultar em uma sensação de isolamento ou alienação dos círculos sociais tradicionais.
+
+Ao se esforçarem pela autoconsciência, pensamento equilibrado e abertura a perspectivas alternativas, os indivíduos podem aproveitar o potencial transformador do Ni, mantendo uma vida equilibrada e satisfatória, com expectativas realistas.
+
+----
+
+## Fe Neurotica (ENTP & ESTP)
+
+Frequentemente se manifesta como caos social e nos relacionamentos.
+
+Isso tambem pode ocorrer com INTP E ISTP. 
+
+Isso se aplica principalmente aqueles que estão desenvolvendo esse processo. 
+
+Usar o Fe nos ajuda a construir conexões com os outros por meio de afeto, empatia e compreensão.
+
+o Fe nos capacita a compartilhar valores e assumir as ideias, necessidades, lealdades, preocupações e valores dos outros como nossos.
+
+Por exemplo, aqueles com um Fe neurótico podem ser propensos a culpar os outros por causar suas emoções, em vez de assumir a responsabilidade por seus próprios sentimentos.
+
+Podem sentir-se carentes, ao mesmo tempo que priorizam as necessidades dos outros em detrimento das suas próprias, o que leva a sentimentos de ressentimento ou esgotamento.
+
+Podem também oscilar entre a autoengrandecimento e a autocrítica, resultando numa falta de clareza ou de confiança nas suas próprias capacidades.
+
+Podem ser excesivamente gentis ou rudes. 
+
+Excessivamente indiferentes ou carinhosas.
+
+Por fim, aqueles com Fe neurótico podem ter dificuldade em vivenciar e processar plenamente suas emoções. 
+
+Podem analisar excessivamente suas emoções e questões interpessoais sem realmente senti-las, o que leva a uma sensação de desconexão com sua própria experiência emocional e à falta de intimidade ou proximidade em seus relacionamentos com os outros.
+
