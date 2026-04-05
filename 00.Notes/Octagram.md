@@ -10,6 +10,16 @@ Entender **por que você é como é** e **como você se desenvolve** - tanto con
 
 ---
 
-Eu Js sou SDUF Entp. 
+Eu Js sou SDUF Entp.
 
+## Veja também
 
+- [[Octagram 4 Cs Joseph]]
+- [[Octagram 4.0 - Cs Joseph]]
+- [[Octagram 4.1]]
+- [[OCTAGRAM NEW]]
+- [[Octagram 4 - Core Fears]]
+- [[Entp Octagram variants]]
+- [[Idealistic Complexes Octagram 4.1]]
+- [[Framework OCT 4.0]]
+- [[Complexos TypeGrid 5]]

@@ -1,3 +1,12 @@
 - [[Ti - Cs Joseph]]
 - [[Si - Csjoseph]]
-- 
+- [[Pensamento Introvertido (Ti)]]
+- [[Pensamento Extrovertido (Te)]]
+- [[Intuição Introvertida (Ni)]]
+- [[Ne - Intuição Extrovertida]]
+- [[Sentimento Introvertido (Fi)]]
+- [[Sensação Introvertida (Se)]]
+- [[Se - Extraverted Sensation]]
+- [[Funções Cognitivas - Cs Joseph]]
+- [[Funções Cognitivas CsJoseph]]
+- [[Fundamentos Psicologia Junguiana]] 

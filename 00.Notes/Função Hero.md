@@ -110,5 +110,16 @@ Ou seja a função hero é extremamente carrente.
 
 ## As limitações do Heroi 
 
-Apesar de ser a nossa função mais poderosa, ela não está isenta de falhas, a maior falha é quando presumimos que o heroi pode fazer qualquer trabalho. 
+Apesar de ser a nossa função mais poderosa, ela não está isenta de falhas, a maior falha é quando presumimos que o heroi pode fazer qualquer trabalho.
 
+## Veja também
+
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[Funções Cognitivas - Cs Joseph]]

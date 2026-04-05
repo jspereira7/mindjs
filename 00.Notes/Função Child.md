@@ -98,3 +98,15 @@ O sinal mais fácil é verificar se você usa sua função **Critic** (que verem
 
 [[Função Inferior]]
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[Funções Cognitivas CsJoseph]]
+- [[O eixo entre Ti - Fe]]
+

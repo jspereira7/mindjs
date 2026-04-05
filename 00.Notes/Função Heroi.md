@@ -131,3 +131,16 @@ A função Hero é nossa ferramenta mais poderosa e natural, mas:
 
 [[Função Parent]]
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[Funções Cognitivas - Cs Joseph]]
+- [[Cognitive Functions Definitions]]
+- [[O eixo entre Ti - Fe]]
+

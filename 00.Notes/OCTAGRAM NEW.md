@@ -57,3 +57,11 @@ Detetive e Espiritualista combinam
 Detetive e Empericista combinam  
 Negociador e Empericista combinam  
 Negociador e Espiritualista combinam
+
+## Veja também
+
+- [[Octagram]]
+- [[Octagram 4.0 - Cs Joseph]]
+- [[Octagram 4.1]]
+- [[How to type yourself 2.0]]
+- [[How to type yourself 3.0 - Cs Joseph]]

@@ -1,4 +1,14 @@
-## O que é a Função Parent (Pai/Mãe)?
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[Funções Cognitivas CsJoseph]]
 
 A função **Parent** é a segunda das oito atitudes cognitivas na personalidade. Ela representa nossa fonte de **responsabilidade** e funciona de forma muito diferente da função Hero (Herói).
 

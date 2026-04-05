@@ -19,14 +19,6 @@ São divertidos, sempre procurando oportunidades de ajudar as pessoas que gostam
 
 Essas pessoas animam seus entes queridos, fortalecendo seus relacionametos com alegria leve criatividade prática
 
-# Desenvolvimento academico e profissional 
-
-Infelizmente, seu desinteresse por abstrações e regras muitas vezes as leva a ter um desempenho abaixo do esperado em ambientes acadêmicos tradicionais.
-
-Como resultado, podem se sobressair como socorristas, atletas ou até mesmo pilotos de corrida.
-
-Desde que encontrem tais ambientes, poderão aplicar seus maiores talentos em seus projetos, resolvendo problemas de forma ágil e criando soluções inovadoras, até mesmo revolucionárias, para os desafios que enfrentam.
-
 # Crescimento pessoal 
 
 Para que os Virtuosos cresçam, eles precisam primeiro desenvolver autoconhecimento, avaliando a si mesmos e seus comportamentos. 

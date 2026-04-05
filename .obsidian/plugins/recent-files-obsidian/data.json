@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Prompt-AutoAceitação",
-      "path": "00.Notes/Prompt-AutoAceitação.md"
+      "basename": "_vault-audit",
+      "path": "_vault-audit.md"
     },
     {
-      "basename": "Open Claude Free",
-      "path": "00.Notes/Open Claude Free.md"
+      "basename": "Tracker de Hábitos.",
+      "path": "01.Assets/Templates/Tracker de Hábitos..md"
+    },
+    {
+      "basename": "daily.md",
+      "path": "01.Assets/Templates/daily.md.md"
+    },
+    {
+      "basename": "book.md",
+      "path": "01.Assets/Templates/book.md.md"
+    },
+    {
+      "basename": "ideia.md",
+      "path": "01.Assets/Templates/ideia.md.md"
+    },
+    {
+      "basename": "Livro",
+      "path": "01.Assets/Templates/Livro.md"
+    },
+    {
+      "basename": "A Arte Da Sedução",
+      "path": "01.Assets/Readwise/Books/A Arte Da Sedução.md"
+    },
+    {
+      "basename": "Pensamento Eficaz",
+      "path": "01.Assets/Readwise/Books/Pensamento Eficaz.md"
+    },
+    {
+      "basename": "Paul Graham's Collection of Quotes",
+      "path": "01.Assets/Readwise/Books/Paul Graham's Collection of Quotes.md"
     },
     {
       "basename": "Insights Elon Musnk",
@@ -17,8 +45,20 @@
       "path": "00.Notes/Produtividade Jason Fladlien.md"
     },
     {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
       "basename": "ISTP Premium Guide Anotações",
       "path": "00.Notes/ISTP Premium Guide Anotações.md"
+    },
+    {
+      "basename": "Open Claude Free",
+      "path": "00.Notes/Open Claude Free.md"
+    },
+    {
+      "basename": "Prompt-AutoAceitação",
+      "path": "00.Notes/Prompt-AutoAceitação.md"
     },
     {
       "basename": "A razão de você se importar com o que os outros pensam",
@@ -159,46 +199,6 @@
     {
       "basename": "Assuntos Chick Crack",
       "path": "00.Notes/Assuntos Chick Crack.md"
-    },
-    {
-      "basename": "Octagram",
-      "path": "00.Notes/Octagram.md"
-    },
-    {
-      "basename": "Como se livrar da paixão by Js",
-      "path": "00.Notes/Como se livrar da paixão by Js.md"
-    },
-    {
-      "basename": "Spy Sw - Words to search ads",
-      "path": "00.Notes/Spy Sw - Words to search ads.md"
-    },
-    {
-      "basename": "Workflow Entp Focus",
-      "path": "00.Notes/Workflow Entp Focus.md"
-    },
-    {
-      "basename": "Zona de Genialidade",
-      "path": "00.Notes/Zona de Genialidade.md"
-    },
-    {
-      "basename": "chave_dbt",
-      "path": "00.Notes/chave_dbt.md"
-    },
-    {
-      "basename": "Type Grid - Cs Joseph",
-      "path": "00.Notes/Type Grid - Cs Joseph.md"
-    },
-    {
-      "basename": "Visual Thinking Canva",
-      "path": "00.Notes/Visual Thinking Canva.canvas"
-    },
-    {
-      "basename": "Pensamento de alto nível",
-      "path": "00.Notes/Pensamento de alto nível.md"
-    },
-    {
-      "basename": "Perfil Instagram Brain-Storm.",
-      "path": "00.Notes/Perfil Instagram Brain-Storm..md"
     }
   ],
   "omittedPaths": [
