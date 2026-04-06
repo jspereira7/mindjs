@@ -26,10 +26,15 @@
             "id": "dd880f6e5326bb4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Auto-conhecimento.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Auto-conhecimento"
             }
           }
         ],
@@ -52,12 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Auto-conhecimento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Auto-conhecimento"
             }
           },
           {
@@ -290,6 +296,7 @@
   },
   "active": "dd880f6e5326bb4c",
   "lastOpenFiles": [
+    "00.Notes/Auto-conhecimento.md",
     "00.Notes/ISTP Premium Guide Anotações.md",
     "00.Notes/ACESSO CURSO VAZADO - ALAN NICOLAS.md",
     "00.Notes/Octagram 4.1.md",
@@ -315,7 +322,6 @@
     "_vault-audit.md",
     "01.Assets/Templates/Tracker de Hábitos..md",
     "01.Assets/Templates/daily.md.md",
-    "01.Assets/Templates/book.md.md",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",
