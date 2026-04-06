@@ -1,0 +1,126 @@
+---
+tags:
+  - relacionamentos
+---
+- A medida que mais pessoas nascem ou desenvolvem problemas mentais, o impacto nos relacionamentos amorosos e no casamento provavelmente será drástico
+- O uso de tecnologia (celular e jogos online) reduz consideravelmente as habilidades sociais dos jovens. 
+
+
+## O paradoxo do auto aperfeiçoamento e da positividade 
+
+
+Karl max ficou conhecido como um nilista que preguava que a religião era o ópio do povo. 
+
+Muita gente entendeu essa frase como unicamente se referindo ao ateismo. 
+
+Mas o que ele queria dizer era que as pessoas poderosas usavam a religião para aliviar o sofrimento do povo pobre. 
+
+Dizendo a eles para não acumular riqueza na terra, mas sim tesouro no ceu. 
+
+E novas versões disso surgiram recentemente, como a mentalidade da prosperidade, e que é só mudar de mentalidade para enriquecer. 
+
+A verdade é que você não pode se transformar com alguma filosofia vaga e generica de mentalidade positiva. 
+
+## A tragedia da RedPill 
+
+A redpill ensina os homens a evitarem o matrimonio, e a se concentrarem no desenvolvimento da sua masculinidade, obtendo sexo sem ter que bancá-las financeiramente e emocionalmemente. 
+
+Eles ensinam homens caracteristicas de "Alpha" em oposição as caracteristicas Beta, que são os homens que se deixam levar pelas mulheres, sendo sensiveis e bajuladores.
+
+A redpill é um bom start para homens jovens começarem a se aprimorar, mas o sucesso não vem apenas de levantar peso e ter "game" e coisas do tipo, isso é apenas uma parcela 
+
+Na realidade, tudo é tão complexo que reconhecer essas dinamicas sociais é apenas uma parte de uma jornada de vida inteira
+
+Em segundo coaches aproveitaram essa conciencia da redpill para farmar dinheiro vendendo cursos e consultorias, ao inves de ensinar sobre biologia. 
+
+" Nunca confie em um coach de relacionamentos " 
+
+## Os méritos relativos da red pill 
+
+Os redpills acreditam que as mulheres primeiro selecionam homens com bons genes, e depois bons pais. 
+- Bons genes (alpha) x bom pai (beta)
+
+Isso acontece porque as mulheres possuem o ciclo menstrual, onde em uma fase de reprodução elas vão preferir os homens mais alphas, que são mais excitantes. 
+
+E logo após a relação sexual elas vão querer os bons pais. 
+
+Há estudos que comprovam que isso é verdade.. 
+
+O que os estudos tambem comprovam é que a mulher que toma ant-consepcionais, elimina sua fase de alpha, e vai preferir os bons pais. 
+
+Embora parcialmente corretos, os redpills erram quando presumem que podem emular esse alpha apenas com comportamentos e personalidade e game... 
+
+Mas isso não altera a altura fisica do cara, nem o rosto. 
+
+Será que é possivel realmente alterar a personalidade ? 
+- A personalidade depende muito da aparencia fisica e de outros aspectos genéticos, razão pela qual homens bonitos são considerados como "arrogantes" ou "rebeldes" 
+
+Um homem pode sim melhorar suas habilidades de comunicação, mas isso não irá transforma-lo num alpha de 1,90
+
+Essas habilidades não vão alterar como as mulheres o percebem, são beneficas mas não pode transformalos num macho alpha. 
+
+## "Apenas tenha confiança"
+
+A confiança realmente é um valor extremamente importante que comunica o status e os recursos de um homem.
+
+A confinaça surge como **resultado** do sucesso como observou Richard Wallace. 
+
+E ter sucesso em uma area não traduz confiança para outras areas. 
+
+As mulheres tambem conseguem identificar um homem que está confiante de um homem que está fingindo. 
+
+Esse argumento tambem ignora o fato de que a aparencia fisica de um homem, influencia na sua confiança com as mulheres, porque ele naturalmente recebe sinais de interrese, o que só aumenta sua confiança. 
+- No fundo ele sabe que as mulheres gostam dele. 
+
+ E sua aparencia tambem o ajuda no conceito da pré seleção, onde homens vistos com mulheres atraentes são vistos como de maior valor e por isso atrairão mais mulheres. 
+
+Agora imagine um homem que é baixo e não tem uma boa aparencia facial, ele é constantemete rejeitado, e por isso não tem confiança nenhuma em sí mesmo. 
+
+E isso vira uma bola de neve, porque ser rejeitado por uma mulher, tambem causa sérios danos a sua reputação, o que o leva a ser mais rejeitado ainda. 
+
+## Game & Personalidade
+
+No livro " The Game " neil straus ensina dicas de sedução, que segundo ele funcionam com qualquer pessoa, mas segundo ele um cara de 1,68cm e careca, teve sucesso com mulheres ? 
+
+Ele era conhecido e era amigo de várias celebridades, o que o encaixa em um dos padrões apresentados pelos black pill ADS (Aparencia,Dinheiro e Status)
+
+## " é um jogo de numeros "  
+
+Os gurus dizem em uma taxa de conversão em sexo em 3%, 5% pense em quão riduculo tudo isso é, você teria que abordar milhares de mulheres, algo impraticavel. 
+
+E isso quer dizer que você  tambem está atrás de qualquer coisa, gordas, feias e etc... 
+
+## " Seja você mesmo "
+
+Eles dizem que fingir ser alguem que você não é não é uma abordagem correta, portanto a estrategia de ser você mesmo deveria ser abordada. 
+
+Isso soa bem, mas quem exatamente acredita que um nerd com interreses intelectuais deveria exibir isso para o publico feminino moderno. 
+
+> "Todo ganho intelectual exige uma perda de potencia sexual - e vice versa "
+
+A verdade é que extrovertidos tem mais relações sexuais, mas será que alguem poderia alterar sua personalidade para ter mais sucesso sexual ? 
+
+É possivel reformular a narrativa individual e começar a gerar resultados diferentes mas uma transformação completa da personalidade é improvavel. 
+
+O autor detalha sobre como conseguiu se tornar mais extrovertido se desafiando socialmente, no livro " The Warrior " 
+
+No caso de personalidades introvertidas, conversar com os outros ou iniciar conversas é bastante desagradavel, o que por sua vez complica as possibilidades romanticas. 
+
+Os introvertidos tem esse sentimento: 
+
+" A compania humana é bastante entediante, prefiro ficar sozinho para ter a liberdade de deixar meus pensamentos fluirem como eu quiser, eu evito complicaçõs desnecessarias, relacionamentos interpessoais geralmente se enquadram nessa categoria, São repletos de ações ocultas e sinais de disputa de status e hierarquia, que me irritam e eu não quero participar "
+
+Imagine um introvertido desse jeito nos dias atuais modernos, ele tem dificuldade em se integrar com certo grupo social devido a certos julgamentos feitos pelos membros, sobre sua aparencia ou comportamento, e tem poucas opções além de usar aplicativos de relacionamento para encontrar conexões romanticas. 
+
+Some isso a uma aparencia que não se encaixa no mundo dos filtros de fotos, e você tem uma combinação poderosa para alguem que será completamente excluido do mercado de relacionamentos. 
+
+A verdade é que nem mesmo podem mudar seu comportamento cotidiano para resolver o problema. 
+
+
+
+
+
+
+
+
+
