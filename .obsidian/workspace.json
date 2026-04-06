@@ -36,16 +36,6 @@
               "icon": "lucide-file",
               "title": "Plan 2026"
             }
-          },
-          {
-            "id": "b5f230ae975663fe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 1
@@ -306,6 +296,7 @@
   },
   "active": "af0428626491aa4b",
   "lastOpenFiles": [
+    "00.Notes/Variaveis de Ambiente do Claude Code.md",
     "00.Notes/Plan 2026.md",
     "00.Notes/ISTP Premium Guide Anotações.md",
     "00.Notes/Instruções IA - Concrete Type.md",
@@ -331,7 +322,6 @@
     "00.Notes/Origem Cognitiva.md",
     "00.Notes/Entp Behind the mask.md",
     "00.Notes/Entp.md",
-    "_vault-audit.md",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",
