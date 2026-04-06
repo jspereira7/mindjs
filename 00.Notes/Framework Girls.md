@@ -6,3 +6,10 @@ Então, tudo no final se resume a aparencia de certa forma...
 
 Como o thunks do futuro diz, o que vai mais te facilitar no jogo de relacionamentos á curto prazo é aparencia. 
 
+
+## Veja também
+
+- [[Assuntos Chick Crack]]
+- [[Attomic atraction]]
+- [[Como lidar com as mulheres - Nessaham alita.]]
+- [[Hipergamia Estudo]]

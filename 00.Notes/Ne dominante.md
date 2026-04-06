@@ -24,3 +24,10 @@ Ne dominante = Se orgulha de suas próprias presunções
 
 Ti inferior = é irresponsavel verificando verdades. 
 
+
+## Veja também
+
+- [[Ne - Intuição Extrovertida]]
+- [[Forças e fraquezas de usuarios de Ne]]
+- [[Ne Hero Productivity]]
+- [[ENTP-ENFP Ne Hero]]

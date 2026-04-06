@@ -13,3 +13,10 @@ São “atalhos” conversacionais ou comportamentais que funcionam quase como d
 - **Conversas dramáticas**: triângulos amorosos, fofoca, histórias de traição
 - **Frames emocionais**: fazer ela imaginar uma cena, criar fantasia, contar histórias com suspense.
 
+
+## Veja também
+
+- [[Attomic atraction]]
+- [[Framework Girls]]
+- [[Como lidar com as mulheres - Nessaham alita.]]
+- [[Anotações Nessaham Alita]]

@@ -102,4 +102,16 @@ O Critic é uma das funções mais difíceis de lidar, mas quando superamos noss
 
 A função Critic, quando amadurecida, pode se tornar fonte de **crescimento e milagres** ao invés de apenas amargura e crítica.
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[Funções Cognitivas CsJoseph]]
+
 

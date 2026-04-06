@@ -55,3 +55,9 @@ Basicamente o Si inferior é o medo de ter sensações comporais desconfortaveis
 - Ou quando eu preciso chegar em uma menina, eu tenho medo dos outros tirarem sarro de mim, e eu sentir sensações ruins. 
 
 
+
+## Veja também
+
+- [[Sensação Introvertida (Se)]]
+- [[Função Inferior]]
+- [[ENTP-ENFP Ne Hero]]

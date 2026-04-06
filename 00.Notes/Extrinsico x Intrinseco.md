@@ -15,3 +15,8 @@ Se intrinsic = Está recebendo o que as pessoas estão fazendo
 
 ----
 
+
+## Veja também
+
+- [[Insights Livro Habitos Atomicos]]
+- [[Administração de Tempo dos Bilionarios.]]

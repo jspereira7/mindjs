@@ -12,3 +12,8 @@
 - Leitura + 
 - Computador, estudando psicologia =
 
+
+## Veja também
+
+- [[Insights Livro Habitos Atomicos]]
+- [[Plano de melhora de vida]]

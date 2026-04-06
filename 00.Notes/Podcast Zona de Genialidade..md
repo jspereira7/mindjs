@@ -38,3 +38,7 @@ O seu inconsciente já sabe a sua Zona de Genialidade.
 - Por isso voce precisa de outras pessoas pra te ajudar com a sua sombra. 
 
 **O chamado está em curar a criança e o adolescente que voce foi.** 
+## Veja também
+
+- [[Zona de Genialidade]]
+- [[Curso Zona de Genialidade - Alan Nicolas]]

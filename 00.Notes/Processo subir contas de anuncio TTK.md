@@ -4,3 +4,9 @@ Colocar o link do cloacker no botão da pagina white da shopify, e depois que a 
 
 A pagina white é o produto white da shopify. 
 
+
+## Veja também
+
+- [[Insight Ouro TikTokAds]]
+- [[Engenharia Reversa - API TIKTOK ADS]]
+- [[Parametros Campanha]]

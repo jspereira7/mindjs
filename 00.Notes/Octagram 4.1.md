@@ -98,3 +98,12 @@ Enforcer=udsfmale if  introverted
 
 ----
 
+## Veja também
+
+- [[Octagram 4.0 - Cs Joseph]]
+- [[Octagram]]
+- [[Octagram 4 - Core Fears]]
+- [[How to type yourself 2.0]]
+- [[How to type yourself 3.0 - Cs Joseph]]
+- [[Entp Octagram variants]]
+

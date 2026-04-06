@@ -136,3 +136,16 @@ Enquanto a Sensação Extrovertida (Se) percebe o que está acontecendo no mundo
 
 [[Função Heroi]]
 
+
+## Veja também
+
+- [[ENTP - Description]]
+- [[Entp Behind the mask]]
+- [[ENTP-ENFP Ne Hero]]
+- [[ENTP-ENFP Si-Inferior]]
+- [[Ne dominante]]
+- [[Ne Hero Productivity]]
+- [[Intuição Introvertida (Ni)]]
+- [[Sensação Introvertida (Se)]]
+- [[Funções Cognitivas - Cs Joseph]]
+- [[Forças e fraquezas de usuarios de Ne]]

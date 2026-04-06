@@ -8,3 +8,15 @@ Essa é uma nota que mostra os tipos de personalidade da minha familia.
 - Filho 4: [[Gislaine Pereira - Typar]]
 
 
+
+## Veja também
+
+- [[Sebastião Pereira - ESFP]]
+- [[Ana Paula - INFP UDSF]]
+- [[Jéssica Pereira - Typar]]
+- [[Tipagem Heloisa IG]]
+- [[Tipagem Heloisa Ig 2]]
+- [[Tipagem Ana Vitoria]]
+- [[Ana Vitoria - Tipagem]]
+- [[Tipagem JS]]
+- [[Possiveis personalidades minhas]]

@@ -20,3 +20,8 @@ Atualmente a tipei como ISTP
 
 
 
+
+## Veja também
+
+- [[Tipagem Heloisa IG]]
+- [[Familia Typagem]]

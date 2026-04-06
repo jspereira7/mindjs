@@ -184,3 +184,7 @@ Então, segundo a lei de murphy, se desejamos algo, o simples ato de desejar mod
 
 ---
 
+
+## Veja também
+
+- [[Como lidar com as mulheres - Nessaham alita.]]

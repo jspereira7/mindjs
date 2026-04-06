@@ -65,3 +65,9 @@
 • Podem descobrir que falam demais e são surdos à própria verbosidade
 • Pode ser facilmente distraído pelas ideias dos outros.
 • Pode superá-los com uma demonstração de fluência verbal.
+## Veja também
+
+- [[Ne - Intuição Extrovertida]]
+- [[Ne Hero Productivity]]
+- [[Ne dominante]]
+- [[Função Hero]]

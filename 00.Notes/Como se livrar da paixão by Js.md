@@ -22,3 +22,9 @@ O corpo é inteligente, ele vai se curando aos poucos, mas você precisa não in
 
 A sua vida não vai ficar pior sem um relacionamento, se divirta com seus amigos, jogue bola e é isso. 
 
+
+## Veja também
+
+- [[Como lidar com as mulheres - Nessaham alita.]]
+- [[Insights para melhora da estética em 2026 - Js]]
+- [[Tipagem JS]]

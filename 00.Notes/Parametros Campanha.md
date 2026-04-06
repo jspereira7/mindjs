@@ -23,3 +23,9 @@ https://rewards.fwpromotions.eu.cc/click?src=__CSITE__&sku=__PLACEMENT__&ttclid=
 ----
 
 
+
+## Veja também
+
+- [[Analise de Metricas para cortar campanhas sem lucro.]]
+- [[Teste de Campanha]]
+- [[Insight Ouro TikTokAds]]

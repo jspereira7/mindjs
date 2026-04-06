@@ -83,3 +83,9 @@ GoogleAds pra gringa é o que está dando mais lucro e roi.
 
 
 
+
+## Veja também
+
+- [[Estratégia pra levantar caixa]]
+- [[Traffic Brokering - How to Make Money with Affiliates]]
+- [[Canais para se inspirar no modelo de negocio]]

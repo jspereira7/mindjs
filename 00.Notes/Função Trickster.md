@@ -100,4 +100,16 @@ A maioria das pessoas não percebe suas limitações no Trickster, então **ter 
 
 O Trickster é nossa **maior fraqueza disfarçada de força**. Precisamos de **outros** para nos proteger e ensinar nessa área. Aceitar essa limitação com humildade é essencial para evitar os desastres que podem acontecer quando deixamos nosso ponto cego assumir o controle.
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Demon]]
+- [[Funções Cognitivas CsJoseph]]
+
 

@@ -167,3 +167,12 @@ Acho que a vida é um quebra-cabeça e continuamos brincando com como as peças 
 
 **Algo novo e desafiador é sempre mais interessante para mim do que algo em que já sou competente.**
 
+
+## Veja também
+
+- [[Entp]]
+- [[Entp Behind the mask]]
+- [[ENTP SDUF]]
+- [[ENTP Social Skills]]
+- [[Optimizing Social Skills - ENTP]]
+- [[Ne - Intuição Extrovertida]]

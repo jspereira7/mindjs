@@ -74,3 +74,8 @@ Agora, pra não ter sua conta banida, manja? Faz um esquema usando **IPs rotati
 Outra coisa que ajuda: testa isso num ambiente de teste antes de rodar tudo de uma vez
 
 Qualquer coisa a mais que precisar ajustar ou que você não entendeu me avisa irmão...
+## Veja também
+
+- [[Automação e WebScraping (Ouro)]]
+- [[Web Scraping - Guia]]
+- [[Learning AI - N8N]]

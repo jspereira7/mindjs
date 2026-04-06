@@ -33,3 +33,9 @@ Você precisa deixar se levar aonde a vida quer te levar
 
 
 
+
+## Veja também
+
+- [[Octagram 4 - Core Fears]]
+- [[Ego Hacking Your Fear]]
+- [[Função Inferior]]

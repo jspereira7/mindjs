@@ -7,3 +7,9 @@
 
 Então esse processo não vale a pena ser automatizado... 
 
+
+## Veja também
+
+- [[Automação e WebScraping (Ouro)]]
+- [[Web Scraping - Guia]]
+- [[Automação usando API não oficial]]

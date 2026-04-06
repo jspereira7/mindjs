@@ -48,3 +48,9 @@
 ---
 
 
+
+## Veja também
+
+- [[ESTP - Description]]
+- [[ESTP Development]]
+- [[ESTP Social Optmization - Video CSJ]]

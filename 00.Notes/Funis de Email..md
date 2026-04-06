@@ -27,3 +27,8 @@ Eventos do lead no funil:
 - Order Paid
 - Order Refund
 - Purchase Upsell
+## Veja também
+
+- [[Traffic Brokering - How to Make Money with Affiliates]]
+- [[Passo a passo RTK + CartPanda]]
+- [[Como ficar Rico]]

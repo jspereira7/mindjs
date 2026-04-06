@@ -84,3 +84,11 @@ Ou seja: **Não tem como ter resultados diferentes, fazendo as mesmas coisas que
 ---
 
 
+
+## Veja também
+
+- [[Action plan 2026]]
+- [[Plano de Ação 2026]]
+- [[Planejamento próximos passos]]
+- [[Planejamento Segunda Feira]]
+- [[Planejamento Venvanse e consulta psiquiatra]]

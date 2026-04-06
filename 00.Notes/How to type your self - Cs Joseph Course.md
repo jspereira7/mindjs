@@ -415,3 +415,10 @@ O templo é criado devido a origin cognitiva do tipo.
 - A origem cognitiva é o que a pessoa deseja da vida. 
 
 
+
+## Veja também
+
+- [[How to type yourself 2.0]]
+- [[How to type yourself 3.0 - Cs Joseph]]
+- [[How to type other people.]]
+- [[Visual Typing - Cs Joseph]]

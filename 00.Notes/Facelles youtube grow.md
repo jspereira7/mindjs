@@ -74,3 +74,11 @@ E vamos aplicar esse conteudo no brazil e ganhar dinheiro sem se esforçar muito
 
 
 
+
+## Veja também
+
+- [[Como monetizar videos facilmente com Yt Shorts]]
+- [[Curso Youtube Lutz]]
+- [[Youtube Dark - Hacks]]
+- [[Processo criação de video do youtube.]]
+- [[Template Video do Canal]]

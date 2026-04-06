@@ -118,3 +118,8 @@ O **desenvolvimento natural**, se o permitirmos, nos conduz a expressar não ape
 A **primeira fase do desenvolvimento** possibilita uma **aceitação de si mesmo e dos outros**, que leva naturalmente à **segunda fase**, rumo à integração com o mundo maior. 
 
 Podemos **nos permitir ser quem somos — nem mais, nem menos — apenas na medida em que conseguimos ver e reconhecer todas as nossas partes**.
+## Veja também
+
+- [[Action plan 2026]]
+- [[Plano de melhora de vida]]
+- [[A pergunta que ir resolver minha vida]]

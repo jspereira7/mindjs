@@ -40,3 +40,9 @@ https://zxjz1.ttrk.io/postback?status=approved&clickid={cid}&sum={total_price}
 
 
 
+
+## Veja também
+
+- [[Traffic Brokering - How to Make Money with Affiliates]]
+- [[Funis de Email.]]
+- [[Estratégia pra levantar caixa]]

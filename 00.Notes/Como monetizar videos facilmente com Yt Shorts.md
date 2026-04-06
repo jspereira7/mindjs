@@ -31,3 +31,11 @@ Se você já tem um canal para direcionar tráfego, direcione-o para o seu canal
 Crie visibilidade e atividade no canal: as pessoas comentam, curtem e respondem aos seus vídeos. Dessa forma, elas ficarão mais dispostas a comentar e talvez até se inscrever no seu canal, o que tem um impacto enorme nas suas recomendações do YouTube.
 
 
+
+## Veja também
+
+- [[Facelles youtube grow]]
+- [[Curso Youtube Lutz]]
+- [[Youtube Dark - Hacks]]
+- [[Wanner Cash Cow Course]]
+- [[O sistema Zen - Abraham]]

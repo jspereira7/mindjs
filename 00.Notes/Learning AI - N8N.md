@@ -158,3 +158,10 @@ Esses são os nodes que você precisa aprender e dominar para conseguir criar qu
 
 
 
+
+## Veja também
+
+- [[Automação usando API não oficial]]
+- [[Web Scraping - Guia]]
+- [[Processo logar contas no automatico]]
+- [[Google Colab Scene Detect]]

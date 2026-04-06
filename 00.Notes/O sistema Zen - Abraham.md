@@ -27,3 +27,11 @@ Assista todos os videos,e elimine os que não tem nada interresante, e deixe som
 
 
 
+
+## Veja também
+
+- [[Perfil de Usuario que assiste Abraham]]
+- [[Curso Criador Zen]]
+- [[WiseReads]]
+- [[Wanner Cash Cow Course]]
+- [[Como monetizar videos facilmente com Yt Shorts]]

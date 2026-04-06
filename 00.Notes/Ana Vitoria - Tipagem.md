@@ -15,3 +15,9 @@ Até o atual momento pra mim ela é uma ISFP SDSF
 
 ----
 
+
+## Veja também
+
+- [[Tipagem Ana Vitoria]]
+- [[Familia Typagem]]
+- [[Tipagem Heloisa IG]]

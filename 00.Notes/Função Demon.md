@@ -105,3 +105,15 @@ A função Demon é paradoxal: nossa função **mais amorosa** mas também **mai
 
 A chave é **desenvolvimento consciente** ao invés de explosões desesperadas.
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Funções Cognitivas CsJoseph]]
+

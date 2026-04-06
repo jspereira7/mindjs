@@ -25,3 +25,9 @@ Sql é uma linguagem usada para interagir com banco de dados relacionais. (Famos
 
 ---
 
+
+## Veja também
+
+- [[Asimov Academy - Curso - Acesso]]
+- [[Limpeza de dados]]
+- [[Hacking]]

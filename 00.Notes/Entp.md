@@ -1,6 +1,10 @@
-#autoconhecimento/entp 
+#autoconhecimento/entp
 
-Criativo 
+- [[ENTP - Description]]
+- [[Entp Behind the mask]]
+- [[Ne - Intuição Extrovertida]]
+
+Criativo
 Inventivo
 
 Gostam de teorias, não fatos, ao ler um livro, vão atrás dos conceitos, não dos fatos como isso aconteceu em 1994 etc...
@@ -9,5 +13,4 @@ O entp não gosta de se envolver com o mundo exterior, mas ainda sim tem facilid
 
 ENTP tem uma fraqueza sensorial, eles realmente não gostam de sentir as coisas....
 
-Quando estão realmetente se envolvendo com o mundo exterior,  o sensorial não os incomoda...
-
+Quando estão realmetne se envolvendo com o mundo exterior,  o sensorial não os incomoda...

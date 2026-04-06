@@ -81,4 +81,16 @@ A Nemesis quer que vejamos **o que não estamos prestando atenção**. Ela nos g
 
 A Nemesis existe para **equilibrar** nosso Hero, evitando que nossa competência e orgulho nos tornem cegos para aspectos importantes que estamos perdendo. É um mecanismo interno de **autocorreção** e **crescimento**.
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[Funções Cognitivas CsJoseph]]
+
 

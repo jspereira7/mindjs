@@ -672,3 +672,9 @@ O valor social é exatamente isso: participar de interações sociais que levam 
 Então, enfim, pessoal, é isso para a temporada 12, parte dois, episódio dois: como otimizar a interação social para ESTPs. 
 
 Obrigado por assistirem e ouvirem, e vejo todos vocês no próximo episódio.
+
+## Veja também
+
+- [[ESTP]]
+- [[ESTP Development]]
+- [[ESTP - Description]]

@@ -11,3 +11,6 @@ Sim, consigo me identificar um pouco com isso. Precisamos diferenciar **ideaçã
 Existe uma série de livros escrita por um cara chamado **Tom Brown** sobre rastreamento. Quando ele era menino, seu professor fazia com que ele se sentasse no chão e estudasse uma seção de **30 cm x 30 cm** por uma hora. Eles fizeram isso várias vezes.
 
 Ele aprendeu que há uma quantidade imensa de informações a serem observadas, mesmo em um espaço tão pequeno — insetos, o modo como a chuva molda diferentes tipos de terra, e assim por diante.
+## Veja também
+
+- [[NURBS INSIGHT]]

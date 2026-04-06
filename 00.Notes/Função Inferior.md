@@ -94,3 +94,16 @@ Lembre-se: onde somos mais fracos, podemos nos tornar mais fortes.
 
 A função Inferior, junto com a Nemesis (próximo tópico), são as duas principais fontes de preocupação em nossas mentes.
 
+## Veja também
+
+- [[Função Hero]]
+- [[Função Heroi]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
+- [[A função Inferior - Marie Louise]]
+- [[Funções Cognitivas CsJoseph]]
+

@@ -8,3 +8,11 @@ Meus talentos: Exploration and acurracy.
 
 E explorar ao máximo o uso da IA para responder certas perguntas. 
 
+
+## Veja também
+
+- [[Can greatness and happy coexist ?]]
+- [[Action plan 2026]]
+- [[Entp]]
+- [[Como ficar Rico]]
+- [[Ideia Milionaria]]

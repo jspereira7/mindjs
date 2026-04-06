@@ -38,3 +38,8 @@ Ver as coisas como uma questão de equilíbrio.
 
 ----
 
+
+## Veja também
+
+- [[NURBS INSIGHT ABOUNT EXECUTION]]
+- [[A falacia da grande ideia]]

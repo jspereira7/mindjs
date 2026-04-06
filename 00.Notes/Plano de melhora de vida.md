@@ -32,3 +32,9 @@ Então ele será o app mais importante de todos, porque estará o que eu preciso
 
 ---
 
+
+## Veja também
+
+- [[Action plan 2026]]
+- [[Planejamento 2026]]
+- [[Can greatness and happy coexist ?]]

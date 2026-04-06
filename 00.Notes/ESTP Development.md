@@ -36,3 +36,9 @@ Agora a pergunta é, como vamos criar esse sistema ?
 
 
 
+
+## Veja também
+
+- [[ESTP]]
+- [[ESTP - Description]]
+- [[ESTP Social Optmization - Video CSJ]]

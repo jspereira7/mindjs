@@ -103,3 +103,10 @@ Tipos "UDUF" (Unconscious Developed/Focused) podem ser enganosos, pois sua apres
 
 
 
+
+## Veja também
+
+- [[Video CsJoseph - Porque a maioria dos relacionamentos falham]]
+- [[The 8 Sexually Compatible Relationships]]
+- [[Type Grid - Cs Joseph]]
+- [[Quadras - CsJoseph]]

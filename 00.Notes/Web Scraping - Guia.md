@@ -160,3 +160,10 @@ Várias partes são necessárias para que esse projeto execute. A primeira e�
 
 
 
+
+## Veja também
+
+- [[Automação e WebScraping (Ouro)]]
+- [[Automação usando API não oficial]]
+- [[Processo logar contas no automatico]]
+- [[Learning AI - N8N]]

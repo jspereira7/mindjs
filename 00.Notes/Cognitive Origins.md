@@ -19,7 +19,7 @@
 **Satisfaction**
 - ***Covetous***, Zealotry, Rivalry, Ruthless, Revenge, Stoic
 - ***Fulfillment***, Attainment, Contentment, Effort, Chivalry, Comfort (Give if they is pull)
-    
+
 **Reverence**
 - ***Superficial***, Competitive, Privilege, Egotistical, Glory, Shallow
 - ***Respect***, Regard, Dignity, Admiration, Treasure, Noticed (Give if they is pull)
@@ -32,7 +32,7 @@
 **Purpose**
 - ***Opportunism***, Impulsive, Exploit, Insatiable, Scheming, Materialistic
 - ***Ambition***, Aspiration, Determination, Results, Efficacy, Memorable (Give if they is pull)
-    
+
 **Discovery**
 - ***Appeasement***, Gratification, Deprecation, Indulgence, Debauchery, Scrutiny
 - ***Exploration***, Curiosity, Inquisitiveness, Searching, Investigation, Undertaking (Give if they is pull)
@@ -45,10 +45,16 @@
 **Authority**
 - ***Power***, Denial, Force, Treachery, Command, Rule
 - ***Prestige***, Legitimate, Credible, Prerogative, Permit, Access (Give if they is pull)
-    
+
 **Validation**
 - ***Dismiss***, Disregard, Abrasive, Compelling, Resolute, Somber
 - ***Acceptance***, Affirmation, Appreciation, Compromise, Verification, Certainty (Give if they is pull)
 
 ---
 
+## Veja também
+
+- [[Origem Cognitiva]]
+- [[Ego Hacking by Cognitive Origins]]
+- [[Fundamentos Psicologia Junguiana]]
+- [[Funções Cognitivas - Cs Joseph]]

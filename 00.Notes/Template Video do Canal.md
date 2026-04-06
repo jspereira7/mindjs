@@ -11,3 +11,8 @@ Tema:
 **5 - Ajude as pessoas com alguma dica sobre o tema:** É por esse motivo que... 
 
 **6 - Finalize, peça o like:** Use a autoridade que você conquistou durante todo o video para deixar uma cicatriz no espectador
+
+## Veja também
+
+- [[Processo criação de video do youtube.]]
+- [[Facelles youtube grow]]

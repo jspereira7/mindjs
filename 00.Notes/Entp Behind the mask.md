@@ -202,9 +202,29 @@ O "Rogue" é em suma, um tipo que busca verdade e melhoria constante, tanto para
 
 Que a vontade de vencer sempre seja maior que suas dores.
 
-O que eu preciso é fortacer novamente minha mentalidade, lendo todos os dias, tendo bons mentores, como robert greene e outros livros. 
+O que eu preciso é fortacer novamente minha mentalidade, lendo todos os dias, tendo bons mentores, como robert greene e outros livros.
 
-Ler é o meu maior ponto de alavancagem. 
+Ler é o meu maior ponto de alavancagem.
 
 ---
+
+## Veja também
+
+- [[ENTP - Description]]
+- [[Entp]]
+- [[ENTP SDUF]]
+- [[Ne - Intuição Extrovertida]]
+- [[Pensamento Introvertido (Ti)]]
+- [[Sentimento Introvertido (Fi)]]
+- [[Sensação Introvertida (Se)]]
+- [[Intuição Introvertida (Ni)]]
+- [[Pensamento Extrovertido (Te)]]
+- [[Função Hero]]
+- [[Função Parent]]
+- [[Função Child]]
+- [[Função Inferior]]
+- [[Função Nemesis]]
+- [[Função Critic]]
+- [[Função Trickster]]
+- [[Função Demon]]
 

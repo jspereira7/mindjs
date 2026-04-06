@@ -26,3 +26,11 @@ Trate cada projeto como um “paciente”: alguns críticos, outros estáveis. *
 
 ---
 
+
+## Veja também
+
+- [[Ne - Intuição Extrovertida]]
+- [[Ne dominante]]
+- [[ENTP-ENFP Ne Hero]]
+- [[Entp Produtividade - Cs Joseph]]
+- [[Produtividade ENTP]]

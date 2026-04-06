@@ -17,3 +17,11 @@ Me identifiquei com ENTP por exemplo.
 	- ENFP
 
 ---
+
+## Veja também
+
+- [[Tipagem JS]]
+- [[ENTP - Description]]
+- [[ESTP - Description]]
+- [[Entp]]
+- [[ESTP]]

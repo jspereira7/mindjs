@@ -15,3 +15,9 @@ Porque os sistemas, serão o que irá te ajudar a passar ao redor do dia.
 Você tem que escrever tudo, manter um bloco de notas, ou um word dock.
 
 Ou contratar o Whimscal 
+## Veja também
+
+- [[Entp Produtividade - Cs Joseph]]
+- [[Ne Hero Productivity]]
+- [[Systema de Vida ENTP]]
+- [[Workflow Entp Focus]]

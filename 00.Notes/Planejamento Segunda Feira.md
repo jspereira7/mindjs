@@ -23,3 +23,9 @@
 
 ---
 
+
+## Veja também
+
+- [[Planejamento 2026]]
+- [[Planejamento próximos passos]]
+- [[Planejamento Venvanse e consulta psiquiatra]]

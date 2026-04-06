@@ -107,3 +107,9 @@ Ego Hacking your fear é o curso mais importante já produzido pelo chase, em te
 
 
 
+
+## Veja também
+
+- [[Optimizing Social Skills - ENTP]]
+- [[Entp Behind the mask]]
+- [[Entp]]

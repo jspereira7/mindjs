@@ -44,3 +44,9 @@ Certifique-se de que seus titulos tenham os maiores click baits logo no inicio d
 
 ---
 
+
+## Veja também
+
+- [[Facelles youtube grow]]
+- [[Curso Youtube Lutz]]
+- [[Como monetizar videos facilmente com Yt Shorts]]

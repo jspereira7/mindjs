@@ -10,3 +10,8 @@
 - Templo dela é SP.
 ### ISTP
 - 
+
+## Veja também
+
+- [[Tipagem Heloisa Ig 2]]
+- [[Familia Typagem]]

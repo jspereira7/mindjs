@@ -98,3 +98,9 @@ Mulher:
 - SD = Emocionalmente explosiva, expressa seus sentimentos, fala bastante. Encherga os homens emocionalmente implosivos como fortes.
 - UD = Emocionalmente implosiva, quieta, fala pouco, encherga os homens emocionalmente explosivos como fortes. 
 
+
+## Veja também
+
+- [[How to dating right - CsJoseph]]
+- [[The 8 Sexually Compatible Relationships]]
+- [[Type Grid - Cs Joseph]]

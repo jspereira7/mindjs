@@ -214,3 +214,9 @@ A excitação não satisfeita promove um estado de desconforto que pode ser prol
 É por este motivo que o ódio ou a indiferença real por parte do homem as atemoriza: as torna impotentes.
 
 ## A ultrapassagem das defesas emocionais 
+## Veja também
+
+- [[Anotações Nessaham Alita]]
+- [[Assuntos Chick Crack]]
+- [[Attomic atraction]]
+- [[Como se livrar da paixão by Js]]

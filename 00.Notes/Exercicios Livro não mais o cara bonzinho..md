@@ -104,3 +104,7 @@ Como por exemplo "Dizer Eu te amo" para receber um Eu te amo de sua parceira com
 ---
 
 Parei na pagina 79.
+## Veja também
+
+- [[Attomic atraction]]
+- [[Rei, Guerreiro, Mago, Amante - Resumo]]

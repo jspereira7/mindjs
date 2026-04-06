@@ -153,3 +153,10 @@ Homens SD levam muito até que eles tenham um relacionamento sexual.
 
 ----
 
+
+## Veja também
+
+- [[Octagram 4.1]]
+- [[Octagram 4.0 - Cs Joseph]]
+- [[Octagram 4 - Core Fears]]
+- [[ENTP SDUF]]

@@ -86,3 +86,9 @@ Entregue um conteudo de valor.
 - 
 
 
+
+## Veja também
+
+- [[Como monetizar videos facilmente com Yt Shorts]]
+- [[Facelles youtube grow]]
+- [[Processo criação de video do youtube.]]

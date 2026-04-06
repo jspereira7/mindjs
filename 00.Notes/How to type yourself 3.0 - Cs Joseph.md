@@ -176,3 +176,9 @@ ____________
 When environment changes for men, their cognitive development UD/SD changes between open/Explosive (initiating) UDJM (UDSF), UDPM (UDUF) to Closed/Implosive (Responding) SDJM (SDUF), SDPM (SDSF) and (vise versa) while their cognitive focus never changes regardless of what environment they are in
 
 When environment changes for women, their cognitive focus SF/UF changes between authentic/direct SDJF (SDSF), UDJF (UDUF) to harmonious/Informative SDPF (SDUF), UDPF (UDSF) and (vise versa) while their cognitive development never changes regardless of what environment they are in
+## Veja também
+
+- [[How to type yourself 2.0]]
+- [[How to type your self - Cs Joseph Course]]
+- [[OCTAGRAM NEW]]
+- [[Octagram 4.1]]

@@ -14,3 +14,9 @@
 
 ⏱️ **Tempo total planejado**: 4h15min  
 
+
+## Veja também
+
+- [[Planejamento 2026]]
+- [[Action plan 2026]]
+- [[Planejamento Segunda Feira]]

@@ -38,3 +38,10 @@ A melhor forma de fazer isso é aplicar o livro dos hábitos atomicos
 
 Caracteristicas do ENTP
 - 
+
+## Veja também
+
+- [[Action plan 2026]]
+- [[Planejamento 2026]]
+- [[Planejamento Segunda Feira]]
+- [[Plano de melhora de vida]]

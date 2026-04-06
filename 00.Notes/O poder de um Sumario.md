@@ -4,3 +4,7 @@ Porque ao inves de assistir um video inteiro, voce apenas bate o olho no sumario
 
 Tornando sua vida muito mais facil... 
 
+
+## Veja também
+
+- [[How to take Smart Notes - Asimov]]

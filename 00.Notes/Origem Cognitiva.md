@@ -11,7 +11,14 @@ Se você está procurando por Justificativa, Intimidade, Satisfação, Reverênc
 
 Tratar os outros exatamente da maneira que eu quero ser tratado. Mas a maioria das outras pessoas não quer ser tratada exatamente como eu quero ser, assim como você não quer ser tratado exatamente da maneira que os outros querem ser.
 
- “Eu quero _x_, então vou fornecer _x_ para os outros.” — vem NATURALMENTE para muitas pessoas. _
+ "Eu quero _x_, então vou fornecer _x_ para os outros." — vem da nossa Origem Cognitiva.
+
+## Veja também
+
+- [[Cognitive Origins]]
+- [[Ego Hacking by Cognitive Origins]]
+- [[Fundamentos Psicologia Junguiana]]
+- [[Funções Cognitivas - Cs Joseph]]NATURALMENTE para muitas pessoas. _
  
  Observe o comportamento de alguém, e muitas vezes eles revelam as chaves para a mesma coisa que querem, com base em como tratam os outros.
 

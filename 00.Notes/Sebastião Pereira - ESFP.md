@@ -106,3 +106,8 @@ Para aprender como acelerar veja a temporada 29 em csjoseph.life
 
 Eles geralmente são a luz alegre dentro de uma sala em que estejam, embora possam parecer superficiais, eles sabem que sua alegria pode estar. 
 
+
+## Veja também
+
+- [[Familia Typagem]]
+- [[ESFP - Cs Joseph]]

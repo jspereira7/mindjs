@@ -552,3 +552,9 @@ Precisamos nos comprometer de corpo e alma a desenvolver a nossa masculinidade m
 
 
 
+
+## Veja também
+
+- [[Attomic atraction]]
+- [[High Value Men - Framework]]
+- [[Exercicios Livro não mais o cara bonzinho.]]

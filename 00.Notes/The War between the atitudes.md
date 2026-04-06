@@ -143,3 +143,8 @@ Já as descrições de Jung focavam nas disfunções de cada tipo em excesso, mo
 O modelo de Beebe uniu os modelos de Jung e Myers sob um mesmo guarda-chuva, esclarecendo a relação entre os dois focos da seguinte forma: “A consciência, para Jung, a ferramenta com a qual o inconsciente deve ser investigado, é uma propriedade emergente do próprio inconsciente” (Beebe, 2004/2017, p. 23). Essa observação explicou aos praticantes de tipologia o nível mais profundo implícito no sistema tipológico de Jung e explicou aos junguianos como a tipologia é intrinsecamente uma prática da psicologia profunda. 
 
 Assim, além de construir uma ponte entre tipos e arquétipos, o modelo das oito funções construiu uma ponte entre a comunidade de analistas junguianos e a comunidade de profissionais da tipologia — duas comunidades que permaneceram amplamente separadas até que o trabalho de Beebe ofereceu uma interface por meio de seu modelo.
+## Veja também
+
+- [[Authentic x Harmonious]]
+- [[Entp Octagram variants]]
+- [[Funções Cognitivas - Cs Joseph]]

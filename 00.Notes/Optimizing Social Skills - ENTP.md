@@ -29,3 +29,9 @@ This is style of an edgy guy.
 Seja o mais polarizante quanto possivel, pois isso criará confiança na mente das pessoas, porque com o tempo elas saberão das suas opniões.
 - 
 
+
+## Veja também
+
+- [[ENTP Social Skills]]
+- [[Entp Behind the mask]]
+- [[Entp]]

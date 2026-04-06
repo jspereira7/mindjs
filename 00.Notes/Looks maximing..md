@@ -26,3 +26,8 @@ Looksmaxing modern:
 When getting a haircut, make sure they add fade at your neck.
 
 The necks and the sides, should always look clean, but the hair on top should be long enough  to at least give them a messy touch.
+## Veja também
+
+- [[Melhora da Aparencia - Livro Models]]
+- [[Insights para melhora da estética em 2026 - Js]]
+- [[High Value Men - Framework]]

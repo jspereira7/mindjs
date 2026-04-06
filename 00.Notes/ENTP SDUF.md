@@ -19,3 +19,10 @@ Se você os deixa desconfortavel, ele irá se retirar imediatamente.
 ---
 
 
+
+## Veja também
+
+- [[Entp]]
+- [[ENTP - Description]]
+- [[Entp Octagram variants]]
+- [[Octagram 4.1]]
