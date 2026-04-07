@@ -116,6 +116,80 @@ Some isso a uma aparencia que não se encaixa no mundo dos filtros de fotos, e v
 
 A verdade é que nem mesmo podem mudar seu comportamento cotidiano para resolver o problema. 
 
+" As mulheres não tem profundidade, perdi as contas de quantas vezes tentei ter uma conversa séria, elas só estão interressadas em sí mesmas " 
+
+No fim das contas se ela achar um cara atraente a personalidade dele será toleráda. 
+
+Caso contrário ele é apenas um amigo platónico para quando ela estiver entediada. 
+
+Ser intelectual ou fascinante sem uma boa aparencia não leva um cara a lugar nenhum. 
+
+Elas querem quer os filhos delas tenham DNA's bons e querem garantir que seus filhos serão sustentádos(Beta).
+
+## Elementos de Atração 
+
+Os elementos de atração podem variar de acordo com o tempo, lugar e individuo. 
+
+A aparencia representa um papel vital na atração em ambos os sexos, só os tolos rejeitam essa ideia. 
+
+O casamento nem de longe protege o homem de ser traido. 
+
+Os homens por exemplo protegem a aparencia fisica de suas mulheres, dizendo a elas para não usarem roupas apertadas e coisas do tipo, por isso mulheres usam vestidos e etc... 
+
+Geralmente homens mais altos ganham mais que homens mais baixo, estudos indicam que 1cm de altura equivale a um aumento de 1% no faturamento anual. 
+
+### Altura & Cultura
+
+A altura tem um papel essencial na atração, pois mostra dominancia. 
+
+A natureza da altura não é dificil de compreender, antigamente um macho fisicamente dominante que não podia ser intimidado provavelmente seria um guerreiro e caçador forte, fatores importantes para sobrevivencia. 
+
+Um experimento revela o desrespeito que pessoas por pessoas menos dominantes fisicamente. 
+
+### Altura e Relacionamentos
+
+Na black pill homens tendem a sugerir que se o homem não tem 1,83 de altura, já era, está acabado. 
+
+Mas isso é mentira, o minimo de altura é de 1,73. 
+
+## O papel da simetria
+
+Homens jovens da comunidade se perdem, considerando cirurgias e coisas do tipo, antes mesmo de conversar com uma mulher. 
+
+Essa é uma obssesão doentia que não resolve o problema da timidez. 
+
+Caracteristicas consideradas esteriotipamentes atraentes podem não ter um valor óbvio á primeira vista. 
+
+A simetria é uma delas, é atraente para as mulheres. 
+
+Mas porque ? 
+
+Porque a simetria é ligada a saude, o que é simetrico geralmente representa saude. 
+
+### Voz
+
+O tom e a voz de alguem desempenham um papel significativo na atração.
+
+Uma voz mais grave sinaliza uma força potencialmente maior e mais dominante
+
+### Suor e feromonios
+
+Existem pesquisas que indicam que por conta do DNA, as pessoas gostam de feromonios que são diferentes dos seus, porque se a pessoa tiver o mesmo tipo de feromonio, pode gerar filhos disfuncionais. 
+
+Ou seja, o seu cheiro atrai mulheres compativeis com você. 
+
+Mas ainda sim a aparencia é o primeiro filtro. 
+
+### A questão da raça 
+
+A influencia da cor de pele nos relacionamentos amorosos. 
+
+
+
+
+
+
+
 
 
 
