@@ -184,6 +184,104 @@ Mas ainda sim a aparencia é o primeiro filtro.
 
 A influencia da cor de pele nos relacionamentos amorosos. 
 
+Uma coisa que vale a pena mensionar é que as pessoas não levam em consideração que caracteristicas, e não apenas cor de pele são coisas pra se levar em consideração. 
+
+Variações e contexto importam, então não é correto afirmar que um fenótipo racial irá sempre prevalecer sem motivo aparente. 
+
+## Status e Atração 
+
+O status está intimamente ligado ao dinheiro, pois demonstra um papel de destaque, que comunica valor ao sexo oposto. 
+
+Ter uma mulher tambem é essencial para aumentar o status de um homem na sociedade. 
+
+Aparencia, Dinheiro & Status, é isso. 
+
+## Sobre os contratos (Casamentos)
+
+Uma demonstração desproporcional de comprometimento pode ajudar um homem a superar suas imperfeições na aparencia ou na altura. 
+
+Que loucura, casamento não é nada mais nada menos do que um contrato de fidelidade, e que mesmo após a separação eu devo algo a alguem. 
+
+Homens romanticos são quase sempre aqueles que investem tempo e atenção demais, fazendo da parceira o centro do seu mundo, e acabam perdendo o interesse dela. 
+
+## As excessoes 
+
+Novamente o uso de ant-consepsionais e engravidar, sinalizam pro corpo da mulher que ela já está gravida, então o corpo prioriza sinais de segurança de homens beta. 
+
+Outra excessão é quando a mulher não tem parceiros mais atraentes no eu horizonte imediato, e por isso ela fica com um cara que é amigo e etc... 
+
+# Como Superar a BlackPill
+
+### Desintoxicando-se do Sombrio 
+
+Se você está passando por carencia sexual, uma alternativa é um rompimento parcial com a propria internet. 
+
+Parar de ver conteudos de red pill e etc.. que enfatizem ainda mais a situação negativa. 
+
+Se você deseja seguir seu proprio caminho, concentre-se em hobbies ou experiencias no mundo real em vez de coisas digitais. 
+
+Evite o instagram com fotos de casais felizes dos quais você anseia fazer parte. 
+
+Sua mente precisa de espaço para se curar, longe de toda a negatividade. 
+
+Limite o consumo de noticias. 
+
+Dizem que o 3 horas é um bom uso de tecnologia por dia. 
+
+## Alimente-se, durma e exercite-se melhor
+
+Parece obvio, mas reduza o consumo de comidas podres, com alto teor de açucar. 
+
+Os livros "A mentira dos 100 anos" & "Remedios antigos" são um bom ponto de partida.
+
+E se possivel converse com um nutricionista. 
+
+Eu evito mecher no computador ou no celular 2 hrs antes de dormir, porque eles inibem o hormonio da melatonina. 
+
+Despertadores tradicionais são uma boa opção. 
+
+Adesivos ant radiação tambem são uma boa opção. 
+
+Até comprimidos pra dormir as vezes valem a pena. Sono é importante! 
+
+Além disso evite trabalhos noturnos ou de madrugada, mas se precisar trabalhar a noite, consulte o livro do Dr Zaidi sobre suplementos de vitamina D. 
+
+Academia é uma boa para melhorar o shape, mas prefira atividades mais sociais como kick boxing, krav maga, onde tende a ter mais mulheres. 
+
+Esqueça toda essa besteira de ser o alpha, ou ser mais assertivo do que os outros caras.
+
+Nos dias de hoje você deve atuar em lugares com menos competição e distrações.
+
+## Melhora da aparencia e desenvolvimento de status
+
+Primeio de tudo, melhore sua postura.
+- Ande com a cabeçå erguida e sente-se corretamente. 
+- Certifique-se de manter os olhos atentos, isso não significa encarar as pessoas fixamente, mas sim demonstrar abertura.
+	- Se você nunca faz contato visual, perderá a oportunidade de perceber a atração nos olhos das mulheres. 
+- Homens com queixo retraido podem melhorar com a barba ou procedimentos estéticos.
+- Pessoas com deformidades graves, recorrer a uma cirurgia é uma otima opção. 
+- Use as cirurgias como ultimo recurso, e somente depois de esgotar todas as outras alternativas.
+- Estilo importa, compre alguns bons ternos ajustados, você pode comprá-los em um brecho e mandar ajustar. 
+- Dirigir um carro elegante tambem ajuda, procure um carro de luxo decente no mercado de usados. 
+- Para ter um status mais elevado, ganhar uns seguidores no youtube, instagram ou tiktok é uma boa, várias mulheres me abordavam simplesmente porque eu tinha uns seguidores a mais. 
+
+### Tome a pilula do ouro $ 
+
+Ou seja, ganhe dinheiro, os outros livros sobre dinheiro podem te ajudar. 
+
+### Junte-se a uma organização 
+
+Vá em lugares que provavelmente as mulheres estão recebendo menos atenção de homens.
+
+Grupos onde mulheres estão fazendo trabalhos voluntários. 
+
+Porque mulheres podem se envolver romanticamente com um homem por apenas conveniencia.
+
+Até mesmo igrejas são um bom local, porque ali as pessoas tem uma atitude mais lenta em relação a gratificação sexual. 
+
+Então ali as mulheres estão procurando um bom provedor para seus filhos.
+
+Caralho mano, eu li um livro de 145 paginas em 3-4hrs. 
 
 
 
