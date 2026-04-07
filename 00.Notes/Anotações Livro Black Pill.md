@@ -4,8 +4,6 @@ tags:
 ---
 - A medida que mais pessoas nascem ou desenvolvem problemas mentais, o impacto nos relacionamentos amorosos e no casamento provavelmente será drástico
 - O uso de tecnologia (celular e jogos online) reduz consideravelmente as habilidades sociais dos jovens. 
-
-
 ## O paradoxo do auto aperfeiçoamento e da positividade 
 
 
@@ -48,12 +46,12 @@ Há estudos que comprovam que isso é verdade..
 
 O que os estudos tambem comprovam é que a mulher que toma ant-consepcionais, elimina sua fase de alpha, e vai preferir os bons pais. 
 
-Embora parcialmente corretos, os redpills erram quando presumem que podem emular esse alpha apenas com comportamentos e personalidade e game... 
+Embora parcialmente corretos, os redpills erram quando presumem que podem emular esse alpha apenas com comportamentos e personalidade e game. 
 
 Mas isso não altera a altura fisica do cara, nem o rosto. 
 
 Será que é possivel realmente alterar a personalidade ? 
-- A personalidade depende muito da aparencia fisica e de outros aspectos genéticos, razão pela qual homens bonitos são considerados como "arrogantes" ou "rebeldes" 
+- A personalidade depende muito da aparencia fisica e de outros aspectos genéticos, razão pela qual homens bonitos são considerados como "arrogantes" ou "rebeldes"
 
 Um homem pode sim melhorar suas habilidades de comunicação, mas isso não irá transforma-lo num alpha de 1,90
 
@@ -108,7 +106,7 @@ No caso de personalidades introvertidas, conversar com os outros ou iniciar conv
 
 Os introvertidos tem esse sentimento: 
 
-" A compania humana é bastante entediante, prefiro ficar sozinho para ter a liberdade de deixar meus pensamentos fluirem como eu quiser, eu evito complicaçõs desnecessarias, relacionamentos interpessoais geralmente se enquadram nessa categoria, São repletos de ações ocultas e sinais de disputa de status e hierarquia, que me irritam e eu não quero participar "
+*" A compania humana é bastante entediante, prefiro ficar sozinho para ter a liberdade de deixar meus pensamentos fluirem como eu quiser, eu evito complicaçõs desnecessarias, relacionamentos interpessoais geralmente se enquadram nessa categoria, São repletos de ações ocultas e sinais de disputa de status e hierarquia, que me irritam e eu não quero participar "*
 
 Imagine um introvertido desse jeito nos dias atuais modernos, ele tem dificuldade em se integrar com certo grupo social devido a certos julgamentos feitos pelos membros, sobre sua aparencia ou comportamento, e tem poucas opções além de usar aplicativos de relacionamento para encontrar conexões romanticas. 
 
@@ -134,7 +132,7 @@ A aparencia representa um papel vital na atração em ambos os sexos, só os tol
 
 O casamento nem de longe protege o homem de ser traido. 
 
-Os homens por exemplo protegem a aparencia fisica de suas mulheres, dizendo a elas para não usarem roupas apertadas e coisas do tipo, por isso mulheres usam vestidos e etc... 
+Os homens por exemplo protegem a aparencia fisica de suas mulheres, dizendo a elas para não usarem roupas apertadas e coisas do tipo, por isso mulheres usam vestidos e etc.
 
 Geralmente homens mais altos ganham mais que homens mais baixo, estudos indicam que 1cm de altura equivale a um aumento de 1% no faturamento anual. 
 
@@ -280,8 +278,6 @@ Porque mulheres podem se envolver romanticamente com um homem por apenas conveni
 Até mesmo igrejas são um bom local, porque ali as pessoas tem uma atitude mais lenta em relação a gratificação sexual. 
 
 Então ali as mulheres estão procurando um bom provedor para seus filhos.
-
-Caralho mano, eu li um livro de 145 paginas em 3-4hrs. 
 
 
 
