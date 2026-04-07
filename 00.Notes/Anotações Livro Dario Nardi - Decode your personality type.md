@@ -120,6 +120,7 @@ Ou seja: seu cérebro é moldado pela sua vida.
 
 ---
 
+# Neurotismos
 ## Ni - Intuição introvertida neurotica (ISTP & ISFP)
 
 Se manifesta como delirios de inutilidade e grandeza. 

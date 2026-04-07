@@ -6,7 +6,6 @@ tags:
 - O uso de tecnologia (celular e jogos online) reduz consideravelmente as habilidades sociais dos jovens. 
 ## O paradoxo do auto aperfeiçoamento e da positividade 
 
-
 Karl max ficou conhecido como um nilista que preguava que a religião era o ópio do povo. 
 
 Muita gente entendeu essa frase como unicamente se referindo ao ateismo. 

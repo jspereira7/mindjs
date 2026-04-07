@@ -1,3 +1,7 @@
+---
+tags:
+  - psicologia_junguiana
+---
 # Descriptions of functions/process
 
 **Sensação**

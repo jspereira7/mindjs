@@ -1,6 +1,8 @@
 ---
 author:
   - csjoseph
+tags:
+  - psicologia_junguiana
 ---
 Todos nós queremos algo. Cada um de nós está programado para a busca de nossas necessidades psicológicas e a realização de nossas naturezas espirituais mais profundas.
 

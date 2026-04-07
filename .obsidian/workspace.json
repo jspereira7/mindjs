@@ -41,13 +41,19 @@
             "id": "9d79daf5e0bc62c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Nota diaria de hoje.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nota diaria de hoje"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Plan 2026.md",
+                "file": "00.Notes/Nota diaria de hoje.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plan 2026"
+              "title": "Outline of Nota diaria de hoje"
             }
           },
           {
@@ -130,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5110321044922,
-    "collapsed": true
+    "width": 316.5110321044922
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -303,10 +308,27 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "af0428626491aa4b",
+  "active": "9d79daf5e0bc62c8",
   "lastOpenFiles": [
-    "00.Notes/Plan 2026.md",
+    "00.Notes/ESTP Development.md",
+    "00.Notes/Origem Cognitiva.md",
+    "01.Assets/Templates/Tracker de Hábitos..md",
+    "00.Notes/Produtividade Jason Fladlien.md",
+    "CLAUDE.md",
+    "00.Notes/Open Claude Free.md",
+    "00.Notes/Prompt-AutoAceitação.md",
+    "00.Notes/Anotações Livro A Meta.md",
+    "00.Notes/Anotações Livro Dario Nardi - Decode your personality type.md",
+    "00.Notes/Planejamento Venvanse e consulta psiquiatra.md",
+    "00.Notes/Insights para melhora da estética em 2026 - Js.md",
+    "00.Notes/Analise claude Ai sobre mim.md",
+    "00.Notes/Traffic Brokering - How to Make Money with Affiliates.md",
+    "00.Notes/Falha em lógica de negocio é igual a dinheiro.md",
+    "00.Notes/Linda V Barens - Understand yourself and other.md",
+    "00.Notes/CC test.md",
+    "00.Notes/Dicionario Psylogia Junguiana Cs joseph.md",
     "00.Notes/Anotações Livro Black Pill.md",
+    "00.Notes/Plan 2026.md",
     "00.Notes/ISTP Premium Guide Anotações.md",
     "00.Notes/Variaveis de Ambiente do Claude Code.md",
     "00.Notes/Instruções IA - Concrete Type.md",
@@ -314,23 +336,6 @@
     "00.Notes/ACESSO CURSO VAZADO - ALAN NICOLAS.md",
     "00.Notes/Octagram 4.1.md",
     "00.Notes/Analise de Metricas para cortar campanhas sem lucro..md",
-    "+Daily Notes/2026-04-04 Saturday.md",
-    "00.Notes/A razão de você se importar com o que os outros pensam.md",
-    "00.Notes/Analise Funcionando Requests BH ADS.md",
-    "00.Notes/Links Traffego.md",
-    "00.Notes/Hipergamia Estudo.md",
-    "00.Notes/Parametros Campanha.md",
-    "00.Notes/Login Binom Tracker - 16-03-26.md",
-    "00.Notes/Binom Tracker 30 days Free.md",
-    "00.Notes/Insights sobre tipologia.md",
-    "00.Notes/ESTP desenvolvimento cognitivo artigo chat gpt.md",
-    "00.Notes/Desenvolviemento Cognitivo Estp.md",
-    "00.Notes/ESTP Development.md",
-    "00.Notes/Analise de Métricas para cortar campanhas sem lucro..md",
-    "00.Notes/Nota diaria de hoje.md",
-    "00.Notes/Cognitive Origins.md",
-    "00.Notes/Origem Cognitiva.md",
-    "00.Notes/Entp Behind the mask.md",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",
