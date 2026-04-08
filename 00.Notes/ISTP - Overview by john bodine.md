@@ -13,7 +13,6 @@ Sobre como resolver xyz problema
 Sobre resolver problemas que tem impacto no mundo ao seu redor 
 
 Eles experimentam em tempo real para descobrir a solução. 
-
 ## Se Parent 
 
 Responsabilidade x irresponsabilidade. 
@@ -112,4 +111,8 @@ Para que eles se sintam valorizados e importantes e dignos.
 Uma forma para eles se desenvolverem é se perguntar " E se eu já tiver valor? E se eu já for digno ? "
 
 Se eles apenas experimentarem isso, e ajudarem os outros sem querer nada em troca, já aumentará exponencialmente a sua skill de ajudar os outros. 
+
+-----
+
+Mapas mentais são para Ti Users. Talvez eu deva começar a usar mais mapas mentais, para organizar minhas coisas... 
 

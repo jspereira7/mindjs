@@ -56,14 +56,33 @@
             "id": "c7aaf3a34203d936",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "01.Assets/2026 Plan Canvas.canvas",
+                "viewState": {
+                  "x": -679.709733608133,
+                  "y": -181.917712045434,
+                  "zoom": -0.25097838825872326
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2026 Plan Canvas"
+            }
+          },
+          {
+            "id": "9d5eef8717c26630",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-08 15.32.38.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -313,13 +332,13 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "c7aaf3a34203d936",
+  "active": "9d5eef8717c26630",
   "lastOpenFiles": [
+    "01.Assets/2026 Plan Canvas.canvas",
+    "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
     "00.Notes/ISTP - Overview by john bodine.md",
     "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
     "00.Notes/Plan 2026.md",
@@ -344,8 +363,6 @@
     "00.Notes/Prompt-AutoAceitação.md",
     "00.Notes/Anotações Livro A Meta.md",
     "00.Notes/Anotações Livro Dario Nardi - Decode your personality type.md",
-    "00.Notes/Planejamento Venvanse e consulta psiquiatra.md",
-    "00.Notes/Insights para melhora da estética em 2026 - Js.md",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",
@@ -374,7 +391,6 @@
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
     "01.Assets/DataBaseTikTok.canvas",
     "Funil - Concorrente.canvas",
-    "Recursos/Untitled.canvas",
-    "Recursos/Untitled 1.canvas"
+    "Recursos/Untitled.canvas"
   ]
 }

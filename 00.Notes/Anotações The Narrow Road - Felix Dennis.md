@@ -171,12 +171,3 @@ Quando o fracasso te encarar no olho, e a falencia susurrar no seu ouvido, somen
 A motivação intrinseca, é impressindivel para conseguir dinheiro. Ou você tem, ou não tem. 
 
 Desejar ter, não substitui a ambição. 
-
-
-
-
-
-
-
-
-
