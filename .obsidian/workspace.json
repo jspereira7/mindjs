@@ -23,33 +23,33 @@
             }
           },
           {
-            "id": "0bb6e3d658c85547",
+            "id": "226c8c81680c4ba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Anotações Livro Black Pill.md",
+                "file": "00.Notes/ISTP - Overview by john bodine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Anotações Livro Black Pill"
+              "title": "ISTP - Overview by john bodine"
             }
           },
           {
-            "id": "9d79daf5e0bc62c8",
+            "id": "ada56c4215ef7fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Nota diaria de hoje.md",
+                "file": "00.Notes/Free PS5 Pro Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nota diaria de hoje"
+              "title": "Free PS5 Pro Method"
             }
           }
         ],
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Nota diaria de hoje.md",
+                "file": "00.Notes/Free PS5 Pro Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nota diaria de hoje"
+              "title": "Outline of Free PS5 Pro Method"
             }
           },
           {
@@ -132,11 +132,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5110321044922
+    "width": 316.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -308,8 +309,20 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "9d79daf5e0bc62c8",
+  "active": "ada56c4215ef7fcd",
   "lastOpenFiles": [
+    "00.Notes/Free PS5 Pro Method.md",
+    "00.Notes/ISTP - Overview by john bodine.md",
+    "00.Notes/Plan 2026.md",
+    "00.Notes/Variaveis de Ambiente do Claude Code.md",
+    "00.Notes/Anotações Livro Black Pill.md",
+    "00.Notes/Octagram 4.1.md",
+    "00.Notes/A razão de você se importar com o que os outros pensam.md",
+    "00.Notes/Hipergamia Estudo.md",
+    "00.Notes/ESTP desenvolvimento cognitivo artigo chat gpt.md",
+    "00.Notes/Analise de Métricas para cortar campanhas sem lucro..md",
+    "01.Assets/Templates/Livro.md",
+    "00.Notes/Nota diaria de hoje.md",
     "00.Notes/ESTP Development.md",
     "00.Notes/Origem Cognitiva.md",
     "01.Assets/Templates/Tracker de Hábitos..md",
@@ -324,18 +337,6 @@
     "00.Notes/Analise claude Ai sobre mim.md",
     "00.Notes/Traffic Brokering - How to Make Money with Affiliates.md",
     "00.Notes/Falha em lógica de negocio é igual a dinheiro.md",
-    "00.Notes/Linda V Barens - Understand yourself and other.md",
-    "00.Notes/CC test.md",
-    "00.Notes/Dicionario Psylogia Junguiana Cs joseph.md",
-    "00.Notes/Anotações Livro Black Pill.md",
-    "00.Notes/Plan 2026.md",
-    "00.Notes/ISTP Premium Guide Anotações.md",
-    "00.Notes/Variaveis de Ambiente do Claude Code.md",
-    "00.Notes/Instruções IA - Concrete Type.md",
-    "01.Assets/Excalidraw/Drawing 2026-04-06 11.11.14.excalidraw.md",
-    "00.Notes/ACESSO CURSO VAZADO - ALAN NICOLAS.md",
-    "00.Notes/Octagram 4.1.md",
-    "00.Notes/Analise de Metricas para cortar campanhas sem lucro..md",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",

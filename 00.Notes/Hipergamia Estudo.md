@@ -1,3 +1,7 @@
+---
+tags:
+  - relacionamentos
+---
 ## Female Stress Relif 
 
 - Pagar as contas, ter estabilidade financeira
