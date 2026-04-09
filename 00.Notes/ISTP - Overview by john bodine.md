@@ -94,7 +94,7 @@ Eles acabam fazendo coisas por impulso.
 E acham que sabem o que vai acontecer, mas não. 
 
 Precisam desenvolver a disciplina (Si), e com isso vão poder olhar pra trás e ver o que aconteceu quando fizeram xyz. 
-## Fi Demon 
+## [[Fi]] Demon 
 
 Esse é o lugar aonde somos minádos, sem realmente percebermos 
 
@@ -116,5 +116,5 @@ Se eles apenas experimentarem isso, e ajudarem os outros sem querer nada em troc
 
 Mapas mentais são para Ti Users. Talvez eu deva começar a usar mais mapas mentais, para organizar minhas coisas... 
 
-Procastinação é basicamente o habito de pensar sobre o esforço e não na recompensa. 
+
 

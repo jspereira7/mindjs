@@ -60,8 +60,8 @@
               "state": {
                 "file": "01.Assets/Estudo de Ai.canvas",
                 "viewState": {
-                  "x": -841.3331439701085,
-                  "y": -507.7930628008735,
+                  "x": -1116.5556183666397,
+                  "y": -532.035456918703,
                   "zoom": -0.7482120721099438
                 }
               },
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5110321044922
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -322,9 +322,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c7aaf3a34203d936",
+  "active": "bc03637f45945ebf",
   "lastOpenFiles": [
     "00.Notes/ISTP - Overview by john bodine.md",
+    "00.Notes/Fi.md",
     "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
