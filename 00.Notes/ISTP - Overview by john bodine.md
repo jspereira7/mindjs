@@ -116,3 +116,5 @@ Se eles apenas experimentarem isso, e ajudarem os outros sem querer nada em troc
 
 Mapas mentais são para Ti Users. Talvez eu deva começar a usar mais mapas mentais, para organizar minhas coisas... 
 
+Procastinação é basicamente o habito de pensar sobre o esforço e não na recompensa. 
+

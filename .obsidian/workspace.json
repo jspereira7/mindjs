@@ -68,21 +68,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "2026 Plan Canvas"
             }
-          },
-          {
-            "id": "9d5eef8717c26630",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-08 15.32.38.excalidraw"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -335,7 +323,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9d5eef8717c26630",
+  "active": "226c8c81680c4ba5",
   "lastOpenFiles": [
     "01.Assets/2026 Plan Canvas.canvas",
     "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
