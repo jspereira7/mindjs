@@ -60,8 +60,8 @@
               "state": {
                 "file": "01.Assets/Estudo de Ai.canvas",
                 "viewState": {
-                  "x": -1116.5556183666397,
-                  "y": -532.035456918703,
+                  "x": -1237.7675889557852,
+                  "y": -1116.725440530669,
                   "zoom": -0.7482120721099438
                 }
               },
@@ -69,8 +69,7 @@
               "title": "Estudo de Ai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,12 +321,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bc03637f45945ebf",
+  "active": "af0428626491aa4b",
   "lastOpenFiles": [
-    "00.Notes/ISTP - Overview by john bodine.md",
-    "00.Notes/Fi.md",
-    "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
     "01.Assets/Estudo de Ai.canvas",
+    "00.Notes/ISTP - Overview by john bodine.md",
+    "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
+    "00.Notes/Fi.md",
     "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
     "00.Notes/Plan 2026.md",
     "00.Notes/20 Habitos rapidos com enorme retorno a longo prazo.md",
@@ -350,7 +349,6 @@
     "00.Notes/Open Claude Free.md",
     "00.Notes/Prompt-AutoAceitação.md",
     "00.Notes/Anotações Livro A Meta.md",
-    "00.Notes/Anotações Livro Dario Nardi - Decode your personality type.md",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",
