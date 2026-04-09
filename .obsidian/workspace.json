@@ -58,19 +58,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "01.Assets/2026 Plan Canvas.canvas",
+                "file": "01.Assets/Estudo de Ai.canvas",
                 "viewState": {
-                  "x": -679.709733608133,
-                  "y": -181.917712045434,
-                  "zoom": -0.25097838825872326
+                  "x": -620.2995505428429,
+                  "y": -554.8518278531301,
+                  "zoom": -0.7482120721099438
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "2026 Plan Canvas"
+              "title": "Estudo de Ai"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -323,11 +323,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "226c8c81680c4ba5",
+  "active": "c7aaf3a34203d936",
   "lastOpenFiles": [
-    "01.Assets/2026 Plan Canvas.canvas",
-    "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
     "00.Notes/ISTP - Overview by john bodine.md",
+    "01.Assets/Estudo de Ai.canvas",
+    "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
     "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
     "00.Notes/Plan 2026.md",
     "00.Notes/20 Habitos rapidos com enorme retorno a longo prazo.md",
