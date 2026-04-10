@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,11 +305,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "decb9008c6324dec",
+  "active": "bc03637f45945ebf",
   "lastOpenFiles": [
-    "00.Notes/Social Warrior.md",
     "00.Notes/Plan 2026.md",
     "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
+    "00.Notes/Social Warrior.md",
     "01.Assets/Estudo de Ai.canvas",
     "00.Notes/ISTP - Overview by john bodine.md",
     "00.Notes/Fi.md",
