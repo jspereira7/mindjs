@@ -38,38 +38,22 @@
             }
           },
           {
-            "id": "226c8c81680c4ba5",
+            "id": "decb9008c6324dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/ISTP - Overview by john bodine.md",
+                "file": "00.Notes/Social Warrior.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ISTP - Overview by john bodine"
-            }
-          },
-          {
-            "id": "c7aaf3a34203d936",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01.Assets/Estudo de Ai.canvas",
-                "viewState": {
-                  "x": -1237.7675889557852,
-                  "y": -1116.725440530669,
-                  "zoom": -0.7482120721099438
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Estudo de Ai"
+              "title": "Social Warrior"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -321,14 +305,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "af0428626491aa4b",
+  "active": "decb9008c6324dec",
   "lastOpenFiles": [
+    "00.Notes/Social Warrior.md",
+    "00.Notes/Plan 2026.md",
+    "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
     "01.Assets/Estudo de Ai.canvas",
     "00.Notes/ISTP - Overview by john bodine.md",
-    "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
     "00.Notes/Fi.md",
     "01.Assets/Drawing 2026-04-08 15.32.38.excalidraw.md",
-    "00.Notes/Plan 2026.md",
     "00.Notes/20 Habitos rapidos com enorme retorno a longo prazo.md",
     "00.Notes/Lista Logins para teste.md",
     "00.Notes/Free PS5 Pro Method.md",
