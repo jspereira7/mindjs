@@ -5,6 +5,14 @@
       "path": "00.Notes/Plano Bot de Conversões.md"
     },
     {
+      "basename": "Automação e WebScraping (Ouro)",
+      "path": "00.Notes/Automação e WebScraping (Ouro).md"
+    },
+    {
+      "basename": "Web Scraping - Guia",
+      "path": "00.Notes/Web Scraping - Guia.md"
+    },
+    {
       "basename": "Social Warrior",
       "path": "00.Notes/Social Warrior.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Insights sobre tipologia",
       "path": "00.Notes/Insights sobre tipologia.md"
-    },
-    {
-      "basename": "Desenvolviemento Cognitivo Estp",
-      "path": "00.Notes/Desenvolviemento Cognitivo Estp.md"
-    },
-    {
-      "basename": "Cognitive Origins",
-      "path": "00.Notes/Cognitive Origins.md"
     }
   ],
   "omittedPaths": [

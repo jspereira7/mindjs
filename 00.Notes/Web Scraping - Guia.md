@@ -4,7 +4,7 @@
 
 - Um navegador web é somente um código, e um código pode ser dividido, separado em seus componentes básicos, reescrito, reutilizado, e você pode fazer com que ele aja como você quiser.
 
-- Comece a nos endereços como arquivos, não em páginas. 
+- Comece a pensar nos endereços como arquivos, não em páginas. 
 
 - Parser é o que interpreta e lê as tags no html, organizando as informações. 
 
