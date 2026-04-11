@@ -5,7 +5,6 @@ Este projeto tem como objetivo criar um bot em Python capaz de simular múltiplo
 O bot executa sessões independentes que replicam o comportamento humano, incluindo navegação, interação com quiz e preenchimento de formulário.
 
 ---
-
 ## 🎯 Objetivos
 
 - Simular acessos reais ao funil
