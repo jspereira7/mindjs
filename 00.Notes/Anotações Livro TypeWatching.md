@@ -92,6 +92,93 @@ Introvertidos
 - Vc precisa recarregar as energias sozinho depois de passar muito tempo socializando com um grupo, quando mais intenso o encontro, maior o desgaste. 
 - Frequentemente seus pais te falavam pra vc ir brincar lá fora, porque você passava muito tempo sozinho. 
 - Você acredita que falar é facil. 
-- 
+
+Novamente você pode ser alguem que prefere muito a extroversão, ou alguem que prefere somente um pouco a extroversão. 
+
+## Sensação x Intuição (A forma como vc coleta dados)
+
+Sensação 
+- Vc prefere perguntas espesificas e respostas espesificas, quando vc pergunta a hora, vc quer a hora exata e os minutos, não algo como "um pouco antes das cinco" ou "quase na hora de ir" 
+- Gostam de se concentrar no que estão fazendo no momento atual, sem pensar no "O que vem depois?" preferem fazer algo do que ficar pensando nisso. 
+- Para esse tipo, eles preferem trabalhar com coisas que possuem resultados tangiveis, por mais que odeiem fazer faxina, eles preferem mil vezes fazer uma faxina do que pensar no futuro de carreira. 
+- Acreditam no "Time que está ganhando não se mexe", não entendem o porque algumas pessoas sempre querem melhorar tudo. 
+- Preferem trabalhar com fatos e numeros. 
+- Preferem ouvir as coisas de forma sequencial do que aleatoriamente. 
+- Leem coisas do inicio ao fim, não entendem porque algumas pessoas ficam folheando até achar algo que os interrese. 
+- Vc é muito literal no uso das palavras, vc tambem leva as coisas ao pé da letra e frequentemente as pessoas te perguntam " Vc está falando sério ou é uma piada"
+- Para vc é mais facil exergar as arvores individualmente do que ver a floresta como um todo. 
+- No trabalho vc se prefere se concentrar na sua unica tarefa, e não em como ela se encaixa em um todo geral. 
+- Concorda com a ideia de ver pra crer. 
+
+Intuitivo
+- Vc pensa em varias coisas ao mesmo tempo, seus amigos te consideram distraido. 
+- Geralmente vc fica mais animado com o futuro do que com o presente. 
+- Acreditam que detalhes são uma redundancia. 
+- Acreditam que o tempo é relativo, que vc não está atrasado a menos que a reunião tenha começado sem você. 
+- Gosta de descobrir como as coisas funcionam apenas pelo prazer de saber. 
+- Vc está sempre se perguntando "O que isso significa ?" 
+- Voce tende a dar respostas genericas e não entende o porque as pessoas nao conseguem seguir suas intruções. 
+- Prefere fantasiar sobre como irá gastar o seu proximo salario do que sentar e ver seu extrato bancario. 
+
+## T x F (Thinking x Feeling)
+
+Preferencia por Thinking (T): 
+- Mantem a calma, a serenidade e a objetividade em situações que todos os outros estão chateados. 
+- Prefere resolver um conflito com o que é justo e verdadeiro, do que o como os outros vão se sentir em relação a isso. 
+- Vc consegue defender ambos os lados em uma discussão, apenas para expandir os seus horizontes. 
+- São mais teimosos do que bondosos, se vc discorda de alguem, vc prefere dizer isso pra ela do que ficar em silencio, e deixar ela pensar que está "certa" 
+- Vc se orgulha da sua objetividade, as pessoas te acusam de ser frio e insensivel. 
+- Não se importa em tomar decisões dificeis, e não entende o porque tantas pessoas ficam chateadas com coisas que não são relevantes para a questão em pauta. 
+- Vc acha que estar certo é mais importante do que ser querido. 
+
+Preferencia por Feeling (F): 
+- Considera uma boa decisão aquela que leva em consideração os sentimentos dos outros. 
+- Você sente que o "amor" não pode ser definido, vc se ofende profundamente com aqueles que tentam fazer isso. 
+- Vc se esforça ao máximo para atender as necessidades dos outros, fará quase de tudo para agradar os outros. 
+- Coloca-se no lugar dos outros, vc será a pessoa na reunião que perguntará "Como isso afeta as pessoas envolvidas ?"
+- Você se pergunta "Será que ninguem se importa com o que eu quero ?" embora tenha dificuldades de dizer isso pra alguem. 
+- Não hesita em se justificar por ter dito algo a alguem, quando vc percebe que ofendeu a pessoa. 
+- Vc prefere a harmonia do que a clareza, se sente constrangido por conflitos em grupos ou reuniões " Vamos mudar de assunto ", vamos fazer as pases. 
+- São frequentemente acusados de levar as coisas para o lado pessoal. 
+- Preferem atividades que não ferem os sentimentos dos outros. 
+
+Uma coisa interresante a apontar é que a maioria dos homens tem preferencia por pensamento, e a maioria das mulheres tem preferencia por sentimento. 
+
+Tende ter uma visão separada da sua auto-imagem, porque as vezes colegas e amigos tem uma visão diferente de nós mesmos. 
+
+## J x P (Julgadores x Perceptivos)
+
+Essa dicotomia diz respeito a forma como as pessoa preferem orientar suas vidas. 
+
+J = estruturados e organizados 
+P = espontaneos e adaptaveis
+
+Essa preferencia determina o que você compartilha com mais naturalidade ao abrir a boca pela primeira vez. 
+
+### Julgadores (J)
+- Estão sempre esperando pelos atrasados, que parecem nunca chegar na hora. 
+- Querem organizar tudo, não ficam satisfeitos até que tudo esteja em seu devido lugar. 
+- Acham que se todo mundo fizesse o que cada um deveria fazer, o mundo seria um lugar melhor. 
+- Vc acorda de manha e tem planejado na sua mente maisomenos o que vai fazer naquele dia e se irrita se as coisa não saem com o planejado. 
+- Não gostam de surpresas e deixam isso bem claro para todos. 
+- Gostam de listas e checklists gostam de terminar as coisas. 
+- Vc é acusado de estar com raiva quando não está, está apenas expressando a sua opnião. 
+- Gosta de concluir tarefas e se livrar delas, mesmo sabendo que terá que refaze-las mais tarde. 
+
+## Perceptivos (P)
+- Vc se distrai facilmente, pode se perder entre a porta da frente e o carro. 
+- Adora explorar o desconhecido, mesmo que seja apenas algo simples como um caminho diferente voltando do trabalho. 
+- Não planeja tarefas, espera para ver quando ela é necessaria, as pessoas te acusam de ser desorganizado. 
+- Vc depende de surtos de energia de ultima hora pra concluir as coisas. 
+- Gostam de diversão, se algo não é divertido, não vale a pena fazer. 
+- Mudam de assunto com frequencia, o novo assunto pode ser qualquer coisa que lhes venha a mente, o que entre na sala. 
+- Não gostam de serem pressionados, gostam de manter suas opções em aberto. 
+
+I = Mais introvertido
+S = Mais sensitivo 
+T = mais pensamento
+P = mais perceptivo. 
+
+
 
 
