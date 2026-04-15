@@ -100,11 +100,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -179,18 +180,6 @@
               "state": {},
               "icon": "lucide-globe",
               "title": "Google Translator"
-            }
-          },
-          {
-            "id": "ddb3405bf4b256ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-frames-pomofocus",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-clock-2",
-              "title": "Pomofocus"
             }
           },
           {

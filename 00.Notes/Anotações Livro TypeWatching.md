@@ -179,6 +179,51 @@ S = Mais sensitivo
 T = mais pensamento
 P = mais perceptivo. 
 
+# Celebrando as diferenças 
+
+As funções cognitivas assim como no mundo animal etc.. só servem para duas coisas "Coletar informações" & "Tomar decisões"
+
+Por exemplo, quando o despertador toca de manha, isso é uma informação, e se você vai receber o dia com alegria é uma decisão. 
+
+Você é um sensorial se prefere que as coisas sejam apresentadas pra você de forma exata e sequencial, você só tem certeza daquilo que pode provar, tocar, ver , ouvir e cheirar. 
+
+Você é intuitivo se ao coletar informações atraves dos seus cinco sentidos você as traduz automaticamente para a intuição, buscando possibilidades, significados e relações entre diversas coisas. 
+
+Um dos grandes conflitos na vida real é a diferença entre um sensorial x intuitivo, os dois estão vendo coisas diferentes. 
+
+----
+
+O proposito das funções de julgamento são tomar decisões. 
+
+Pessoas que tomam decisões com base no sentimento e pensamento são diferentes. 
+
+T = Chegam a uma conclusão sem colocar sentimentos e sem se envolver, eles julgam de fora. 
+
+F = Chegam na conclusão levando em consideração sentimentos, eles julgam se envolvendo emocionalmente. 
+
+----
+
+Introversão e Extroversão. 
+
+> Ao observar o mundo e tomar decisões, você verbaliza isso para os outros ? 
+
+Vc é extrovertido se palavras como animado e popular lhe agradam mais do que calmo & reservado. 
+
+Vc prefere guardar suas observações e decisões para sí ? Se sente energizado por pensamentos ou ideias ? Mas esgotado por discusões intensas ? 
+
+De todas as dicotomias, a de introvertido x extrovertido é a mais importante. 
+
+Pois descreve a fonte e a direção da energia de cada um. 
+
+Porque todas as atividades que o extrovertido acham interresante, drenam energia do introvertido, e vice versa. 
+
+Mas na vida real, todos precisamos ser introvertidos e extrovertidos, não tem como viver sendo completamente unilateral. 
+- São preferencias.
+
+----
+
+J x P 
+
 
 
 
