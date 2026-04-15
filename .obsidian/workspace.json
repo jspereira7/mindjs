@@ -164,11 +164,9 @@
           {
             "id": "b18171310411ec96",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "custom-frames-todoist",
               "state": {},
-              "pinned": true,
               "icon": "lucide-list-checks",
               "title": "Todoist"
             }
@@ -176,11 +174,9 @@
           {
             "id": "36ddfeaf58f2a178",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "custom-frames-google-translator",
               "state": {},
-              "pinned": true,
               "icon": "lucide-globe",
               "title": "Google Translator"
             }
@@ -203,11 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00.Notes/Anotações Livro TypeWatching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Anotações Livro TypeWatching"
             }
           },
           {
@@ -250,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -271,11 +268,13 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "56ea5cb9fa9f840b",
   "lastOpenFiles": [
+    "00.Notes/Anotações Livro TypeWatching.md",
     "+Daily Notes/2026-04-13 Monday.md",
     "00.Notes/ISTP - Overview by john bodine.md",
     "00.Notes/Free PS5 Pro Method.md",
@@ -283,7 +282,6 @@
     "00.Notes/Como Lidar como Nosso Trickster.md",
     "00.Notes/Anotações Redemptive Psy Burning questions.md",
     "00.Notes/Recovery phase wallet brave.md",
-    "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Analise de Metricas para cortar campanhas sem lucro..md",
     "00.Notes/Instruções IA - Concrete Type.md",
     "00.Notes/Plan 2026.md",
