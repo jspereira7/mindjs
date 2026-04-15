@@ -224,6 +224,69 @@ Mas na vida real, todos precisamos ser introvertidos e extrovertidos, não tem c
 
 J x P 
 
+Os perceptivos (P) preferem esperar para ver o que vai acontecer. 
+- Eles tendem a perceber e continuar coletando informações, em ver de tirar conclusões (J) sobre qualquer assunto. 
+
+Os (J) planejam com antecedencia o que irão fazer. 
+- Eles tender a julgar e continuar julgando ao inves de ter mais contexto sobre xyz coisa. 
+- Ou a responder a novas informações.
+
+## A preferencia mais dificil de esconder 
+
+A preferencia JxP é a mais dificil de esconder. 
+
+Um introvertido pode desenvolver skills de comunicação e te enganar que é um extrovertido. 
+
+Ou pode confundir um sensorial com um intuitivo quando ele está teorizando.
+
+Mas a preferencia JxP é a primeira que você notará ao começar observar outras pessoas. 
+
+Porque essa preferencia é a que mais afeta como nos envolvemos com os outros. 
+
+Declarações tipicas de P 
+
+" Eu vi o filme novo do Neymar " 
+
+" O filme está bombando nas redes sociais "
+
+Veja que não há nenhum julgamento. 
+
+Já os tipos (J) a cada declaração, você fica ciente da opnião da pessoa 
+
+" Eu vi o filme mas achei muito longo " 
+
+Precisamos de ambos na sociedade, para de complementarem... os perceptivos precisam dos julgadores para que concluam seus projetos. 
+
+Os julgadores precisam dos perceptivos para que não façam tempestade em um copo de agua, e aprendam a relaxar. 
+
+-----
+
+Geralmente os tipos P se atrasam por estarem sempre respondendo a novas informações. 
+
+E os tipos (J) são os que estão escrevendo livros sobre gestão do tempo e coisas assim, para os tipos (P) tentarem seguir e se frustrarem. 
+
+Umap preferencia excessiva por (J) ou (P) é perigosa, deve haver um equilibrio, se não ela se torna uma força maximizada que se torna uma desvantagem. 
+
+---
+
+Regras para observar as pessoas:
+1. Os tipos (P) devem gerar alternativas, essa é sua verdadeira natureza, independente do assunto eles geram novas opções.
+2. Os julgadores (J) apos ouvirem as alternativas dos participantes devem assumir o controle, os perceptivos ficarão gratos por isso.
+3. É da natureza dos (J) reclamar, eles precisam reclamar imediatamente se algo interromper sua rotina ou alterar seus planos. 
+
+---
+## Não maximixe seus pontos fortes 
+
+Na tipologia maximizar seus pontos fortes, torna sua força a sua fraqueza.
+
+É importante não se sentir limitado pelo seu tipo. 
+
+-----
+
+
+
+
+
 
 
 
