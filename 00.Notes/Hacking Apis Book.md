@@ -81,7 +81,73 @@ Noções basicas:
 
 Os sites somente fornecem dados para a leitura, uma comunicação unilateral. 
 
-Os apps web permitem que a comunicação ocorroa de maneira mutua, do server pa
+Os apps web permitem que a comunicação ocorroa de maneira mutua, do server para o client, do client para o server. 
+- O reddit por exemplo não é um site estatico, ele permite que os usuarios comentem, curtam, sigam, e etc... não é um site estatico que apenas mostra noticias. 
+
+Para que o usuario final consiga usar o aplicativo web, é necessario que haja uma comunicação entre o navegador e o servidor, o usuario inicia essa comunicação digitando a url na barra de endereços. 
+
+### URL 
+
+Uma url consistem no seguinte formato abaixo
+
+![[Pasted image 20260416154131.png]]
+
+As portas não são incluidas diretamente na url, porque o host automaticamente envia para a porta correta. 
+
+Um caminho de url o "/" é igual um caminho usado no computador para localizar um arquivo.
+
+A consulta "?" é usada para executar funcionalidades como busca, filtragem e tradução do idioma da informação solicitada.
+
+Tambem pode ser usada para rastrear informações, como o referer, o id de sessão ou seu email
+
+Os parametros de consulta definem oque deve ser feito com a consulta fornecida, exemplo o parametro de consulta "lang=en" após a consulta "page".
+
+Pode dizer ao servidor que deve fornecer uma pagina em ingles. 
+
+São parametros que dizem ao servidor web o que devem fazer. 
+
+Entendi, então isso quer dizer que os parametros na url são a forma de rastrear as coisas. 
+
+Assim como existem os cabeçalhos de request, existem os cabeçalhos de response, como o parametro "set-cookie" que é um sinal que a autenticação foi bem sucedida. 
+
+Um cookie é colocado e depois é enviado ao servidor web a cada nova request. 
+
+### Resposta de Apis 
+
+Na faixa de 100 = Processamento 
+
+Na faixa de 200 = Bem sucedido 
+
+Na faixa de 300 = Notificação 
+
+Na faixa de 400 = algo deu errado, voce solicitou algo que não existe. 
+
+Na faixa de 500 = algo deu errado com o servidor.
+
+### Metodos de solicitação 
+
+**GET** = Solicita algum recurso do servidor
+- Pagina web, imagens, dados do usuario, video, endereço e etc..
+**POST** = envia dados contidos no corpo da solicitação para um servidor web.
+- Isso pode incluir dados de clientes, solicitações de transferencia de dinheiro etc... 
+- Por exemplo, se um client enviar a mesma solicitação POST várias vezes, o servidor criará varios resultados. 
+### Cookies
+
+Geralmente as requisições POST são usadas para adicionar recursos em um servidor, se for enviada várias vezes, o servidor criará varios recursos internamente. 
+
+O HTTP é um protocolo sem estádo, ou seja, o servidor não mantem as informações entre as requests.
+
+Mas o servidor precisa se lembrar de algo sobre a sessão http com aquele client.
+
+Exemplo, um usuario em um marketplace, precisa manter as coisas no carrinho, porque senão a cada nova pagina que ele acessar, isso seria perdido. 
+
+O servidor utiliza pequenos arquivos chamados cookies para armazenar informações no lado do client.
+
+Os cookies podem armazenar configs do site, configs de segurança e infos relacionadas a autenticação. 
+
+Para manter suas sessões ativas, os navegadores inclem certos cookies armazenados, nas requests para o servidor, ao invadir aplicações web, um atacante pode se passar por um usuario final roubando ou falsificando cookies.
+
+-----
 
 
 
