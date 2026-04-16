@@ -283,6 +283,188 @@ Na tipologia maximizar seus pontos fortes, torna sua força a sua fraqueza.
 
 -----
 
+# Os 4 Temperamentos 
+
+Um atalho é você simplesmente pegar duas letras que todos os tipos em comuns tem, e você saberá um comportamento comum daquele tipo. 
+
+Exemplo os tipos TJ, todos tendem a reclamar muito, e pensar falando. 
+
+Exemplo dos IN (Introversão + Intuição), todos preferem especular sobre o problema e não resolver em sí. 
+- Todos são introspectivos e altamente abstratos. 
+
+Agora pense nos tipos FP (Sentimento + Perceptivos), vc não deve dar uma festa sem um desses tipos, eles são estremamente divertidos e tranquilos e gostam de fazer os outros felizes. 
+
+Voce pode fazer isso com qualquer letra dos tipos. 
+
+Um atalho mais util é a teoria dos temperamentos, ele ajuda a prever aspectos como as pessoas ensinam, aprendem, lideram, se divertem, administram dinheiro e se relacionam com os outros. 
+
+- A preferencia por sensação x intuição é a mais util, porque é de onde a pessoa parte para tomar suas decisões. 
+	- Para um sensorial uma arvore é apenas umas arvore, para um intuitivo uma arvore faz parte de um sistema inteiro chamado floresta. 
+	- Os intuitivos veem o potencial, o que poderia ser, ao inves dos dados concretos simplesmente. 
+
+A primeira letra do temperamento diz respeito ao como a pessoa coleta informações N x S. 
+
+A segunda letra é sobre o como você prefere toma decisões, objetivamente (T) ou subjetivamente (F). 
+
+Para os intuitivos são NF, NT. 
+
+Para os sensorias, a preferencia por coletar dados é concreta e tatil (tato). 
+
+Para os sensoriais, a proxima letra de preferencia não é a forma como você toma decisões, mas sim o como você organiza as informações, se prefere julgar (J) ou continuar absorvendo (p).
+
+Cada um dos tipos se encaixa em um desses 4 temperamentos. 
+
+![[Pasted image 20260416112857.png]]
+
+Os temperamentos não são tudo, porque ainda existem 16 tipos, mas isso nos oferece insights rápidos. 
+
+## Comportamentos dos 4 temperamentos
+
+Estamos dando uma festa na piscina. 
+
+Nossos convidados **SP** = sempre pegam todos os brinquedos da piscina, vão direto pra agua e inventam uma nova brincadeira. 
+
+Os **NF** se espalham nas espreguichadeiras e conversam seriamente sobre a vida e as pessoas.
+
+Os **NT**'s brincam uns com os outros, fazem piadas e criticam os problemas e as pessoas em suas profissoes. 
+
+E os **SJ**'s sempre, sempre encontram alguma tarefa pra fazer, como estender toalhas, debulhar milho, esfregar a churrasqueira ou arrancar ervas daninha da horta. 
+- Meu pai = SJ 
+
+---
+
+## Estilos dos 4 temperamentos. 
+
+### NF's 
+
+São idealistas sobre a vida, tendem a servir causas que promovem os interreses da humanidade.
+- Ensino, humanidades, aconselhamento, religião, medicina familiar, entre outras coisas. 
+
+Os nfs acreditam que o que mais importa é estar em sintonia consigo mesmo e com os outros. 
+
+Dons dos NF's, que se levados ao extremo viram defeitos. 
+- Capacidade de trabalhar com pessoas e extrair o melhor delas. 
+- Ser articulado e persuasivo. 
+- Um forte desejo de ajudar os outros. 
+- Capacidade de motivar os outros livremente de forma facil. 
+
+Possuem um jeito afável. 
+
+São em sí fofos e gostam de afeto. 
+
+Levam as criticas para o lado pessoal. 
+
+----
+
+Bom dia dos temperamentos: 
+- NT = Tenha um dia interresante
+- NF = Tenha um dia inspirador
+- SJ = Tenha um dia produtivo
+- SP = Divirta-se hoje
+
+-----
+
+### NT's 
+
+Teorizam e intelectualizam tudo. 
+
+A frase tipica deles é "Porque", porque isso ou porque aquilo, porque não podemos fazer xyz ? 
+
+Querem compreender o universo. 
+
+Eles aprendem desafiando qualquer autoridade ou fonte. 
+
+Muitas vezes são percepbidos pelos outros como esnobes intelectuais distantes. 
+
+Pontos fortes dos NT's que com o tempo se tornam pontos fracos: 
+- Capacidade de enchergar com facilidade o panorama geral. 
+- Talento para a concientização eo planejamento de sistemas. 
+- Conhecimento sobre lógica interna e os principios subjacentes de sistemas e organizações. 
+- Capacidade de falar e escrever com clareza e precisão. 
+
+Nos relacionamenos estão mais propensos a teorizar sobre o relacionamento em sí do que o viver de verdade, o dia a dia. 
+
+Analisam excessivamente cada ponto. 
+
+Dinheiro = Podem perder tudo porque gostam de emprendimentos de alto risco. 
+
+----
+
+### SJ's 
+
+São eles que definitivamente pagam as contas na vida. 
+
+São praticos e confiaveis. 
+
+São tradicionalistas estabilizadores.
+
+Como julgadores sua preferencia é de organizar, pessoas, móveis, horários, organizações, etc... 
+
+A vida deles gira em torno de procedimentos, possuem um procedimento pra tudo. 
+
+Pontos fortes dos SJ's: 
+- Administração.
+- Capacidade de assumir o controle.
+- Sempre sabem quem está no comando. 
+
+Eles são administradores fenomenais de sistemas que exigem precisão e organização. 
+
+Fazem o que precisa ser feito hoje, muitas vezes negligenciando o que precisa ser feito amanha. 
+
+Lar e familia são os pilares dos SJ's. 
+
+Sua rigidez os faz serem menos receptivos a aprender coisas novas. 
+
+Os SJ's são as pessoas do dinheiro, são os que mais acumulam dinheiro no mundo. 
+
+Roupas e os temperamentos: 
+- NF = Querem criar um visual unico, algo novo, que expresse sua personalidade unica. 
+- NT = Pegam  oque é mais confortavel e barato. 
+	- Não é uma prioridade para eles, somente quando o trabalho exige. 
+- SJ = Visual clássico. 
+	- Cuida meticulosamente das roupas.
+	- Não consegue jogar as roupas fora, mesmo quando ainda estão gastas. 
+- SP = Escolhe roupas que causam um impacto. 
+	- Prefere roupas que permitam flexibilidade de movimento e sejam voltadas para a pratica de atividades fisicas. 
+	- Tende a se vestir de forma casual. 
+	- Escolhe marcas e rotulos que os outros conhecem. 
+	- Pode ser ousado, elegante e arrojado no estilo.
+	- Combinam com maestria elegancia e peças baratas. 
+
+-----
+
+### SP's 
+
+Sua sensação os ancora na realidade do agora, e sua percepção os mantem abertos a outras maneiras de lidar com o agora. 
+
+A unica coisa que possuem certeza é sobre o momento presente " Um pano de longo prazo é uma contradição" para eles. 
+
+Sua busca é pela ação, pelo agir agora pagar depois. 
+- Querem coisas que gerem resultados no agora.
+
+São excelentes solucionadores de problemas.
+
+Pontos fortes: 
+- Praticidade 
+- Habilidades de resolução de problema apuradas, especialmente em tarefas práticas. 
+- Engenhosidade. 
+- Um senso de necessidades imediatas. 
+
+Quando surge uma crise, os SP's são os genios da criação de soluções. 
+
+Mas não hesistam em criar crises intencionais para resolve-las. 
+
+Planejamento e estrutura são sempre prioridades baixas pra eles. 
+
+Podem esquecer promessas feitas ontem e negligenciar uma visão de futuro para seus filhos.
+
+Eles aprendem melhor atividades que são práticas e imediatamente recompensadoras. 
+
+Dinheiro: eles são grandes apostadores da vida, ganha muito dinheiro e perdem muito dinheiro. O dinheiro é sempre algo do momento pra eles, orçamentos e planejamento estão fora de questão pra eles. 
+
+-----
+
+
 
 
 
