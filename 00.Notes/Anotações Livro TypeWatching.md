@@ -432,7 +432,6 @@ Roupas e os temperamentos:
 	- Combinam com maestria elegancia e peças baratas. 
 
 -----
-
 ### SP's 
 
 Sua sensação os ancora na realidade do agora, e sua percepção os mantem abertos a outras maneiras de lidar com o agora. 

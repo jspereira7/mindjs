@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Hacking Apis Book",
+      "path": "00.Notes/Hacking Apis Book.md"
+    },
+    {
       "basename": "Anotações Livro TypeWatching",
       "path": "00.Notes/Anotações Livro TypeWatching.md"
     },
     {
-      "basename": "Automação via Requests ($$$) como afiliado.",
-      "path": "00.Notes/Automação via Requests ($$$) como afiliado..md"
+      "basename": "Automação BH Ads via Requests ($$$) como afiliado.",
+      "path": "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md"
     },
     {
       "basename": "2026-04-13 Monday",
@@ -195,10 +199,6 @@
     {
       "basename": "ACESSO CURSO VAZADO - ALAN NICOLAS",
       "path": "00.Notes/ACESSO CURSO VAZADO - ALAN NICOLAS.md"
-    },
-    {
-      "basename": "Analise Funcionando Requests BH ADS",
-      "path": "00.Notes/Analise Funcionando Requests BH ADS.md"
     }
   ],
   "omittedPaths": [
