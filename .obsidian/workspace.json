@@ -37,8 +37,7 @@
               "title": "Automação via Requests ($$$) como afiliado."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Automação via Requests ($$$) como afiliado..md",
+                "file": "00.Notes/Anotações Livro TypeWatching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Automação via Requests ($$$) como afiliado."
+              "title": "Outgoing links from Anotações Livro TypeWatching"
             }
           },
           {
@@ -277,7 +276,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b41067ff82e0266",
+  "active": "56ea5cb9fa9f840b",
   "lastOpenFiles": [
     "00.Notes/Automação via Requests ($$$) como afiliado..md",
     "00.Notes/Anotações Livro TypeWatching.md",
