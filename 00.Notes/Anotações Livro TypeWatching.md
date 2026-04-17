@@ -549,5 +549,3 @@ Não leve o seu tipo como uma desculpa.
 
 
 
-
-
