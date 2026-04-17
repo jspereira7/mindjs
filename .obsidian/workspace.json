@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,12 +219,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Hacking Apis Book.md",
+                "file": "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hacking Apis Book"
+              "title": "Outgoing links from Automação BH Ads via Requests ($$$) como afiliado."
             }
           },
           {
@@ -292,10 +292,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "be4774b4b32a88f6",
+  "active": "6b41067ff82e0266",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20260416154131.png",
     "00.Notes/Hacking Apis Book.md",
+    "01.Assets/Anexos/Pasted image 20260416154131.png",
     "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
     "01.Assets/Anexos/Pasted image 20260416112857.png",
@@ -341,7 +341,6 @@
     "01.Assets/Anexos/Pasted image 20260220171658.png",
     "01.Assets/Anexos/Pasted image 20260220160600.png",
     "01.Assets/Anexos/Pasted image 20260219163146.png",
-    "01.Assets/Anexos/Pasted image 20260219151532.png",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Untitled 2.canvas",
     "01.Assets/Untitled 1.canvas",

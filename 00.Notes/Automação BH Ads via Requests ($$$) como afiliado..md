@@ -112,3 +112,13 @@
   - Incluir opção de proxy rotativo (simulado)
   - Logar cada tentativa com resultado
 
+-----
+
+Fluxo do projeto: 
+1. Post no serviceLog
+	1. Envia cookie contendo o email & o cookie do afiliado.
+	2. 
+2. Post no ServiceCenter.
+
+É basicamente só isso! 
+
