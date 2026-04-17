@@ -463,6 +463,86 @@ Dinheiro: eles são grandes apostadores da vida, ganha muito dinheiro e perdem m
 
 -----
 
+# O básico para determinar o tipo de alguem 
+
+Comportamento é relativo, você pode parecer introvertido se comparado a um extrovertido com uma preferencia maior em extroversão. 
+
+Ao tentar classificar alguem, você deve ser bastante flexivel, em absorver novas informações sobre aquela pessoa. 
+
+## Comece pelo obvio
+
+Comece com as caracteristicas mais faceis de identificar: J x P e Introversão x Extroversão. 
+
+Sensação x Intuição/Sentimetno x Pensamento é dificil de classificar para iniciantes. 
+
+## Identificando Introvertidos x Extrovertidos
+
+Uma diferença entre os extrovertidos e introvertidos é que os extrovertidos ganham energia a medida que a conversa ganha tração. 
+
+E os introvertidos vão perdendo energia, sendo esgotados. 
+### Expressivo ou reservado ? 
+
+Os extrovertidos falam mais alto do que os introvertidos, os introvertidos muitas vezes querem calar os extrovertidos.
+
+Os extrovertidos falam rápido, os introvertidos tendem a hesitar, pensando antes de falar.
+
+Os Extrovertidos usam mais comunicação não verbal, acenos com as mãoes, movimentos faciais e simulares, os introvertidos parecem distantes e reservados.
+
+## Identificando julgadores x Perceptivos
+
+Sem duvidas essa pode ser a letra mais facil de identificar
+
+Você deve estar atendo porque perceptivos podem parecer com julgadores. 
+
+Mas julgadores dificilmente se parecerão com perceptivos. 
+
+### Rigido ou Flexivel ? 
+
+Os julgadores tendem a permanecer focados em uma tarefa ou tópico, enquanto os perceptivos transitam mais facilmente de um assunto para o outro, as vezes até parecendo dispersos.
+
+Os perceptivos geram alternativas para qualquer situação, os julgadores ficam presos a um unico método.
+
+Os julgadores são mais decisivos, tendo uma resposta objetiva para cada situação. 
+
+Os perceptivos são mais flexiveis, geralmente fazendo mais perguntas
+
+## Identificando S x N 
+
+Esse vetor é mais dificil de ver, porque é um processo que ocorre internamente, mais dificil de ver com comportamentos e etc... 
+
+Os intuitivos veem o copo meio cheio. enquanto os sensoriais veem o copo meio vazio e com menos potencial. 
+
+Os sensitivos gostam de entender um processo observando-o sequencialmente. 
+
+Os intuitivos gostam de absorver informações aleatoriamente e então as encaixam em um modelo teórico. 
+
+Os sensoriais são impaciente com esquemas fantasiosos, os intuitivos são impacientes com muitos detalhes. 
+
+## Identificar T x F (Mais dificil de todas)
+
+É dificil dizer se a opnião de x pessoa é objetiva ou subjetiva.
+
+No geral pessoas que preferem F são as que gostam de agradar.
+
+Os tipos por preferencia por pensamento são um pouco "duros" 
+
+### Cabeça ou coração ? 
+
+- Os tipos T, buscam clareza objetiva, os tipos F buscam harmonia com as pessoas
+- Ambos tem sentimentos, mas os pensadores preferem compreende-los, os sentidores preferem vivencialos.
+
+> ENTP: Quase todos os tipos F que conheço dizem que pobreza é pureza e riqueza é maldade, muitos tipos Ts que eu conheço não acreditam nisso
+
+Não leve o seu tipo como uma desculpa. 
+- Não vou dizer para um tipo pensados o como eu me sinto porque ele não me entenderia etc...
+
+----
+
+
+
+
+
+
 
 
 

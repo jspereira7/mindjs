@@ -52,8 +52,7 @@
               "title": "Automação BH Ads via Requests ($$$) como afiliado."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,12 +71,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Anotações Livro TypeWatching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Anotações Livro TypeWatching"
             }
           },
           {
@@ -130,13 +130,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -219,12 +217,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
+                "file": "00.Notes/Anotações Livro TypeWatching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Automação BH Ads via Requests ($$$) como afiliado."
+              "title": "Outgoing links from Anotações Livro TypeWatching"
             }
           },
           {
@@ -292,13 +290,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "be4774b4b32a88f6",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
+    "00.Notes/Hacking Apis Book.md",
     "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
     "00.Notes/Ft Faire Secrect.md",
     "01.Assets/Anexos/Pasted image 20260417000505.png",
-    "00.Notes/Hacking Apis Book.md",
     "01.Assets/Anexos/Pasted image 20260416154131.png",
     "01.Assets/Anexos/Pasted image 20260416112857.png",
     "+Daily Notes/2026-04-13 Monday.md",
