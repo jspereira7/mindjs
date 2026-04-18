@@ -124,3 +124,7 @@ Fluxo do projeto:
 
 ----
 
+Pelo que parece o ip importa, nos inscrevemos com o nosso ip e a conversão foi contada. 
+
+Vamoss falta pouco, só 110 dol. 
+
