@@ -538,7 +538,22 @@ Não leve o seu tipo como uma desculpa.
 
 ----
 
+## ISTP 
 
+> Eles possuem um estilo laizess faire, ou seja deixa acontecer... 
+
+Uma postura relaxad em relação a vida etc... 
+
+Aqueles que convivem com os ISTP's, desfrutam de um alto nivel de liberdade pessoal. 
+
+Quando não estão envolvidos em uma empreitada ou aventura que exija toda sua atenção, eles relaxam. 
+
+Eles frequentemente se sentem atraidos por motocicletas, seja para pilotá-las ou para concertá-las. 
+- O que pode causar preocupação na familia. 
+
+Muitas pessoas os consideram ant-social etc... mas eles somente possuem pouca necessidade de interação social. 
+
+Famosos ISTP: Burt Reynolds e Red Adair. 
 
 
 
