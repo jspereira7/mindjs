@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Testemunho Santiago.md",
+                "file": "00.Notes/Anotações Livro TypeWatching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Testemunho Santiago"
+              "title": "Outline of Anotações Livro TypeWatching"
             }
           },
           {
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -235,12 +234,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Testemunho Santiago.md",
+                "file": "00.Notes/Anotações Livro TypeWatching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testemunho Santiago"
+              "title": "Outgoing links from Anotações Livro TypeWatching"
             }
           },
           {
@@ -308,7 +307,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6d68e74512037388",
+  "active": "1840bef018130770",
   "lastOpenFiles": [
     "00.Notes/Testemunho Santiago.md",
     "00.Notes/Anotações Livro TypeWatching.md",
