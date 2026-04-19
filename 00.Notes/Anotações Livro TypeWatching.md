@@ -537,7 +537,6 @@ Não leve o seu tipo como uma desculpa.
 - Não vou dizer para um tipo pensados o como eu me sinto porque ele não me entenderia etc...
 
 ----
-
 ## ISTP 
 
 > Eles possuem um estilo laizess faire, ou seja deixa acontecer... 
@@ -554,6 +553,8 @@ Eles frequentemente se sentem atraidos por motocicletas, seja para pilotá-las o
 Muitas pessoas os consideram ant-social etc... mas eles somente possuem pouca necessidade de interação social. 
 
 Famosos ISTP: Burt Reynolds e Red Adair. 
+
+---
 
 
 
