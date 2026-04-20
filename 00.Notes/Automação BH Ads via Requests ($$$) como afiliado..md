@@ -128,3 +128,9 @@ Pelo que parece o ip importa, nos inscrevemos com o nosso ip e a conversão foi 
 
 Vamoss falta pouco, só 110 dol. 
 
+----
+
+Acredito que eles façam validação de ip, por isso não estava convertendo. 
+
+Vamos precisar pegar ips/proxy de qualidade. 
+
