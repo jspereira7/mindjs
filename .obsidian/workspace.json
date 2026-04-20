@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "Anotações Livro TypeWatching"
             }
+          },
+          {
+            "id": "9ffd17e65ed64127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Eye Maxximing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Eye Maxximing"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Anotações Livro TypeWatching.md",
+                "file": "00.Notes/Eye Maxximing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anotações Livro TypeWatching"
+              "title": "Outline of Eye Maxximing"
             }
           },
           {
@@ -219,12 +234,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Anotações Livro TypeWatching.md",
+                "file": "00.Notes/Eye Maxximing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Anotações Livro TypeWatching"
+              "title": "Outgoing links from Eye Maxximing"
             }
           },
           {
@@ -292,14 +307,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1840bef018130770",
+  "active": "9ffd17e65ed64127",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20260420123930.png",
+    "01.Assets/Anexos/Pasted image 20260420123906.png",
+    "01.Assets/Anexos/Pasted image 20260420123848.png",
+    "00.Notes/Looks Maximing - Cravicular Tips.md",
+    "00.Notes/Eye Maxximing.md",
+    "00.Notes/Diet Maxximing.md",
+    "01.Assets/Anexos/Pasted image 20260420122114.png",
+    "01.Assets/Anexos/Pasted image 20260420121418.png",
+    "01.Assets/Anexos/Pasted image 20260420120945.png",
+    "01.Assets/Anexos/Pasted image 20260420115337.png",
+    "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Insights Elon Musnk.md",
     "00.Notes/Octagram 4.1.md",
     "00.Notes/Social Warrior.md",
     "00.Notes/Hacking Apis Book.md",
     "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
-    "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Testemunho Santiago.md",
     "00.Notes/Ft Faire Secrect.md",
     "01.Assets/Anexos/Pasted image 20260417000505.png",
@@ -319,10 +344,6 @@
     "00.Notes/Anotações Livro Black Pill.md",
     "00.Notes/Fi.md",
     "00.Notes/Plano Bot de Conversões.md",
-    "00.Notes/Automação e WebScraping (Ouro).md",
-    "00.Notes/Anotações The Narrow Road - Felix Dennis.md",
-    "00.Notes/Lista Logins para teste.md",
-    "00.Notes/Web Scraping - Guia.md",
     "01.Assets/Estudo de Ai.canvas",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
@@ -335,13 +356,7 @@
     ":.claude/obsidian-skills-main copy/skills/defuddle",
     ":.claude/obsidian-skills-main copy/skills",
     "01.Assets/Anexos/Pasted image 20260402174921.png",
-    "01.Assets/Anexos/Pasted image 20260327161016.png",
     "00.Notes/Visual Thinking Canva.canvas",
-    "01.Assets/Anexos/Pasted image 20260227215039.png",
-    "01.Assets/Anexos/Pasted image 20260227212316.png",
-    "01.Assets/Anexos/Pasted image 20260221000612.png",
-    "01.Assets/Anexos/Pasted image 20260220171658.png",
-    "01.Assets/Anexos/Pasted image 20260220160600.png",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Untitled 2.canvas",
     "01.Assets/Untitled 1.canvas",
