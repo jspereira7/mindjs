@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Eye Maxximing.md",
+                "file": "00.Notes/Hacking Apis Book.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Eye Maxximing"
+              "title": "Hacking Apis Book"
             }
           }
         ],
@@ -87,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Eye Maxximing.md",
+                "file": "00.Notes/Hacking Apis Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eye Maxximing"
+              "title": "Outline of Hacking Apis Book"
             }
           },
           {
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -234,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Eye Maxximing.md",
+                "file": "00.Notes/Hacking Apis Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eye Maxximing"
+              "title": "Outgoing links from Hacking Apis Book"
             }
           },
           {
@@ -309,24 +310,24 @@
   },
   "active": "9ffd17e65ed64127",
   "lastOpenFiles": [
+    "00.Notes/Ft Faire Secrect.md",
+    "00.Notes/Eye Maxximing.md",
+    "00.Notes/Anotações Livro TypeWatching.md",
+    "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
+    "00.Notes/Insights Elon Musnk.md",
     "01.Assets/Anexos/Pasted image 20260420123930.png",
     "01.Assets/Anexos/Pasted image 20260420123906.png",
     "01.Assets/Anexos/Pasted image 20260420123848.png",
     "00.Notes/Looks Maximing - Cravicular Tips.md",
-    "00.Notes/Eye Maxximing.md",
     "00.Notes/Diet Maxximing.md",
     "01.Assets/Anexos/Pasted image 20260420122114.png",
     "01.Assets/Anexos/Pasted image 20260420121418.png",
     "01.Assets/Anexos/Pasted image 20260420120945.png",
     "01.Assets/Anexos/Pasted image 20260420115337.png",
-    "00.Notes/Anotações Livro TypeWatching.md",
-    "00.Notes/Insights Elon Musnk.md",
     "00.Notes/Octagram 4.1.md",
     "00.Notes/Social Warrior.md",
     "00.Notes/Hacking Apis Book.md",
-    "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
     "00.Notes/Testemunho Santiago.md",
-    "00.Notes/Ft Faire Secrect.md",
     "01.Assets/Anexos/Pasted image 20260417000505.png",
     "01.Assets/Anexos/Pasted image 20260416154131.png",
     "01.Assets/Anexos/Pasted image 20260416112857.png",
@@ -355,7 +356,6 @@
     ":.claude/obsidian-skills-main copy/skills/obsidian-markdown",
     ":.claude/obsidian-skills-main copy/skills/defuddle",
     ":.claude/obsidian-skills-main copy/skills",
-    "01.Assets/Anexos/Pasted image 20260402174921.png",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Untitled 2.canvas",
