@@ -148,4 +148,3 @@ Os cookies podem armazenar configs do site, configs de segurança e infos relaci
 Para manter suas sessões ativas, os navegadores inclem certos cookies armazenados, nas requests para o servidor, ao invadir aplicações web, um atacante pode se passar por um usuario final roubando ou falsificando cookies.
 
 -----
-
