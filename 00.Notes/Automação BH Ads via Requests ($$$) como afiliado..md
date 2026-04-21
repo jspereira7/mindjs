@@ -134,4 +134,7 @@ Acredito que eles façam validação de ip, por isso não estava convertendo.
 
 Vamos precisar pegar ips/proxy de qualidade. 
 
-adrianafelix3117
+adrianafelix3117 - tiktok da veia doida kkkk 
+
+---
+

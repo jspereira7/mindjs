@@ -67,7 +67,8 @@
               "title": "2026-04-20 Monday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
+                "file": "00.Notes/Hacking Apis Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Automação BH Ads via Requests ($$$) como afiliado."
+              "title": "Outline of Hacking Apis Book"
             }
           },
           {
@@ -234,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
+                "file": "00.Notes/Hacking Apis Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Automação BH Ads via Requests ($$$) como afiliado."
+              "title": "Outgoing links from Hacking Apis Book"
             }
           },
           {
@@ -307,12 +308,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b41067ff82e0266",
+  "active": "9ffd17e65ed64127",
   "lastOpenFiles": [
-    "00.Notes/Insights Elon Musnk.md",
-    "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
     "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Hacking Apis Book.md",
+    "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
+    "00.Notes/Insights Elon Musnk.md",
     "+Daily Notes/2026-04-20 Monday.md",
     "00.Notes/Untitled 2.md",
     "00.Notes/Ft Faire Secrect.md",
