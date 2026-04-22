@@ -84,7 +84,6 @@ Exemplo: Voce pode usar alguma coisa unica que o destaque dos outros, como uma g
 
 ----
 
-
 ### Envie sinais ambiguos
 
 Se a sua aparecencia mostra alguem bonzinho, deixe escapar alguns tracos de maldade, criando assim um enigma, que as pessoas vão querer decifrar sobre voce. 
