@@ -158,5 +158,7 @@ Faltam maisomenos 20 conversões.
 - Mas precisamos de um checker isso é fato. 
 
 
+
+
 ----
 
