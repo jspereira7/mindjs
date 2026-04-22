@@ -138,3 +138,17 @@ adrianafelix3117 - tiktok da veia doida kkkk
 
 ---
 
+Na verdade o que precisamos fazer é: Gerar conversões automaticas, mas com IP da australia. É simples assim. 
+
+Falta uns 100 dolares, ou seja 20 conversões. 
+
+Mas não podemos ficar com um EPC bizarro, pois ele vai nos foder com a network. 
+
+Precisamos de Proxy bons, para fazer essas conversões na mão talvez. 
+
+Como conseguir proxy de graça talvez ? 
+- Pedir pra um amigo
+- Criar um Checker de Logs, para talvez usar um sistema vazado. 
+
+----
+
