@@ -150,5 +150,13 @@ Como conseguir proxy de graça talvez ?
 - Pedir pra um amigo
 - Criar um Checker de Logs, para talvez usar um sistema vazado. 
 
+
+Faltam maisomenos 20 conversões. 
+- Ou podemos pedir grana do venvanse emprestada. 
+- Ou podemos fazer algum trampo freelancer pra conseguir a grana. 
+- Ou podemos usar os logs da C&A ou outra loja que oferece crédito de graça etc... e conseguir seila usar o cartão da pessoa n sei. 
+- Mas precisamos de um checker isso é fato. 
+
+
 ----
 
