@@ -5,6 +5,10 @@
       "path": "00.Notes/ID Big Five.md"
     },
     {
+      "basename": "Pix",
+      "path": "00.Notes/Pix.md"
+    },
+    {
       "basename": "Livro BlackHat Carding",
       "path": "00.Notes/Livro BlackHat Carding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-20 Monday",
       "path": "+Daily Notes/2026-04-20 Monday.md"
-    },
-    {
-      "basename": "Insights Elon Musnk",
-      "path": "00.Notes/Insights Elon Musnk.md"
     }
   ],
   "omittedPaths": [
