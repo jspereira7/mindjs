@@ -24,5 +24,9 @@ realização de transações fraudulentas bem-sucedidas, especialmente os RD
 
 ----
 
-## Eua é o seu maior inimigo
+## OPSEC
+
+Este é o aspecto mais importante para ser um fraudador de sucesso. A razão é que não adianta fazer tudo isso se, eventualmente, formos pegos e tivermos todos os nossos bens confiscados pelo governo. Infelizmente, os Estados Unidos não levam essas coisas na brincadeira e farão de tudo para perseguir cibercriminosos e colocá-los na cadeia, que na maioria das vezes recebe sentenças de mais de 10 anos de prisão por delitos menores. Eles são a maior e mais poderosa nação do mundo, e seus recursos são absolutamente infinitos. Devemos tomar todas as precauções possíveis para mitigar esses riscos e garantir que nosso trabalho árduo nunca nos seja tirado por tais governos. Mesmo que você não more nos Estados Unidos, ainda deve se preocupar muito com eles, pois estão envolvidos em praticamente todos os problemas internacionais, especialmente em casos de crimes cibernéticos.
+
+NordVPN é a melhor VPN de todas. 
 
