@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Present Authoring - Falts",
+      "path": "00.Notes/Present Authoring - Falts.md"
+    },
+    {
+      "basename": "Self Authoring - Js Pereira",
+      "path": "00.Notes/Self Authoring - Js Pereira.md"
+    },
+    {
       "basename": "12 formas de usar melhor o Claude (ou qualquer IA)",
       "path": "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Curso de Lógica - Victor Elius.",
       "path": "01.Assets/Cursos/Curso de Lógica - Victor Elius..md"
-    },
-    {
-      "basename": "Curso Zona de Genialidade - Alan Nicolas",
-      "path": "01.Assets/Cursos/Curso Zona de Genialidade - Alan Nicolas.md"
-    },
-    {
-      "basename": "Curso Python Básico - Solyd",
-      "path": "01.Assets/Cursos/Curso Python Básico - Solyd.md"
     }
   ],
   "omittedPaths": [
