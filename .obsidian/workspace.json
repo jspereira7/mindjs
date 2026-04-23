@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b41067ff82e0266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Automação BH Ads via Requests ($$$) como afiliado."
-            }
-          },
-          {
             "id": "1840bef018130770",
             "type": "leaf",
             "state": {
@@ -35,21 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Anotações Livro TypeWatching"
-            }
-          },
-          {
-            "id": "9ffd17e65ed64127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Assets/Readwise/Books/Pensamento Eficaz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Pensamento Eficaz"
             }
           },
           {
@@ -66,9 +36,24 @@
               "icon": "lucide-file",
               "title": "ID Big Five"
             }
+          },
+          {
+            "id": "30a59784a7713200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "12 formas de usar melhor o Claude (ou qualquer IA)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,14 +293,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0b80e10c35239519",
+  "active": "30a59784a7713200",
   "lastOpenFiles": [
-    "00.Notes/Pix.md",
-    "00.Notes/ID Big Five.md",
-    "00.Notes/Livro BlackHat Carding.md",
-    "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
-    "01.Assets/Readwise/Books/Pensamento Eficaz.md",
+    "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md",
     "00.Notes/Anotações Livro TypeWatching.md",
+    "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
+    "00.Notes/ID Big Five.md",
+    "00.Notes/Pix.md",
+    "00.Notes/Livro BlackHat Carding.md",
+    "01.Assets/Readwise/Books/Pensamento Eficaz.md",
     "00.Notes/Looks Maximing - Cravicular Tips.md",
     "00.Notes/Hacking Apis Book.md",
     "00.Notes/Diet Maxximing.md",
@@ -335,7 +321,6 @@
     "01.Assets/Templates/ideia.md.md",
     "01.Assets/TextGenerator/oalanicolas/_fackchecking.md",
     "01.Assets/TextGenerator/oalanicolas/_anticancelamento.md",
-    "01.Assets/TextGenerator/oalanicolas/_ponto_contrario.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
