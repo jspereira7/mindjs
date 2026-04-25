@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,14 +308,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bf0ca6e7a726c73c",
+  "active": "30a59784a7713200",
   "lastOpenFiles": [
-    "00.Notes/Self Authoring - Js Pereira.md",
     "00.Notes/Present Authoring - Falts.md",
+    "00.Notes/ID Big Five.md",
     "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md",
+    "00.Notes/Self Authoring - Js Pereira.md",
     "00.Notes/Anotações Livro TypeWatching.md",
     "00.Notes/Automação BH Ads via Requests ($$$) como afiliado..md",
-    "00.Notes/ID Big Five.md",
     "00.Notes/Pix.md",
     "00.Notes/Livro BlackHat Carding.md",
     "01.Assets/Readwise/Books/Pensamento Eficaz.md",
