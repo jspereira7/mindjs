@@ -556,6 +556,8 @@ Famosos ISTP: Burt Reynolds e Red Adair.
 
 ---
 
+> Seus pontos fortes vão até aonde suas fraquezas te permitem 
+
 
 
 
