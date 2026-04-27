@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Assets/Clippings/Tim Ferriss Book Recommendations.md",
+                "file": "01.Assets/Clippings/Charlie Munger Book Recommendations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tim Ferriss Book Recommendations"
+              "title": "Charlie Munger Book Recommendations"
             }
           },
           {
@@ -43,16 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Present Authoring - Falts.md",
+                "file": "+Daily Notes/2026-04-27 Monday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Present Authoring - Falts"
+              "title": "2026-04-27 Monday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,8 +292,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1840bef018130770",
+  "active": "bf0ca6e7a726c73c",
   "lastOpenFiles": [
+    "00.Notes/Present Authoring - Falts.md",
+    "+Daily Notes/2026-04-27 Monday.md",
+    "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md",
+    "01.Assets/Clippings/Charlie Munger Book Recommendations.md",
+    "01.Assets/Clippings/Derek Sivers Book Recommendations.md",
+    "01.Assets/Clippings/Tim Ferriss Book Recommendations.md",
     "01.Assets/Cursos/Pentester JR - Try Hack Me.md",
     "01.Assets/Cursos/Mente Lendaria..md",
     "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
@@ -313,12 +320,6 @@
     "00.Notes/Entp Produtividade - Cs Joseph.md",
     "00.Notes/Octagram 4.0 - Cs Joseph.md",
     "00.Notes/Administração de Tempo dos Bilionarios..md",
-    "00.Notes/Planejamento Segunda Feira.md",
-    "00.Notes/Soft Locking - Cs Joseph.md",
-    "00.Notes/Daily Plan.md",
-    "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md",
-    "00.Notes/Octagram 4 - Core Fears.md",
-    "00.Notes/Framework OCT 4.0.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",

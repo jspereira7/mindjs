@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-27 Monday",
+      "path": "+Daily Notes/2026-04-27 Monday.md"
+    },
+    {
+      "basename": "Present Authoring - Falts",
+      "path": "00.Notes/Present Authoring - Falts.md"
+    },
+    {
+      "basename": "12 formas de usar melhor o Claude (ou qualquer IA)",
+      "path": "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md"
+    },
+    {
+      "basename": "Charlie Munger Book Recommendations",
+      "path": "01.Assets/Clippings/Charlie Munger Book Recommendations.md"
+    },
+    {
+      "basename": "Derek Sivers Book Recommendations",
+      "path": "01.Assets/Clippings/Derek Sivers Book Recommendations.md"
+    },
+    {
       "basename": "Tim Ferriss Book Recommendations",
       "path": "01.Assets/Clippings/Tim Ferriss Book Recommendations.md"
     },
@@ -129,16 +149,8 @@
       "path": "00.Notes/Anotações Livro TypeWatching.md"
     },
     {
-      "basename": "12 formas de usar melhor o Claude (ou qualquer IA)",
-      "path": "00.Notes/12 formas de usar melhor o Claude (ou qualquer IA).md"
-    },
-    {
       "basename": "ID Big Five",
       "path": "00.Notes/ID Big Five.md"
-    },
-    {
-      "basename": "Present Authoring - Falts",
-      "path": "00.Notes/Present Authoring - Falts.md"
     },
     {
       "basename": "Self Authoring - Js Pereira",
@@ -187,18 +199,6 @@
     {
       "basename": "Leonardo Davinci Genius",
       "path": "01.Assets/Readwise/Books/Leonardo Davinci Genius.md"
-    },
-    {
-      "basename": "A Arte Da Sedução",
-      "path": "01.Assets/Readwise/Books/A Arte Da Sedução.md"
-    },
-    {
-      "basename": "Tweets From Js",
-      "path": "01.Assets/Readwise/Tweets/Tweets From Js.md"
-    },
-    {
-      "basename": "Tweets From Robert Greene",
-      "path": "01.Assets/Readwise/Tweets/Tweets From Robert Greene.md"
     }
   ],
   "omittedPaths": [
