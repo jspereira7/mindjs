@@ -52,8 +52,7 @@
               "title": "Cracking Guide"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,13 +71,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Cracking Guide.md",
+                "file": "00.Notes/Carl Newport - Bom demais pra ser ignorado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cracking Guide"
+              "title": "Outline of Carl Newport - Bom demais pra ser ignorado"
             }
           },
           {
@@ -291,7 +290,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8b0888c1132c9f54",
+  "active": "bf0ca6e7a726c73c",
   "lastOpenFiles": [
     "00.Notes/Cracking Guide.md",
     "00.Notes/Eneagram Tipo 5.md",
