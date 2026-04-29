@@ -91,6 +91,19 @@ Você precisa ser bom para conseguir coisas boas na sua vida, e a mentalidade do
 - O emprego te força a trabalhar com pessoas que vc realmente não gosta. 
 
 -----
+## Os capitais de carreira 
+
+> Vou demonstrar nesse capitulo duas pessoas que aplicaram o capital de carreira e mudaram suas carreiras pra sempre 
+
+Alex e mike focaram em focaram o objetivo de se tornarem bons - não o de encontrar paixoes e depois usaram o capital de carreira que isso gerou para adquirir as caracteristicas que tornaram suas carreiras incriveis. 
+
+Profissionais que nunca ficam sem emprego, e chamam atenção das empresas e do mercado são aqueles que são realmente bons no que fazem. 
+
+Não existe nada de magico sobre o sucesso, você precisa apenas descobrir o quão valioso e dificil é se tornar realmente bom em algo. 
+
+Capital de carreira é ser bom em coisas que poucas pessoas sabem fazer. 
+
+
 
 
 
