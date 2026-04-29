@@ -29,4 +29,14 @@ Abrem mão de conseguir algo por medo de perder o que já tem.
 
 São pessoas frias e calculistas, que crêem na mente como meio de conseguir as coisas, substituindo emoções por pensamentos.
 
+Nunca desejando o que não seja lógico e nunca expressando sentimentos. 
+
+Gostam muito de informação. 
+
+São pessoas distantes e inacessiveis, dando respostas curtas e objetivas aos outros, se afastando das pessoas e mostrando pouca ou nenhuma apreciação pela presença delas, ignorando facilmente as pessoas ao seu redor. 
+
+Por isso possuem dificuldade em se relacionar com os outros. 
+
+Incorporam o vicio da gula, por bens, pessoas e principalmente conhecimento, mas são determinados. 
+
 
