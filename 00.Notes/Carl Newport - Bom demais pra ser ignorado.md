@@ -105,7 +105,7 @@ Capital de carreira é ser bom em coisas que poucas pessoas sabem fazer.
 
 ---
 
-# Porque algumas pessoas são melhores que outras
+## Porque algumas pessoas são melhores que outras
 
 Nesse capitulo o carl newport fala sobre o porque algumas pessoas são melhores que as outras, mesmo praticando as mesmas quantidades de horas
 
@@ -150,13 +150,55 @@ Existem dois tipos de mercado: vencedor leva tudo & leilão.
 
 Com isso em mente a primeira tarefa para desenvolver a prática deliberada é descobrir em qual tipo de mercado de capital de carreira você está competindo.
 
+-----
 
+Uma vez que você identificou qual habilidade deve desenvolver, ai sim você começa aplicar o que as pesquisas dizem sobre prática deliberada.
 
+A primeira coisa que essa literatura nos diz é pra ter objetivos claros. 
 
+Não saber aonde se quer chegar dificulta a adoção de ações eficazes.
 
+Você precisa definir o que bom significa, o quão bom. 
 
+Fazer as coisas as quais fazemos bem é agradavel e isso é exatamente o contrário do que a prática deliberada necessita.
 
+Ela é um esforço de enfoque e concentração.
 
+---
+
+A boa noticia é que a pratica deliberada vai te levar para um patamar muito acima do comum
+
+Mas a má noticia é que a pratica deliberada não é com frequencia o oposto do agradavel 
+
+É isso que você deve sentir na sua propria busca pelo " Bom ". Se não estiver desconfortavel, então provavelmente está preso em um nivel aceitavel. 
+
+Mas superar o que é confortavel é apenas uma das partes da prática deliberada, a outra parte é aceitar o feedback sincero, mesmo que isso destrua o que você achava que era bom. 
+
+---
+
+### Tenha paciencia
+
+Mire no futuro, vários anos a frente com essa habilidade dominada. 
+
+E o foco é sobre dizer não, dizer não as outras atividades que possam te interresar. 
+
+Aplicar o empenho, ignorando outras atividades que possam te distrair. 
+
+Tenha essa disposição paciente para aplicar o empenho, mantendo-se no caminho sem se desviar, para atingir a maestria. 
+
+## Resumo da Regra N2
+
+1. As capacidades que definem um trabalho notavel são raras e valiosas
+2. Essas capacidades raras e valiosas são capitais de carreia. 
+3. A base para conseguir um trabalho que ama é obter capital de carreira. 
+4. Para isso adote a mentalidade do artesão, foque no que você tem a oferecer ao mundo
+5. E para isso você precisa se tornar bom, atraves de um conceito conhecido, chamado da prática deliberada
+6. Esse modelo é o qual você amplia deliberadamente suas capacidades na area, indo longe da sua zona confortavel. 
+7. E recebe feedback implacavel sobre seu desempenho.
+8. Musicos, atletas e enxadristas sabem tudo sobre a prática deliberada. Um trabalhador do conhecimento não. 
+9. Se um trabalhador do conhecimento aplicar a pratica deliberada pode então ultrapassar seus colegas na aquisição de capital de carreira. 
+
+-----
 
 
 

@@ -12,7 +12,6 @@ O eneagram mede motivação central, medo básico e estrátegia de defesa, MBTI 
 
 O tipo 5 se encaixa em diferentes tipos do mbti, desde que a motivação central seja (buscar conhecimento, autonomia, preservar energia)
 
-
 -----
 
 O vicio desse tipo é a avareza pois temem perder algo, ou tem desconforto em gastar alguma coisa. 

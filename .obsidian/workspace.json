@@ -52,8 +52,7 @@
               "title": "Prática deliberada"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,13 +71,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Carl Newport - Bom demais pra ser ignorado.md",
+                "file": "00.Notes/Eneagram Tipo 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Carl Newport - Bom demais pra ser ignorado"
+              "title": "Outline of Eneagram Tipo 5"
             }
           },
           {
@@ -131,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,26 +192,6 @@
             }
           },
           {
-            "id": "b18171310411ec96",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todoist",
-              "state": {},
-              "icon": "lucide-list-checks",
-              "title": "Todoist"
-            }
-          },
-          {
-            "id": "36ddfeaf58f2a178",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-translator",
-              "state": {},
-              "icon": "lucide-globe",
-              "title": "Google Translator"
-            }
-          },
-          {
             "id": "9cc7f76d608cbc78",
             "type": "leaf",
             "state": {
@@ -267,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -292,12 +270,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8b0888c1132c9f54",
+  "active": "a1f9e2dd335a71c3",
   "lastOpenFiles": [
-    "00.Notes/Prática deliberada.md",
     "00.Notes/Carl Newport - Bom demais pra ser ignorado.md",
-    "00.Notes/Cracking Guide.md",
     "00.Notes/Eneagram Tipo 5.md",
+    "00.Notes/Prática deliberada.md",
+    "00.Notes/Cracking Guide.md",
     "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
     "Clippings",
     "+Daily Notes/2026-04-28 Tuesday.md",
