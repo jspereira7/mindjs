@@ -17,3 +17,6 @@ Ela tem algumas características principais:
 É o conceito por trás da famosa "regra das 10.000 horas" do Malcolm Gladwell — embora Ericsson critique essa simplificação, pois as horas só contam se forem de prática deliberada.
 
 **Em resumo:** A maioria das pessoas pratica fazendo o que já sabe. A prática deliberada te força a fazer o que ainda _não_ sabe — de forma desconfortável, focada e com feedback constante.
+
+Prática deliberada é quando você treina de propósito, de forma bem concentrada, para melhorar alguma habilidade específica. Não é só fazer algo várias vezes, é fazer pensando na maneira de melhorar, corrigindo os erros e se esforçando ao máximo. É como treinar um esporte ou aprender a tocar um instrumento: você foca nos pontos que precisa melhorar e pratica de forma intencional, pensando sempre em evoluir.
+

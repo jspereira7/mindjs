@@ -52,7 +52,8 @@
               "title": "Prática deliberada"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Eneagram Tipo 5.md",
+                "file": "00.Notes/Prática deliberada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eneagram Tipo 5"
+              "title": "Outline of Prática deliberada"
             }
           },
           {
@@ -270,10 +271,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a1f9e2dd335a71c3",
+  "active": "38ab313473816738",
   "lastOpenFiles": [
-    "00.Notes/Carl Newport - Bom demais pra ser ignorado.md",
     "00.Notes/Eneagram Tipo 5.md",
+    "00.Notes/Carl Newport - Bom demais pra ser ignorado.md",
     "00.Notes/Prática deliberada.md",
     "00.Notes/Cracking Guide.md",
     "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
