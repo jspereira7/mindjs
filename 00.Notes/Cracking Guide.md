@@ -14,3 +14,5 @@ Porque usar proxy?
 Porque precisamos de VPN ? 
 - Porque não queremos os policiais na sua porta ou retardados divulgados informações pessoais sobre você.
 
+---
+

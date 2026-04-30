@@ -103,6 +103,39 @@ Não existe nada de magico sobre o sucesso, você precisa apenas descobrir o qu�
 
 Capital de carreira é ser bom em coisas que poucas pessoas sabem fazer. 
 
+---
+
+# Porque algumas pessoas são melhores que outras
+
+Nesse capitulo o carl newport fala sobre o porque algumas pessoas são melhores que as outras, mesmo praticando as mesmas quantidades de horas
+
+Ele descobriu que seu desconforto mental era uma desvantagem pra ele no mundo de seus shows de guitarra. 
+
+O amigo do carl newport tinha uma mentalidade de praticar fora da zona de conforto dele, sempre tentando melhorar suas habilidades e não apenas simplesmente tocando os instrumentos. 
+
+## Como tornar-se um grande mestre 
+
+A regra das 10 mil horas
+- Um numero magico provado pela ciencia, que faz alguem ser mestre em algo. 
+
+No livro Fora de Série é apontado essa regra de que grandes realizações não estão relacionadas a talento natural, em vez disso trata-se de estar no lugar certo e na hora certa para acumular uma grande quantidade de prática. 
+- Bill gates estudou em uma das primeiras escolas que tinham um computador para os alunos utilizarem a qualquer momento, acumulando uma grande quantidade de prática
+
+Mas não é somente sobre a quantidade de horas, mas sim como essas hroas são utilizadas
+
+No xadrez grandes mestres passaram metade das 10 mil horas estudando seriamente sobre o xadrez. 
+
+Isso significa que não é somente as horas dedicadas, mas sim as horas dedicadas nas coisas dificeis que irão realmente melhorar suas habilidades. 
+
+Isso se chama "Pratica Deliberada", é o que diz respeito a essas horas dedicadas ao estudo sério. 
+
+A pratica deliberada é o que realmente faz a diferença na hora de se chegar a excelencia. 
+
+Todos os atletas de sucesso tiveram treinadores experientes os ajustando-os des de pequenos. 
+
+É a acumulação de uma vida de prática deliberada que repetidamente acaba explicando a excelencia. 
+
+
 
 
 
