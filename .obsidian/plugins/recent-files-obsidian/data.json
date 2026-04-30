@@ -5,6 +5,10 @@
       "path": "00.Notes/Carl Newport - Bom demais pra ser ignorado.md"
     },
     {
+      "basename": "Prática deliberada",
+      "path": "00.Notes/Prática deliberada.md"
+    },
+    {
       "basename": "Cracking Guide",
       "path": "00.Notes/Cracking Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Looks Maximing - Cravicular Tips",
       "path": "00.Notes/Looks Maximing - Cravicular Tips.md"
-    },
-    {
-      "basename": "Hacking Apis Book",
-      "path": "00.Notes/Hacking Apis Book.md"
     }
   ],
   "omittedPaths": [

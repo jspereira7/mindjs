@@ -129,11 +129,31 @@ Isso significa que não é somente as horas dedicadas, mas sim as horas dedicada
 
 Isso se chama "Pratica Deliberada", é o que diz respeito a essas horas dedicadas ao estudo sério. 
 
-A pratica deliberada é o que realmente faz a diferença na hora de se chegar a excelencia. 
+**A pratica deliberada é o que realmente faz a diferença na hora de se chegar a excelencia.** 
 
 Todos os atletas de sucesso tiveram treinadores experientes os ajustando-os des de pequenos. 
 
 É a acumulação de uma vida de prática deliberada que repetidamente acaba explicando a excelencia. 
+
+Retirando areas como musica, esportes e xadrez, a maioria dos trabalhos do conhecimentos, eles não possuem uma cultura de treinamento e por isso com o tempo ficam estagnádos. 
+
+A prática deliberada é a chave para você se tornar tão bom que seja quase impossivel de ignorar você. 
+
+Para adotarmos a mentalidade do artesão com sucesso devemos abordar nossos trabalhos com dedicação a [[Prática deliberada]]. 
+
+-----
+### Aplicando a prática deliberada
+
+Primeiro decida em qual mercado de capital você está 
+
+Existem dois tipos de mercado: vencedor leva tudo & leilão. 
+
+Com isso em mente a primeira tarefa para desenvolver a prática deliberada é descobrir em qual tipo de mercado de capital de carreira você está competindo.
+
+
+
+
+
 
 
 
