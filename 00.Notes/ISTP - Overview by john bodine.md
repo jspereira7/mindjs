@@ -47,7 +47,7 @@ Da vontade deles de experimetar.
 
 É do inferior que surge a nossa fonte de vulnerabilidade e insegurança. 
 
-Eles estão preocupados se vão fazer a pessoa se sentir mal 
+***Eles estão preocupados se vão fazer a pessoa se sentir mal*** 
 
 Eles percebem que o seu pensamento rispido pode destruir as pessoas ao seu redor. 
 
@@ -71,7 +71,7 @@ Eles tem um desejo intrinseco de ser professores
 
 ## Si Critic 
 
-Esse é uma critica a sua ética de trabalho, ao seu comprometimento com o trabalho. 
+Esse é uma critica a sua própria ética de trabalho, ao seu comprometimento com o trabalho. 
 
 Eles vivem com uma constante auto-critica quanto a sua capacidade de perseverar, de se comprometer e de durar. 
 
