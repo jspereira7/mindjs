@@ -200,5 +200,36 @@ Tenha essa disposição paciente para aplicar o empenho, mantendo-se no caminho 
 
 -----
 
+# Regra 3 - Recuse uma Promoção
+
+> O controle sobre o que se faz, e como o faz, é uma das caracteristicas mais poderosas que se pode adquirir ao criar o trabalho que ama 
+
+O primeiro passo de todos é adquirir capital de carreira, e depois investir esse capital de carreira em busca de controle. 
+
+Você precisa ter controle sobre o que faz para ser feliz com seu trabalho. 
+
+### A primeira armadilha do controle 
+
+> É perigosos buscar controle antes de ter um capital de carreira para oferecer em troca 
+
+Uma dura verdade sobre o mundo real: É dificil fazer as pessoas te darem dinheiro. 
+
+> Controle adquirido sem capital de carreira é insustentável.
+
+Primeiro é preciso gerar capital de carreira, sendo bom em uma habilidade rara e valiosa, e depois investir isso em caracteristicas que te ajudem a tornar o trabalho algo notável. 
+
+Mas a maioria das pessoas pula direto para ter controle sobre o que se faz, ignorando a parte do capital de carreira necessário para dar em troca. 
+- Como um exemplo dado no livro que cita uma mulher que largou o emprego para abrir um negocio de design, fazendo apenas 1 curso de 1 mes. 
+
+> Se você adotar o controle sem capital de carreira, irá acabar aproveitando toda autonomia que obteve, mas sem conseguir pagar sequer pela sua proxima refeição. 
+
+----
+
+### A segunda armadilha do controle 
+
+Uma vez adquirido capital de carreira suficiente para ter mais controle em sua vida profissional, vc se torna valioso o suficiente para seu empregador mas as pessoas lutarão contra seus esforços para ganhar mais autonomia
+
+
+
 
 
