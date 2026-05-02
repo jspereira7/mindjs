@@ -37,7 +37,8 @@
               "title": "2026-05-02 Saturday"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/ISTP - Overview by john bodine.md",
+                "file": "+Daily Notes/2026-05-02 Saturday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ISTP - Overview by john bodine"
+              "title": "Outline of 2026-05-02 Saturday"
             }
           },
           {
@@ -257,11 +258,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "204dd58cbcb23c05",
+  "active": "8b0888c1132c9f54",
   "lastOpenFiles": [
+    "00.Notes/ISTP - Overview by john bodine.md",
     "+Daily Notes/2026-05-02 Saturday.md",
     "00.Notes/Carl Newport - Bom demais pra ser ignorado.md",
-    "00.Notes/ISTP - Overview by john bodine.md",
     "00.Notes/Prática deliberada.md",
     "Clippings/GAME THEORY IS A CHEAT CODE TO LIFE.md",
     "00.Notes/Eneagram Tipo 5.md",
