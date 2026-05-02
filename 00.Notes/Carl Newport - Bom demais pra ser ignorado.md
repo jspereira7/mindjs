@@ -224,10 +224,36 @@ Mas a maioria das pessoas pula direto para ter controle sobre o que se faz, igno
 > Se você adotar o controle sem capital de carreira, irá acabar aproveitando toda autonomia que obteve, mas sem conseguir pagar sequer pela sua proxima refeição. 
 
 ----
-
 ### A segunda armadilha do controle 
 
-Uma vez adquirido capital de carreira suficiente para ter mais controle em sua vida profissional, vc se torna valioso o suficiente para seu empregador mas as pessoas lutarão contra seus esforços para ganhar mais autonomia
+Uma vez adquirido capital de carreira suficiente para ter mais controle em sua vida profissional, vc se torna valioso o suficiente para seu empregador mas as pessoas lutarão contra seus esforços para ganhar mais autonomia.
+
+Ou seja, quando tiver capital de carreira suficiente para ter mais controle, esse é o momento de ter coragem e ir embora. 
+
+Parece que o segredo é saber o momento certo de ter coragem nas decisões de carreira. Saiba a hora certa, se errar o momento o desastre espera por você. 
+
+## Como evitar as armadilhas do controle 
+
+>Nesse capitulo explico sobre a lei da viabilidade financeira, que diz que você só deve buscar por uma oferta de mais controle se tiver evidencias de que é algo pelo qual as pessoas estão dispostas a pagar 
+
+Derek Sievers tem um principio de vida: Faça o que as pessoas estão dispostas a pagar
+
+" Dinheiro é um indicador neutro de valor, Ao visar ganhar dinheiro está visando ser valioso " 
+
+Ou seja, se está visando dinheiro está visando ter algo que as pessoas querem em resumo. 
+
+#### A lei da viabilidade financeira 
+
+> Ao decidir seguir uma atividade atraente que lhe dará mais controle de sua vida profissional, procure provas que as pessoas estão dispostas a pagar por ela. Se encontra-las, continue. Caso contrário Desista delas.
+
+A definição de dispostas a pagar varia. Não é apenas sobre produtos que as pessoas estão dispostas a pagar. 
+
+Pode ser aprovação de um emprestimo, receber um investimento externo, ou convencer uma empresa a te contratar ou continuar pagando seu salário. 
+
+Somente é uma boa ideia largar o emprego tradicional, se tiver evidencias concretas de que aquilo é uma coisa que as pessoas estão realmente dispostas a pagar. 
+
+--- 
+
 
 
 
