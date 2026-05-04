@@ -108,6 +108,112 @@ A navalha de occam não é uma lei que será sempre verdade, é apenas um guia. 
 
 Antes de testar algo complexo, você primeiro testa o obvio e o simples, e depois parte para o complexo se for necessario. 
 
+Muitas pessoas estão presas a **falácia da conjunção** 
+- Falácia = erro de raciocinio, vc acha que está pensando certo, mas está errado. 
+- Conjunção = a junção de duas doisas ao mesmo tempo " A e B juntos" 
+
+Mas estatisticamente mais detalhes = menos provavel
+- Seu cerebro confunde profundeza de detalhes com probabilidade. 
+
+Nossa mente se deixa levar pela narrativa, e desconsidera a matematica. 
+
+![[Pasted image 20260504144131.png]]
+
+Você tem o vies natural de pensar que algo espesifico tem maior probabilidade do que algo geral, e tambem tem a tendencia a explicar dados usando suposições em excesso. 
+
+Essa falacia é o **sobreajuste**, um conceito da estatistica. Como por exemplo os relacionamentos, adicionar todas aquelas exigencias espesificas de relacionamento é sobreajustar seu historico de relacionamentos. do mesmo modo que acreditar que está com cancer quando na verdade é um resfriado é sobreajustar seus sintomas. 
+
+O sobre ajuste occore quando você usa explicações complicadas quando uma simples seria o ideal. 
+
+Pode ocorrer em qualquer explicação que introduz suposições desnecessarias.
+
+![[Pasted image 20260504145201.png]]
+
+### Use o KISS (Keep it simple, stupid)
+
+Quando elaborar uma solução para um problema, seja tomando uma decisão ou explicando dados, é melhor começar com o conjunto mais simples de suposições. 
+
+Imaginando e reduzindo os riscos da maneira mais simples possivel.
+
+Ou seja, sempre tenda para o mais simples e estupido. 
+
+----
+## Nos olhos de quem vê 
+
+Você passa a vida olhando as coisas apartir da sua perspectiva (Suas experiencias de vida e situação atual)
+
+Na fisica sua perspectiva é chamada de **quadro de referencia.** 
+	Conceito central da teoria da relatividade de einstein. 
+
+**Exemplo:** Em um trem em movimento, você do lado de dentro ve os objetos e as pessoas imoveis, não estão e mexendo. Mas para uma pessoa que está vendo o trem de fora, está vendo o trem e seus objetos dentro se mexendo em alta velocidade. 
+- Até mesmo o tempo parece diferente em diferentes quadros de referencia. 
+
+Sendo mais objetivo, ao tomar uma decisão sempre considere o seu quadro de referencia.
+- Você será influenciado pela sua pespectiva, mas não seja influenciado inconcientemente. 
+- E se pensa que não tem a completa compreensão da situação tente buscá-la, examinando diferentes quadros de referencia.
+
+Uma armadilha mental é o **enquadramento**. 
+	A maneira como você apresenta a situação ou explicação. 
+
+Você faz esse **enquadramento** quando tenta explicar para um familiar a situação de forma que os faça compreender a sua perspectiva, preparando o terreno para uma conversa agradavel. 
+- Exemplo: se vc quer que seu time se engaje em um projeto inovador, apesar de trabalhoso, vc pode enquadra-lo para seus colegas como uma potencial oportunidade para ofuscar a concorencia e não como um esforço que exige grandes recursos. 
+
+![[Pasted image 20260504152217.png]]
+
+Tenha em mente que as ideias podem chega até você de maneira enquadrada, e suas ideias podem variar baseadas em como estão enquadradas. 
+
+Quando alguem apresenta uma ideia ou decisão, afaste-se um pouco e considere outras maneiras em que podem estar enquadradas.
+- Se um colega de trabalho diz que está saindo do emprego para buscar oportunidades melhores, pode ser verdade, mas tbm pode significar que está saindo da organização por se sentir negligenciado.
+- Se você le sites na internet sabe muito bem como funciona o enquadramento. 
+
+![[Pasted image 20260504152741.png]]
+
+Uma armadilha relacionada é o **nudging(empurrão)** 
+	Você pode ser empurrado em uma direção por uma sutil escolha de palavras ou outras sugestões no ambiente.
+
+Os restaurantes irá te empurrar destacando certos pratos em inserções no cardapio, fazendo os atendentes descreverem ele oralmente ou apenas colocando dentro de uma moldura. 
+
+Lojas e sites o empurram para comprar certos produtos, colocando-os onde possam ser vistos com facilidade. 
+
+![[Pasted image 20260504153449.png]]
+
+Outro conceito util quando tomar decisões de compra é a **ancoragem**, que descreve a tendencia em confiar demais nas primeiras impressões. 
+
+Você fica ancorado na primeira informação de enquadramento que encontrar. Essa tendencia é comumente usada por empresas. 
+
+Onde ela oferece 3 opções de compra, para ancorar a opção que eles realmente querem que você compre. 
+
+A **ancoragem** não é feita apenas com numeros. Donald trump usa esse modelo mental, ancorando os outros as suas posições extremas, de forma que aquilo que parece ser um compromisso, na verdade é um acordo a seu favor. 
+- Meu estilo de fazer negocios é bem simples, miro bem alto e então fico pressionando e pressionando até conseguir o que quero. 
+- As vezes consigo menos do que eu buscava, mas em muitos casos ainda termino com o que eu quero. 
+
+Mais amplamente esses modelos mentais são exemplos de um modelo mais geral, o **viés de disponibilidade**.
+- Ocorre quando um viés, ou distorção, surge na visão objetiva da realidade graças a uma informação recentemente disponibilizada. 
+	- Como nos estados unidos onde começaram a fazer muitos conteudos sobre imigração ilegal, criando um vies de disponibilidade para muitos. 
+	- Fazendo o povo acreditar que o estados unidos está com muitos imigrantes ilegais, mas as pesquisas mostram que o numero abaixou. 
+	- A forte cobertura de crimes violentos faz as pessoas acreditar que eles ocorrem com mais frequencia do que de fato ocorrem 
+
+O vies de disponibilidade ocorre do *excesso de confiança em experiencias recentes* dentro do seu quadro de referencias, ás custas do quadro geral. 
+
+Vamos supor que você irá fazer um relatorio anual para avaliar seu funcionario, você pode ser influenciado por contribuições boas ou ruins nas ultimas semanas. 
+
+Com o surgimento de recomendações personalidades e feed de noticias, o vies de disponibilidade se tornou um problema cada vez mais pernicioso. 
+- Algo dificil de identificar e dificil de eliminar. 
+
+Na web isso é chamado de **filtro invisivel**, por causa do vies de disponibilidade é provavel que você clique em coisas que já está mais familiarizado, então google,facebbok tendem a mostrar mais do *acham* que você conhece e gosta. 
+
+Filtrando os links que acha que você não clicará. Como pontos de vista contrario, colocando você numa bolha. 
+
+![[Pasted image 20260504160030.png]]
+
+Por causa disso é facil se concentrar apenas no que é colocado a sua frente. É muito mais dificil buscar um quadro de referencias objetivo, mas é isso que precisa ser feito para estar menos errado. 
+
+
+
+
+
+
+
 
 
 
