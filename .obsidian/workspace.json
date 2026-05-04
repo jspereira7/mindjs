@@ -116,13 +116,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -258,7 +256,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b36f26d1c8cda83c",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
     "01.Assets/Anexos/Pasted image 20260504160030.png",
     "01.Assets/Anexos/Pasted image 20260504153449.png",

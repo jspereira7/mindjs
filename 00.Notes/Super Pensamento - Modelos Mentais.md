@@ -49,7 +49,7 @@ Essa é a essencia de lidar com incerteza.
 
 Não importa o quanto você se esforce, por causa da incerteza vc ainda pode estar errado ao tomar decisão, e vai estar com mais frequecia do que gostaria, mas se esforçe para não cometer erros não forçados usando bom senso e técnicas para tomar decisões melhores em qualquer situação. 
 
-## Redução de risco 
+Redução de risco 
 
 O modelo mental de redução de risco é sobre ter em mente que as suas suposições podem estar erradas, então é necessario testa-las no mundo real para ver se funciona. 
 
@@ -207,6 +207,82 @@ Filtrando os links que acha que você não clicará. Como pontos de vista contra
 ![[Pasted image 20260504160030.png]]
 
 Por causa disso é facil se concentrar apenas no que é colocado a sua frente. É muito mais dificil buscar um quadro de referencias objetivo, mas é isso que precisa ser feito para estar menos errado. 
+- Por isso pessoas tomam partido de xyz coisa, rejeitando pontos de vista alternativos. 
+- E pelo vies de disponibilidade, superestimam reiteradamente o percentual de pessoas que possuem as mesmas opiniões. 
+
+## Colocando-se no lugar dos outros 
+
+A maioria dos problemas do mundo envolve pessoas, para avançar na solução desses problemas é preciso uma compreensão profunda das pessoas envolvidas. 
+
+Exemplo a fome no mundo, existe alimento suficiente para todas as pessoas, mas ainda existe a fome no mundo, porque os alimentos são mal distribuidos. 
+
+É muito facil errar quanto as motivações das outras pessoas. 
+
+Assume-se que elas compartilham da nossa pespectiva e contexto. 
+
+Para estar menos errado é necessario melhorar nossa empatia, adquirindo compreensão mais profunda sobre o que os outros estão pensando. 
+
+----
+
+Em qualquer conflito entre duas pessoas há dois lados da historia. E depois há uma **terceira historia**, a historia que um terceiro, um observador imparcial contaria. 
+
+Pensar nas situações como um terceiro na historia irá te ajudar em qualquer situação de conflito, como negociações comerciais e desentendimentos pessoais. 
+
+A terceira historia te ajuda a ver a situação como ela realmente é. 
+
+Como fazer isso ? Imagine um registro completo da situação e depois tente pensar o que as pessoas de fora diriam sobre o que aconteceu se tivesse visto ou ouvido o registro. 
+- O quanto teriam concordado com a sua versão da historia ? 
+
+**interpretação mais respeitosa** ou **IMR**, qualquer situação você pode explicar o comportamento de xyz pessoa varias formas. 
+
+A IMR sugere que você interprete as ações das outras partes da maneira mais *respeitosa* possivel. 
+- Dando as pessoas o beneficio da duvida. 
+- Ou melhor, não interpretar que todas as pessoas estão agindo de má fé. 
+- Seja menos acusatório com as pessoas.
+- Dá proxima vez que se sentir inclinado a fazer acusações de um passo á tras e reflita se é uma suposição realmente justa.
+
+Pode parecer ingenuidade mas assim como a terceira historia, esse modelo não está pedindo para que você abandone o seu ponto de vista. 
+
+Você somente irá manter em aberto, sem fazer julgamentos precipitados antes do necessário. 
+
+Outra forma de dar as pessoas o beneficio da duvida por seu comportamento é chamada de **navalha de Hanlon**. 
+	*Nunca atribua a malicia, a algo que pode ser explicado adequadamente pela negligencia.*
+
+Da mesma forma que a navalha de occam, que nos diz para simplificar as coisas, a navalha de Hanlon busca a explicação mais simples. 
+
+E quando as pessoas fazem algo nocivo, em geral a explicação mais simples é a de que pegaram o caminho de menor resistencia. 
+- Por descuido criaram um resultado negativo, não causaram o resultado por malicia. 
+- Isso é muito util no mundo online, onde não temos as expressoes para nos dizer o tom da mensagem, nos levando a interpretar algo com um tom negativo. 
+- Na proxima ves que receber apenas um "OK", não considere como falta de consideração. 
+
+Você é culpado pelo **erro de atribuição fundamental** sempre que pensar que alguem agiu mal porque é malvado, em vez de pensar que ele está tendo um dia ruim. 
+- Você não sabe a situação da pessoa, mas seu cérebro pula direto para o caráter. 
+- Você somente ve a pessoa agindo, mas não ve o contexto dela, o que é visivel vira a explicação.
+
+**Vies de autoconveniencia**, quando você é o autor, costuma ter razoes egoistas para o seu comportamento, mas quando é observador, tende a culpar a natureza intrinseca do outro. 
+
+Outro modelo tático é o **veu da ignorancia** ao pensar em como a sociedade de ser organizada devemos faze-lo imaginando a nós mesmos ignorantes de nosso lugar em particular no mundo.
+- Como se ouvesse um veu nos impedindo de sabermos quem somos. 
+- Exemplo: Vc não deve considerar somente a posição sua posição de liberdade quando contemplar um mundo onde a escravidão é permitida.
+	- Precisa imaginar como é ter nascido escravo e como se sentiria.
+	- Ou quando considerar as politicas para refugiados, deve se colocar na possição de um futuro refugiado. 
+	- O veu da ignorancia o encoraja a ter empatia por pessoas em uma variedade de circustancias, para que possa fazer melhores julgamentos morais.
+	- O que no caso de você ter uma empresa, pode te ajudar a tomar decisões melhores. 
+	- E tambem nos leva refletir em como a sorte influencia no nosso sucesso pessoal, por não termos nascido com nenhum desvantagem notável. 
+
+Existe a chamada hipotese do mundo justo, em que as pessoas sempre recebem o que merecem, boas ou más, somente por causa das suas ações, sem considerar sorte ou aleatoriedade. Essa visão é resumida em: Você colhe o que planta. 
+
+Acreditar em um mundo justo pode atrapalhar um mundo justo real, levando as pessoas a **Culpar a vitima**
+
+Como a vitima do abuso sexual deveria usar roupas diferentes. 
+
+Vitimas das circustancias são *responsabilizadas* pelas circusntancias, ignorando fatores de aleatoriedade como a loteria do nascimento. 
+
+Deve-se ter em mente que o modelo do **desamparo aprendido** pode tornar dificil para algumas pessoas lutar por melhorias sem qualquer assistencia. 
+
+
+
+
 
 
 
