@@ -280,6 +280,32 @@ Vitimas das circustancias são *responsabilizadas* pelas circusntancias, ignoran
 
 Deve-se ter em mente que o modelo do **desamparo aprendido** pode tornar dificil para algumas pessoas lutar por melhorias sem qualquer assistencia. 
 
+O desamparo aprendido descreve a tendencia de parar de tentar escapar de situações dificeis, pois acostumamos com as condições dificeis com o passar do tempo.
+
+As pessoas aprendem que se sentem impotentes para controlar as circustancias, por isso desistem de tentar mudá-las. 
+- Assim como um experimento em uma caixa de choque, onde cachorros foram presos na caixa, e se acostumaram a não sair, e mesmo após abrirem as caixas, eles continuaram lá. 
+- O mesmo foi feito com cachorros que não levaram choque e após os choques eles sairam rapidamente. 
+
+O desamparo aprendido pode ser superado quando os animais ou as pessoas percebem que suas ações podem fazer a diferença, que não estão de fatos desamparados. 
+
+O desamparo aprendido não é encontrado apenas em situações graves. As pesoas tambem mostram desamparo aprendido em situações cotidianas, acreditando que são incapazes de fazer ou aprender certas coisas, como falar em publico ou usar novas tecnologias. 
+- Nesses casos são capazes sim de melhorarem seus pontos fracos se forem guiados pelo mentor certo. 
+- Você não gostará de cometer um erro de atribuição classico ao pensar que um coléga é incapaz de 
+
+Ao usar todos esses modelos mentais você está tentando, o maximo que pode se colocar no lugar dos outros. 
+
+------
+## Progresso, um funeral por vez 
+
+Assim como vc está ancorado ao um preço, você pode estar ancorado a um jeito de pensar sobre algo. 
+
+Pode ser muito dificil fazer você aceitar uma ideia nova, quando a contraditória já está enraizada em seu pensamento. 
+
+Na ciencia esse fenomeno se chama **mudança paradigmatica**, em resumo a velha guarda mantem velhas teorias por tempo demais, mesmo diante de alternativas obvias já disponiveis. 
+
+Pessoas ainda se agarram a velhas teorias mesmo diante de provas esmagadoras - isso acontece o tempo todo na ciencia e na vida em geral. 
+
+A tendencia humana de consumir conteudos e interpretar novas situações de modo tendencioso para confirmar crenças pré-existentes, isso é chamado de vies de confirmação. 
 
 
 
