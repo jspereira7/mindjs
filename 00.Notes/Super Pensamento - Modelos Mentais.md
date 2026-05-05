@@ -499,6 +499,103 @@ Deve se esperar que de modo geral as pessoas ajam de acordo com seus proprios in
 
 ## Está ficando quente aqui 
 
+Assim como a **tirania das pequenas decisões** há outra classe mais ampla de pequenas decisões para se tomar cuidado. 
+
+Ela é chamada de **sapo fervido**, imagine um sapo que pula em uma panela de agua fria, lentamente a agua vai esquentando até que o sapo é completamente escaldado até a morte. 
+
+Essa metafora explica como é dificil reagir a uma mudança gradual e até mesmo percebe-la. 
+
+Essa teoria abrange des da mudança climatica até aos relacionamentos abusivos.
+
+Essas consequencias não intencionais surgem quando as pessoas não fazem planejamento de longo prazo. 
+
+Na area financeira o **imediatismo** descreve esse tipo de situação, quando se concentra maior nos resultados de curto prazo, como ganhos trimestrais, do que em resultados de longo prazo, lucros no periodo de 5 anos. 
+- Caso de preocupe somente em lucros de curto prazo, não havera investimento suficiente no futuro. 
+- Por fim será deixado pra trás pelos concorrentes que estão investindo a longo prazo ou poderá rapidamente ser afetado por pessoas inovadoras. 
+
+![[Pasted image 20260505141142.png]]
+
+Há vários efeitos nocivos do imediatismo na rotina cotidiana. Se postergar o aprendizado de habilidades por causa de tarefas que tem a sua frente, nunca expandirá seus horizontes. 
+
+Se decorar sua casa uma parte por vez isoladamente, não a terminará de forma coerente. 
+
+A industria da tecnologia tem um nome para as consequencias do **imediatismo** chamada **divida técnica**. 
+	A ideia vem da escrita de códigos: dar prioridade a correções de codigo a curto prazo ou implementos em processos de codigo, a longo prazo trará acumulo de dividas que em algum momento terão que ser pagas pela refaturação ou reescrita de códigos futuros. 
+
+Acumular divida técnica não é necessariamente ruim, pode ajudar o projeto andar mais rápido no curto prazo, mas deve ser feito como um observador conciente, não um sapo fervido.
+
+Esse modelo da divida técnica foi estentido para várias areas diferentes, descrevendo como consequencias não intencionais do pensamento de curto prazo: divida de relacionamento, divida de dieta, divida de limpeza. 
+
+![[Pasted image 20260505142008.png]]
+
+Nesses cenários é essencial se manter em "dias" com os "pagamentos" para que a divida não se torne imensa: 
+- Uma casa bagunçada e fora de controle
+- O fisico perdido
+- O relacionamento deteriorado
+
+Essas dividas impactam a flexibilidade a longo prazo. 
+
+O modelo geral para esse impacto vem da economia e é chamado de **dependencia do caminho**, o conjunto de decisões ou caminhos disponiveis agora são dependentes de suas decisões passadas. 
+
+A nivel pessoal, muitas pessoas tem a tendencia de ficar perto da cidade onde se formaram, criando um grande impacto de longo prazo em suas alternativas de trabalho e familia. 
+
+Para escapar das armadilhas do imediatimos é necessario pensar nas consequencias de longo prazo de suas decisões no curto prazo. 
+- Se pergunte: Com que tipo de divida estarei me comprometendo fazendo isso ? 
+- Quais caminhos estou afastando com minhas ações atuais ? 
+
+Outro modelo para lidar com a dependencia de caminho: 
+- O da **opcionalidade** a ideia é fazer escolhas que preservem futuras opções. 
+
+Como empresa talvez coloque recursos extras em um fundo para dias dificeis, ou como funcionario, dedique algum tempo a aprender novas competencias que te trarão novas oportunidades de emprego no futuro. 
+
+Ou quando se deparar com uma decisão, pensar em cinza, esperar por novas informações, mantendo suas opções em aberto até que tenha mais certeza do caminho que quer seguir. 
+
+Mas é preciso manter um equilibrio entre opcionalidade e dependencia de caminho. 
+
+Um modelo para atingir esse equilibrio é o **principio da precaução**: 
+	Quando uma ação pode criar um dano de magnitude desconhecida, é preciso proceder com cuidado antes de definir a diretriz. 
+
+Na vida pessoal faça uma pausa, quando identificar que uma ação pode causar prejuizo pessoal significativo. 
+- Ex: Dirigir bebado ou com imprudencia. 
+- Prejuizos financeiros (Jogos de azar, emprestimos ruins)
+
+Com esse conhecimento necessário de precaução, pagando dividas técnicas conforme for preciso, e evitando muito alegremente se tornar o sapo fervido. 
+
+## Nada é bom em excesso 
+
+É natural querermos mais do que é bom, mas em excesso é ruim. 
+
+Comer um pedaço de pizza é maravilhoso, mas comer uma pizza inteira pode te causar problemas. 
+
+O mesmo vale para informações. 
+
+> Como disse seneca: A abundancia de livros é uma distração
+
+Pesquisar tudo online pode fazer sua mente girar, desde coisas mais mundanas, como olhar todos os produtos da amazon e os comentarios sobre cafeterias, até mudanças de vida, como comparar faculdades e escolher para que cidade se mudar. 
+
+Existe tanta informação e orientação sobre quase todos os assuntos que isso pode facilmente se tornar opressor.
+
+Claro que é preciso boas informações para tomar decisões, mas em exagero conduz a **sobrecarga de informações** o que complica o processo de tomada de decisão. 
+
+O excesso de informação sobrecarrega o processamento do sistema, fazendo com que a tomada de decisão demore muito tempo. 
+
+Há um nome para essa consequencia não intencional: **Paralisia de analise**, no qual sua tomada de decisão sofre de paralisia, pois vc está alisando de forma excessiva a grande quantidade de informação disponivel. 
+
+É por isso que passamos tempo demais tentando decidir qual filme escolher na netflix, por conta daquela lista enorme de filmes. 
+
+Como diz o ditado "O perfeito é inimigo do bom", se você esperar pela decisão perfeita, ou qualquer coisa perfeita, poderá ficar esperando por muito tempo. 
+
+E ao não fazer uma escolha, você está fazendo uma escolha: está escolhendo o status quo, que pode ser pior do que qualquer outra decisão que poderia ter feito. 
+
+![[Pasted image 20260505150614.png]]
+
+Existe um conflito natural entre o desejo de tomar decisões rapidamente e a sensação de que é preciso acumular mais informações para ter certeza de que se está fazendo a escolha certa.
+
+Você pode lidar com esse conflito categorizando as **decisões como reversíveis ou irreversíveis.** Decisões irreversíveis são difíceis, senão impossíveis, de desfazer. E tendem a ser muito importantes. Pense em vender sua empresa ou ter um filho. Esse modelo defende que essas decisões exigem um processo decisório diferente do de suas contrapartes reversíveis, que devem ser tratadas com muito mais flexibilidade.
+
+Outra forma de ajudar a combater a paralisia por análise é **limitar as opções**, pois quanto mais opções você tiver, mais difícil será escolher entre elas.
+	Isso foi provado pela Lei de Hick. 
+
 
 
 
