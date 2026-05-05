@@ -458,7 +458,46 @@ Existe um fenomeno básico: Quando tentamos incentivar um comportamento estabele
 A cultura de testes de alto risco promove o **incentivo perverso** de "rachar de estudar" ou pior, trapacear nas provas. 
 - Como por exemplo pessoas que estudam pro enem e coisas do tipo
 
-Essas situações são descritas como **efeito cobra**
+Essas situações são descritas como **efeito cobra**, ele descreve um tentativa de solução que na verdade piora o problema. 
+
+Quando se cria uma estrutura de incentivo, é preciso levar em conta a lei goodhart e tomar cuidado com os incentivos perversos. 
+
+Tambem existe o **efeito Streisant**: quando não intencionalmente, atrai-se mais atenção a algo que se queria esconder. 
+- O nome foi dado por causa de uma artista com sobrenome Streisant, onde processou um fotografo por tirar foto da sua mansão. 
+- A noticia repercutiu, e mais pessoas viram a foto de sua mansão, o que causou o efeito contrario do que ela desejava. 
+
+![[Pasted image 20260505111702.png]]
+
+Tambem devemos tomar cuidado com o **efeito hidra**, em referencia a hidra, quando uma cabeça é cortada duas nascem no lugar. 
+- Quando um traficante é preso, logo o substituem por outro para atender a demanda,  oque resulta agora em 2 criminosos. 
+- Quando um site pirata é retirado do ar, mais sites aparecem no lugar pra cobrir a demanda. 
+
+Um ditado apropriado é *não se deve mexer em um vespeiro*, não mexa em algo que pode te causar mais problemas do que já tinha antes. 
+
+Outro problema é o **efeito do observador**, em que há um efeito em algo dependendo de como o observa ou de quem o observa. 
+- Como em uma empresa onde quando o chefe chega todos começam a se comportar da melhor maneira possivel.
+- É preciso presta a atenção nesse efeito ao realizar medições.
+- Note tbm como as pessoas podem mudar seu comportamento ao se tornarem menos anonimas. 
+	- Pense no quão dificil é se tornar honesto sabendo que uma camera está te gravando. 
+	- Ou quão diferente seria seu feedback sobre o desempenho de um colega em uma pesquisa anonima e em uma que aparece seu nome. 
+
+Quando as pessoas sabem que estão sendo observadas e mudam seu comportamento isso é chamado de **efeito inibidor**
+- Quando uma ameaça de retaliação provoca uma mudança no comportamento. 
+
+Nos relacionamentos pessoais podemos estar pisando em ovos perto de pessoas que sabemos que tem surtos de raiva. 
+
+De forma similar alguns parceiros romanticos podem não ser totalmente sinceros sobre suas queixas se perceberem que o outro está com um pé fora da porta. 
+
+Essa consequencia negativa não intencional pode ser chamada de **dano colateral**. 
+	Efeitos colaterais negativos resultados de uma ação. 
+
+É melhor pensar com antecipação sobre quais comportamentos estará de fato incentivando com sua ação. 
+
+É preciso alinhar o resultado que deseja o mais proximo possivel com os incentivos que fornece. 
+
+Deve se esperar que de modo geral as pessoas ajam de acordo com seus proprios interreses, e que deem suporte direto aos objetivos almejados. 
+
+## Está ficando quente aqui 
 
 
 
