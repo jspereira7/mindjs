@@ -307,6 +307,84 @@ Pessoas ainda se agarram a velhas teorias mesmo diante de provas esmagadoras - i
 
 A tendencia humana de consumir conteudos e interpretar novas situações de modo tendencioso para confirmar crenças pré-existentes, isso é chamado de vies de confirmação. 
 
+![[Pasted image 20260504223053.png]]
+
+Você tambem pode sucumbir ao vies de desconfirmação, em que você impoe uma carga mais forte de provas sobre a ideia que não quer acreditar. 
+
+> Quando a balança no nosso banheiro mostra o resultado que nos agrada, vamos felizes direto para o chuveiro, mas quando a balança mostra um resultado que não nos agrada, subimos denovo na balança para confirmar, ao aceitar sem qualquer critica uma evidencia que nos agrada e insistir em mais informações quando isso n acontece, sutilmente inclinamos a balança ao nosso favor.
+
+Para superar o vies de confirmação e desconfirmação, adote o **pensamento cinza.** 
+	Você pode pensar em questões de preto e branco, mas a verdade está em algum lugar entre eles, um tom meio cinza. 
+		
+A maioria das pessoas é binária em seus julgamentos, elas imediatamente categorizam questões como boas ou ruins, preto ou branco, mas você precisa ser capaz de ver os tons de cinza inerentes a situação para tomar decisões inteligentes. 
+
+Ou seja, não tome decisões precipitadas, evite tomar uma decisão até ter todos os fatos sobre xyz situação. 
+
+Outro modelo para ajudar a superar esses vieses é tomar a posição de advogado do diabo, defendendo a posição contraria.
+- Como charlie munger diz: Eu nunca me permito ter opnião de nada que eu não conheça os argumentos do outro lado melhor do que eles mesmos. 
+
+## Não confie em sua intuição
+
+Você toma a maioria das suas decisões diaras utilizando a intuição, com o seu sub-conciente automaticamente intuindo. 
+
+É o seu senso comum, sexto-sentido ou intuição, baseado em experiencias passadas e na programação natural para reagir ás circunstancias.
+
+![[Pasted image 20260504224749.png]]
+
+O economista Daniel Kahneman faz uma distinção entre pensamento rápido e intuitivo e pensamento lógico mais deliberado, quando para para pensar e questionar suas suposições intuitivas. 
+
+Quando se faz algo com frequencia, o cerebro gradativamete codifica e seu corpo faz as tarefas automaticamente, como dirigir em uma estrada conhecida, fazer contas simples, dizer seu nome. 
+
+Mas em situações incertas, sem o conhecimento codificado, é preciso pensar devagar, como dirigir em estradas novas q vc não conhece, fazer contas complexas. Essas não são tarefas automaticas. 
+
+Vc pode ter problemas ao confiar cegamente em sua intuição em situações em que não fica claro se deve pensar rápido ou devagar. 
+	Em situações assim pode cair no vies de ancoragem, vies de diponibilidade, enquadramento e outras armadilhas. 
+
+Ficar fisicamente perdido sempre é resultado de você pensar que sabe intuitivamente para onde ir e termina com a percepção que sua intuição falhou. 
+
+De forma semelhante, na maioria das situações em que os modelos mentais deste livro serão uteis, é melhor parar, desacelerar e com calma olhar a melhor forma de aplicá-los.
+
+Vc pode usar sua intuição como guia de onde investigar, mas não confie cegamente nela para tomar decisões, pegue o mapa e estude-o antes de dar o proximo passo. 
+
+É provavel que não tenha a experiencia certa para lidar intuitivamente com tudo que a vida lhe tráz, então é necessário que você seja cauteloso com sua intuição em qualquer situação nova ou não familiar. 
+
+Por exemplo em uma situação de perigo, colocando-se no cenário onde você sabe que não deve encarar um urso, e quando você se depara com um leão sua intuição diz para você não encarar o leão, mas é exatamente isso que deve fazer, porque o leão ve alguem que não lhe encara como uma presa facil. 
+
+Da mesma forma a sua intuição pode te ajudar a guiar-se até a resposta certa mais rápido. 
+	Por exemplo quanto mais trabalhar com modelos mentais, mais sua intuição de qual deles usar em xyz situação estará certa e mais rapido você chegará a melhores decisões, trabalhando com os modelos. 
+
+Usar os modelos mentais é uma forma lenta de com o tempo te tornar mais ant-fragil, deixando-o mais capacitado para lidar com novas situações. 
+
+Lógicamente quanto melhor a informação que entrar no seu cerebro, melhor sua intuição será. 
+
+Uma forma acelerar a construção de uma intuição util é usar de maneira consistente o argumento dos primeiros principios. 
+
+Outra forma é usar toda oportunidade que puder para descobrir o que de fato está fazendo as coisas acontecerem.
+
+Uma forma é usar os **5 porques** para chegar cauza raiz do problema, consistem em ir empilhando porques até chegar a cauza raiz, 5 porques é apenas um numero arbitrário. 
+- A analise dos 5 porques, te força a reduzir a velocidade do pensamento e a encontrar a verdadeira cauza raiz passando pelo vies do otimismo, segurando deliberadamente a intuição e descobrindo a verdade.
+
+A razão pelo modelo mental da cauza raiz ser tão importante é que ele te ajuda a não cometer o mesmo erro da proxima vez. 
+
+## Resumo 
+
+- Você precisa estar menos errado. 
+- Para estar menos errado é preciso trabalhar para tornar-se melhor ao longo do tempo (ant-frágil).
+- E cometer menos erros evitaveis (erros não forçados)
+- Infelizmente há muitas armadilhas mentais que você precisa, de maneira ativa, tentar evitar.
+	- Confiar demais em informações recentes (vies de disponibilidade), estar muito apegado ao que já acredita (vies de confirmação) e exagerar na probabilidade do resultado desejado (viés de otimismo)
+- Como disse Feyneman "Não se enganem - e vocês são os mais faceis de enganar.
+
+## Conclusões importantes. 
+
+- Para evitar armadilhas mentais, há de se pensar mais **objetivamente**.
+- Use o **argumento dos primeiros principios**, conheça as **causas raizes** e busque ***a terceira história***. 
+- Perceba que suas intuições do mundo muitas vezes estão erradas devido ao *vies de disponibilidade*, ao erro de *atribuição fundamental*, ao *vies do otimismo* e a outros modelos mentais relacionados que explicam erros comuns de pensamento. 
+- Use as *navalhas de occam e hanlon* para investigar as explicações mais simples e objetivas. Depois teste suas teorias ***reduzindo os riscos*** de suas suposições e evitando a ***otimização prematura***. 
+- Tente ***pensar em cinza***, um esforço conciente para consistentemente evitar o ***vies de confirmação.*** 
+- Busque ativamente outras perspectivas, incluindo a ***posição do advogado do diabo***, e contornando o ***filtro invisivel.*** 
+- Considere o adágio " Você é o que come ". É necessário se alimentar de uma variedade de alimentos para ser uma pessoa saudavel. Do mesmo modo, utilizar uma variedade de perspectivas te ajudará a se tornar um super-pensador. 
+
 
 
 
