@@ -385,9 +385,80 @@ A razão pelo modelo mental da cauza raiz ser tão importante é que ele te ajud
 - Busque ativamente outras perspectivas, incluindo a ***posição do advogado do diabo***, e contornando o ***filtro invisivel.*** 
 - Considere o adágio " Você é o que come ". É necessário se alimentar de uma variedade de alimentos para ser uma pessoa saudavel. Do mesmo modo, utilizar uma variedade de perspectivas te ajudará a se tornar um super-pensador. 
 
+-----
 
+# Se algo pode dar errado, Dará
 
+TODAS as suas ações tem consequencias, as vezes inesperadas. 
 
+E essas consequencias na superficie parecem imprevissiveis, mas se cavar mais afundo descobrirá que sempre seguem padrões previsiveis, e podem ser evitadas em várias situações.
+
+Só é preciso saber qual padrão procurar - os modelos mentais corretos. 
+
+## Faça o mal contra o seu proximo, não intencionalmente
+
+**Tragedia dos bens** comuns, é quando as pessoas querem se alto benefiar em uma situação, mas acabam trazendo más consequencias para todos por pensarem somente em sí mesmos. 
+
+![[Pasted image 20260505094008.png]]
+
+A tragedia dos bens comuns surge da ***tirania das pequenas decisões*** quando uma serie de pequenas decisões racionais, pequenas e individuais, resultam em uma consequencia negativa a todo sistema, ou tirania, uma morte lenta. 
+
+Você tambem pode encontrar a ***tirania das pequenas decisões*** em sua vida, naquelas pequenas compras no cartão de crédito que parecem necessárias no momento, mas todas em conjunto resultam em faturas expressivas ou até crise de liquidez. 
+
+No trabalho, pode ser as distrações ocasionais e os pequenos adiamentos, que agregados, deixam os prazos dificeis de serem cumpridos. 
+
+A tirania das pequenas decisões pode ser evitada quando você tem a visão de todo o sistema, e você veta ou restringe as decisões individuais espesificas, quando é previsto grandes impactos negativos. 
+	- Por exemplo interromper seu gasto fora de controle, impor a sí mesmo um orçamento, analisar cada potencial compra para ver se é compativel com seu plano de gastos. 
+	- Faça o mesmo com seu tempo, controlando seu calendario de forma rigorosa. 
+
+Outro modelo mental é a **clandestinidade** que é quando um individuo pega carona usando um recurso sem pagar por ele. 
+- Exemplo em um trabalho em grupo, quando alguem que não fez nada importante, pegou carona com os demais. 
+- Ou quando alguem usou seu Wifi ou conta da netflix sem pedir
+
+Clandestinidade é algo comum nos **bens publicos***, forças armadas, transmissão de Tv e até no ar que respiramos
+
+Por mais que pareça que não, usar algo de forma clandestina pode levar a consequencias negativas, até ao ponto de gerar tragedias
+
+Um exemplo disso é quando certas pessoas se recusam a tomar vacinas, o que gera um surto coletivo da doença. 
+
+## Negócio de Risco 
+
+Outro conjunto de consequencias não previstas acontece quando o risco é avaliado de formas diferentes, baseando-se em perspectivas individuais. 
+
+Como exemplo um seguro, ao contratar um seguro você dirigirá com menos prudencia, porque está protegido financeiramente. 
+
+Esse fenomeno é conhecido como **risco moral** no qual a pessoa assume mais riscos ou perigos quando a informação que se tem a faz acreditar que está mais protegida. 
+- Como um ciclista usando capacete, dando a ele uma falsa sensação de segurança, levando ele a pedalar de forma menos prudente, mas ele é o unico que arcará com todos os custos de uma queda. 
+
+A agencia pode fazer surgir problemas do **principal-agente** no qual o interrese individual do agente, pode levar a resultados abaixo do ideal para o principal, devido a uma grande variedade de circunstancias. 
+- Politicos nem sempre agem visando os interreses de seus eleitores, vendedores de imoveis nem sempre visam o bem de seus clientes e etc... 
+- O interesse pessoal do agente pode triunfar diante do interresse do principal. 
+- Como por exemplo um vendedor de curso de ganhar dinheiro etc... 
+
+Os problemas do risco moral e do principal agente, podem ocorrer por causa da **informação assimetrica**
+- Quando um lado tem informações diferentes do outro. 
+- Ou seja a informação não está simetricamente distribuida. 
+- Os agentes imobiliarios tem mais informação sobre o mercado que seus clientes, e por isso é dificil questionar suas recomendações.
+
+Os principais repensariam suas decisões se soubessem o que o agente está ganhando com xyz coisa. 
+
+O aumento de informações abertas na internet reduziram os efeitos dessa assimetria. 
+
+![[Pasted image 20260505104433.png]]
+
+## Cuidado com o que deseja 
+
+Os projetos mais bem elaborados, sejam de ratinhos ou de homens, fracassam muitas vezes, escreveu o poeta Robert Burns em 1785. 
+
+Em outras palavras, nem sempre tudo funciona como planejado. 
+
+Existe um fenomeno básico: Quando tentamos incentivar um comportamento estabelecendo alvos mensuraveis, os individuos se concentram em atingir esses alvos, em geral de forma diferente da pretendida.
+- E o foco da medida pode não estar relacionado ao comportamento que esperamos promover. 
+
+A cultura de testes de alto risco promove o **incentivo perverso** de "rachar de estudar" ou pior, trapacear nas provas. 
+- Como por exemplo pessoas que estudam pro enem e coisas do tipo
+
+Essas situações são descritas como **efeito cobra**
 
 
 
