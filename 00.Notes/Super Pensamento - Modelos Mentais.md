@@ -672,10 +672,163 @@ As possibilidades são infinitas, mas aqui estão alguns exemplos para inspira
 - Juntar o suficiente para se aposentar aos 40 anos de idade
 - Avançando a ciencia de longevidade humana. 
 
+Não tem problema se o seu objetivo principal mudar à medida que você avança em direção a ele. 
+
+Você pode descobrir uma clareza maior sobre o que deseja realizar, ou um evento da vida (como casamento, filhos, mudança de carreira/cidade) pode impulsioná-lo em outra direção.
+
+Você também pode precisar de um novo objetivo principal se alcançar seu destino! 
+
+Uma estrela-guia é uma visão de longo prazo, então não tem problema se você não a alcançar tão cedo.
+- Mas se não sabe para onde ir, como espera chegar lá ? 
+
+Sua estrela-guia o ajudará a navegar por diversas escolhas da vida, conduzindo-o lenta, porém firmemente, em direção aos seus objetivos.
+
+> Bill gates: *"Sempre superestimamos a mudança que ocorrerá nos próximos 2 anos e subestimamos a mudança que ocorrerá nos próximos 10. Não se deixe adormecer na inação."*
+
+Pense em como a Netflix progrediu em uma década, de um nicho minúsculo a disruptora de toda a indústria de televisão a cabo.
+
+Essa ideia também pode ser poderosa para você como indivíduo. Seu progresso gradual em direção a um objetivo pode não ser perceptível no dia a dia. 
+
+Mas, ao longo do tempo, muitos pequenos passos podem te levar muito longe se você se mantiver focado na direção certa.
+
+Se você depositar US$ 1.000 em uma conta poupança que rende 2% de juros ao ano, no primeiro ano você receberá US$ 20. Mas no segundo ano você receberá um pouco mais (US$ 20,40), porque também receberá 2% de juros sobre os US$ 20 recebidos no ano anterior. 
+
+Isso se chama ***juros compostos***, que se referem ao fato de que seus juros aumentam ao longo do tempo, ou seja, se capitalizam. 
+
+Os juros acumulados anteriormente são adicionados ao valor total a cada ciclo, criando uma base maior a partir da qual os juros do próximo ciclo são calculados.
+
+> Warren Buffet: *"Minha riqueza veio de uma combinação de viver na América, alguns genes de sorte e juros compostos"*
+
+Os juros compostos explicam por que é fácil para os ricos ficarem ainda mais ricos. 
+
+Eles podem ganhar mais dinheiro investindo seu capital já abundante, em vez de terem que ganhar mais dinheiro apenas com seu trabalho.
+
+Em um contexto pessoal, desde que você esteja focado em seu objetivo principal, terá a oportunidade de aproveitar esse mesmo conceito, potencializando sua capacidade de avançar na direção escolhida.
+
+Isso porque suas conquistas dependem do seu ***conhecimento, habilidades e rede de contatos acumulados.***
+
+À medida que esses elementos crescem, seu potencial de impacto também aumenta.
+
+Por exemplo, conforme você progride em um setor, seus contatos profissionais se expandem naturalmente e se torna cada vez mais provável que alguém com quem você construiu um relacionamento o ajude a progredir na carreira, seja recrutando-o para o seu próximo emprego, fornecendo uma referência ou atuando como mentor.
+
+Este capítulo aborda os modelos mentais que você precisa (ou precisa evitar) para usar seu precioso tempo com sabedoria, desde a luz guia da estrela-guia até os detalhes práticos de descobrir em que trabalhar diariamente e como concluir essas tarefas da maneira mais eficiente.
+
+Preste atenção a esses modelos mentais para aproveitar ao máximo o seu futuro.
+
+-----
+
+## Você pode fazer qualquer coisa, mas não tudo
+
+A derrota da alemanha na segunda guerra mundial é um exemplo que não se pode colocar o foco em duas coisas ao mesmo tempo. 
+
+> "Quem persegue dois coelhos, foge dos dois".
+
+Se você já teve que supervisionar duas ou mais crianças que não querem fazer a mesma atividade, entende o quão desafiador é travar uma guerra em duas frentes.
+
+Você deve ter cuidado ao travar uma guerra em duas frentes, mas provavelmente já faz isso todos os dias ao realizar várias tarefas simultaneamente.
+
+Você só consegue realizar uma atividade que exige alta concentração por vez. 
+
+Seu cérebro simplesmente não é capaz de se concentrar simultaneamente em duas atividades que exigem alta concentração. 
+
+Se você tentar fazer isso, será forçado a alternar entre as duas atividades.
+
+É como quando você está lendo um artigo e para para responder a um e- mail que acabou de chegar.
+
+Nesse caso, a mudança de contexto é óbvia, mas o mesmo acontece se você estiver lendo o artigo e alguém começar a falar com você ao mesmo tempo.
+
+Seu cérebro tenta lidar com as duas atividades (ler e ouvir) alternando rapidamente entre elas, e alguma delas acaba cedendo. 
+
+Essa mudança de contexto não é instantânea, e por isso você acaba tendo que diminuir o ritmo de uma das atividades ou desempenhá-la, ou ambas, de forma muito menos eficiente.
+
+Os efeitos negativos da multitarefa (desempenho lento ou ruim) são, por vezes, aceitáveis se as atividades forem de pouca importância, como dobrar a roupa enquanto assiste à TV ou ouvir música enquanto se exercita na academia.
+
+Em contrapartida, realizar multitarefas em atividades de qualquer importância significativa será imediatamente problemático, ou mesmo fatal, como no caso de enviar mensagens de texto enquanto dirige.
+
+E toda troca de contexo que ocorre ao realizar mult-tarefas representa tempo e esforço desperdiçados. 
+
+É necessário um esforço mental extra para acompanhar várias atividades simultaneamente.
+
+Então evite mult-tarefa em qualquer atividade importante. 
+
+Concentrar-se em uma única atividade que exija alta concentração por vez também pode ajudar a produzir resultados significativamente melhores. 
+
+Isso porque os melhores resultados dependem de soluções criativas, que geralmente surgem da concentração intensa em uma única coisa.
+
+Se você está constantemente alternando entre atividades, acaba não tendo muito tempo para o pensamento criativo.
+
+O autor Cal Newport se refere ao tipo de pensamento que leva a soluções inovadoras como **trabalho profundo.**
+
+Ele defende a dedicação de longos períodos de tempo ininterruptos para avançar na resolução do seu problema mais importante.
+
+A solução de Thiel incentiva o trabalho profundo ao limitar rigorosamente a multitarefa.
+
+É claro que, se você se limitar a uma atividade por vez, é fundamental que essa ideia principal em sua mente seja realmente importante.
+
+Felizmente, existe também um modelo mental que pode ajudá-lo a identificar as atividades verdadeiramente importantes.
+
+> O presidente americano Dwight Eisenhower disse certa vez: *"O que é importante raramente é urgente, e o que é urgente raramente é importante".*
+
+Essa citação inspirou Stephen Covey a criar a Matriz de Decisão de Eisenhower em seu livro *"Os 7 Hábitos das Pessoas Altamente Eficazes"*, uma grade 2x2 (matriz) que ajuda a priorizar atividades importantes tanto na vida pessoal quanto na profissional, categorizando-as de acordo com sua urgência e importância.
+
+![[Pasted image 20260505173949.png]]
 
 
+As atividades do quadrante I (Urgentes/Importantes, como lidar com uma emergência médica) precisam ser realizadas imediatamente. 
 
+As atividades do quadrante II (Não Urgentes/Importantes, como trabalho focado) também são cruciais e devem ser priorizadas logo após as atividades do quadrante I. 
 
+**Você deve concentrar suas energias criativas nessas atividades do quadrante II o máximo possível**, pois trabalhar nelas o levará mais rapidamente em direção aos seus objetivos de longo prazo.
 
+As atividades do quadrante III (Urgentes/Não Importantes, como a maioria dos eventos e muitos assuntos "imprevisíveis") podem ser melhor delegadas, terceirizadas ou simplesmente ignoradas.
+
+Por fim, o quadrante IV (Não Urgentes/Não Importantes, como tarefas burocráticas e a maioria dos e-mails) contém atividades nas quais você deve tentar reduzir ou eliminar completamente o tempo gasto.
+
+A principal conclusão que podemos tirar desta matriz é que as atividades importantes no quadrante II são frequentemente ofuscadas pelas distrações urgentes no quadrante III. 
+
+Você pode ser levado a priorizar as tarefas do quadrante III imediatamente, devido à urgência que elas impõem, disputando sua atenção. 
+
+No entanto, se você permitir que essas distrações do quadrante III consumam grande parte do seu tempo, poderá nunca chegar às tarefas importantes do quadrante II.
+
+Da mesma forma, as coisas não urgentes/não importantes do quadrante IV podem ser distrações atraentes porque proporcionam gratificação imediata (como concluir rapidamente uma tarefa burocrática) ou são divertidas (como jogos de celular sem muita importância). 
+
+Seria prejudicial eliminar completamente o lazer da sua vida, mas é essencial avaliar quanto do seu tempo está sendo gasto em lazer e atividades sem importância para que elas não atrapalhem a conquista de seus objetivos de longo prazo.
+
+As atividades do Quadrante IV também podem gerar uma falsa sensação de urgência (como a maioria dos e-mails e mensagens de texto).
+
+Se você permitir que elas o interrompam constantemente, sofrerá os efeitos negativos da multitarefa, alternando entre atividades dos Quadrantes II e IV, o que diminuirá significativamente seu desempenho em assuntos importantes.
+
+Uma abordagem para neutralizar esse efeito é **desativar as notificações** para não sucumbir a essa falsa urgência.
+
+O uso da Matriz de Decisão de Eisenhower pressupõe que você consiga categorizar corretamente as atividades em cada quadrante.
+
+Mas decidir o que é importante pode ser um desafio, especialmente em um contexto organizacional. 
+
+Dois modelos mentais podem oferecer insights sobre essa dificuldade.
+
+**A lei de Sayre**, que recebeu o nome do cientista político Wallace Sayre, afirma que, em qualquer disputa, a intensidade do sentimento é inversamente proporcional ao valor das questões em jogo.
+
+Um conceito relacionado é a **lei da trivialidade de Parkinson**, nomeada em homenagem ao historiador naval Cyril Parkinson, que afirma que as organizações tendem a dar peso desproporcional a questões triviais. 
+
+Ambos os conceitos explicam como a dinâmica de grupo pode levar o grupo a se concentrar nas coisas erradas.
+
+![[Pasted image 20260505175335.png]]
+
+"O tempo gasto em qualquer item da pauta será inversamente proporcional ao valor envolvido"
+- Ou seja, se for algo simples e facil de entender, as pessoas vão opinar e gastar tempo nisso, porque é simples e facil de entender e compreender. (Discussão sobre o bicicletário)
+
+Você deve tentar não se deixar envolver nesse tipo de ***debate***, pois ele rouba tempo que poderia ser gasto em questões importantes.
+
+Você ainda pode definir tempo limite rigorosos chamados de **time boxing** para reduzir o tempo gasto em coisas que não valem a pena 
+
+Ou seja, o que é importante e o que não é depende do objetivo específico que se busca alcançar. 
+
+Ao contextualizar as atividades potenciais dentro desse objetivo geral, utilizando medidas quantitativas sempre que possível, você poderá determinar com mais clareza a importância relativa de cada uma.
+
+Depois de conseguir categorizar corretamente as atividades como importantes e não importantes, você terá outro problema: para a maioria das pessoas, nunca há tempo suficiente para se dedicar às muitas atividades importantes que categorizaram.
+
+Quando você tem um objetivo claro, fica mais fácil saber quais tarefas ou passos são realmente importantes e quais podem ser deixados de lado. 
+
+Para ajudar nisso, é bom usar números ou dados concretos sempre que der, assim você consegue ter uma ideia mais clara de quais coisas têm mais impacto em atingir seu objetivo.
 
 
