@@ -919,5 +919,41 @@ Um dos motivos para as pessoas procastinarem tanto é o **vies do presente**: a 
 
 Mas ao fazer isso com frequencia, você nunca chegará aos seus objetivos de condicionamento fisico a longo prazo. 
 
+![[Pasted image 20260506120158.png]]![[Pasted image 20260506120411.png]]
 
+Todos nós tendemos a desvalorizar o futuro em comparação com o presente até certo ponto. 
+	Exemplo, se te oferececem 100 dolares hoje contra 100 daqui 1 ano, voce iria preferir os 100 dolares hoje em detrimento dos 100 no futuro. 
 
+Em outras palavras, as pessoas valorizam muito a gratificação instantânea em detrimento da gratificação adiada, e essa preferência desempenha um papel central na procrastinação, assim como em outras áreas da vida em que as pessoas têm dificuldade com o autocontrole, como dietas, vícios, etc.
+
+***Quando você tiver idade suficiente (como nós) para ter muitos arrependimentos por procrastinar, poderá compreender mais facilmente que seu eu futuro enfrentará dificuldades ainda maiores se continuar adiando as coisas.***
+
+Você deve se esforçar para manter esses sentimentos de arrependimento como motivação para se manter focado nos benefícios a longo prazo de suas ações, encarando seus esforços presentes como progresso gradual em direção aos seus objetivos.
+
+Dessa forma, você poderá tentar neutralizar sua tendência inerente ao presente e as consequentes procrastinações.
+
+Um modelo mental que pode ajudá-lo a combater ainda mais seus preconceitos atuais é o **compromisso**, no qual você se compromete ativamente de alguma forma com o futuro desejado.
+
+Os compromissos podem ser formais ou informais, mas geralmente são mais eficazes quando há algum tipo de penalidade associada à sua quebra.
+
+Como por exemplo apostar com um amigo dinheiro caso não atinga o objetivo ou algo desse tipo, ou até mesmo fazendo um compromisso publico. 
+- Nesse caso você se responsabiliza por meio da pressão social. 
+
+Investir em um plano 401(k) é outro exemplo de como você se compromete a poupar para a sua aposentadoria. 
+
+As penalidades por saques antecipados dessas contas são notoriamente severas, o que aumenta a probabilidade de você cumprir seu compromisso.
+
+Você pode usar o **efeito padrão** a seu favor, assumindo compromissos automáticos com seus objetivos de longo prazo.
+
+Um exemplo simples é agendar horários recorrentes diretamente na sua agenda, como uma hora por semana para procurar um novo emprego, fazer uma limpeza profunda na sua casa ou trabalhar em um projeto paralelo.
+
+Ao reservar blocos de tempo para trabalho focado na sua agenda, você evita, por padrão, agendar reuniões nesse horário, já que ele já estará comprometido.
+
+Os compromissos porem tem desvantagens, primeiro é facil adiar um compromisso. 
+
+E se a penalidade não for grande, como em muitos contratos sociais ou compromissos de calendario, voce pode decidir que vale a pena simplesmente quebrá-lo, frustrando seu proposito. 
+
+Maneiras ruins de formalizar um compromisso: 
+- Tornando ele irealista ("Vou malhar na academia todos os dias")
+- Não colocando um prazo("Vou malhar com mais frequencia")
+- E ser
