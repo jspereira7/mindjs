@@ -831,4 +831,93 @@ Quando você tem um objetivo claro, fica mais fácil saber quais tarefas ou pass
 
 Para ajudar nisso, é bom usar números ou dados concretos sempre que der, assim você consegue ter uma ideia mais clara de quais coisas têm mais impacto em atingir seu objetivo.
 
+Como escolher o que fazer ? 
+
+>"Você pode fazer qualquer coisa, mas não tudo."
+
+> Sempre há mais para fazer, do que tempo para faze-lo 
+
+Felizmente há um conceito poderoso da economia para te guia nisso o **custo de oportunidade**: 
+	Toda escolha que você faz tem um custo: o valor da melhor alternativa que você não escolheu. Como regra geral, você deve escolher a opção com o menor custo de oportunidade.
+
+O custo de oportunidade quer dizer sobre o que você dará em troca daquela oportunidade, no exemplo da criação de um negocio: 
+- Salario dos funcionarios q vc terá que pagar
+- Vai deixar de ganhar o salario do seu emprego 
+- Vai despender mais energia etc.... 
+
+E talvez com o dinheiro do emprego, você teria um custo de oportunidade menor, porque poderia investir esse dinheiro em outros negocios ou no mercado de ações. 
+
+O custo de oportunidade se estende às decisões do dia a dia, como quando você dirige mais longe para ir ao posto de gasolina "barato".
+
+Esses modelos de custo de oportunidade ajudarão você a tomar decisões melhores e consistentes sobre em que trabalhar, onde morar e com quem se associar.
+
+Em geral, você deve escolher coisas que tenham um valor maior do que seus custos de oportunidade, a melhor opção dentre todas as alternativas disponíveis.
+
+## Obtendo mais valor pelo seu dinheiro 
+
+> Arquimedes disse: "Deem-me um ponto de apoio e eu moverei a Terra"
+
+A vantagem mecânica obtida por uma alavanca, também conhecida como ***alavancagem***, serve como base para um modelo mental aplicável a uma ampla variedade de situações. 
+
+O conceito pode ser útil em qualquer situação em que a aplicação de força ou esforço em uma área específica possa produzir resultados desproporcionais em relação a aplicações semelhantes de força ou esforço em outros locais.
+
+![[Pasted image 20260506112445.png]]
+
+Um exemplo de alavancagem são pessoas que compram casas, dando uma entrada bem abaixo do valor da casa, graças ao seu endividamento e juros, eles conseguem morar nessas casas, pagando bem abaixo do valor. 
+
+Em termos individuais, certas atividades ou ações têm um impacto muito maior do que outras, e investir tempo ou dinheiro nessas atividades de alto impacto produzirá os melhores resultados. 
+
+Portanto, você deve dedicar tempo para identificar continuamente atividades de alto impacto. É obter o máximo retorno do seu investimento.
+
+Em resumo alavancagem é investir pouco e obter muito, isso se aplica a várias areas da vida, até mesmo no shape. 
+- Como por exemplo focar em construir um V-shape, focando mais em musculos como ombros etc... 
+- Isso é alavancagem. 
+
+Pensar em alavancagem ajuda você a considerar o custo de oportunidade na tomada de decisão. 
+- No geral, as atividades com maior alavancagem tem o menor custo de oportunidade.
+
+Usar o principio de 80/20 de pareto te ajuda a pensar em alavancagem. 
+
+Depois de determinar a proporção 80/20 e priorizar as tarefas mais fáceis de realizar, cada hora adicional de trabalho, infelizmente, produzirá resultados cada vez menos impactantes.
+
+Em economia, esse modelo é chamado de **lei dos rendimentos decrescentes**.
+	Trata-se da tendência de que o esforço contínuo diminua em eficácia após um certo nível de resultado ter sido alcançado.
+
+Existe um conceito semelhante chamado **lei da utilidade decrescente**, que afirma que o valor, ou utilidade, de consumir um item adicional geralmente é, após um certo ponto, menor do que o valor do item consumido anteriormente.
+	Como por exemplo comer um donut, e depois outro e outro e outro, no sexto donut provavelmente vc já não sente mais prazer nele. 
+
+Quando insistir além desse ponto pode, na verdade, piorar as coisas, você passa de **retornos decrescentes** para **retornos negativos.**
+
+Isso pode acontecer quando você busca a perfeição e isso se torna contra-procudente. 
+- Expressões pra esse conceito: Exagerar, se esforçar demais, etc... 
+
+![[Pasted image 20260506114803.png]]
+
+Exagerar também é um caminho rápido para a síndrome de burnout, onde o alto nível de estresse pode cobrar seu preço e eventualmente extinguir sua motivação, ou pior.
+
+Um exemplo comum de resultados negativos é passar a noite acordado trabalhando ou estudando. 
+- Ele irá gerar prejuizos, porque você não conseguirá performar no seu melhor quando estiver privado de sono. 
+
+Então, depois de concluir as etapas mais importantes de um projeto, quando você deve seguir em frente? Obviamente, você deve parar antes de atingir retornos negativos, mas o fato de ter atingido a fase de retornos decrescentes não significa necessariamente que você precise interromper o que está fazendo.
+
+Tudo se resume ao custo de oportunidade. 
+
+Se você conseguir identificar outra atividade que possa produzir resultados melhores com o mesmo esforço, então você deve se dedicar a ela.
+
+Aplicar a **alavancagem** e os modelos mentais relacionados ajudará você a dedicar tempo às atividades certas. 
+
+O próximo passo é concluir essas atividades em tempo hábil. 
+
+O caminho para isso está repleto de armadilhas. 
+
+A primeira armadilha: a **procrastinação**.
+
+Gabriel criador do DuckDuckGo procastinava muito pouco, e por isso terminava as coisas muito antes do previsto. 
+
+Um dos motivos para as pessoas procastinarem tanto é o **vies do presente**: a tendencia a supervalorizar recompensas de curto prazo em detrimento a objetivos de longo prazo. 
+	É facil encontrar desculpas para não ir a academia (muito trabalho, noite mal dormida, sensação de mal estar, dores musculares etc...)
+
+Mas ao fazer isso com frequencia, você nunca chegará aos seus objetivos de condicionamento fisico a longo prazo. 
+
+
 

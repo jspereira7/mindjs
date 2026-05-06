@@ -6,3 +6,7 @@ Frases que resumem pra onde eu estou indo:
 
 O verdadeiro jogo é o você x você todos os dias. 
 
+Shape no prime: 
+
+Ombros: 316 px
+Cintura: 191px 
