@@ -1161,6 +1161,36 @@ Em uma escala mais mundana, as pessoas utilizam frequentemente a frase "Em time 
 
 Quando você luta contra a **homeostase** — em si mesmo ou nos outros — fique atento aos mecanismos subjacentes que estão sabotando seus esforços para promover mudanças.
 - Um exemplo disso seria se exercitar mais, e seu corpo naturalmente começar a te fazer sentir mais fome. 
-- Sabendo disso, muitas pessoas comem proteinas para atenuar o efeito homeóstatico, pois certas proteinas ajudam a 
+- Sabendo disso, muitas pessoas comem proteinas para atenuar o efeito homeóstatico, pois certas proteinas tem a digestão lenta, aumentando a saciedade. 
+
+Qual é o equivalente a "comer proteína" em qualquer situação que você esteja enfrentando? Encontrar a resposta pode ajudá-lo a superar o status quo. 
+
+Uma abordagem comum é obter dados que apoiem a mudança desejada
+e, em seguida, usar esses dados para refutar as objeções.
+
+O termo **centro de gravidade** é usado principalmente em estratégia militar para descrever o ponto central de uma operação. 
+
+Conhecer o centro de gravidade de um oponente indica onde atacar para causar o máximo de dano ou quais partes de sua infraestrutura ele defenderá com mais afinco. 
+
+Quanto mais próximo do centro de gravidade, maior o dano causado e maior o risco que o oponente estará disposto a correr ao defendê-lo.
+
+Aplicando isso taticamente para implementar mudanças, se você conseguir identificar o ponto central de uma ideia, mercado ou processo — qualquer coisa —, poderá efetivar mudanças mais rapidamente agindo nesse ponto específico.
+
+Nesse contexto, é uma espécie de ponto de pressão: pressione-o e você poderá movimentar todo o sistema.
+
+Alguns outros conceitos de química também serão úteis para você taticamente: **energia de ativação** e **catalisador.**
+- Energia de ativação é a quantidade minima necessária para iniciar uma reação quimica entre dois agentes. 
+	- Como riscar um fosforo para acendelo. 
+- Catalisador é algo que diminui a energia de ativação necessaria para iniciar a reação quimica. 
+	- Como por exemplo em dias ensolarados e quentes, é preciso de muito menos energia de ativação para que ocorra um incendio. 
+
+De forma geral a energia de ativação é sobre a quantidade de esforço necessária para começar a mudar algo, e um catalisador qualquer coisa que diminua esse esforço. 
+- Quando você está acomodado no canto do sofá, é preciso muita energia de ativação para se levantar. No entanto, saber que há sorvete no congelador é um catalisador que reduz essa energia de ativação.
+- Ao tentar mudanças é importante entender a energia de ativação necessária e encontrar catalisadores que facilitem a mudança. 
+
+No capitulo 3 foi dito como o comprometimento pode ser usado para superar o imediatismo, ele nesse caso é usado como um catalisador. 
+
+-----
+
 
 
