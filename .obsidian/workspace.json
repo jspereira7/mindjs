@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
+                "file": "00.Notes/Projeto grana com SOI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Super Pensamento - Modelos Mentais"
+              "title": "Outline of Projeto grana com SOI"
             }
           },
           {
@@ -202,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
+                "file": "00.Notes/Projeto grana com SOI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Super Pensamento - Modelos Mentais"
+              "title": "Outgoing links from Projeto grana com SOI"
             }
           },
           {
@@ -275,15 +275,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b36f26d1c8cda83c",
+  "active": "986c587cd033dffd",
   "lastOpenFiles": [
+    "00.Notes/Super Pensamento - Modelos Mentais.md",
     "01.Assets/Anexos/Pasted image 20260507124530.png",
     "01.Assets/Anexos/Pasted image 20260507122243.png",
     "01.Assets/Anexos/Pasted image 20260507121701.png",
     "01.Assets/Anexos/Pasted image 20260507120619.png",
     "00.Notes/Projeto grana com SOI.md",
     "00.Notes/Estrela Guia.md",
-    "00.Notes/Super Pensamento - Modelos Mentais.md",
     "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
     "01.Assets/Anexos/Pasted image 20260506120411.png",
     "01.Assets/Anexos/Pasted image 20260506120158.png",
@@ -292,7 +292,6 @@
     "00.Notes/Looks Maximing - Cravicular Tips.md",
     "01.Assets/Anexos/Pasted image 20260505175335.png",
     "01.Assets/Anexos/Pasted image 20260505173949.png",
-    "01.Assets/Anexos/Pasted image 20260505173919.png",
     "00.Notes/Livro BlackHat Carding.md",
     "00.Notes/Cracking Guide.md",
     "+Daily Notes/2026-05-04 Monday.md",
