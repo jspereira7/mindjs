@@ -10,3 +10,6 @@ Shape no prime:
 
 Ombros: 316 px
 Cintura: 191px 
+
+------
+

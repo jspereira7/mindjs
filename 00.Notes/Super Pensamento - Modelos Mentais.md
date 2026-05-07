@@ -956,4 +956,57 @@ E se a penalidade não for grande, como em muitos contratos sociais ou compromis
 Maneiras ruins de formalizar um compromisso: 
 - Tornando ele irealista ("Vou malhar na academia todos os dias")
 - Não colocando um prazo("Vou malhar com mais frequencia")
-- E ser
+- E ser vago demais ("Tentarei me exercitar mais")
+
+Por outro lado um compromisso realista, com prazo definido e espesifico para ir a academia poderia ser: "Irei a academia nas manhas de quarta e domingo, fazendo 20minutos de cardio + 20min de musculação, e a cada dia que eu não for eu pagarei 20 reais pro meu amigo" 
+
+Depois de superar a procrastinação e começar a progredir consistentemente em direção a um objetivo, a próxima armadilha em que você pode cair é a de ***não planejar seu tempo de forma eficaz.***
+
+Lei de parkinson ***"O trabalho se expande de modo a preencher o tempo disponivel para sua conclusão"*** 
+
+Quando sua principal prioridade tem um prazo bem distante, isso não significa que você precise dedicar todo o seu tempo a ela até lá. Quanto antes você terminar, mais cedo poderá passar para o próximo item da sua lista.
+
+Além disso, nunca se sabe quando terminar com antecedência pode ser vantajoso — por exemplo, quando algo importante e urgente surgir na sua Matriz de Decisão de Eisenhower.
+
+Em seu livro Gödel, Escher, Bach, o cientista cognitivo Douglas Hofstadter cunhou a **Lei de Hofstadter**: *Sempre leva mais tempo do que você espera, mesmo levando em consideração a Lei de Hofstadter.*
+
+Em outras palavras, as coisas levam mais tempo do que você espera, mesmo quando você considera que elas levam mais tempo do que você espera!
+
+Ambos os conceitos destacam o fato de que você geralmente é ruim em estimar quando as coisas serão concluídas, porque, a menos que você se esforce muito no planejamento contínuo do projeto, você não percebe todas as pequenas coisas que precisam ser finalizadas para realmente concluir um projeto. 
+
+Isso certamente se provou verdadeiro na escrita deste livro!
+
+Mas felizmente você mesmo pode dizer quando um projeto está concluido ou não. 
+
+Lembre-se do capitulo 2: O perfeito é inimigo do bom 
+- Se você entregar um relatorio impecavel e definitivo, provavelmente esperou demais. 
+
+Uma solução imperfeita é suficiente para continuar avançando de forma otimizada.
+
+Isso se aplica tambem a outros contextos: esperar até ter certeza que está tomando a decisão perfeita, até ter criado o produto perfeito, e assim por diante. 
+
+O melhor momento para considerar algo concluido é muito antes do que normalmente acontece.
+
+É claro que há momentos em que as circunstâncias exigem que as coisas se aproximem da perfeição.
+- Mas esses momentos são mais raros do que você imagina. 
+- Ou seja vale a pena considerar um projeto como concluido quando ele está num nivel "aceitavel"
+- Tenha em mente o modelo de "decisões reversiveis" x "decisões ireversiveis" 
+
+Outra opção para se considerar é de abandonar o projeto mesmo antes dele estar completamente concluido, quando você identifica que ele não vale mais a pena. 
+
+O modelo que explica isso é o da **aversão a perda**, você tem mais medo de perder, do que de não ganhar. 
+- Ou seja, você sente mais desprazer ao perder 50 reais do que prazer ao ganhar 50 reias. 
+
+A aversão a perda pode te trazer vários prejuizos na vida, como não vender uma ação, com a esperança dela voltar pro preço normal que você pagou e etc... 
+
+Da mesma forma, você pode evitar abandonar um projeto porque isso significaria admitir a perda de seus esforços até aquele momento.
+
+Da mesma forma, ao desistir após um ganho certo, ainda que pequeno, você pode estar perdendo uma oportunidade potencialmente melhor.
+
+Exemplos cotidianos da falácia do custo irrecuperável podem variar de decisões menos impactantes, como terminar um filme ou livro que você não gosta, a decisões mais complexas, como investir mais dinheiro em um negócio falido ou permanecer em uma carreira ou relacionamento que está se deteriorando.
+
+**Manter-se orientado por dados pode ajudá-lo a evitar esse erro.** O "poder do pensamento positivo" só pode te levar até certo ponto.
+- Ele estava falando no contexto de que temos um vies de querer acreditar que teremos sucesso. 
+
+
+

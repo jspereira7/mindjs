@@ -31,11 +31,6 @@ Agora vamos crair uma automação para se passar por usuarios reais, de mobile, 
 
 ----
 
-Venvanse 700 mg temos no total. Se usarmos 100mg por dia, o venvanse vai durar até dia 13, se usar 70mg vai durar até o dia 16. 
-
-Então é bom comprarmos mais venvanse sexta da semana que vem eu acho. 
-
-----
 
 
 
