@@ -1008,5 +1008,159 @@ Exemplos cotidianos da falácia do custo irrecuperável podem variar de deciso
 **Manter-se orientado por dados pode ajudá-lo a evitar esse erro.** O "poder do pensamento positivo" só pode te levar até certo ponto.
 - Ele estava falando no contexto de que temos um vies de querer acreditar que teremos sucesso. 
 
+## Um atalho para o sucesso 
+
+Um bom plano de ação garante que você esteja usando as ferramentas e os processos certos para realizar o trabalho.
+
+Ao iniciar algo novo, é bom lembrar que não há necessidade de reinventar a roda. 
+
+É improvável que você seja a primeira pessoa no mundo a enfrentar essa tarefa e, com a onipresença de especialistas autopublicados, é provável que você encontre um site, artigo de blog ou vídeo tutorial sobre praticamente qualquer assunto.
+
+> Como Benjamin Franklin escreveu em "O Caminho para a Riqueza", "Um investimento em conhecimento rende os melhores juros".
+
+Christopher Alexander introduziu o conceito de **padrão de projeto**, que é uma solução reutilizável para um problema de projeto. Essa ideia foi adaptada a outros campos e é especialmente popular na ciência da computação.
+
+Pense no no modelo das maçanetas de porta, todas são parecidas porque parecem um modelo padrão que funciona. 
+
+Provavelmente existem **padrões de design** aplicáveis a qualquer atividade que você esteja desenvolvendo.
+- Isso se aplica até mesmo as nossas carreiras, padrões de design para startups (como elas geralmente são financiadas, gerenciadas etc...)
+- Programação (como o código é estruturado, algoritimos comuns etc..)
+
+**Em toda área da vida, existem "receitas que já funcionam"** — e você não precisa reinventar a roda.
+
+Embora algum planejamento seja sempre útil, às vezes a maneira mais eficiente de concluir uma tarefa é mergulhar de cabeça e começar imediatamente, em vez de ficar paralisado pela análise excessiva (veja o Capítulo 2).
+
+As ferramentas físicas também podem ser caixas-pretas. Dois ditados, "A habilidade está embutida na ferramenta" e "O trabalho artesanal está na própria bancada", sugerem que quanto mais sofisticadas as ferramentas, menos habilidades são necessárias para operá-las. Repará-las ou programá- las, porém, é outra história!
+
+O processamento paralelo é um exemplo de estratégia de dividir para conquistar. Se você puder dividir um problema em partes independentes e delegar essas partes a diferentes pessoas para que as resolvam, poderá realizar mais, mais rapidamente. Pense em quando você delega partes de um projeto para diferentes pessoas ou departamentos trabalharem nelas.
+
+Esse é o modelo mental da programação asyncrona. 
+
+## CONCLUSÕES IMPORTANTES
+
+- Escolha as tarefas para trabalhar que são relevantes para o seu objetivo de longo prazo. 
+- Selecione entre as opções com base em modelos de custo de oportunidade. 
+- Utilize o modelo 80/20 para investir naquilo que irá trazer mais resultado com menor esforço.
+- Esteja atento a quando você atingir o pico de retornos decresentes e evite rendimentos negativos. 
+- Use o **compromisso** e o **efeito-padrão** para evitar o vies do imediatismo, e avaliações periodicas para evitar a aversão a perda e a falacia do custo irrecuperavel. 
+- Procure soluções rápidas atráves de **padrões de projeto**, **ferramentas** ou algoritimos inteligentes já existentes. Considere se é possivel reformular o problema. 
+
+----
+# Tornando-se um com a natureza 
+
+Seleção natural: o processo que impulsiona a evolução biológica.
+
+A natureza não "escolhe" nada de forma consciente. O que acontece é mais simples: **quem sobrevive mais, se reproduz mais. Quem se reproduz mais, passa seus genes adiante.**
+
+Com o tempo, os genes úteis dominam a população. Os inúteis desaparecem.
+
+![[Pasted image 20260507120619.png]]
+
+Como no exemplo acima, onde a mariposa clara, devido as arvores estarem mais poluidas e terem a cor mais escura, se destacavam e por isso viraram alvo facil. 
+- E a mariposa da cor escura sobreviveu, e conseguiu passar seus genes pra frente. 
+- O ambiente selecionou quem ia sobreviver, eliminando a especie mais vulneravel. 
+
+> O ambiente define o que é uma vantagem. Quem tem a vantagem sobrevive e se reproduz. Os filhos herdam essa vantagem. Repita por gerações.
+
+Um outro exemplo é que livros e filmes lançados 50 anos atrás se fossem lançados hoje, provavelmente não fariam sucesso, porque o mundo evoluiu muito e o ambiente é diferente, ocorreu uma seleção natural. 
+
+Ou seja, você precisa se adaptar as muitas pressões ambientais para ter sucesso. 
+
+Você precisa estar aberto a novas ideias e paradigmas, ajustando seu pensamento e comportamento conforme necessário.
+
+> ***“Não é o mais inteligente da espécie que sobrevive; não é o mais forte que sobrevive; mas a espécie que sobrevive é aquela que melhor consegue se adaptar e se ajustar ao ambiente em constante mudança em que se encontra”***
+
+![[Pasted image 20260507121701.png]]
+
+Felizmente, a ciência nos oferece um modelo mental para garantir que permaneçamos entre os mais "aptos": **o método científico.**
+
+Formalmente, o método científico é um ciclo rigoroso de observação, formulação de hipóteses, teste dessas hipóteses, análise de dados e desenvolvimento de novas teorias.
+
+Mas você também pode aplicá-lo simplesmente adotando uma mentalidade experimental.
+
+Ou seja, em tudo você precisa ter uma mentalidade de testar, na produtividade, não espere ter a configuração perfeita inicialmente, você precisa ir testando, até que irá encontrar a configuração perfeita.
+
+## Não Lute contra a natureza 
+
+Lei de Newton: "Um objeto em repouso permanece em repouso e um objeto em movimento permanece em movimento com a mesma velocidade e na mesma direção, a menos que uma força externa atue sobre ele."
+
+![[Pasted image 20260507122243.png]]
+
+Como metáfora, a inércia pode descrever qualquer resistência a uma mudança de direção.
+
+A lei da inércia pode atuar tambem na suas crenças, quanto mais você permanece nas mesmas crenças sem revisitá-las, mais permanecerá na inércia e mais dificil será de sair. 
+
+A lição aqui é que você deve, na medida do possível, evitar se prender a estratégias rígidas de longo prazo, pois as circunstâncias podem mudar rapidamente.
+
+Às vezes, uma pessoa ou departamento tenta preservar um processo ineficiente, mesmo quando surge uma nova ideia ou tecnologia que pode facilitar as coisas.
+
+A inércia em crenças e comportamentos permite que ideias e organizações arraigadas persistam por longos períodos. O efeito Lindy é o nome desse fenômeno.
+
+O efeito Lindy aplica-se a tecnologias, ideias, organizações e outras coisas não perecíveis. Partindo do pressuposto de que a coisa em questão não está caindo em desuso, quanto mais tempo ela perdurar, mais tempo você pode esperar que ela continue a perdurar.
+
+Existe um outro modelo mental que explica a queda das coisas, chamado **pico**, que é basicamente o prime de algo, depois do prime você pode ter certeza que isso começará a cair. 
+
+De maneira mais geral, o efeito Lindy e os conceitos de pico podem ajudá-lo a avaliar qualquer ideia ou oportunidade de mercado e a prever melhor como ela poderá se desenvolver.
+- O mercado está saudável? Já atingiu seu pico? Há quanto tempo existe?
+  
+O momento linear é um modelo que pode ajudar a entender como as coisas mudam. Momento linear e inércia são conceitos relacionados. 
+
+Em física, o momento linear é o produto (multiplicação) da massa pela velocidade, enquanto a inércia é apenas uma função da massa.
+
+Isso significa que um objeto pesado em repouso tem muita inércia, pois é difícil movê-lo, mas não tem momento linear, já que sua velocidade é zero.
+
+Na sua vida, você pode tirar proveito desse conceito buscando coisas que estejam ganhando impulso rapidamente.
+
+Por exemplo, você pode tirar proveito disso entrando em uma empresa que está começando a engrenar, e que você irá subir junto quando a empresa decolar. 
+
+Ou criar uma empresa que utilize uma tecnologia ou ideia inovadora qeu esteja começando a se popularizar. 
+
+Em termos simples, para ter sucesso, você precisa que a cultura da sua organização esteja alinhada com a sua estratégia.
+
+Um modelo mental que captura bem esse processo é o **volante de inércia**, um disco físico giratório usado para armazenar energia. Os volantes de inércia ainda são usados em muitas aplicações industriais, embora um exemplo mais fácil de entender para compreender o conceito seja um carrossel infantil. É preciso muito esforço para fazer um carrossel começar a girar, mas, uma vez em movimento, é preciso pouco esforço para mantê-lo girando.
+
+![[Pasted image 20260507124530.png]]
+
+Um exemplo de **volante de inércia** no dia a dia é como leva muito tempo e prática para se tornar um especialista em um assunto, mas, uma vez que você se torna um especialista, basta um esforço mínimo para se manter atualizado sobre os novos desenvolvimentos na área.
+
+**Voltante da Inércia: a ideia central**
+
+Um voltante é uma roda pesada usada em motores. A propriedade especial dela é simples:
+
+- **As primeiras rotações custam muito esforço.**
+- **Cada rotação seguinte fica um pouco mais fácil.**
+- **Depois de certa velocidade, ela gira quase sozinha.**
+
+O esforço não some — ele se **acumula** dentro da roda como energia armazenada.
+
+Resultados grandes raramente vêm de um único esforço grande. Vêm de esforços consistentes que se acumulam até o sistema ganhar vida própria.
+
+Isso tambem se relaciona ao conceito da mult-tarefa, se fazermos mult-tarefas ao mesmo tempo, sempre estamos aplicando o esforço inicial toda vez que começamos uma nova tarefa. 
+
+Em vez de aproveitar o impulso que ele já ganhou depois de começar a girar. 
+
+O modelo do volante de inércia mostra que seus esforços terão benefícios a longo prazo e se somarão aos esforços anteriores, seus e de outros.
+
+É a maneira tática de aplicar os conceitos de momento e inércia a seu favor.
+
+Por outro lado mudar algo que possui muita inércia é desafiador, devido ao esforço pra parar o momentum. 
+- Isso não quer dizer que não valha a pena, mas tenha em mente que é um processo desafiador e demorado. 
+
+Mas existem modelos mentais que podem te ajudar nessa jornada. 
+
+Na biologia, temos a **homeostase**, que descreve uma situação em que um organismo se regula constantemente em torno de um objetivo específico, como a temperatura corporal.
+- Quando vc sente frio, vc treme pra se aquecer. 
+- Quando está calor transpira para se resfriar. 
+- Em ambos os casos seu corpo está tentando voltar para o seu normal. 
+- Isso é útil, mas o mesmo efeito também impede a mudança do estado atual quando você deseja que ela ocorra.
+
+Em uma escala mais mundana, as pessoas utilizam frequentemente a frase "Em time que está ganhando não se mexe" 
+- Como por exemplo, as pesquisas comprovam que os alunos obtem mais resultados do estudo, começando a estudar em horario mais tardios.
+- Mas os pais e professores relutam em mudar o horario escolar de seus filhos. 
+- Comprovando novamente o efeito da homeostase. 
+
+Quando você luta contra a **homeostase** — em si mesmo ou nos outros — fique atento aos mecanismos subjacentes que estão sabotando seus esforços para promover mudanças.
+- Um exemplo disso seria se exercitar mais, e seu corpo naturalmente começar a te fazer sentir mais fome. 
+- Sabendo disso, muitas pessoas comem proteinas para atenuar o efeito homeóstatico, pois certas proteinas ajudam a 
 
 
