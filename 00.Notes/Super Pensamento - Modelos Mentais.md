@@ -1434,6 +1434,165 @@ No lado positivo, você poderá tomar decisões mais acertadas para sua vida 
 
 ----
 
+# Mentiras, malditas mentiras e estatisticas
+
+Dados, números e estatísticas desempenham um papel cotidiano na maioria das carreiras profissionais, não apenas na engenharia e na ciência. Cada vez mais, organizações de todos os tipos tomam decisões baseadas em dados.
+
+Em todas as áreas, há pessoas estudando maneiras de aprimorar seus processos. Considere a educação básica: qual é a maneira mais eficaz de ensinar crianças a ler? Quanta lição de casa os alunos devem ter? A que horas as aulas devem começar?
+
+O mesmo se verifica cada vez mais no dia a dia: qual é a melhor dieta? Quanto exercício físico é suficiente?
+
+Quão seguro é este carro em comparação com aquele?
+
+Geralmente as mensagens para todos esses campos são contraditórias. 
+
+Para qualquer questão, você pode encontrar pessoas de ambos os lados com "números" para apoiar sua posição.
+
+Muitas pessoas acreditam que os dados podem ser facilmente manipulados para sustentar qualquer narrativa que se queira apresentar, daí o título deste capítulo.
+
+Da mesma forma, mesmo que não haja intenção de enganar, os resultados dos estudos são frequentemente mal interpretados acidentalmente, ou os próprios estudos podem apresentar falhas metodológicas.
+
+No entanto, a resposta não é descartar todas as estatísticas ou evidências baseadas em dados como absurdas, deixando você, Basear decisões unicamente em opiniões e palpites.
+
+Em vez disso, você deve usar modelos mentais para obter uma compreensão mais profunda de um problema, incluindo a pesquisa subjacente, permitindo determinar quais informações são confiáveis.
+
+Você também pode usar dados da sua vida pessoal e profissional para obter novas perspectivas. Perspectivas baseadas em padrões reais,
+
+Fatores como tendências de mercado, comportamento do consumidor e fenômenos naturais podem servir de base para grandes empresas e avanços científicos. Eles também podem fornecer insights sobre o cotidiano.
+
+Precisávamos encontrar outra maneira. Através de experimentação e coleta de nossos próprios dados ao longo dos primeiros anos, conseguimos.
+
+Assim como os bebês e seus padrões de sono, muitos aspectos da vida têm variabilidade inerente e não podem ser Previsto com certeza.
+
+Desde decidir em quem votar até arriscar em um novo projeto no trabalho, este capítulo visa ajudá-lo a lidar com essa incerteza no contexto da tomada de decisões. Que conselhos você deve seguir e por quê?
+
+**Probabilidade e estatística** são os ramos da matemática que nos fornecem os modelos mentais mais úteis para essas tarefas.
+
+> “As questões mais importantes da vida são, na verdade, em sua maior parte, apenas problemas de probabilidade.” - Pierre-Simon Laplace
+
+## Acreditar ou não acreditar
+
+É da natureza humana usar dados passados para orientar a tomada de decisão, como por exemplo ao ver alguem passar mal ao ingerir determinado alimento, você vai considerar que não deve adotar aquele comportamento. 
+
+Infelizmente esse atalho nem sempre resulta em um bom raciocinio.
+
+Exemplos: 
+- Tivemos uma nevasca historia esse ano, que ironia, considerando o aquecimento global. 
+- Meu avô viveu até os oitenta anos e fumou um maço de cigarros por dia durante toda a vida, então não acredito que fumar cause câncer.
+
+Todos esses são exemplos de conclusões incorretas tiradas com base em evidências anedóticas, coletadas informalmente.
+
+Evidencias baseadas em relatos pessoais. 
+
+O problema surge quando se fazem generalizações com base em evidências anedóticas ou quando se lhes dá mais peso do que às evidências científicas.
+
+> Michael Shermer, fundador da Sociedade Cética: "o pensamento anedótico é natural, a ciência requer treinamento".
+
+Um problema com as evidências anedóticas é que elas geralmente não são representativas de toda a gama de experiências.
+
+As pessoas tendem a compartilhar histórias fora do comum. 
+
+Por exemplo, é mais provável que escrevam uma avaliação quando tiveram uma experiência terrível ou uma experiência incrível.
+
+Consequentemente, a única conclusão que se pode tirar de uma anedota é que um único evento pode ter ocorrido.
+
+![[Pasted image 20260508142357.png]]
+
+O que muitas vezes é negligenciado quando essa falácia surge é um fator de confusão, um terceiro fator, possivelmente não óbvio.
+
+Com a quantidade de informações disponíveis, é inevitável que muitas correlações espúrias sejam descobertas. Aliás, existe um site (e livro) hilário chamado "Correlações Espúrias", repleto desses resultados absurdos.
+
+![[Pasted image 20260508142909.png]]
+
+**Correlação não quer dizer causalidade.**
+
+Você deve exigir dados mais confiáveis, como um experimento científico completo, antes de acreditar em quaisquer alegações médicas em nome de um produto.
+
+Se você se propuser a coletar ou avaliar evidências científicas com base em um experimento, o primeiro passo é definir ou compreender a hipótese, ou seja, a explicação proposta para o efeito em estudo.
+
+Definir uma hipótese antecipadamente ajuda a evitar a ***falácia do atirador do Texas.***
+- Esse modelo recebeu esse nome devido a uma piada sobre uma pessoa que encontra um celeiro com alvos desenhados na lateral e buracos de bala no meio de cada alvo. Ela fica impressionada com a precisão do atirador, apenas para descobrir que os alvos foram desenhados ao redor dos buracos de bala depois que os tiros foram disparados.
+
+Um conceito semelhante é o do ***alvo móvel***, em que o objetivo de um experimento é alterado para sustentar um resultado desejado após a observação dos resultados.
+
+Uma versão popular desse modelo experimental é o ***teste A/B***, no qual o comportamento do usuário é comparado entre diferentes abordagens.
+
+Esses experimentos devem ser cuidadosamente planejados para isolar o fator específico que se deseja estudar. 
+
+A maneira mais simples de fazer isso é alterar apenas um elemento entre os dois grupos.
+
+O experimento também pode permanecer alheio ao grupo ao qual os participantes pertencem. 
+
+Essa ocultação adicional ajuda a reduzir o impacto do viés de expectativa do observador (também chamado de viés do experimentador), em que os vieses cognitivos dos pesquisadores, ou observadores, podem levá-los a influenciar o resultado na direção esperada.
+
+Curiosamente, o simples ato de receber algo que se espera que tenha um efeito positivo pode, de fato, criar um, o chamado ***efeito placebo.***
+
+Embora os placebos tenham pouco efeito em algumas coisas, como a cicatrização de um osso quebrado, o efeito placebo pode trazer benefícios.
+
+Da mesma forma, a antecipação de efeitos colaterais também pode resultar em efeitos negativos reais, mesmo com tratamentos falsos, um fenômeno conhecido como ***efeito nocebo.***
+
+Outros exemplos comuns de métricas indiretas incluem o índice de massa corporal (IMC), usado para medir a obesidade, e o QI, usado para medir a inteligência. 
+
+As métricas indiretas são mais propensas a críticas porque são medidas indiretas, e todos os três exemplos citados foram alvo de críticas significativas.
+
+No entanto, apesar das complicações que surgem ao conduzir experimentos bem-sucedidos, coletar dados reais a evidência científica supera em muito a evidência anedótica, pois permite chegar a conclusões confiáveis.
+
+## VIÉS OCULTO
+
+Na seção anterior, mencionamos alguns pontos a serem observados ao revisar ou conduzir experimentos, como o **viés de expectativa do observador** e os **fatores de confusão**. Há mais alguns desses conceitos sutis com os quais devemos ter cautela.
+
+Em primeiro lugar, por vezes não é ético ou prático atribuir pessoas aleatoriamente a diferentes grupos experimentais.
+
+Por exemplo, se os pesquisadores quisessem estudar o efeito do tabagismo durante a gravidez, não seria correto fazer com que mulheres grávidas não fumantes começassem a fumar. 
+
+Os fumantes no estudo seriam, portanto, aqueles que optaram por continuar fumando, o que pode introduzir um viés chamado ***viés de seleção.***
+
+![[Pasted image 20260508152225.png]]
+
+Essencialmente, é preciso ter muita cautela ao tirar conclusões com base em experimentos não aleatórios.
+
+A tira de Dilbert acima satiriza o viés de seleção inerente a muitos dos estudos noticiados.
+
+Outro tipo de viés de seleção, comum em pesquisas, é o viés de não resposta, que ocorre quando uma parte dos participantes não responde.
+
+Viés de seleção é quando o grupo que você estuda já é diferente do grupo geral — e você não percebe isso. Aqui: o grupo dos casados já era formado por pessoas naturalmente mais felizes. O estudo mede a felicidade deles e conclui _"casar faz bem"_, mas na verdade estava olhando para pessoas que já tinham vantagem antes de casar.
+
+Pesquisas como essa geralmente também não levam em conta as opiniões de ex-funcionários, o que pode criar
+
+Outro viés nos resultados é o ***viés de sobrevivência.*** 
+
+Funcionários insatisfeitos podem ter optado por deixar a empresa, mas não é possível captar suas opiniões ao pesquisar apenas os funcionários atuais. 
+
+Os resultados, portanto, são enviesados por medirem apenas a população que permaneceu na empresa, neste caso, os funcionários que ficaram.
+
+Esses vieses invalidam essa metodologia de pesquisa? Não necessariamente. 
+
+Quase todas as metodologias apresentam vieses.
+
+As desvantagens e os vieses, de uma forma ou de outra, são muitas vezes inevitáveis.
+
+Você deve estar ciente de todos os problemas potenciais em um estudo e considerá-los ao tirar conclusões.
+
+Pesquisadores realizaram um estudo de aeronaves danificadas que retornaram de missões, a fim de sugerir maneiras de reforçar as defesas das aeronaves para missões futuras. Analisando os locais onde as aeronaves foram atingidas, concluíram que as áreas mais danificadas deveriam receber blindagem adicional.
+
+No entanto, o estatístico Abraham Wald observou que o estudo analisou apenas aviões que sobreviveram às missões.
+
+e não os muitos aviões que haviam sido abatidos. Ele, portanto, teorizou a conclusão oposta, que se mostrou correta: que as áreas com buracos representavam áreas onde as aeronaves podiam ser atingidas e ainda retornar em segurança, enquanto as áreas sem buracos provavelmente continham áreas que, se atingidas, fariam os aviões caírem.
+
+Segundo o **vies de sobrevivencia** voce poderia concluir que bill gates e steve jobs tiveram uma boa ideia ao sair da escola e empreender. 
+- Mas você está analisando somente os que sobreviveram, está desconsiderando todos os outros que fizeram isso e se lascaram na vida. 
+
+A arquitetura apresenta um exemplo mais cotidiano: prédios antigos geralmente parecem ser mais bonitos do que suas contrapartes modernas. Esses prédios, porém, são os que sobreviveram ao tempo; havia uma infinidade de prédios feios daquela época que já foram demolidos.
+
+![[Pasted image 20260508153204.png]]
+
+Ao avaliar criticamente um estudo (ou ao conduzir um você mesmo), é preciso se perguntar: ***Quem está faltando?***
+
+O que poderia estar tornando essa população amostral não aleatória em relação à população real?
+
+Outro tipo de viés que pode ser introduzido inadvertidamente é o ***viés de resposta.***
+
+Por exemplo, em uma pesquisa de engajamento de funcionários, as pessoas podem mentir (por omissão ou de outra forma) por medo de represálias.
 
 
 
