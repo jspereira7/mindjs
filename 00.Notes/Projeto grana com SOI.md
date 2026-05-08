@@ -35,7 +35,9 @@ Agora qual é o objetivo ?
 - Enviar conversões automaticas com o ip da australia, se parecendo trafego mobile. 
 	- Como vamos fazer isso ? 
 		- O que vai resolver o IP = VPN, talvez com troca de sessão a cada nova conversão. 
-		- 
+		- Ou então continuamos enviando as conversões com o mesmo ip mesmo. 
+
+
 
 ----
 
