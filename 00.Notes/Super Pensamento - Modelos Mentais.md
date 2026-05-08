@@ -1594,6 +1594,87 @@ Outro tipo de viés que pode ser introduzido inadvertidamente é o ***viés d
 
 Por exemplo, em uma pesquisa de engajamento de funcionários, as pessoas podem mentir (por omissão ou de outra forma) por medo de represálias.
 
+![[Pasted image 20260508153415.png]]
+
+De um modo geral, os resultados das pesquisas podem ser influenciados por vieses de resposta de diversas maneiras, incluindo as seguintes:
+- A forma como as perguntas são formuladas, por exemplo, perguntas tendenciosas ou capciosas.
+- A ordem das perguntas, em que as perguntas anteriores podem influenciar as posteriores. Memória fraca ou imprecisa dos respondentes.
+- Dificuldade em representar sentimentos em números, como em escalas de um a dez.
+- Respondentes relatando coisas que refletem positivamente sobre si mesmos.
+
+Vale a pena tentar levar em conta todos esses vieses sutis (***viés de seleção***, ***viés de não resposta***, ***viés de resposta***,***viés de sobrevivência***)
+
+## Cuidado com a Lei dos pequenos numeros
+
+Ao interpretar dados, você deve ficar atento a um erro básico que causa todo tipo de problema: superestimar os resultados de uma amostra muito pequena.
+
+Mesmo em um experimento bem conduzido (como uma pesquisa política), não se pode esperar obter uma boa estimativa com base em uma amostra pequena.
+
+Essa falácia é às vezes chamada de ***lei dos pequenos números***, e esta seção a explora com mais detalhes.
+
+O nome deriva de um conceito estatístico válido chamado ***lei dos grandes números***, que afirma que quanto maior a amostra, mais próximo o resultado médio estará da média verdadeira.
+
+![[Pasted image 20260508154404.png]]
+
+Esta seção explica como saber se sua amostra é grande o suficiente. Por enquanto, vamos nos concentrar no que pode dar errado se sua amostra for muito pequena.
+
+Primeiro, considere a **falácia do apostador**, assim chamada por causa dos jogadores de roleta que acreditam que uma sequência de vermelhos ou probabilidade de sair vermelho em uma roleta é maior do que a probabilidade de continuar na próxima rodada.
+
+Isso também explica aquela sensação desconfortável que você pode ter tido como estudante ao perceber que havia escolhido a resposta B quatro vezes seguidas em uma prova de múltipla escolha.
+
+Conhecendo a [[Falácia do apostador]], você não deve sempre esperar que os resultados de curto prazo correspondam aos de longo prazo.
+
+O inverso também é verdadeiro: você não deve basear expectativas de longo prazo em um pequeno conjunto de resultados de curto prazo.
+
+Quando um artista recebe críticas excelentes pelo seu primeiro álbum, mas o segundo não é tão bem recebido, ou quando um jogador de beisebol tem uma temporada de estreia fantástica, mas no ano seguinte sua média de rebatidas não é tão impressionante. 
+
+Nessas situações, você pode presumir que deve haver alguma explicação psicológica, como ceder à pressão do sucesso. 
+
+Mas, na maioria dos casos, a verdadeira causa é puramente matemática, explicada por um modelo chamado [[Regressão à média.]]
+
+A conclusão é que você nunca deve presumir que um resultado baseado em um pequeno conjunto de observações seja definitivo.
+
+Pode não ser representativo de um pequeno conjunto de observações ou de um conjunto muito maior. 
+
+Assim como evidências anedóticas, uma pequena amostra pouco informa além de que o ocorrido estava dentro da gama de resultados possíveis. 
+
+Embora as primeiras impressões possam ser precisas, você deve tratá-las com ceticismo. 
+
+Mais dados ajudarão a distinguir o que é provável do que é uma anomalia.
+
+## A CURVA DE SINO
+
+Ao lidar com uma grande quantidade de dados, você pode usar ***gráficos e estatísticas descritivas*** para combater a sensação de sobrecarga de informações (veja o Capítulo 2).
+
+O termo "estatística" é, na verdade, o nome dado aos números usados para resumir um conjunto de dados.
+
+***Gráficos e estatísticas*** descritivas comunicam de forma sucinta os fatos sobre o conjunto de dados.
+
+Você usa estatísticas descritivas o tempo todo sem nem perceber. Se alguém lhe perguntasse: “Qual é o [resumo]?”
+
+Se você perguntasse qual é a temperatura de uma pessoa saudável?
+- Provavelmente diria que é de 37 graus Celsius (98,6 graus Fahrenheit).
+
+Na verdade, essa é uma estatística resumida chamada **média**, que, como acabamos de explicar, é outra palavra para média aritmética.
+
+Você provavelmente nem se lembra de quando aprendeu isso pela primeira vez, e é ainda mais provável que não tenha ideia de quando aprendeu.
+
+Outras duas estatísticas descritivas populares que medem a tendência central são a **mediana** (valor central que divide os dados em duas metades) e a **moda** (o resultado mais frequente). 
+
+Essas estatísticas ajudam a descrever como um número "típico" pode ser para um determinado conjunto de dados.
+
+Isso nos leva ao segundo conjunto comum de estatísticas resumidas, aquelas que medem a **dispersão**, ou o quão espalhados os dados estão.
+
+As estatísticas de dispersão mais simples reportam intervalos. Para a temperatura corporal, isso poderia ser especificar o intervalo.
+
+![[Pasted image 20260508163808.png]]
+
+Um histograma como este é uma maneira simples de resumir dados visualmente: agrupe os valores em intervalos, conte quantos pontos de dados existem em cada intervalo e crie um gráfico de barras verticais com esses intervalos.
+
+As medidas estatísticas de dispersão mais comuns, no entanto, são a variância e o desvio padrão.
+
+Isso nos leva a um dos resultados mais úteis em toda a estatística, chamado teorema do limite central. Este teorema afirma que, quando números são extraídos da mesma distribuição e, em seguida, é calculada a média, essa média resultante segue aproximadamente uma distribuição normal. Isso ocorre mesmo que os números originalmente viessem de uma distribuição completamente diferente.
+
 
 
 

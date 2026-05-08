@@ -5,6 +5,14 @@
       "path": "00.Notes/Super Pensamento - Modelos Mentais.md"
     },
     {
+      "basename": "Regressão à média.",
+      "path": "00.Notes/Regressão à média..md"
+    },
+    {
+      "basename": "Falácia do apostador",
+      "path": "00.Notes/Falácia do apostador.md"
+    },
+    {
       "basename": "Drawing 2026-05-08 11.03.48.excalidraw",
       "path": "01.Assets/Excalidraw/Drawing 2026-05-08 11.03.48.excalidraw.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Familia Typagem",
       "path": "00.Notes/Familia Typagem.md"
-    },
-    {
-      "basename": "Tipagem Heloisa Ig 2",
-      "path": "00.Notes/Tipagem Heloisa Ig 2.md"
-    },
-    {
-      "basename": "Tipagem Heloisa IG",
-      "path": "00.Notes/Tipagem Heloisa IG.md"
     }
   ],
   "omittedPaths": [
