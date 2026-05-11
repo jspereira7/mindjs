@@ -1043,7 +1043,7 @@ Esse é o modelo mental da programação asyncrona.
 - Utilize o ***modelo 80/20*** para investir naquilo que irá trazer mais resultado com menor esforço.
 - Esteja atento a quando você atingir o pico de ***retornos decresentes*** e evite ***rendimentos negativos.*** 
 - Use o **[[compromisso]]** e o ***[[efeito-padrão]]*** para evitar o vies do imediatismo, e ***avaliações periodicas*** para evitar a ***aversão a perda*** e a ***falacia do custo irrecuperavel.*** 
-- Procure soluções rápidas atráves de **padrões de projeto**, **ferramentas** ou ***algoritimos inteligentes*** já existentes. Considere se é possivel ***reformular o problema.*** 
+- Procure soluções rápidas atráves de **[[design patters]]**, **[[ferramentas]]** ou ***[[algoritimos inteligentes]]*** já existentes. Considere se é possivel ***reformular o problema.*** 
 
 ----
 # Tornando-se um com a natureza 
@@ -1425,11 +1425,11 @@ No lado positivo, você poderá tomar decisões mais acertadas para sua vida 
 
 ## PRINCIPAIS CONCLUSÕES
 
-- Adote uma ***mentalidade experimental***, buscando oportunidades para realizar experimentos e aplicar o método científico sempre que possível.
-- Respeite a inércia: crie ou participe de ciclos virtuosos saudáveis; evite ***custos estratégicos*** e tentativas de implementar mudanças em situações de ***alta inércia***, a menos que você tenha uma vantagem tática, como a descoberta de um catalisador e muita energia potencial.
+- Adote uma ***[[mentalidade experimental]]***, buscando oportunidades para realizar experimentos e aplicar o [[método científico]] sempre que possível.
+- Respeite a **[[inércia]]**: crie ou participe de ciclos virtuosos saudáveis; evite ***[[custos estratégicos]]*** e tentativas de implementar mudanças em situações de ***[[alta inércia]]***, a menos que você tenha uma vantagem tática, como a descoberta de um **[[catalisador]]** e muita **[[energia potencial.]]**
 - Ao implementar mudanças, reflita profundamente sobre como atingir a ***massa crítica*** e como você irá navegar pelo ciclo de vida da adoção de tecnologia.
 - Use funções de força para facilitar a mudança.
-- Cultive ativamente sua ***área de influência positiva*** e trabalhe o necessário para não ser absorvido pela ***entropia***.
+- Cultive ativamente sua [[área de influência positiva]] e trabalhe o necessário para não ser absorvido pela ***[[entropia]]***.
 - Ao se deparar com o que parece ser uma situação de ***soma zero*** ou preto no branco, busque opções adicionais e, em última instância, uma solução em que todos saiam ganhando.
 
 ----
@@ -1673,7 +1673,55 @@ Um histograma como este é uma maneira simples de resumir dados visualmente: ag
 
 As medidas estatísticas de dispersão mais comuns, no entanto, são a variância e o desvio padrão.
 
+**A grande conclusão:**
+- Com apenas dois numeros - média e desvio padrão, você consegue descrever e prever o comportamento de quase qualquer fenomeno natural. 
+- Altura, temperatura, peso, notas de uma prova, tudo segue esse padrão, isso é poderoso porque significa que você não precisa de milhares de dados para entender uma população - basta saber aonde está o centro (média) e o quanto ela se espalha (desvio padrão)
+
+O conceito é útil sempre que você precisa responder: **"esse valor é normal ou é um sinal de alerta?"** Sem a média e o desvio padrão, você está chutando. Com eles, você tem um critério objetivo.
+
 Isso nos leva a um dos resultados mais úteis em toda a estatística, chamado teorema do limite central. Este teorema afirma que, quando números são extraídos da mesma distribuição e, em seguida, é calculada a média, essa média resultante segue aproximadamente uma distribuição normal. Isso ocorre mesmo que os números originalmente viessem de uma distribuição completamente diferente.
+
+Dados binários como esses são frequentemente analisados usando uma distribuição de probabilidade diferente, chamada distribuição de Bernoulli, que representa o resultado de um único experimento ou pergunta do tipo sim/não, como em uma pesquisa ou enquete. Essa distribuição é útil em uma ampla variedade de situações, como na análise de campanhas publicitárias (se alguém comprou ou não), ensaios clínicos (respondeu ao tratamento ou não) e testes A/B (clicou ou não).
+
+A taxa de aprovação estimada é apenas uma média de todas as respostas individuais (1 para aprovação) e 0 caso contrário).
+
+Por exemplo, se 1.000 pessoas fossem entrevistadas e 240 aprovassem, a taxa de aprovação seria de 24,0%. O teorema do limite central nos diz que essa média estatística (média da amostra) tem uma distribuição aproximadamente normal (assumindo que um número suficiente de pessoas participe da pesquisa). A figura na próxima página ilustra visualmente como isso funciona com a distribuição de Bernoulli e outras duas distribuições que, inicialmente, também não se assemelham à distribuição normal.
+
+Assim como no caso da temperatura corporal ou da altura, embora essa média seja o valor mais provável obtido pela pesquisa, valores próximos a ela também são prováveis, como 24%. Valores cada vez mais distantes são cada vez menos prováveis, com probabilidades seguindo a distribuição normal.
+
+**Qual a probabilidade exatamente menor? Depende de quantas pessoas você perguntar. Quanto mais pessoas você perguntar, mais provável será.**
+
+Quando você soma **muitos fatores aleatórios**, o resultado quase sempre forma aquela curva de sino.
+
+Isso tem até um nome formal: **Teorema do Limite Central** — basicamente diz que "some coisas aleatórias suficientes e vai aparecer uma curva normal."
+
+**Por que isso é poderoso?**
+
+Porque significa que **a natureza tem um padrão previsível.** O "normal" tende ao meio, e o extraordinário — pra cima ou pra baixo — é sempre exceção.
+
+Em resumo: distribuição normal é a matemática descrevendo que, na maioria dos fenômenos, **extremos são raros e o meio é onde a vida acontece.**
+
+Outro conceito util é a **margem de erro** que basicamente é a margem que essa previsão pode estar errada, quanto maior a amostra dos dados, menor a margem de erro. 
+
+Uma coisa que realmente nos incomoda é quando as estatísticas são divulgadas na mídia sem barras de erro ou intervalos de confiança.
+
+Lembre-se sempre de procurá-los ao ler relatórios e de incluí-los em seu próprio trabalho. Sem uma estimativa de erro, você não tem ideia de quão confiante pode estar nesse número — o valor verdadeiro provavelmente está muito próximo dele ou pode estar muito distante? 
+
+O intervalo de confiança lhe diz isso!
+## DEPENDE
+
+Como você viu na seção anterior, a altura média de uma mulher é de 1,63 m (5 pés e 4 polegadas). Se você tivesse que adivinhar a altura de um desconhecido, mas não soubesse com certeza que se trata de uma mulher, 1,63 m (5 pés e 4 polegadas) não seria um bom palpite, pois a altura média de um homem é de aproximadamente 1,75 m (5 pés e 9 polegadas), então algo intermediário seria melhor. Mas se você tivesse a informação adicional de que a pessoa é uma mulher, então 1,63 m (5 pés e 4 polegadas) seria o melhor palpite. A informação adicional altera a probabilidade.
+
+Este é um exemplo de um modelo chamado **probabilidade condicional**, a probabilidade de uma coisa acontecer, sob a condição de que outra coisa tambem tenha acontecido. 
+
+A probabilidade condicional nos permite estimar melhor as probabilidades usando essa informação adicional. 
+
+Probabilidades condicionais são comuns no dia a dia.
+
+
+
+
+
 
 
 

@@ -1,0 +1,1 @@
+**INÉRCIA** Um objeto em movimento tende a continuar em movimento. Na vida real: sistemas, hábitos e organizações que já estão funcionando bem tendem a continuar assim. Por isso, vale entrar em ciclos que já estão "rodando" no sentido certo — é mais fácil crescer junto do que começar do zero.

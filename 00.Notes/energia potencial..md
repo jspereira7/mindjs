@@ -1,0 +1,1 @@
+**ENERGIA POTENCIAL** Energia armazenada, pronta para ser usada. Aqui representa os recursos acumulados — dinheiro, reputação, relacionamentos, conhecimento — que você pode "liberar" para superar a resistência de um sistema com alta inércia.

@@ -1,0 +1,1 @@
+**Alta inércia** Quando um sistema tem muita "força" acumulada — seja uma empresa dominante, um hábito enraizado ou uma indústria consolidada — ele é muito difícil de mover ou mudar. Mexer nisso sem estar bem preparado é quase sempre uma má ideia.
