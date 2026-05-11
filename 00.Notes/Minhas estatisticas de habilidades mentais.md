@@ -1,6 +1,6 @@
 ![[Pasted image 20260511144806.png]]
 
-Minhas principais skills mentais: 
+==**Minhas principais skills mentais:** 
 - **Atenção Dividida:** Capacidade de fazer duas coisas ao mesmo tempo, com sucesso. 
 - **Campo visual:** Uma boa amplitude de campo de visão nos permite captar uma quantidade maior de informações visuais à primeira vista, o que nos torna mais eficientes quando procuramos algo em nosso entorno.  
   - Uma amplitude do campo de visão deficiente nos tornará menos eficientes em encontrar objetos, pois perceberemos menos informações periféricas.
@@ -16,3 +16,22 @@ Minhas principais skills mentais:
 		- Ser prudente no transito exige fazer uma estimativa. 
 		- Qualquer decisão sobre a quantidade de alguma coisa, como peso de um saco de arroz, ou quantas maças entram em 1kg. 
 		- Essencial em esportes, vc precisa ser capaz de estimar com que velocidade a bola chega em você, a distancia entre vocês, o peso dela e etc... 
+
+Principais dificuldades/pontos de melhora: 
+- **Planejamento:** capacidade de escolher as ações necessárias para alcançar objetivos, decidir a ordem correta, e atribuir cada tarefa aos recursos cognitivos apropriados. 
+- **Percepção espacial:** A percepção espacial é a habilidade de se situar, se mover, se orientar e analisar representações do ambiente com formatos, tamanhos e distâncias.
+- **Memória Visual a Curto Prazo:** A memória visual de curto prazo é a habilidade de reter uma pequena quantidade de informação visual (letras, formatos, cores) durante um período curto de tempo. 
+
+**Resumindo em uma frase:** você é excelente em **reagir**, mas tem dificuldade em **antecipar**. Seu cérebro funciona melhor no presente do que planejando o futuro.
+
+-------
+
+Dicas para superar minhas falhas: 
+- Pouca memoria de trabalho, usar ferramentas externas para superar esse buffer. 
+	- Cadernos, notas, desenhos etc... 
+	- Pensar em voz alta. 
+
+
+
+
+
