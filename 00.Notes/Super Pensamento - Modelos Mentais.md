@@ -645,7 +645,7 @@ Da próxima vez, veja se consegue identificar o modelo mental subjacente à si
 - Cuidado com situações que envolvem informação **assimétrica**, pois elas podem levar a **problemas de agência**.
 - Tenha cuidado ao basear recompensas em ***incentivos mensuráveis***, pois é provável que isso cause comportamentos indesejados e não intencionais (Lei de Goodhart).
 - O foco no **curto prazo** pode facilmente levar ao acúmulo de **dívida técnica** e criar uma ***dependência de trajetória desvantajosa***; para contrabalançar isso, pense em preservar a capacidade de escolha e tenha em mente o princípio da **precaução**.
-- Internalize a distinção entre **decisões irreversíveis e reversíveis** e não se deixe paralisar pela **análise excessiva** no caso destas últimas.
+- Internalize a distinção entre [[decisões irreversíveis e reversíveis ]]e não se deixe paralisar pela **análise excessiva** no caso destas últimas.
 - Preste atenção à lei de Murphy! (Tudo o que pode dar errado, dará!)
 
 ------
@@ -1039,10 +1039,10 @@ Esse é o modelo mental da programação asyncrona.
 ## CONCLUSÕES IMPORTANTES
 
 - Escolha as tarefas para trabalhar que são relevantes para o seu ***objetivo de longo prazo***. 
-- Selecione entre as opções com base em modelos de ***custo de oportunidade***. 
+- Selecione entre as opções com base em modelos de [[custo de oportunidade ]]
 - Utilize o ***modelo 80/20*** para investir naquilo que irá trazer mais resultado com menor esforço.
 - Esteja atento a quando você atingir o pico de ***retornos decresentes*** e evite ***rendimentos negativos.*** 
-- Use o ***compromisso*** e o ***efeito-padrão*** para evitar o vies do imediatismo, e ***avaliações periodicas*** para evitar a ***aversão a perda*** e a ***falacia do custo irrecuperavel.*** 
+- Use o **[[compromisso]]** e o ***[[efeito-padrão]]*** para evitar o vies do imediatismo, e ***avaliações periodicas*** para evitar a ***aversão a perda*** e a ***falacia do custo irrecuperavel.*** 
 - Procure soluções rápidas atráves de **padrões de projeto**, **ferramentas** ou ***algoritimos inteligentes*** já existentes. Considere se é possivel ***reformular o problema.*** 
 
 ----

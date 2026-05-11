@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "compromisso",
+      "path": "00.Notes/compromisso.md"
+    },
+    {
       "basename": "Super Pensamento - Modelos Mentais",
       "path": "00.Notes/Super Pensamento - Modelos Mentais.md"
+    },
+    {
+      "basename": "custo de oportunidade",
+      "path": "00.Notes/custo de oportunidade.md"
+    },
+    {
+      "basename": "decisões irreversíveis e reversíveis",
+      "path": "00.Notes/decisões irreversíveis e reversíveis.md"
+    },
+    {
+      "basename": "Drawing 2026-05-08 11.03.48.excalidraw",
+      "path": "01.Assets/Excalidraw/Drawing 2026-05-08 11.03.48.excalidraw.md"
     },
     {
       "basename": "Regressão à média.",
@@ -11,10 +27,6 @@
     {
       "basename": "Falácia do apostador",
       "path": "00.Notes/Falácia do apostador.md"
-    },
-    {
-      "basename": "Drawing 2026-05-08 11.03.48.excalidraw",
-      "path": "01.Assets/Excalidraw/Drawing 2026-05-08 11.03.48.excalidraw.md"
     },
     {
       "basename": "Projeto grana com SOI",
@@ -187,18 +199,6 @@
     {
       "basename": "Dominio de Habilidades - Livro A maquina definitiva de Vendas",
       "path": "00.Notes/Dominio de Habilidades - Livro A maquina definitiva de Vendas.md"
-    },
-    {
-      "basename": "Octagram 4 - Core Fears",
-      "path": "00.Notes/Octagram 4 - Core Fears.md"
-    },
-    {
-      "basename": "Framework OCT 4.0",
-      "path": "00.Notes/Framework OCT 4.0.md"
-    },
-    {
-      "basename": "Familia Typagem",
-      "path": "00.Notes/Familia Typagem.md"
     }
   ],
   "omittedPaths": [
