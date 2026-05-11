@@ -1718,6 +1718,82 @@ A probabilidade condicional nos permite estimar melhor as probabilidades usando 
 
 Probabilidades condicionais são comuns no dia a dia.
 
+Existem dois tipos de estatisticas, a bayesiana e a frequentista. 
+
+#### 📊 Frequentista
+
+**"A probabilidade é o que acontece no longo prazo, com muitas repetições."**
+
+O frequentista só acredita em probabilidade se puder **repetir o experimento várias vezes** e contar os resultados.
+
+**Exemplo:** Qual a chance de uma moeda dar cara?
+
+> Joga 1.000 vezes, conta quantas deram cara. Se der ~500, a probabilidade é 50%.
+
+**Problema:** E se você não puder repetir? _"Qual a chance de chover amanhã?"_ — amanhã só acontece uma vez. O frequentista tem dificuldade com isso.
+
+#### 🧠 Bayesiana
+
+**"A probabilidade é o quanto eu acredito em algo, atualizado com novas evidências."**
+
+O bayesiano começa com uma crença inicial e vai **atualizando conforme aparece nova informação.**
+
+**Exemplo:** Você acorda e o chão está molhado.
+
+- Crença inicial: 30% de chance de ter chovido
+- Nova evidência: o céu está nublado
+- Atualiza: agora acredito 70%
+- Nova evidência: seu vizinho está com guarda-chuva
+- Atualiza: agora acredito 90%
+
+Em contraste, a estatística bayesiana produz, analogamente, intervalos de credibilidade, que afirmam isso; os intervalos de credibilidade especificam a melhor estimativa atual para a probabilidade do parâmetro. Assim, essa abordagem bayesiana é, novamente, mais intuitiva.
+
+Na prática, porém, ambas as abordagens levam a conclusões muito semelhantes e, à medida que mais dados se tornam disponíveis.
+- Elas devem convergir para a mesma conclusão.
+- A estatistica bayesiana não é tão divulgada por ser dificil computacionalmente. 
+- Mas o poder computacional moderno está reduzindo essa dificuldade. 
+
+Os métodos bayesianos podem convergir para a verdade mais rapidamente, com menos dados. 
+- No entanto, há um lado negativo: também é possível que as crenças prévias dos bayesianos estejam, na verdade, fazendo o oposto, levando-os a começar mais longe da verdade.
+	- Isso pode ocorrer se eles tiverem uma crença forte no inicio, com um vies de confirmação, ou outro tipo de viés...
+	- Nesse caso, a abordagem bayesiana pode levar mais tempo para convergir para a verdade porque a visão frequentista (começando do zero) está, na verdade, mais próxima da verdade desde o início.
+	- A conclusão é que existem duas maneiras de abordar a estatística, e você deve estar ciente de que, se feita corretamente, Ambas as abordagens são válidas.
+
+Algumas pessoas são ideólogos radicais que juram fidelidade a uma filosofia em detrimento da outra, enquanto os pragmáticos (como nós) usam a metodologia que melhor se adapta à situação.
+
+## Certo ou errado ? 
+
+Até agora, você aprendeu que não deve basear suas decisões em relatos isolados e que pequenas amostras não podem prever com segurança o que acontecerá em populações maiores.
+
+Você pode estar se perguntando, então:
+- Quantos dados são suficientes para ter certeza das minhas conclusões ? 
+- Por um lado quanto mais informações você coletar, melhores serão suas estimativas, e mais seguras suas conclusões.
+- Mas coletar mais dados exige mais tempo e dinheiro, e potencialmente coloca mais participantes em risco.
+
+Mas sempre é bom ter uma amostra maior de dados.
+
+Falsos positivos, é quando um resultado é falso basicamente. 
+
+Esses modelos de erros ocorrem muito além da estatistica, em qualquer sistema onde julgamentos são feitos.
+- Um ótimo exemplo disso são os filtros de spam. 
+	- Em vários momentos emails importantes caem como spam na caixa de entrada do nosso email. (falsos positivos)
+	- E varias vezes email reais de spam vão para a caixa de entrada real (falsos negativos) 
+
+Como cada tipo de erro acarreta consequências, os sistemas precisam ser projetados levando isso em consideração.
+- Para reconhecer que alguns erros são inevitaveis.
+
+Em estatística, um falso positivo também é conhecido como erro tipo I e um falso negativo também é chamado de erro tipo II.
+
+Independentemente do tamanho da amostra do seu experimento, você sempre pode escolher a taxa de erro de falsos positivos.
+
+A questão é que, para um determinado tamanho de amostra, ao definir uma taxa de falsos positivos tão baixa, você aumenta a taxa de falsos negativos, podendo deixar de detectar um resultado real. É aí que entra a escolha do tamanho da amostra.
+
+Depois de definir sua taxa de falsos positivos, você determina o tamanho da amostra necessário para detectar um resultado real com probabilidade suficientemente alta.
+
+## IRÁ SE REPLICAR?
+
+
+
 
 
 
