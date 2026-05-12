@@ -23,3 +23,23 @@ Basicamente meu objetivo é ser a minha melhor versão, alguem memoravel na soci
 
 ------
 
+# Eneagram minhas motivações principais
+
+- Tipo 5 primário. = Investido as coisas profundamente.
+- Tipo 3 secundario. = Quero ser reconhecido como alguem competente. 
+
+**Competência reconhecida.** Não basta ser bom — você quer que os outros saibam que você é bom. Mas ao mesmo tempo, julga isso em si mesmo e prefere parecer que "não liga".
+
+**Autonomia real.** Depender de alguém te incomoda. Você quer ter recursos, conhecimento e capacidade suficientes pra não precisar de ninguém.
+
+**Ser levado a sério.** Mais do que elogios, você quer _respeito intelectual_. Que as pessoas ouçam quando você fala.
+
+Padrões que me sabotam: 
+- Acumulo conhecimento, mas evito agir
+- Fujo de situações emocionalmente intensas
+- Ligo demais pra imagem, mas nego isso
+- Tenho dificuldade de pedir ajuda, tento levar tudo sozinho
+
+--------
+
+
