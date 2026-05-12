@@ -70,5 +70,36 @@ Notas de Josias:
 - Bem estar psicológico(Baixo)
 	- Isso indica o bom funcionamento dos nossos processos mentais e emocionais, a maneira como nossa cognição nos permite realizar várias tarefas, como ler um livro, fazer compras, lembrar planos, conversar com amigos ou resolver problemas cotidianos. 
 
+## Caracteristicas Fortes/Fracas de Josias
+
 ![[Pasted image 20260511190534.png]]
+
+![[Pasted image 20260511190849.png]]
+
+Josias tem uma reação a mudança muito forte, consegue responder a estimulos rapidamente. 
+
+Possui um planejamento mediano. 
+- Quando necessário consegue planejar um dia atarefado.
+- Funciona melhor no improviso do que em agendas detalhadas. 
+
+E demora muito pra processar as coisas. 
+- Provas ou tarefas com tempo limitado são uma dificuldade pra vc 
+- Tomar decisões rapidas (como no transito ou em jogos) é mais dificil pra você. 
+
+**Aonde você é genio: Coordenação olho-mão.**
+- Capacidade de fazer coisas que exigem o uso do olho e da mão ao mesmo tempo.
+	- Como quando você precisa tirar dinheiro de um caixa eletronico, deve coordenar as mãos e os olhos para precionar os botões corretos na tela. 
+	- Coisas que vc provavelmente faz muito bem: 
+		- Digitar no teclado com precisão e rapidez
+		- Atividades manuais, desenhar, costurar, montar coisas, cozinhar.
+		- Esportes como tenis, volei, basquete
+		- Jogar video-game, olhar a tela e reagir com a mão
+		- Dirigir em condições normais, olhar a estrada e mexer o volante. 
+		- Trabalhos de precisão: usar ferrametas, aparafusar, encaixar peças
+
+O que vc faz mal: 
+- Jogos de ping-pong, vc chega atrasado na bola. 
+- Se alguem jogar algo rapidamente na sua direção sua reação de defesa é tardia.
+- Situações de emergencia.
+
 
