@@ -13,3 +13,13 @@ Cintura: 191px
 
 ------
 
+Meus objetivos concretos: 
+- Shape 1.6 +
+- Liberdade Financeira 
+- Liberdade de Tempo 
+- Maestria e reconhecimento. 
+
+Basicamente meu objetivo é ser a minha melhor versão, alguem memoravel na sociedade. 
+
+------
+

@@ -71,8 +71,7 @@
               "title": "Avaliação Josias Pereira Cognfit"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Avaliação Josias Pereira Cognfit.md",
+                "file": "00.Notes/Estrela Guia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avaliação Josias Pereira Cognfit"
+              "title": "Outline of Estrela Guia"
             }
           },
           {
@@ -290,12 +289,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "511ec27dfdcc36a5",
+  "active": "adbfe1269edf4f40",
   "lastOpenFiles": [
+    "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "01.Assets/Anexos/Pasted image 20260511190849.png",
     "01.Assets/Anexos/Pasted image 20260511190534.png",
     "01.Assets/Anexos/Pasted image 20260511144806.png",
-    "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
     "00.Notes/energia potencial..md",
     "00.Notes/catalisador.md",
@@ -323,7 +322,6 @@
     "01.Assets/Anexos/Pasted image 20260508153204.png",
     "01.Assets/Anexos/Pasted image 20260508152225.png",
     "01.Assets/Anexos/Pasted image 20260508142909.png",
-    "01.Assets/Anexos/Pasted image 20260508142357.png",
     "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
     "00.Notes/Looks Maximing - Cravicular Tips.md",
     "00.Notes/Livro BlackHat Carding.md",
