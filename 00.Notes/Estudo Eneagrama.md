@@ -87,7 +87,7 @@ Ele vai ficar mais observando, analisando, está mais na luz da razão, é algue
 
 Ele é muito mais frio, distante, na dele, não tem muito essa de "meu amorzinho" 
 
-Ele é mais apático, mesmo apostar conquistar xyz coisa, ele não tem essa de comemorar. 
+Ele é mais apático, mesmo após conquistar xyz coisa, ele não tem essa de comemorar. 
 
 Medo de ser alguem inutil, sem valor, por isso ele busca sabedoria. 
 

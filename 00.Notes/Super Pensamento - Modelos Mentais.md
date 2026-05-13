@@ -1792,8 +1792,70 @@ Depois de definir sua taxa de falsos positivos, você determina o tamanho da am
 
 ## IRÁ SE REPLICAR?
 
+Para ter certeza sobre o resultado de um experimento, você deve replicá-lo.
 
+Os esforços de replicação são uma tentativa de distinguir entre resultados falso-positivos e resultados verdadeiro-positivos.
 
+Certamente existem muitas armadilhas a evitar, mas esperamos que você também compreenda que a **pesquisa** e os **dados** são mais úteis para lidar com a incerteza do que palpites e opiniões.
+
+## PRINCIPAIS CONCLUSÕES
+
+- Evite cair na [[falacia do apostador]] ou na [[falacia da taxa base]]. 
+- Evidencias anedóticas e correlações observadas em dados são bons geradores de hipoteses, mas correlação não implica causalidade, vc precisa se basear em experimentos bem elaborados para tirar conclusões robustas. 
+- Busque por delineamentos experimentais consagrados, como **experimentos controlados randomizados** ou testes **A/B**, que demonstrem significância estatística.
+- A **distribuição normal** é particularmente útil em análises experimentais devido ao **teorema do limite central.**
+- Lembre-se de que, em uma distribuição normal, cerca de 68% dos valores estão dentro de um desvio padrão e 95% dentro de dois.
+- Qualquer experimento isolado pode resultar em um falso positivo ou um falso negativo e também pode ser enviesado por inúmeros fatores, sendo os mais comuns o viés de seleção, o viés de resposta e o viés de sobrevivência.
+- A replicação aumenta a confiança nos resultados, portanto, ao pesquisar uma área, comece procurando por uma revisão sistemática e/ou meta-análise.
+- Lembre-se sempre de que, ao lidar com incertezas, os valores que você vê relatados ou calcula também são incertos, e que você deve procurar e relatar valores com margens de erro.
+
+------
+
+# Decisões, Decisões
+
+Se você pudesse saber como suas decisões desenrolariam, seria muito mais facil tomar decisões. 
+
+Tomar decisões é dificil porque você toma com base em informações incompletas. 
+
+Sempre existem MUITAS opções, mas é impraticavel testar todas elas antes de se decidir com qual ficar. Assim é a vida. 
+
+Para esses tipos de decisões a maioria das pessoas usa as famosas listas de prós e contras. 
+
+Embora ela seja util em casos simples, essa métodologia apresenta falhas significativas. 
+
+Outros modelos mentais apresentados neste capítulo ajudarão você a abordar situações como essa com mais objetividade e ceticismo, permitindo que você compreenda o panorama completo mais rapidamente e decida como agir.
+
+> Se você só tem um martelo,tudo parece um prego. 
+
+> *Lembro-me de ter visto uma máquina de lavar automática sofisticada e complexa para automóveis, que fazia um trabalho impecável. Mas ela só conseguia fazer isso, e tudo o mais que caísse em suas garras era tratado como se fosse um automóvel a ser lavado. Suponho que seja tentador, se a única ferramenta que você tem é um martelo, tratar tudo como se fosse um prego.*
+
+A ferramenta mais comum para tomada de decisões é a lista de prós e contras; útil em alguns casos, mas não a ideal para todas as decisões.
+
+Felizmente, existem outros modelos de tomada de decisão que podem ajudá- lo a descobrir e avaliar suas opções e suas consequências de forma eficiente em diversas situações.
+
+Como algumas decisões são complexas e têm grandes consequências, elas exigem modelos mentais mais sofisticados. 
+
+Em casos mais simples, aplicar esses modelos sofisticados seria um exagero. 
+
+O ideal, no entanto, é conhecer a variedade de modelos mentais disponíveis para que você possa escolher a ferramenta certa para cada situação.
+
+## AVALIANDO OS CUSTOS E BENEFÍCIOS
+
+Uma abordagem simples para melhorar a lista de prós e contras é adicionar números a ela.
+
+Numeros Negativos como -10 para os contras, e numeros positivos para os prós 10. 
+
+A pontuação dessa forma ajuda a superar algumas das deficiências das listas de prós e contras.
+
+Agora cada item não é tratado com a mesma importancia. 
+
+Agora você pode comparar entre várias opções, somando a pontuação de xyz opção. 
+
+Este poderoso modelo mental ajuda você a analisar de forma mais sistemática e quantitativa os benefícios (prós) e os custos (contras) em uma variedade de opções.
+
+Para situações simples, a abordagem de pontuação descrita anteriormente funciona bem.
+
+Mas existem outros modelos de tomada de decisão, usados por governos.
 
 
 
