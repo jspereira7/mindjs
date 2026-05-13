@@ -1813,52 +1813,43 @@ Certamente existem muitas armadilhas a evitar, mas esperamos que você também
 
 # Decisões, Decisões
 
-Se você pudesse saber como suas decisões desenrolariam, seria muito mais facil tomar decisões. 
+Se você soubesse o resultado de suas decisões, tomar decisões seria muito mais facil. 
 
-Tomar decisões é dificil porque você toma com base em informações incompletas. 
+É dificil porque você tem que tomar decisões com poucas informações.
 
-Sempre existem MUITAS opções, mas é impraticavel testar todas elas antes de se decidir com qual ficar. Assim é a vida. 
+A maioria das pessoas nessas situações começa a fazer **listas de prós e contras**
 
-Para esses tipos de decisões a maioria das pessoas usa as famosas listas de prós e contras. 
+A lista de prós e contras pode levar a **sindrome da grama do vizinho é mais verde**, fazendo vc acenturar os pontos positivos e ignorar os negativos
 
-Embora ela seja util em casos simples, essa métodologia apresenta falhas significativas. 
+É extremamente dificil criar uma lista de prós e contras quando sua experiencia é limitada
 
-Outros modelos mentais apresentados neste capítulo ajudarão você a abordar situações como essa com mais objetividade e ceticismo, permitindo que você compreenda o panorama completo mais rapidamente e decida como agir.
+Modelo mental de "Martelo de maslow" 
+> Se vc só tem um martelo, tudo a sua frente é um prego. 
 
-> Se você só tem um martelo,tudo parece um prego. 
-
-> *Lembro-me de ter visto uma máquina de lavar automática sofisticada e complexa para automóveis, que fazia um trabalho impecável. Mas ela só conseguia fazer isso, e tudo o mais que caísse em suas garras era tratado como se fosse um automóvel a ser lavado. Suponho que seja tentador, se a única ferramenta que você tem é um martelo, tratar tudo como se fosse um prego.*
-
-A ferramenta mais comum para tomada de decisões é a lista de prós e contras; útil em alguns casos, mas não a ideal para todas as decisões.
-
-Felizmente, existem outros modelos de tomada de decisão que podem ajudá- lo a descobrir e avaliar suas opções e suas consequências de forma eficiente em diversas situações.
-
-Como algumas decisões são complexas e têm grandes consequências, elas exigem modelos mentais mais sofisticados. 
-
-Em casos mais simples, aplicar esses modelos sofisticados seria um exagero. 
-
-O ideal, no entanto, é conhecer a variedade de modelos mentais disponíveis para que você possa escolher a ferramenta certa para cada situação.
-
+O martelo dos modelos de tomada de decisão é a lista de prós e contras. 
+- Util em alguns momentos, mas não a ferramenta essencial pra tudo
 ## AVALIANDO OS CUSTOS E BENEFÍCIOS
 
-Uma abordagem simples para melhorar a lista de prós e contras é adicionar números a ela.
+Uma maneira de melhorar uma lista de prós e contras é adicionar uma pontuação nela, com -10 ou 10. 
 
-Numeros Negativos como -10 para os contras, e numeros positivos para os prós 10. 
+Esse método é um metodo simples de **análise de custo-beneficio**, uma extensão natural da lista de prós e contras. 
 
-A pontuação dessa forma ajuda a superar algumas das deficiências das listas de prós e contras.
+Para situações simples esse método se mostrou produtivo. 
 
-Agora cada item não é tratado com a mesma importancia. 
+Um upgrade da lista normal de prós e contras é adicionar valores em dinheiro ao inves de pontuação. 
 
-Agora você pode comparar entre várias opções, somando a pontuação de xyz opção. 
+Agora vamos passar a usar planilhas pra isso. 
 
-Este poderoso modelo mental ajuda você a analisar de forma mais sistemática e quantitativa os benefícios (prós) e os custos (contras) em uma variedade de opções.
+Organize sua planilha em um formato de linha do tempo. 
+- De a cada item sua propria linha, cada coluna na linha do tempo listará o custo ou o beneficio criado para aquele item em um ano espesifico. 
+- Na primeira coluna, contem todos os custos e beneficios esperados nesse ano(ano 0), a coluna seguinte no ano 1, depois ano 2 e etc... 
+- A linha para o pagamento da hipoteca aparecerá, como -24 mil (2 mil mesal x 12 meses do ano), por quantos anos durar a hipoteca.
+- A razão para descrever os custos e beneficios ao longo do tempo dessa forma é porque beneficios atuais, valem mais do que os mesmos beneficios posteriores. 
+	- 1. Se receber dinhero ou outro beneficio hoje, poderá usá-lo imediatamente. (Custo de oportunidade)
+	- 2. A maioria das economias tem algum nivel de **inflação** que diz que o seu dinheiro agora, valerá menos no futuro, porque antes você comprava uma pizza por 10 reias, hoje vc paga 70-80 reias.
+	- 3. O futuro é incerto, então há o risco de os beneficios e custos mudarem.
 
-Para situações simples, a abordagem de pontuação descrita anteriormente funciona bem.
-
-Mas existem outros modelos de tomada de decisão, usados por governos.
-
-
-
+Como deve se lembrar temos uma planilha para os custos e beneficios atuais e futuros ao longo do tempo. 
 
 
 
