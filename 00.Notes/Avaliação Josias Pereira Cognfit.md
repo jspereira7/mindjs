@@ -104,6 +104,3 @@ O que vc faz mal:
 
 -------
 
-Porra, como é gostoso vencer, puta que pariu, achei que o dinheiro não ia cair, mas caiu, deu certo. 
-
-

@@ -7,15 +7,27 @@ Frases que resumem pra onde eu estou indo:
 O verdadeiro jogo é o você x você todos os dias. 
 
 Shape no prime: 
+- Ombros: 316 px
+- Cintura: 191px 
 
-Ombros: 316 px
-Cintura: 191px 
+Meu objetivo basicamente é atingir a liberdade financeira até os 26 anos. 
 
 ------
 
 Meus objetivos concretos: 
 - Shape 1.6 +
-- Liberdade Financeira 
+- **Liberdade Financeira** ( Trabalhar porque quer, não porque precisa ) 10.000 reais mensais, é necessario um patrimonio de 3M investido. 
+	- Quando seu dinheiro trabalha por você - não o contrario
+	- Vc tem renda suficiente vindo de investimentos, alugueis ou outros ativos para cobrir seus gastos sem precisar trabalhar.
+		- Pilares da liberdade financeira: 
+			- Dividendos, aluguéis, juros
+			- Gastos sob controle (renda passiva maior que suas despesas)
+			- Reserva consolidada - patrimonio acumulado que sustenta essa renda no longo prazo
+			- Se vc parar de trabalhar hoje, em quanto tempo o que vc já tem te sustenta ? 
+				- Semanas -> Dependencia financeira
+				- Anos -> segurança financeira
+				- Para sempre -> liberdade financeira
+				- 
 - Liberdade de Tempo 
 - Maestria e reconhecimento. 
 
@@ -41,5 +53,4 @@ Padrões que me sabotam:
 - Tenho dificuldade de pedir ajuda, tento levar tudo sozinho
 
 --------
-
 

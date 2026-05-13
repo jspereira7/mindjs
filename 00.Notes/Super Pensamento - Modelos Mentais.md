@@ -1865,8 +1865,6 @@ Dissonancia cognitiva: é quando o seu comportamento contradiz suas crenças, en
 - Vc constroi argumentos pra se sentir bem com isso. 
 - O cerebro é um advogado de defesa muito bom, especialmente quando o réu é você mesmo. 
 
-
-
 ## Domesticando a complexidade
 
 

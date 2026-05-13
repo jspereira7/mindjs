@@ -86,8 +86,7 @@
               "title": "Educação Financeira Básica Principios"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
+                "file": "00.Notes/Estrela Guia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Super Pensamento - Modelos Mentais"
+              "title": "Outline of Estrela Guia"
             }
           },
           {
@@ -305,10 +304,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b36f26d1c8cda83c",
+  "active": "adbfe1269edf4f40",
   "lastOpenFiles": [
-    "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "00.Notes/Educação Financeira Básica Principios.md",
+    "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
     "00.Notes/Projeto grana com SOI.md",
     "00.Notes/Estrela Guia.md",
