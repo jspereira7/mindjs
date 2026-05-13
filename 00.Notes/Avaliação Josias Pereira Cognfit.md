@@ -102,4 +102,8 @@ O que vc faz mal:
 - Se alguem jogar algo rapidamente na sua direção sua reação de defesa é tardia.
 - Situações de emergencia.
 
+-------
+
+Porra, como é gostoso vencer, puta que pariu, achei que o dinheiro não ia cair, mas caiu, deu certo. 
+
 
