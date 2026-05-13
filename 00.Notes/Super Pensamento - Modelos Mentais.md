@@ -1851,6 +1851,25 @@ Organize sua planilha em um formato de linha do tempo.
 
 Como deve se lembrar temos uma planilha para os custos e beneficios atuais e futuros ao longo do tempo. 
 
+A analise de custo-beneficio é mais facil com investimentos simples. 
+
+Suponhamos que vc invista 50 mil em em um titulo, no qual espera-se que tenha retorno de 100mil em dez anos. 
+
+Na analise de custo-beneficio é tão boa quanto os numeros que vc insere nela. 
+
+Na ciencia da computação isso é chamado de **lixo que entra, lixo que sai**, Se suas estimativas de custos e beneficios são impresisas, os prazos não se alinham ou sua taxa de desconto é mal ponderada (lixo entra), então seu resultado liquido será igualmente deficiente. (lixo sai)
+
+Mas ao ter bastante cuidado, fazendo analises de prós e contras relevantes de forma correta, será muito util. 
+
+Dissonancia cognitiva: é quando o seu comportamento contradiz suas crenças, então você começa a fazer coping disso inventando uma historia pra evitar esse desconforto. 
+- Vc constroi argumentos pra se sentir bem com isso. 
+- O cerebro é um advogado de defesa muito bom, especialmente quando o réu é você mesmo. 
+
+
+
+## Domesticando a complexidade
+
+
 
 
 
