@@ -1867,6 +1867,52 @@ Dissonancia cognitiva: é quando o seu comportamento contradiz suas crenças, en
 
 ## Domesticando a complexidade
 
+Outro modelo para lidar com a complexidade é a **arvore de decisão** é um diagrama que parece uma arvore de lado.
+
+Ela ajuda a analisar decisões com resultados incertos.
+
+Os ramos são pontos de decisão e as folhas representam diferentes resultados possiveis. 
+
+![[Pasted image 20260514143834.png]]
+
+Existe uma teoria chamada **utilitarismo**, que expressa a visão de que a decisão que traz mais beneficios pra todos, sempre é a mais ética. 
+
+As asvores de decisão são uteis para te ajudar a pensar em eventos improvaveis, mas extremamente impactantes. 
+
+Algo que é bom considerar é a possibilidade de **eventos de cisne negro**. 
+- Que diz respeito a eventos que parecem improvaveis de acontecer, mas ocorrem com bastante frequencia. 
+
+Para determinar melhor as probabilidades antes é necessário, entender o sistema como um todo, usando o modelo do **Pensamento Sistemico**
+- Que é quando tentamos pensar sobre o sistema inteiro de uma vez
+
+Alguns sistemas são simples, e você consegue manter todas as peças na sua mente, outros são mais complexos o que torna dificil manter todos na sua cabeça. 
+
+Uma solução é fazer um diagrama visual do sistema. Desenhar um diagrama te ajuda a entender melhor os sistemas complexos e como suas partes interagem entre sí. 
+- Pesquise sobre como é possivel desenhar diagramas uteis para compreender sistemas complexos. 
+- Existem softwares que permitem que vc diagrama e logo depois o transforma em uma simulação de trabalho. 
+	- Programas = Insight maker e o True-World
+	- https://insightmaker.com/
+
+Dependencia de caminho, as escolhas que vc faz hoje, limitam suas possibilidades no futuro. 
+
+De modo abrangente, faça uma escolha conciente em tentar compreender um sistema complexo como um todo, atráves do pensamento sistemico.
+- Sem esse tipo de conhecimento, vc fica procurando uma solução **local optimum**, uma solução reconhecidamente boa, mas não a melhor. 
+- Se possivel trabalhe com a **global optimum**, que é a melhor solução. 
+
+Global/local optimum. 
+- Local é o sucesso local
+- Global é o melhor sucesso de todos. 
+	- Exemplo: Vamos supor que vc viu uma colina, e subiu nela, estar nessa colina já é um sucesso. Mas dps vc avista uma colina maior, se vc soubesse que existe a colina maior, vc teria subido nela, que seria um sucesso maior ainda. 
+
+Mas primeiro é preciso ter uma visão do sistema como um todo, para saber que a colina maior existe. 
+
+![[Pasted image 20260514151128.png]]
+
+O pensamento sistêmico é basicamente **dar um zoom out** e enxergar o mapa inteiro, não só o morro onde você está.
+
+
+## Cuidado com o desconhecido 
+
 
 
 

@@ -25,23 +25,6 @@
             }
           },
           {
-            "id": "986c587cd033dffd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Projeto grana com SOI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Projeto grana com SOI"
-            }
-          },
-          {
             "id": "b36f26d1c8cda83c",
             "type": "leaf",
             "state": {
@@ -86,7 +69,8 @@
               "title": "Educação Financeira Básica Principios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Estrela Guia.md",
+                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Estrela Guia"
+              "title": "Outline of Super Pensamento - Modelos Mentais"
             }
           },
           {
@@ -304,13 +288,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "adbfe1269edf4f40",
+  "active": "b36f26d1c8cda83c",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20260514151128.png",
+    "01.Assets/Anexos/Pasted image 20260514143834.png",
+    "00.Notes/Projeto grana com SOI.md",
+    "00.Notes/Estrela Guia.md",
     "00.Notes/Educação Financeira Básica Principios.md",
     "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
-    "00.Notes/Projeto grana com SOI.md",
-    "00.Notes/Estrela Guia.md",
     "00.Notes/Estudo Eneagrama.md",
     "01.Assets/Anexos/Pasted image 20260511190849.png",
     "01.Assets/Anexos/Pasted image 20260511190534.png",
@@ -338,10 +324,8 @@
     "01.Assets/Anexos/Pasted image 20260508153415.png",
     "01.Assets/Anexos/Pasted image 20260508153204.png",
     "01.Assets/Anexos/Pasted image 20260508152225.png",
-    "01.Assets/Anexos/Pasted image 20260508142909.png",
     "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
     "00.Notes/Looks Maximing - Cravicular Tips.md",
-    "00.Notes/Livro BlackHat Carding.md",
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
