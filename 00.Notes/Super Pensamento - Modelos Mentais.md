@@ -1913,6 +1913,19 @@ O pensamento sistêmico é basicamente **dar um zoom out** e enxergar o mapa int
 
 ## Cuidado com o desconhecido 
 
+Cuidado com o desconhecido desconhecido, o que voce não sabe que não sabe. 
+
+## Conclusões importantes
+
+- Quando estiver tentato a usar uma **lista de prós e contras**, veja se é possivel fazer uma **analise de custo beneficio** ou **arvore de decisão**.
+- Ao fazer uma avaliação quantitativa, faça uma **analise de sensibilidade dos dados** para descobrir fatores importantes e avaliar onde precisa ter maior precisão em suas suposições.
+- Tome cuidado com os eventos de **cisne negro** e com os **desconhecidos desconhecidos**. Use o pensamento sistemico e a **analise de cenários** para descobri-los e avaliar seus impactos.
+- Para sistemas complexos, considere as **simulações** para ajudá-lo a avaliar melhor o que pode acontecer em diferentes cenários.
+- Cuidado com os pontos cegos que surgem do **pensamento de grupo**, Use o **pensamento lateral** e **divergente** ao trabalhar com grupos, e inclua a busca de pontos de vista diversos.
+- Se esforce para compreender o **global optimum** de qualquer sistema e tome decisões que o levem para perto dele. 
+
+-----
+
 
 
 
