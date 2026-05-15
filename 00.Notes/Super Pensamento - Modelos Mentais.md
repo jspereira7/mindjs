@@ -1934,10 +1934,88 @@ Cuidado com o desconhecido desconhecido, o que voce não sabe que não sabe.
 > Liderança é desbloquear o potencial das pessoas para torná-las melhores 
 
 Primeiro é preciso considerar **introvertidos** e **extrovertidos** 
-- Gostamos de funções que envolvem leitura, planilhas etc... 
-- E prosperamos quando temos tempo sozinhos
+- Introvertidos
+	- Gostamos de funções que envolvem leitura, planejamento, elaboração de programas etc... 
+	- E prosperamos quando temos tempo sozinhos
+- Extrovertidos
+	- Ganham energia de interações com grupos.
+	- Evitam o isolamento e preferem atividades sincronas com outras pessoas. 
+	- Conferencias, vendas etc são ótimas atividades para extrovertidos. 
 
+![[Pasted image 20260515171417.png]]
 
+As caracteristicas de personalidade é assunto para debate e geralmente gira em torno de **natureza x criação**. 
+	**Natureza** = Traços sendo explicados pela genética
+	**Criação** = Traços explicados por todos os fatores ambientais que não provem de seus genes (parentalidade,ambiente físico,cultura etc)
+
+Mesmo derivadas da criação caracteristicas de personalidade não se alteram com facilidade uma vez que se estabelecem. 
+
+Procure acomodar esses traços em funções que selecione para sí mesmo e para outras pessoas. 
+
+Existem outras dimesões de personalidade, mas acreditamos que essa de introversão x extroversão é a mais aplicavel no dia a dia. 
+
+1. Extroversão (descontraido x reservado)
+2. Estar aberto a experiencias (curioso versus cauteloso)
+3. Concienciosidade (organizado x descontraido)
+4. Amabilidade (compassivo x desafiador)
+5. Neuroticismo(nervoso x confiante)
+
+Outra questão é generalistas x especialistas
+
+![[Pasted image 20260515172722.png]]
+
+Pense nos médicos, os clinicos gerais são generalistas e fazem um pouco de tudo. 
+
+Mas em condições espesificas, encaminham seus pacientes para médicos especialistas, treinados e experientes no tratamento de uma área
+
+Outro bom modelo para descobrir os pontos fortes das pessoas é do **raposa x ouriços**m, *a raposa sabe muitas coisas, mas o ouriço sabe uma coisa muito importante*
+
+## Quem vai onde? 
+
+Posições mais altas tendem a exigir mais **estratégia** do que **táticas**
+- Estrategias = visão de longo prazo
+- Táticas = curto prazo, definem o que fazer para chegar ao objetivo
+
+**Estratégia** = É decidir sobre o porque fazer xyz
+**Tática** = O como executar as ações para se chegar ao resultado.
+
+## A prática leva a perfeição 
+
+Criar uma função certa para um individuo, seja você mesmo ou para um colega, não garante que ele atingirá seu potencial pleno.
+
+As pessoas precisam de orientação e aconselhamento em novas funções.
+
+Um modelo pra isso se chama **prática deliberada** 
+	Deliberadamente colocar pessoas em situações no limite de suas habilidades, nas quais estarão o tempo todo praticando habilidades cada vez mais dificeis e recebendo feedback consistentes em tempo real. 
+
+A prática deliberada é mais intensiva. 
+
+![[Pasted image 20260515180126.png]]
+
+Isso se relaciona com o conceito da **regra das 10 mil horas** onde se diz que é necessario 10 mil horas de prática deliberada para se tornar realmente bom em algo. 
+
+Mas isso não é uma regra rigorosa porque a quantidade real de horas varia de acordo com o tema que está sendo práticado, a forma de deliberar a prática e o quanto seus coachs são bons e qual nivel de conhecimento está buscando. 
+
+Mas aplicar a prática deliberada sozinho é dificil, porque vc precisa de feedback espesifico de como vc poderia fazer melhor.
+
+Ou seja a prática deliberada é sim o processso para se chegar ao nivel máximo de habilidade em algo. 
+- Mas é necessario um mentor/coach, que esteja avaliando o seu desempenho naquilo e te fornecendo feedback sobre o que vc deve melhorar. 
+
+Um modelo semelhante é do **espaçamento** onde é dito que os efeitos são maiores quando o aprendizado é espaçado ao longo do tempo. 
+- Ou seja, estudar tudo de uma vez, muitas vezes é uma estrátegia abaixo do ideal. 
+- Para de fato aprender algo precisamos reforça-lo de modo continuo.
+- O espaçamento deve servir a sua prática deliberada, você não domina por completo uma habilidade e segue em frente. 
+- Vc deve alternar entre as habilidades, reforçando o que vc aprendeu. 
+
+Num contexto de empresa é necessario fornecer **Sinceridade Radical**
+
+![[Pasted image 20260515181458.png]]
+
+**Matriz Convicção-consequencia**
+
+![[Pasted image 20260515182733.png]]
+
+## Desbloqueando potencial. 
 
 
 
