@@ -1926,6 +1926,16 @@ Cuidado com o desconhecido desconhecido, o que voce não sabe que não sabe.
 
 -----
 
+## Desbloqueando o potencial 
+
+10x enginner, um engenheiro que faz o trampo de 10 pessoas. 
+- As pessoas não são intercambiaveis, elas performam bem em xyz função. 
+
+> Liderança é desbloquear o potencial das pessoas para torná-las melhores 
+
+Primeiro é preciso considerar **introvertidos** e **extrovertidos** 
+- Gostamos de funções que envolvem leitura, planilhas etc... 
+- E prosperamos quando temos tempo sozinhos
 
 
 
