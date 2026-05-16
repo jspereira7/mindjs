@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
+                "file": "01.Assets/Excalidraw/Drawing 2026-05-15 18.23.06.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Super Pensamento - Modelos Mentais"
+              "title": "Outline of Drawing 2026-05-15 18.23.06.excalidraw"
             }
           },
           {
@@ -300,13 +300,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b36f26d1c8cda83c",
+  "active": "293ed4b11792598c",
   "lastOpenFiles": [
+    "00.Notes/Super Pensamento - Modelos Mentais.md",
     "01.Assets/Anexos/Pasted image 20260515182733.png",
     "00.Notes/Educação Financeira Básica Principios.md",
     "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "01.Assets/Excalidraw/Drawing 2026-05-15 18.23.06.excalidraw.md",
-    "00.Notes/Super Pensamento - Modelos Mentais.md",
     "01.Assets/Anexos/Pasted image 20260515181458.png",
     "01.Assets/Anexos/Pasted image 20260515180126.png",
     "01.Assets/Anexos/Pasted image 20260515172722.png",
@@ -334,7 +334,6 @@
     "00.Notes/compromisso.md",
     "00.Notes/custo de oportunidade.md",
     "00.Notes/decisões irreversíveis e reversíveis.md",
-    "01.Assets/Anexos/Pasted image 20260508163808.png",
     "00.Notes/Regressão à média..md",
     "00.Notes/Falácia do apostador.md",
     "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
