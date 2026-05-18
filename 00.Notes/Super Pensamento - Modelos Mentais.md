@@ -2048,6 +2048,38 @@ Vc pode ter problemas de aprendizado e etc devido as suas necessidades não sati
 
 Use esse modelo para pensar e encontrar a razão pelo qual você e outras pessoas não estão alcançando seu potencial pleno. 
 
+Outro ponto é o viés de retrospectiva:
+- Após um evento ocorrer, em retrospectiva há uma tendencia em ve-lo como se tivesse sido previsivel, mesmo não tendo base objetiva real para que ele pudese ter sido previso. **engenheiro de obra pronta***
+- Ou seja ao aprender algo, vc pode estar pensando devido ao vies de retrospectiva, que o resultado foi um efeito das suas escolhas, quando realmente não foi.
+- Vc deve considerar que foi uma boa aposta, mas a sorte não estava do seu lado, somente isso!
+
+## Juntos prosperamos 
+
+Um modelo mental util é o de **conquistar corações e mentes**, uma estrategia para combater a rebelião. 
+
+É um reconhecimento de que ao fazer apelos diretos aos corações e mentes por meio da comunicação é possivel de fato conquistá-los. 
+
+**A agenda do gerente x colaborador**
+- Esse é um modelo metal do paul graham. 
+- Chefes por padrão mudam o que está fazendo a cada hora. 
+- Colaboradores como escritores, utilizam o tempo como duas unidades de meio dia. Não dá pra escrever e programar bem em unidades de uma hora. 
+- Reuniões acabam com programadores, porque quebram suas unidades de meio dia em pequenos interva-los. 
+
+Quando se está trabalhando com alguem com uma agenda de colaborador é preciso trabalhar para criar uma cultura que permita longos periodos ininterruptos blocos de tempo. 
+
+## Conclusões importantes
+
+- As pessoas não são intercambiaveis, elas provem de vários contextos e apresentam um conjunto diverso de personalidades, pontos fortes e objetivos. 
+- Para ser um melhor gerente, vc deve **gerenciar a pessoa**, avaliando seu conjunto de caracteristicas e os desafios unicos de cada individuo. 
+- Crie motivações e funções unicas que amplifiquem cada ponto forte individual. Evite o **principio de peter**, promova as pessoas para funções nas quais elas podem ser bem-sucedidas.
+- Defina adequadamente as funções e responsabilidades usando o modelo **DRI(individuo diretamente responsavel)**
+- As pessoas precisam de **coaching** para alcançar seu potencial pleno, sobretudo em novas funções. **A prática deliberada** é a forma mais efetiva de ajudar a criar novas curvas de aprendizado. Use a **matriz de consequencias x convicção** para identificar oportunidades de aprendizado e use a **sinceridade radical** de forma **individual** para fornecer **feedback** construtivo 
+- Ao tentar coisas novas, cuidado com os modos de falhas psicológicas comuns, como a **sindrome do impostor** e o efeito **Dunning-kruger** 
+- Defina a **cultura** do grupo e se comprometa a **conquistar corações e mentes** para sua cultura de interrese e a visão a ela associada. 
+- Se puder preparar as pessoas para o sucesso nas funções corretas e com a cultura bem definida, então poderá criar o ambiente para que as **equipes 10x** surjam.
+
+## Flexibilize seu poder de mercado 
+
 
 
 

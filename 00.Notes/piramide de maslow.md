@@ -1,4 +1,10 @@
+### Introdução
+
 A lógica central é simples: **você não consegue focar no andar de cima enquanto o de baixo está pegando fogo.**
+
+-----
+
+### Niveis de motivação humana 
 
 **Fisiológica** — Comida, sono, saúde Se você está dormindo mal, com fome ou doente, sua mente _não consegue_ focar em mais nada. É biologia pura. Tentar estudar ou crescer profissionalmente sem dormir direito, por exemplo, é lutar contra o seu próprio cérebro.
 
@@ -11,4 +17,12 @@ A lógica central é simples: **você não consegue focar no andar de cima enqua
 **Autorrealização** — Topo É quando você age pelo que _você quer ser_, não pelo que precisa ou pelo que os outros pensam. Criar algo significativo, viver com propósito.
 
 ----
+### O ponto mais importante
+
+Maslow não é uma escada rígida onde você termina um nível e passa pro próximo. Na vida real, **você trabalha vários níveis ao mesmo tempo**, mas quando um nível inferior entra em crise, ele automaticamente vira sua prioridade — mesmo que você não queira.
+
+É por isso que crises financeiras ou relacionamentos tóxicos "travam" o crescimento pessoal: não é falta de força de vontade, é a hierarquia funcionando.
+
+
+![[Pasted image 20260518121123.png]]
 
