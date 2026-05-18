@@ -109,6 +109,55 @@ Vc obtem a pontuação máxima quando sua mulher não antecipa nenhuma de suas n
 
 ----
 
-# Não deixe que ela te trate como sua mãe
+# Não deixe que ela te trate como uma mãe
+
+Quando sua mulher lhe dá conselhos, lembretes e dicas, ela está assumindo o papel de doadora. ela faz isso porque tem um instinto materno dentro de sí. 
+
+Dar conselhos é dizer coisas que ela acha que vc deveria fazer: 
+- Vc fica melhor com xyz roupa
+- Lave a louça com mais sabão
+- Vc deveria parar de trabalhar tanto
+
+Lembretes são perguntas ou afirmações que servem pra te lembrar de algo que vc poderia estar fazendo: 
+- A boca do fogão ainda está acesa
+- Vc vai se atrasar pro trabalho
+- Vc lembrou de trancar a porta ? 
+
+Ela te trata como filho dela quando ela percebe que vc é um homem irresponsavel, e isso não a deixa segura, por isso ela faz isso. 
+
+Analise na sua vida, todas as formas pelas quais vc pode não estar sendo responsavel: 
+- Vc cumpre sua palavra ? 
+- Vc se lembra de tudo o que deveria lembrar ? 
+- Vc chega na hora marcada ? 
+- Vc leva em consideração os sentimentos da mulher ? 
+
+A primeira coisa que voce deve fazer é dizer a sua mulher para parar de te tratar como filho e em seguida, incentiva-lá a expressar seus sentimentos. 
+- Vc não precisa de uma mae, precisa de uma amante
+
+Vc deve deixar claro que cada tentativa de liderança da parte dela é inaceitável. 
+
+Vc deve dizer pra ela falar a você o como ela se sente, tipo: 
+- Eu me sinto constrangida quando vc sai assim com esse moleton
+- Me sinto irritada e desrespeitada. 
+
+Ou faça perguntas pra ela sobre o como ela se sente em relação a xyz... 
+
+Vc deve se importar com os sentimentos da sua esposa, somente isso. 
+
+Vc tira a nota máxima nesse tópico quando sua mulher para de te tratar como mãe e passa a apenas expressar seus sentimentos. 
+
+# Não deixe ela liderar com as expectativas do relacionamento
+
+Você como homem, deve ser o que tem a visão interior sobre o relacionamento. 
+
+- Vc define o que é traição no relacionamento. 
+- Vc define quais tarefas da casa são de xyz pesssoa. 
+- Vc define tudo
+
+Não negocie com sua mulher, apenas induza ela a expressar como se sente em relação a xyz
+
+Vc obtem pontuação máxima nesse nivel quando sua mulher atende a todas as suas expectativas, de acordo com a visão idealizada, sem oferecer resistencia. 
+
+
 
 

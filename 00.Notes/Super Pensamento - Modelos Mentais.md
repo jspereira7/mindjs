@@ -379,8 +379,8 @@ A razão pelo modelo mental da cauza raiz ser tão importante é que ele te ajud
 
 - Para evitar armadilhas mentais, há de se pensar mais **objetivamente**.
 - Use o **argumento dos primeiros principios**, conheça as **causas raizes** e busque ***a terceira história***. 
-- Perceba que suas intuições do mundo muitas vezes estão erradas devido ao *vies de disponibilidade*, ao erro de *atribuição fundamental*, ao *vies do otimismo* e a outros modelos mentais relacionados que explicam erros comuns de pensamento. 
-- Use as *navalhas de occam e hanlon* para investigar as explicações mais simples e objetivas. Depois teste suas teorias ***reduzindo os riscos*** de suas suposições e evitando a ***otimização prematura***. 
+- Perceba que suas intuições do mundo muitas vezes estão erradas devido ao ***vies de disponibilidade***, ao erro de ***atribuição fundamental***, ao ***vies do otimismo*** e a outros modelos mentais relacionados que explicam erros comuns de pensamento. 
+- Use as ***navalhas de occam e hanlon*** para investigar as explicações mais simples e objetivas. Depois teste suas teorias ***reduzindo os riscos*** de suas suposições e evitando a ***otimização prematura***. 
 - Tente ***pensar em cinza***, um esforço conciente para consistentemente evitar o ***vies de confirmação.*** 
 - Busque ativamente outras perspectivas, incluindo a ***posição do advogado do diabo***, e contornando o ***filtro invisivel.*** 
 - Considere o adágio " Você é o que come ". É necessário se alimentar de uma variedade de alimentos para ser uma pessoa saudavel. Do mesmo modo, utilizar uma variedade de perspectivas te ajudará a se tornar um super-pensador. 
@@ -1042,7 +1042,7 @@ Esse é o modelo mental da programação asyncrona.
 - Selecione entre as opções com base em modelos de [[custo de oportunidade ]]
 - Utilize o ***modelo 80/20*** para investir naquilo que irá trazer mais resultado com menor esforço.
 - Esteja atento a quando você atingir o pico de ***retornos decresentes*** e evite ***rendimentos negativos.*** 
-- Use o **[[compromisso]]** e o ***[[efeito-padrão]]*** para evitar o vies do imediatismo, e ***avaliações periodicas*** para evitar a ***aversão a perda*** e a ***falacia do custo irrecuperavel.*** 
+- Use o **[[compromisso]]** e o ***[[efeito-padrão]]*** para evitar o ***vies do imediatismo***, e ***avaliações periodicas*** para evitar a ***aversão a perda*** e a ***falacia do custo irrecuperavel.*** 
 - Procure soluções rápidas atráves de **[[design patters]]**, **[[ferramentas]]** ou ***[[algoritimos inteligentes]]*** já existentes. Considere se é possivel ***reformular o problema.*** 
 
 ----
@@ -1805,7 +1805,7 @@ Certamente existem muitas armadilhas a evitar, mas esperamos que você também
 - Busque por delineamentos experimentais consagrados, como **experimentos controlados randomizados** ou testes **A/B**, que demonstrem significância estatística.
 - A **distribuição normal** é particularmente útil em análises experimentais devido ao **teorema do limite central.**
 - Lembre-se de que, em uma distribuição normal, cerca de 68% dos valores estão dentro de um desvio padrão e 95% dentro de dois.
-- Qualquer experimento isolado pode resultar em um falso positivo ou um falso negativo e também pode ser enviesado por inúmeros fatores, sendo os mais comuns o viés de seleção, o viés de resposta e o viés de sobrevivência.
+- Qualquer experimento isolado pode resultar em um falso positivo ou um falso negativo e também pode ser enviesado por inúmeros fatores, sendo os mais comuns o ***viés de seleção***, o ***viés de resposta*** e o ***viés de sobrevivência.***
 - A replicação aumenta a confiança nos resultados, portanto, ao pesquisar uma área, comece procurando por uma revisão sistemática e/ou meta-análise.
 - Lembre-se sempre de que, ao lidar com incertezas, os valores que você vê relatados ou calcula também são incertos, e que você deve procurar e relatar valores com margens de erro.
 
@@ -1919,14 +1919,14 @@ Cuidado com o desconhecido desconhecido, o que voce não sabe que não sabe.
 
 - Quando estiver tentato a usar uma **lista de prós e contras**, veja se é possivel fazer uma **analise de custo beneficio** ou **arvore de decisão**.
 - Ao fazer uma avaliação quantitativa, faça uma **analise de sensibilidade dos dados** para descobrir fatores importantes e avaliar onde precisa ter maior precisão em suas suposições.
-- Tome cuidado com os eventos de **cisne negro** e com os **desconhecidos desconhecidos**. Use o pensamento sistemico e a **analise de cenários** para descobri-los e avaliar seus impactos.
+- Tome cuidado com os eventos de **cisne negro** e com os **desconhecidos desconhecidos**. Use o **pensamento sistemico** e a **analise de cenários** para descobri-los e avaliar seus impactos.
 - Para sistemas complexos, considere as **simulações** para ajudá-lo a avaliar melhor o que pode acontecer em diferentes cenários.
 - Cuidado com os pontos cegos que surgem do **pensamento de grupo**, Use o **pensamento lateral** e **divergente** ao trabalhar com grupos, e inclua a busca de pontos de vista diversos.
 - Se esforce para compreender o **global optimum** de qualquer sistema e tome decisões que o levem para perto dele. 
 
 -----
 
-## Desbloqueando o potencial 
+# Desbloqueando o potencial 
 
 10x enginner, um engenheiro que faz o trampo de 10 pessoas. 
 - As pessoas não são intercambiaveis, elas performam bem em xyz função. 
@@ -2016,6 +2016,41 @@ Num contexto de empresa é necessario fornecer **Sinceridade Radical**
 ![[Pasted image 20260515182733.png]]
 
 ## Desbloqueando potencial. 
+
+Mesmo que uma pessoa esteja comprometida com a prática deliberada, o processo não irá funcionar bem se a pessoa não tiver a programação mental correta. 
+
+Isso nos leva ao mindset fixo x crescimento. 
+
+Mindset fixo é quando vc acredita que suas habilidades são fixas, e não é possivel desenvolve-las. 
+
+> Tenha um mindset de crescimento 
+
+Expectativas mais altas levam a um desempenho mais alto. 
+
+Expectativas mais baixas, levam a um desempenho mais baixo. 
+
+Os dois são ***profecias autorealizaveis.*** 
+
+Como superar a sindrome do impostor ? 
+- Destaque a prevalencia das situações("Todo mundo já se sentiu assim um dia, eu tambem" )
+- Pequenas falhas são parte do processo, quando estiver operando fora da sua zona de conforto. 
+- Conecte-se a outros colegas e mentores que já enfrentaram a sindrome do impostor. 
+
+Efeito Dunning-Kruger: 
+- É quando no inicio do aprendizado de algo, por ter muitas coisas básicas pra aprender, vc acredita que tem muita habilidade em algo, mas na verdade não tem conciencia do que ainda não sabe.
+- É o contrario da sindrome do impostor. 
+
+![[Pasted image 20260518115951.png]]
+
+Tambem existe a [[piramide de maslow]], onde diz que só devemos nos concentrar na autorealização pessoal, quando nossas necessidades básicas já estão resolvidas. 
+
+Vc pode ter problemas de aprendizado e etc devido as suas necessidades não satisfeitas em xyz. 
+
+Use esse modelo para pensar e encontrar a razão pelo qual você e outras pessoas não estão alcançando seu potencial pleno. 
+
+
+
+
 
 
 
