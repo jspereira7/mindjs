@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Eneagram Autoconhecimento.md",
+                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eneagram Autoconhecimento"
+              "title": "Outline of Super Pensamento - Modelos Mentais"
             }
           },
           {
@@ -318,7 +318,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "593a7a191dd49f60",
+  "active": "b36f26d1c8cda83c",
   "lastOpenFiles": [
     "00.Notes/Eneagram Autoconhecimento.md",
     "00.Notes/Estrela Guia.md",
