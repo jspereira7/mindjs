@@ -2119,6 +2119,10 @@ Infelizmente pessoas que possuem uma boa percepção, não obtem sucesso por pec
 
 ## Ative seu campo de força
 
+Warren buffet propagou o termo de fosso economico, que é uma proteção sua no mercado. 
+
+![[Pasted image 20260519140217.png]]
+
 
 
 
