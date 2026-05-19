@@ -2073,12 +2073,51 @@ Quando se está trabalhando com alguem com uma agenda de colaborador é preciso 
 - Para ser um melhor gerente, vc deve **gerenciar a pessoa**, avaliando seu conjunto de caracteristicas e os desafios unicos de cada individuo. 
 - Crie motivações e funções unicas que amplifiquem cada ponto forte individual. Evite o **principio de peter**, promova as pessoas para funções nas quais elas podem ser bem-sucedidas.
 - Defina adequadamente as funções e responsabilidades usando o modelo **DRI(individuo diretamente responsavel)**
-- As pessoas precisam de **coaching** para alcançar seu potencial pleno, sobretudo em novas funções. **A prática deliberada** é a forma mais efetiva de ajudar a criar novas curvas de aprendizado. Use a **matriz de consequencias x convicção** para identificar oportunidades de aprendizado e use a **sinceridade radical** de forma **individual** para fornecer **feedback** construtivo 
-- Ao tentar coisas novas, cuidado com os modos de falhas psicológicas comuns, como a **sindrome do impostor** e o efeito **Dunning-kruger** 
+- As pessoas precisam de **coaching** para alcançar seu potencial pleno, sobretudo em novas funções. **A prática deliberada** é a forma mais efetiva de ajudar a criar novas curvas de aprendizado. Use a **matriz de consequencias x convicção** para identificar oportunidades de aprendizado e use a **sinceridade radical** de forma **individual** para fornecer **feedback** construtivo.
+- Ao tentar coisas novas, cuidado com os modos de falhas psicológicas comuns, como a **sindrome do impostor** e o efeito **Dunning-kruger**.
 - Defina a **cultura** do grupo e se comprometa a **conquistar corações e mentes** para sua cultura de interrese e a visão a ela associada. 
 - Se puder preparar as pessoas para o sucesso nas funções corretas e com a cultura bem definida, então poderá criar o ambiente para que as **equipes 10x** surjam.
 
-## Flexibilize seu poder de mercado 
+# Flexibilize seu poder de mercado 
+
+Tirar vantagem da diferença de preço de um mesmo produto entre dois mercados é chamado de **arbitragem**
+- Como os cambistas que compram os ingressos e revendem depois mais caro. 
+
+Nesse capitulo exploraremos o oposto da arbitragem: **a vantagem competitiva sustentável** 
+
+Tambem existe um conceito chamado **poder de mercado**, um diferencial que te faz escapar da lei da oferta e procura, um exemplo de poder de mercado é o monopólio. 
+
+Ao escolher uma carreira por exemplo é ideal que você escolha algo que sempre possua demanda
+
+Ter poder de mercado - individual ou organizacional é uma posição atraente, pois vc pode usar suas vantagens para manter um lucro por um longo periodo de tempo. 
+- É por isso que é chamado de vantagem competitiva sustentavel. 
+
+Nesse cap vamos te mostrar como encontrar e manter o poder de mercado. 
+
+## Molho secreto 
+
+Para ter um ganho excepicional fora da curva, é facil concluir que se vc estiver certo vc ganha dinheiro, e se estiver errado não ganha. 
+
+Mas para ganhos fora da curva, você precisa estar certo quando os outros estão errados. 
+
+![[Pasted image 20260519112429.png]]
+
+Uma aposta contraria é mais provavel de ser bem sucedida quando sabemos alguma coisa que ninguem mais sabe. 
+- Em outras palavras, vc sabe que a chance de estar certo é muito maior do que os outros conseguem perceber. 
+
+Os próprios modelos mentais desse livro são de certa forma "segredos". 
+
+Uma forma de obter segredos é estar em certos grupos, onde estão rolando os segredos, como a homebrew computer club. 
+
+## Visão sem execução é só alucinação
+
+Infelizmente pessoas que possuem uma boa percepção, não obtem sucesso por pecarem na hora de executar. 
+
+> Visão sem ação não passa de um sonho. Ação sem visão é um pesadelo.
+
+![[Pasted image 20260519114744.png]]
+
+## Ative seu campo de força
 
 
 

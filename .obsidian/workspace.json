@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Avaliação Josias Pereira Cognfit.md",
+                "file": "00.Notes/Super Pensamento - Modelos Mentais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avaliação Josias Pereira Cognfit"
+              "title": "Outline of Super Pensamento - Modelos Mentais"
             }
           },
           {
@@ -303,14 +303,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "511ec27dfdcc36a5",
+  "active": "b36f26d1c8cda83c",
   "lastOpenFiles": [
-    "01.Assets/Excalidraw/Drawing 2026-05-15 18.23.06.excalidraw.md",
-    "00.Notes/Super Pensamento - Modelos Mentais.md",
-    "00.Notes/piramide de maslow.md",
+    "01.Assets/Anexos/Pasted image 20260519114744.png",
+    "01.Assets/Anexos/Pasted image 20260519112429.png",
     "00.Notes/Avaliação Josias Pereira Cognfit.md",
     "00.Notes/Educação Financeira Básica Principios.md",
     "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md",
+    "01.Assets/Excalidraw/Drawing 2026-05-15 18.23.06.excalidraw.md",
+    "00.Notes/Super Pensamento - Modelos Mentais.md",
+    "00.Notes/piramide de maslow.md",
     "01.Assets/Anexos/Pasted image 20260518121123.png",
     "01.Assets/Anexos/Pasted image 20260518115951.png",
     "00.Notes/Estrela Guia.md",
@@ -323,7 +325,6 @@
     "01.Assets/Anexos/Pasted image 20260514143834.png",
     "00.Notes/Projeto grana com SOI.md",
     "00.Notes/Estudo Eneagrama.md",
-    "01.Assets/Anexos/Pasted image 20260511190849.png",
     "00.Notes/energia potencial..md",
     "00.Notes/catalisador.md",
     "00.Notes/alta inércia.md",
