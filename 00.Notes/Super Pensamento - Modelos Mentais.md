@@ -2123,7 +2123,51 @@ Warren buffet propagou o termo de fosso economico, que é uma proteção sua no 
 
 ![[Pasted image 20260519140217.png]]
 
+Outro modelo mental é de " Só os paranoicos sobrevivem " que diz respeito que se vc não cuidar e investir energia em precaver a sua queda, vc irá de dar mal, porque uma hora ou outra ela virá. 
 
+## Conclusões importantes. 
+
+- Encontre um **segredo** e construa sua carreira ou organização em torno dele, buscando o **desenvolvimento do cliente para o product/market fit**(ou outro fit relevante pra situação)
+- Esforce-se para ser como um **missel guiado por calor** em busca do product/market fit, percorra com habilidade o **labirinto das ideias** e procure sinais que atingiu a **frequencia de ressonancia** por validação
+- Se não conseguir encontrar dps de um tempo nenhum **ponto luminoso** no que está fazendo, avalie criticamente sua posição e considere fazer uma **variação**
+- Construa um **fosso economico** ao seu redor e de sua organização para criar **vantagem competitiva sustentavel**
+- Não seja **complacente**, lembre-se que **só os paranoicos sobrevivem** e fique atento as **inovações disruptivas**, em particular aquelas com grande chance de **atravessar o abismo** 
+
+# Conclusão 
+
+Como muitos desses conceitos podem ser novos pra você, será preciso praticar sua utilização para tirar o máximo de proveito.
+
+Como disse feynman: 
+> ***Aprendi muito cedo a diferença entre saber o nome de algo, e saber algo***
+
+Um modelo mental que explica isso é o **culto á carga**:
+- Fazer as coisas _parecendo_ que você sabe o que está fazendo, sem entender por que aquilo funciona.
+- Exemplos:
+	- **Empreendedorismo** A startup copia o visual do Google — mesa de ping-pong, hoodie, linguagem de "disrupção" — mas não entende os processos reais que fazem uma empresa de tecnologia funcionar. Parece uma startup. Não é.
+	- **Academia e estudos** O aluno decora a fórmula, resolve exercícios idênticos ao do professor e tira 10. Na prova seguinte, com um problema levemente diferente, vai a zero. Imitou o processo sem entender o conceito.
+	- **Fitness** A pessoa compra os mesmos tênis do atleta profissional, usa os mesmos suplementos, segue a mesma dieta — mas treina errado e descansa pouco. Copiou os acessórios, ignorou os fundamentos.
+	- **Redes sociais e influência** O criador de conteúdo copia o estilo de edição, as músicas e os ganchos de quem viraliza — mas sem ter nada real a dizer. Parece conteúdo. Não engaja.
+- Isso se chama conhecimento de etiqueta, vc sabe o nome, mas não sabe como funciona.
+- Atidoto para isso é: Se pergunte **porque ?**
+	- E aplique o **método cientifico**
+
+Não seja um pensador do culto á carga, usando os modelos mentais sem realmente compreende-los. 
+
+Temos algumas etapas para você se tornar um super-pensador: 
+1) Arrume um parceiro no superpensamento. Pensar em tópicos complicados sozinho não produz os melhores resultados. É muito melhor compartilhar ideias com alguem e receber feedback. (Não precisa ser a mesma pessoa para todos os tópicos)
+2) Tente escrever, mesmo que nunca publique nada, o ato de escrever esclarece o pensamento e o deixa mais atento a falhas em seus argumentos. Vc pode combinar a escrita com a descoberta de um parceiro, participando de um forum online ou blog em que tópicos complexos que te interresam são discutidos e analisados.
+
+Ao longo do tempo, seus esforços se expandirão para o que warren buffet chama de **circulo de competencia** 
+
+Dentro do circulo estão cobertas as areas que vc tem conhecimento ou experiencia - onde vc é competente, e nessas areas vc pode pensar de modo efetivo.
+
+![[Pasted image 20260519143206.png]]
+
+A boa noticia é que os modelos mentais desse livro expandirão seu circulo de competencia, e ao conversar com pessoas que já sabem como aplicá-los com sucesso pode ajudar a corrigir seus erros e expandir seu circulo de competencia com maior rapidez. 
+
+> Em toda a minha vida, não conheci uma pessoa sabia (em diversas areas do conhecimento) que não lesse o tempo todo - nenhuma, zero. Vc ficaria surpreso em quanto charlie munger lê - e no quanto eu leio. Meus filhos riem de mim. Acham que eu sou um livro de duas pernas. 
+
+Vc precisa aplicar essa atitude mult-disciplinar. 
 
 
 
