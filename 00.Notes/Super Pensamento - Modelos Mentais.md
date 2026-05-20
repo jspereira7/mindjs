@@ -2169,7 +2169,3 @@ A boa noticia é que os modelos mentais desse livro expandirão seu circulo de c
 
 Vc precisa aplicar essa atitude mult-disciplinar. 
 
-
-
-
-

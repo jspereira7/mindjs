@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Meu MBA - Anotações",
+      "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
       "basename": "Super Pensamento - Modelos Mentais",
       "path": "00.Notes/Super Pensamento - Modelos Mentais.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chadfication - Js",
       "path": "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md"
-    },
-    {
-      "basename": "Livros Recomendados pelo naval",
-      "path": "01.Assets/Desenvolvimento Pessoal/Livros Recomendados pelo naval.md"
     }
   ],
   "omittedPaths": [
