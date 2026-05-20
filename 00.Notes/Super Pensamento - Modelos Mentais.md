@@ -2169,11 +2169,10 @@ A boa noticia é que os modelos mentais desse livro expandirão seu circulo de c
 
 Vc precisa aplicar essa atitude mult-disciplinar. 
 
-
-
-
-
 -----
+
+Um outro modelo mental muito util é o da espionagem, acho que esse é um dos segredos do sucesso, ver o que está funcionando e replicar, só isso. 
+
 
 
 
