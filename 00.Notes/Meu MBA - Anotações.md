@@ -19,6 +19,8 @@ Definição de Modelos Mentais:
 	- Inversão = Ao inves de perguntar o como ter sucesso, se pergunte o que te faz fracassar. 
 - São uma maneira de descrever como o mundo funciona. 
 
+> É importante aos alunos que adotem um elemento de irreverencia nos seus estudos, não estão aqui para venerar o que se conhece, mas sim para questionar 
+
 
 
 
