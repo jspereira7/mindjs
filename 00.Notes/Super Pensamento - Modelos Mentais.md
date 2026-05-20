@@ -377,12 +377,12 @@ A razão pelo modelo mental da cauza raiz ser tão importante é que ele te ajud
 
 ## Conclusões importantes. 
 
-- Para evitar armadilhas mentais, há de se pensar mais **objetivamente**.
-- Use o **argumento dos primeiros principios**, conheça as **causas raizes** e busque ***a terceira história***. 
-- Perceba que suas intuições do mundo muitas vezes estão erradas devido ao ***vies de disponibilidade***, ao erro de ***atribuição fundamental***, ao ***vies do otimismo*** e a outros modelos mentais relacionados que explicam erros comuns de pensamento. 
-- Use as ***navalhas de occam e hanlon*** para investigar as explicações mais simples e objetivas. Depois teste suas teorias ***reduzindo os riscos*** de suas suposições e evitando a ***otimização prematura***. 
-- Tente ***pensar em cinza***, um esforço conciente para consistentemente evitar o ***vies de confirmação.*** 
-- Busque ativamente outras perspectivas, incluindo a ***posição do advogado do diabo***, e contornando o ***filtro invisivel.*** 
+- Para evitar armadilhas mentais, há de se pensar mais **[[objetivamente]]**.
+- Use o [[argumento dos primeiros principios]], conheça as **[[causas raizes]]** e busque ***[[a terceira história]]***. 
+- Perceba que suas intuições do mundo muitas vezes estão erradas devido ao ***[[vies de disponibilidade]]***, ao erro de ***[[atribuição fundamental]]***, ao ***[[vies do otimismo]]*** e a outros modelos mentais relacionados que explicam erros comuns de pensamento. 
+- Use as ***[[navalhas de occam e hanlon]]*** para investigar as explicações mais simples e objetivas. Depois teste suas teorias ***[[reduzindo os riscos]]*** de suas suposições e evitando a ***[[otimização prematura]]***. 
+- Tente ***[[pensar em cinza]]***, um esforço conciente para consistentemente evitar o ***[[vies de confirmação.]]*** 
+- Busque ativamente outras perspectivas, incluindo a ***[[posição do advogado do diabo]]***, e contornando o ***[[filtro invisivel.]]*** 
 - Considere o adágio " Você é o que come ". É necessário se alimentar de uma variedade de alimentos para ser uma pessoa saudavel. Do mesmo modo, utilizar uma variedade de perspectivas te ajudará a se tornar um super-pensador. 
 
 -----
@@ -642,10 +642,10 @@ Da próxima vez, veja se consegue identificar o modelo mental subjacente à si
 
 ## CONCLUSÕES IMPORTANTES
 
-- Cuidado com situações que envolvem informação **assimétrica**, pois elas podem levar a **problemas de agência**.
-- Tenha cuidado ao basear recompensas em ***incentivos mensuráveis***, pois é provável que isso cause comportamentos indesejados e não intencionais (Lei de Goodhart).
-- O foco no **curto prazo** pode facilmente levar ao acúmulo de **dívida técnica** e criar uma ***dependência de trajetória desvantajosa***; para contrabalançar isso, pense em preservar a capacidade de escolha e tenha em mente o princípio da **precaução**.
-- Internalize a distinção entre [[decisões irreversíveis e reversíveis ]]e não se deixe paralisar pela **análise excessiva** no caso destas últimas.
+- Cuidado com situações que envolvem [[informação assimétrica]], pois elas podem levar a **[[problemas de agência]]**.
+- Tenha cuidado ao basear recompensas em ***[[incentivos mensuráveis]]***, pois é provável que isso cause comportamentos indesejados e não intencionais (Lei de Goodhart).
+- O foco no **[[curto prazo]]** pode facilmente levar ao acúmulo de **[[dívida técnica]]** e criar uma ***[[dependência de trajetória desvantajosa]]***; para contrabalançar isso, pense em preservar a capacidade de escolha e tenha em mente o [[princípio da precaução]].
+- Internalize a distinção entre [[decisões irreversíveis e reversíveis ]]e não se deixe paralisar pela **[[análise excessiva]]** no caso destas últimas.
 - Preste atenção à lei de Murphy! (Tudo o que pode dar errado, dará!)
 
 ------
@@ -1038,12 +1038,12 @@ Esse é o modelo mental da programação asyncrona.
 
 ## CONCLUSÕES IMPORTANTES
 
-- Escolha as tarefas para trabalhar que são relevantes para o seu ***objetivo de longo prazo***. 
+- Escolha as tarefas para trabalhar que são relevantes para o seu ***[[objetivo de longo prazo]]***. 
 - Selecione entre as opções com base em modelos de [[custo de oportunidade ]]
-- Utilize o ***modelo 80/20*** para investir naquilo que irá trazer mais resultado com menor esforço.
-- Esteja atento a quando você atingir o pico de ***retornos decresentes*** e evite ***rendimentos negativos.*** 
-- Use o **[[compromisso]]** e o ***[[efeito-padrão]]*** para evitar o ***vies do imediatismo***, e ***avaliações periodicas*** para evitar a ***aversão a perda*** e a ***falacia do custo irrecuperavel.*** 
-- Procure soluções rápidas atráves de **[[design patters]]**, **[[ferramentas]]** ou ***[[algoritimos inteligentes]]*** já existentes. Considere se é possivel ***reformular o problema.*** 
+- Utilize o ***[[modelo 80/20]]*** para investir naquilo que irá trazer mais resultado com menor esforço.
+- Esteja atento a quando você atingir o pico de ***[[retornos decresentes]]*** e evite ***[[rendimentos negativos.]]*** 
+- Use o **[[compromisso]]** e o ***[[efeito-padrão]]*** para evitar o ***[[vies do imediatismo]]***, e ***[[avaliações periodicas]]*** para evitar a ***[[aversão a perda]]*** e a ***[[falacia do custo irrecuperavel.]]*** 
+- Procure soluções rápidas atráves de **[[design patters]]**, **[[ferramentas]]** ou ***[[algoritimos inteligentes]]*** já existentes. Considere se é possivel ***[[reformular o problema.]]*** 
 
 ----
 # Tornando-se um com a natureza 
@@ -1427,10 +1427,10 @@ No lado positivo, você poderá tomar decisões mais acertadas para sua vida 
 
 - Adote uma ***[[mentalidade experimental]]***, buscando oportunidades para realizar experimentos e aplicar o [[método científico]] sempre que possível.
 - Respeite a **[[inércia]]**: crie ou participe de ciclos virtuosos saudáveis; evite ***[[custos estratégicos]]*** e tentativas de implementar mudanças em situações de ***[[alta inércia]]***, a menos que você tenha uma vantagem tática, como a descoberta de um **[[catalisador]]** e muita **[[energia potencial.]]**
-- Ao implementar mudanças, reflita profundamente sobre como atingir a ***massa crítica*** e como você irá navegar pelo ciclo de vida da adoção de tecnologia.
+- Ao implementar mudanças, reflita profundamente sobre como atingir a ***[[massa crítica]]*** e como você irá navegar pelo ciclo de vida da adoção de tecnologia.
 - Use funções de força para facilitar a mudança.
 - Cultive ativamente sua [[área de influência positiva]] e trabalhe o necessário para não ser absorvido pela ***[[entropia]]***.
-- Ao se deparar com o que parece ser uma situação de ***soma zero*** ou preto no branco, busque opções adicionais e, em última instância, uma solução em que todos saiam ganhando.
+- Ao se deparar com o que parece ser uma situação de ***[[soma zero]]*** ou preto no branco, busque opções adicionais e, em última instância, uma solução em que todos saiam ganhando.
 
 ----
 
@@ -1802,10 +1802,10 @@ Certamente existem muitas armadilhas a evitar, mas esperamos que você também
 
 - Evite cair na [[falacia do apostador]] ou na [[falacia da taxa base]]. 
 - Evidencias anedóticas e correlações observadas em dados são bons geradores de hipoteses, mas correlação não implica causalidade, vc precisa se basear em experimentos bem elaborados para tirar conclusões robustas. 
-- Busque por delineamentos experimentais consagrados, como **experimentos controlados randomizados** ou testes **A/B**, que demonstrem significância estatística.
-- A **distribuição normal** é particularmente útil em análises experimentais devido ao **teorema do limite central.**
+- Busque por delineamentos experimentais consagrados, como **[[experimentos controlados randomizados]]** ou **[[testes A/B]]**, que demonstrem significância estatística.
+- A **[[distribuição normal]]** é particularmente útil em análises experimentais devido ao **[[teorema do limite central.]]**
 - Lembre-se de que, em uma distribuição normal, cerca de 68% dos valores estão dentro de um desvio padrão e 95% dentro de dois.
-- Qualquer experimento isolado pode resultar em um falso positivo ou um falso negativo e também pode ser enviesado por inúmeros fatores, sendo os mais comuns o ***viés de seleção***, o ***viés de resposta*** e o ***viés de sobrevivência.***
+- Qualquer experimento isolado pode resultar em um falso positivo ou um falso negativo e também pode ser enviesado por inúmeros fatores, sendo os mais comuns o ***[[viés de seleção]]***, o ***[[viés de resposta]]*** e o ***[[viés de sobrevivência.]]***
 - A replicação aumenta a confiança nos resultados, portanto, ao pesquisar uma área, comece procurando por uma revisão sistemática e/ou meta-análise.
 - Lembre-se sempre de que, ao lidar com incertezas, os valores que você vê relatados ou calcula também são incertos, e que você deve procurar e relatar valores com margens de erro.
 
@@ -1917,12 +1917,12 @@ Cuidado com o desconhecido desconhecido, o que voce não sabe que não sabe.
 
 ## Conclusões importantes
 
-- Quando estiver tentato a usar uma **lista de prós e contras**, veja se é possivel fazer uma **analise de custo beneficio** ou **arvore de decisão**.
-- Ao fazer uma avaliação quantitativa, faça uma **analise de sensibilidade dos dados** para descobrir fatores importantes e avaliar onde precisa ter maior precisão em suas suposições.
-- Tome cuidado com os eventos de **cisne negro** e com os **desconhecidos desconhecidos**. Use o **pensamento sistemico** e a **analise de cenários** para descobri-los e avaliar seus impactos.
-- Para sistemas complexos, considere as **simulações** para ajudá-lo a avaliar melhor o que pode acontecer em diferentes cenários.
-- Cuidado com os pontos cegos que surgem do **pensamento de grupo**, Use o **pensamento lateral** e **divergente** ao trabalhar com grupos, e inclua a busca de pontos de vista diversos.
-- Se esforce para compreender o **global optimum** de qualquer sistema e tome decisões que o levem para perto dele. 
+- Quando estiver tentato a usar uma **[[lista de prós e contras]]**, veja se é possivel fazer uma **[[analise de custo beneficio]]** ou **[[arvore de decisão]]**.
+- Ao fazer uma avaliação quantitativa, faça uma **[[analise de sensibilidade dos dados]]** para descobrir fatores importantes e avaliar onde precisa ter maior precisão em suas suposições.
+- Tome cuidado com os eventos de **[[cisne negro]]** e com os **[[desconhecidos desconhecidos]]**. Use o **[[pensamento sistemico]]** e a **[[analise de cenários]]** para descobri-los e avaliar seus impactos.
+- Para sistemas complexos, considere as **[[simulações]]** para ajudá-lo a avaliar melhor o que pode acontecer em diferentes cenários.
+- Cuidado com os pontos cegos que surgem do **[[pensamento de grupo]]**, Use o **[[pensamento lateral]]** e **[[divergente]]** ao trabalhar com grupos, e inclua a busca de pontos de vista diversos.
+- Se esforce para compreender o **[[global optimum]]** de qualquer sistema e tome decisões que o levem para perto dele. 
 
 -----
 
@@ -2070,13 +2070,13 @@ Quando se está trabalhando com alguem com uma agenda de colaborador é preciso 
 ## Conclusões importantes
 
 - As pessoas não são intercambiaveis, elas provem de vários contextos e apresentam um conjunto diverso de personalidades, pontos fortes e objetivos. 
-- Para ser um melhor gerente, vc deve **gerenciar a pessoa**, avaliando seu conjunto de caracteristicas e os desafios unicos de cada individuo. 
-- Crie motivações e funções unicas que amplifiquem cada ponto forte individual. Evite o **principio de peter**, promova as pessoas para funções nas quais elas podem ser bem-sucedidas.
+- Para ser um melhor gerente, vc deve **[[gerenciar a pessoa]]**, avaliando seu conjunto de caracteristicas e os desafios unicos de cada individuo. 
+- Crie motivações e funções unicas que amplifiquem cada ponto forte individual. Evite o **[[principio de peter]]**, promova as pessoas para funções nas quais elas podem ser bem-sucedidas.
 - Defina adequadamente as funções e responsabilidades usando o modelo **DRI(individuo diretamente responsavel)**
-- As pessoas precisam de **coaching** para alcançar seu potencial pleno, sobretudo em novas funções. **A prática deliberada** é a forma mais efetiva de ajudar a criar novas curvas de aprendizado. Use a **matriz de consequencias x convicção** para identificar oportunidades de aprendizado e use a **sinceridade radical** de forma **individual** para fornecer **feedback** construtivo.
-- Ao tentar coisas novas, cuidado com os modos de falhas psicológicas comuns, como a **sindrome do impostor** e o efeito **Dunning-kruger**.
-- Defina a **cultura** do grupo e se comprometa a **conquistar corações e mentes** para sua cultura de interrese e a visão a ela associada. 
-- Se puder preparar as pessoas para o sucesso nas funções corretas e com a cultura bem definida, então poderá criar o ambiente para que as **equipes 10x** surjam.
+- As pessoas precisam de **[[coaching]]** para alcançar seu potencial pleno, sobretudo em novas funções. **[[A prática deliberada]]** é a forma mais efetiva de ajudar a criar novas curvas de aprendizado. Use a **[[matriz de consequencias x convicção]]** para identificar oportunidades de aprendizado e use a **[[sinceridade radical]]** de forma **individual** para fornecer **feedback** construtivo.
+- Ao tentar coisas novas, cuidado com os modos de falhas psicológicas comuns, como a **[[sindrome do impostor]]** e o **[[efeito Dunning-kruger.]]**
+- Defina a **[[cultura]]** do grupo e se comprometa a **[[conquistar corações e mentes]]** para sua cultura de interrese e a visão a ela associada. 
+- Se puder preparar as pessoas para o sucesso nas funções corretas e com a cultura bem definida, então poderá criar o ambiente para que as **[[equipes 10x]]** surjam.
 
 # Flexibilize seu poder de mercado 
 
@@ -2127,11 +2127,11 @@ Outro modelo mental é de " Só os paranoicos sobrevivem " que diz respeito que 
 
 ## Conclusões importantes. 
 
-- Encontre um **segredo** e construa sua carreira ou organização em torno dele, buscando o **desenvolvimento do cliente para o product/market fit**(ou outro fit relevante pra situação)
-- Esforce-se para ser como um **missel guiado por calor** em busca do product/market fit, percorra com habilidade o **labirinto das ideias** e procure sinais que atingiu a **frequencia de ressonancia** por validação
-- Se não conseguir encontrar dps de um tempo nenhum **ponto luminoso** no que está fazendo, avalie criticamente sua posição e considere fazer uma **variação**
-- Construa um **fosso economico** ao seu redor e de sua organização para criar **vantagem competitiva sustentavel**
-- Não seja **complacente**, lembre-se que **só os paranoicos sobrevivem** e fique atento as **inovações disruptivas**, em particular aquelas com grande chance de **atravessar o abismo** 
+- Encontre um **[[segredo]]** e construa sua carreira ou organização em torno dele, buscando o **[[desenvolvimento do cliente para o product/market fit]]**(ou outro fit relevante pra situação)
+- Esforce-se para ser como um **[[missel guiado por calor]]** em busca do product/market fit, percorra com habilidade o **[[labirinto das ideias]]** e procure sinais que atingiu a **[[frequencia de ressonancia]]** por validação
+- Se não conseguir encontrar dps de um tempo nenhum **[[ponto luminoso]]** no que está fazendo, avalie criticamente sua posição e considere fazer uma **[[variação]]**
+- Construa um **[[fosso economico]]** ao seu redor e de sua organização para criar **[[vantagem competitiva sustentavel]]**
+- Não seja **[[complacente]]**, lembre-se que **[[só os paranoicos sobrevivem]]** e fique atento as **[[inovações disruptivas]]**, em particular aquelas com grande chance de **[[atravessar o abismo]]** 
 
 # Conclusão 
 
@@ -2140,7 +2140,7 @@ Como muitos desses conceitos podem ser novos pra você, será preciso praticar s
 Como disse feynman: 
 > ***Aprendi muito cedo a diferença entre saber o nome de algo, e saber algo***
 
-Um modelo mental que explica isso é o **culto á carga**:
+Um modelo mental que explica isso é o **[[culto á carga]]**:
 - Fazer as coisas _parecendo_ que você sabe o que está fazendo, sem entender por que aquilo funciona.
 - Exemplos:
 	- **Empreendedorismo** A startup copia o visual do Google — mesa de ping-pong, hoodie, linguagem de "disrupção" — mas não entende os processos reais que fazem uma empresa de tecnologia funcionar. Parece uma startup. Não é.
@@ -2157,7 +2157,7 @@ Temos algumas etapas para você se tornar um super-pensador:
 1) Arrume um parceiro no superpensamento. Pensar em tópicos complicados sozinho não produz os melhores resultados. É muito melhor compartilhar ideias com alguem e receber feedback. (Não precisa ser a mesma pessoa para todos os tópicos)
 2) Tente escrever, mesmo que nunca publique nada, o ato de escrever esclarece o pensamento e o deixa mais atento a falhas em seus argumentos. Vc pode combinar a escrita com a descoberta de um parceiro, participando de um forum online ou blog em que tópicos complexos que te interresam são discutidos e analisados.
 
-Ao longo do tempo, seus esforços se expandirão para o que warren buffet chama de **circulo de competencia** 
+Ao longo do tempo, seus esforços se expandirão para o que warren buffet chama de **[[circulo de competencia]]** 
 
 Dentro do circulo estão cobertas as areas que vc tem conhecimento ou experiencia - onde vc é competente, e nessas areas vc pode pensar de modo efetivo.
 
@@ -2169,9 +2169,6 @@ A boa noticia é que os modelos mentais desse livro expandirão seu circulo de c
 
 Vc precisa aplicar essa atitude mult-disciplinar. 
 
------
-
-Um outro modelo mental muito util é o da espionagem, acho que esse é um dos segredos do sucesso, ver o que está funcionando e replicar, só isso. 
 
 
 
