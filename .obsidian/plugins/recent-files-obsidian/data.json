@@ -9,6 +9,10 @@
       "path": "00.Notes/Super Pensamento - Modelos Mentais.md"
     },
     {
+      "basename": "Guiding Stucture",
+      "path": "00.Notes/Guiding Stucture.md"
+    },
+    {
       "basename": "informação assimétrica, pois elas podem levar a **[[problemas de agência",
       "path": "00.Notes/informação assimétrica, pois elas podem levar a **[[problemas de agência.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mente Lendaria.",
       "path": "01.Assets/Cursos/Mente Lendaria..md"
-    },
-    {
-      "basename": "Chadfication - Js",
-      "path": "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md"
     }
   ],
   "omittedPaths": [
