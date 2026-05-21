@@ -5,6 +5,14 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Suficiencia",
+      "path": "00.Notes/Suficiencia.md"
+    },
+    {
+      "basename": "Livro Zack Rodie - Não deixe ela liderar",
+      "path": "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md"
+    },
+    {
       "basename": "Super Pensamento - Modelos Mentais",
       "path": "00.Notes/Super Pensamento - Modelos Mentais.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Estrela Guia",
       "path": "00.Notes/Estrela Guia.md"
-    },
-    {
-      "basename": "Livro Zack Rodie - Não deixe ela liderar",
-      "path": "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md"
     },
     {
       "basename": "Educação Financeira Básica Principios",
@@ -195,10 +199,6 @@
     {
       "basename": "Pentester JR - Try Hack Me",
       "path": "01.Assets/Cursos/Pentester JR - Try Hack Me.md"
-    },
-    {
-      "basename": "Mente Lendaria.",
-      "path": "01.Assets/Cursos/Mente Lendaria..md"
     }
   ],
   "omittedPaths": [
