@@ -348,7 +348,7 @@ Respeite o impulso da sua mente para tentar algo novo.
 - Quando estiver perdido, tenha coragem, é o seu cerebro reunindo informações necessárias pra tomar boas decisões. 
 - ***Aceitando o impulso de tentar coisas novas, é uma maneira de sair mais rápido da reorganização.*** 
 
-## Conflict
+### Conflict
 
 _Conflito_ ocorre quando dois sistemas de controle tentam mudar a mesma percepção. É o que acontece no caso típico da procrastinação: um sistema quer descansar e outro quer trabalhar.
 
@@ -358,7 +358,7 @@ Os conflitos só podem ser resolvidos alterando os Níveis de Referência: como 
 
 [Mudar](https://personalmba.com/change/) a estrutura da situação que cria os níveis de referência que cada parte está usando para definir o sucesso, e você eliminará o conflito.
 
-## Explicação 
+### Explicação 
 
 Sobre a procastinação
 
@@ -388,7 +388,7 @@ Mude os niveis de referencia e você consegue resolver os conflitos.
 
 Se pergunte como você pode mudar xyz situação para resolver os conflitos. 
 
-## Conclusões importantes 
+### Conclusões importantes 
 
 - Um conflito ocorre quando dois sistemas estão tentando ajustar suas percepçõs para os Niveis de Referencia de cada um. 
 - Dai vem o conflito, pois o nivel de referencia individual dos sistemas, automaticamente desbalanceia o nivel do outro sistema. 
@@ -483,4 +483,205 @@ Simulação mental é particularmente poderoso se você aprender a aproveitá-lo
 
 ### Conclusões importantes 
 
-- A simulação mental é extremamente util se você 
+- A simulação mental é extremamente util para antecipar resultados mentalmente, sem você ter uma experiencia previa anterior. 
+- Como por exemplo pular em um vulção, você sabe mentalmente que é uma péssima ideia, porque sua menta através da simulação pensou "Lava é quente", "Quente machuca" etc... 
+- Você só precisa fornecer pra sua mente uma direção ou "Destino Final" dessa forma ela consegue traçar o caminho para se chegar lá. 
+
+Perguntas sobre simulação mental: 
+- Com que frequência você usa sua imaginação para imaginar os resultados ou consequências de ações ou objetivos específicos?
+- Como você poderia reservar mais tempo para simulação mental deliberada?
+
+## Interpretação e reinterpretação
+
+Quando não há informações suficientes para desenvolver um Padrão preciso, o cérebro humano depende de informações e padrões anteriores para fazer _Interpretações_ e preencher as lacunas.
+
+Essas interpretações instantâneas podem ser alteradas por meio de _Reinterpretações_. Você pode mudar suas crenças e simulação mental conscientemente, relembrando e reinterpretando eventos passados.
+
+A reinterpretação é possível porque nossa memória é impermanente. Cada vez que nos lembramos de algo, a nova memória incluirá quaisquer alterações que tenhamos feito nela. 
+
+**Reinterprete seu passado e você melhorará sua capacidade de fazer grandes coisas acontecerem.**
+
+### Explicação
+
+Você já recebeu um e-mail de alguém que o deixou muito irritado, apenas para descobrir mais tarde que você entendeu mal o tom ou a intenção da mensagem? Sua mente chegou a uma conclusão que não era verdadeira com base no que você achava que percebia, apenas para descobrir que havia uma maneira diferente de interpretar a mensagem que também fazia sentido.
+
+Como você não é onisciente, sua mente nunca tem dados completos, então ela preenche automaticamente as partes que faltam interpretando o que você sente por meio dos padrões armazenados na memória.
+
+Na ausência de qualquer outra informação em contrário, você “tirará conclusões precipitadas” confiando na interpretação que sua mente cria.
+
+O cérebro humano depende constantemente de padrões e informações anteriores para fazer _Interpretações_ na ausência de informação.
+
+Seu cérebro faz praticamente a mesma coisa toda vez que você decide que gosta de alguém logo após conhecê-lo - seu cérebro está confiando em Padrões você aprendeu por meio de experiências passadas com outras pessoas a fazer um julgamento rápido.
+
+Esses snap _Interpretações_ pode ser alterado - um processo chamado _Reinterpretação_.
+
+Pense em conhecer uma pessoa atraente que sempre fica quieta e distante quando você está por perto. À primeira vista, o comportamento deles pode indicar que são tímidos ou não gostam muito de você. No entanto, se um dos seus amigos lhe disser que está romanticamente interessado em você, sua interpretação do comportamento passado dessa pessoa pode mudar em um instante.
+
+É possível mudar suas crenças e simulações mentais conscientemente, relembrando e reinterpretando ativamente eventos passados.
+
+Em Recrie sua vida, Morty Lefkoe ensina um processo que pode ser usado para reinterpretar eventos passados de uma forma simples e útil:
+1. Identifique o padrão indesejavel
+2. Nomeie a crença subjacente
+3. Identifique a fonte da crença na memória, incluindo o máximo de detalhes sensoriais possível.
+4. Descreva potenciais interpretações alternativas na memoria.
+5. Perceba que sua crença original é uma interpretação, não uma realidade. 
+6. Escolha concientemente rejeitar a crença original como "falsa" 
+7. Escolha concientemente acreditar na sua reinterpretação como "verdadeira" 
+
+O autor fracassou em uma gestão de uma empresa, e depois passou a acreditar que fracassaria em novos projetos, o que é uma mentira. 
+
+Quando tentei explorar caminhos alternativos, minha mente naturalmente simulou que meu fracasso se estenderia também aos meus novos projetos. Enquanto minha mente confiava nessa interpretação para simular o futuro, eu estava preso em um ciclo autodestrutivo.
+
+Reinterprete seu passado e você aumentará sua capacidade de fazer grandes coisas acontecerem no presente. Basta um pouco de imaginação.
+
+### Conclusões importantes 
+
+- Existe um conceito chamado interpretação, que é o que sua mente concluiu de xyz experiencia. 
+- Como por exemplo, vc ve uma menina que parece fugir ao você chegar perto, automaticamente baseado em experiencias passadas, sua mente pode concluir que ela não gosta de você, ela interpretou isso. 
+- E existe um outro conceito chamado reinterpretação, que é quando você reinterpreta uma experiencia passada. 
+- Como no caso da menina, seus amigos podem te revelar que ela é apaixonada por você, dessa forma sua mente reinterpreta a situação passada. 
+- Isso é muito util para você reinterpretar o seu passado e tirar conclusões disso. 
+
+Perguntas sobre reinterpretação
+ - Você tem alguma crença ou padrão antigo que o deixa com medo ou hesitante em tentar coisas novas?
+ - Existem outras maneiras de interpretar memorias passadas associadas a essas crenças que podem te servir melhor ? 
+
+> “Não vemos as coisas como elas são. Vemos as coisas como somos.”
+
+## Motivação (Motivation)
+
+_Motivação_ é um estado emocional que liga as partes do nosso cérebro que sentem com as partes responsáveis pela ação.
+
+Dois desejos básicos despertam a motivação: 
+1. Avançar em direção a algo.
+2. Fugir de algo indesejável. 
+
+Motivação é uma emoção, não uma atividade lógica. Só porque seu cérebro acha que você deve estar motivado, isso não significa que você ficará motivado automaticamente.
+
+Os conflitos ocorrem quando há sinais de “avançar em direção a” e “afastar-se” ao mesmo tempo. 
+
+Esse mecanismo de defesa foi desenvolvido para evitar riscos no passado, mas a maioria dos riscos presentes não são mais situações de vida ou morte como costumavam ser.
+
+Contanto que também haja sinais “de afastamento” que criem um Conflito, é difícil se sentir motivado a fazer algo. Elimine os conflitos internos que fazem você se afastar de ameaças potenciais e você encontrará sua motivação.
+
+### Explicação 
+
+A motivação é um estádo emocional que liga as partes do nosso cerebro que sentem, e as partes do nosso cerebro que é responsavel por agir. 
+
+Na maioria dos casos, a motivação é automática: nossa mente percebe uma diferença entre a maneira como as coisas são e a maneira como queremos que sejam, e o corpo age para eliminar a diferença.
+
+As duas partes da motivação. 
+1. Correr em direção ao desejo ou fugir da dor. 
+
+Coisas que cumprem nossos principais Impulsos humanos parecem desejáveis. 
+
+Coisas que parecem perigosas assustadoras ou ameaçadoras são indesejaveis, por isso experimentamos um impulso para nos afastarmos delas. 
+
+Fugir tem prioridade em contraste ao ir em direção ao desejo. 
+
+Digamos que você tenha uma oportunidade emocionante de começar um novo negócio. Um sentimento de excitação pode fazer com que você avance em direção a essa oportunidade. Ao mesmo tempo, se a oportunidade exigir que você deixe um emprego bem remunerado que você gosta, o que parece arriscado, você poderá ser obrigado a se afastar da mesma oportunidade, resultando em conflito.
+
+Contanto que o **risco** supere a **excitação**, você hesitará, mesmo que haja muito pouca chance de você estar em perigo pessoal se der o salto.
+
+Esse mecanismo de segurança em nossas mentes se desenvolveu por boas razões, mas hoje, a maioria das decisões que tomamos não tem consequências de vida ou morte.
+
+Motivação é uma emoção, NÃO uma atividade lógica e racional. Só porque seu prosencéfalo acha que você deve ser motivado a fazer algo não significa que você automaticamente se motivará a fazer aquilo.
+
+Muitas vezes, [Simulações Mentais](https://personalmba.com/mental-simulation/), [Padrões](https://personalmba.com/pattern-recognition/), [Conflitos](https://personalmba.com/conflict/), e [Interpretações](https://personalmba.com/interpretation-reinterpretation/) escondido no mesencéfalo pode atrapalhar o progresso em direção ao que queremos realizar. Contanto que haja “afaste-se de” sinais sendo enviados, você terá dificuldade em se sentir motivado a avançar em direção ao que deseja.
+
+Da mesma forma, você não pode “motivar” outras pessoas gritando para elas trabalharem mais rápido.
+
+Tudo o que a abordagem do sargento instrutor faz é fazê-las querer se afastar de você.
+
+Elimine os conflitos internos que o obrigam a se afastar de ameaças potenciais e você experimentará um sentimento de motivação para avançar em direção ao que realmente deseja.
+
+### Conclusões importantes
+
+- A motivação humana é uma emoção, que liga a parte do nosso cerebro mental, com as ações fisicas.
+- A motivação tem duas partes, ir em direção ao prazer ou fugir da dor. 
+- Mas sempre a prioridade mais forte é fugir da dor, você pode ter o desejo, mas se o medo da dor for maior você irá hesitar. 
+- Porque nos tempos das cavernas, fugir de um leão é mais importante do que caçar o almoço. 
+- Esse instinto era para fugirmos de situações que nossa vida estava em risco, hoje em dia não passamos mais por essas situações. 
+- Mas o mesmo instinto de fugir está em nós, e nos atrapalham em várias situações. 
+- Você precisa eliminar os conflitos internos que te obrigam a se afastar das ameaças potenciais. 
+
+**Insights:**
+- Comece a remover os bloqueios que estão te impedindo de avançar. 
+	- O que está te fazendo recuar ? (o medo, a incerteza, a sensação de risco) a motivação aparece após remover os bloqueios.
+- Se pergunte, do que eu estou fugindo aqui nessa situação ? 
+- Reinterpretação é uma alavanca poderosa, você pode reinterpretar a situação como uma oportunidade e não uma ameaça. 
+
+**Perguntas importantes:** 
+- Por que você se sente atraído e do que sente necessidade de se afastar?
+- Como você pode resolver conflitos para eliminar a necessidade de se afastar das coisas, para que você possa se concentrar em avançar em direção ao que você quer?
+
+## Inhibition (Inibição)
+
+> “Inibição é a capacidade de parar: atrasar nossa resposta até que estejamos adequadamente preparados para fazê-la.”
+
+_Inibição_ é a capacidade de anular temporariamente nossas inclinações naturais.
+
+A força de vontade é o combustível da inibição. Sempre que inibimos as nossas respostas naturais ao nosso ambiente, a força de vontade está em acção.
+
+Inibir certas decisões ou respostas pode ser benéfico, mas nossa capacidade de inibir tem limitações (veja Esgotamento da Força de Vontade).
+
+### Explicação 
+
+A verdade é que a maioria das suas ações diarias precisa de muito pouco pensamento conciente. 
+
+Na maioria das vezes, nossos corpos e mentes no piloto automático - nossas mentes sentem o mundo ao nosso redor, comparam nosso ambiente e ações com os **Níveis de Referência internos** e agem de acordo.
+
+Pense em dirigir um carro: com a prática, seu corpo faz tudo o que é necessário para manter o carro na estrada, sem exigir muita reflexão consciente.
+
+De vez em quando, porém, vale a pena ignorar o piloto automático e fazer algo diferente. Se você tropeçar em um urso na floresta, a última coisa que você quer fazer é correr, mesmo que seja isso que seus instintos podem estar lhe dizendo para fazer.
+
+Em vez de correr, na verdade é mais eficaz se manter firme e parecer o mais grande, barulhento e ameaçador possível. Parecer uma ameaça exige que você iniba conscientemente sua resposta natural, mas isso fará com que o urso o veja como uma ameaça e decida deixá-lo em paz.
+
+_Inibição_ é a capacidade de anular temporariamente nossas inclinações naturais.
+
+Se vc já tolerou um irmão seu agindo de forma imatura, desagradavel ou irritante, a inibição te impediu de fazer algo que mais tarde você se arrependeria. 
+
+**Força de Vontade** é o combustivel da inibição. 
+
+Sempre que inibimos as nossas respostas naturais ao nosso ambiente, a força de vontade está em acção. 
+
+Nosso mesencéfalo e rombencéfalo são o piloto automático, e o prosencéfalo é o substituto.
+
+Nesse sentido, “livre-arbítrio” é um pouco enganoso - “livre-arbítrio não” é uma descrição mais precisa.
+
+Inibir certas decisões ou respostas pode ser benéfico, mas nossa capacidade de inibir tem limitações. 
+
+### Conclusões importantes. 
+
+- Em resumo a inibição é a capacidade humana de inibir seus impulsos naturais e inclinações.
+- Como por exemplo quando você se irrita com seu irmão ou irmã que está fazendo gracinha e te irritando, vc fica com raiva, mas se segura, isso é inibição. 
+- A inibição acontece graças a **Força de Vontade**, mas a força de vontade é limitada. Na maior parte do tempo você está agindo no automatico. 
+- Como por exemplo ao dirigir um carro, vc está no automatico, e isso é positivo nesse contexto. 
+- Mas certos contextos é melhor parar e usar a inibição. 
+
+Perguntas sobre ***inibição***: 
+- Com que frequencia vc confia na sua capacidade de inibir suas respostas naturais ? 
+- Vc tenta se inibir demais ou com muita frequencia ? 
+- Vc consegue alterar o seu ambiente para que seja necessário menos inibição ? 
+
+## Status Signals (Sinais de Status)
+
+- Status Signals são indicadores tangíveis de alguma qualidade intangível que aumenta o status social de uma pessoa ou sua afiliação a um grupo.
+- A busca por status faz parte da natureza humana e pode ser aproveitada para o bem ou mal. 
+
+## Explicação 
+
+A todo momento do seu dia, uma parte não trivial do seu cerebro é dedicada a monitorar como você se compara com o resto do mundo. 
+
+- Quem é mais bonito que você. 
+- Quem é mais forte que você. 
+- Quem é mais rico que você. 
+- Quem é mais poderoso que vc. 
+- Quem é mais famoso que você. 
+- Quem é mais habilidoso do que você em determinada área espesifica de habilidade. (independente de vc ser bom ou não nessa area.)
+
+Somos criaturas sociais, somos feitos para sobreviver e prosperar em grupos. 
+
+
+
+
