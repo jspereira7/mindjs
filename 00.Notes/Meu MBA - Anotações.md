@@ -346,9 +346,141 @@ Respeite o impulso da sua mente para tentar algo novo.
 - Não lute contra isso. Mesmo que as vezes seja tentador tentar se convencer que está tudo bem, resistir ou reprimir o impulso de tentar algo diferente retarda seu aprendizado. 
 - Depois que sua mente aprende a trazer a percepção de volta pra regua padrão, essa reorganização para naturalmente.
 - Quando estiver perdido, tenha coragem, é o seu cerebro reunindo informações necessárias pra tomar boas decisões. 
-- Aceitando o impulso de tentar coisas novas, é uma maneira de sair mais rápido da reorganização. 
+- ***Aceitando o impulso de tentar coisas novas, é uma maneira de sair mais rápido da reorganização.*** 
 
-## Parei aqui na Conflict
+## Conflict
 
-https://personalmba.com/human-mind/
+_Conflito_ ocorre quando dois sistemas de controle tentam mudar a mesma percepção. É o que acontece no caso típico da procrastinação: um sistema quer descansar e outro quer trabalhar.
 
+O conflito também ocorre quando as pessoas controlam diferentes resultados que requerem a mesma entrada.
+
+Os conflitos só podem ser resolvidos alterando os Níveis de Referência: como o sucesso é definido pelas partes envolvidas.
+
+[Mudar](https://personalmba.com/change/) a estrutura da situação que cria os níveis de referência que cada parte está usando para definir o sucesso, e você eliminará o conflito.
+
+## Explicação 
+
+Sobre a procastinação
+
+Todos nós procastinamos, nos frustramos quando sabemos que temos xyz momento para fazer algo com antecedencia, mas não temos vontade de fazer agora. 
+
+Parte de nós quer trabalhar, e outra parte não quer. 
+
+Se você tenta se forçar a trabalhar, percebe que se distrai tão facilmente que não se faz muita coisa. Se você tenta descansar, parte de você se sente mal por não estar trabalhando, o que significa que você não está realmente descansando.
+
+Podem passar dias inteiros em que você não trabalha nem descansa de verdade, mas se sente exausto pelo esforço de não fazer nada.
+
+O que dá? _Conflitos_ ocorrem quando dois sistemas de controle tentam mudar a mesma percepção.
+
+A situação é semelhante à de um aquecedor e um ar condicionado lutando para controlar a temperatura em um único cômodo.
+
+Os conflitos só podem ser resolvidos mudando [Níveis de referência](https://personalmba.com/reference-level/)-como o sucesso é definido pelas partes envolvidas.
+
+Tentar resolver um conflito simplesmente chamando a atenção para um comportamento inaceitável é ineficaz da mesma forma que a força de vontade não pode mudar o comportamento diretamente - não está abordando a causa raiz do conflito.
+
+A única maneira de resolver o conflito é mudar o nível de referência de cada parte, o que é melhor feito mudando a estrutura da situação.
+
+Em caso de procrastinação, o conflito pode ser encerrado agendando horários firmes para trabalho e descanso, garantindo o suficiente de cada um.
+
+Em _O hábito agora_, Neil Fiore recomenda a criação de um “Unschedule” que priorize o descanso em detrimento do trabalho. Quando seu cérebro tem certeza de que você receberá todo o relaxamento e prazer de que precisa, e que você só tem um certo tempo para fazer as coisas, é mais fácil se concentrar em fazer um trabalho produtivo.
+
+Mude os niveis de referencia e você consegue resolver os conflitos. 
+
+Se pergunte como você pode mudar xyz situação para resolver os conflitos. 
+
+## Conclusões importantes 
+
+- Um conflito ocorre quando dois sistemas estão tentando ajustar suas percepçõs para os Niveis de Referencia de cada um. 
+- Dai vem o conflito, pois o nivel de referencia individual dos sistemas, automaticamente desbalanceia o nivel do outro sistema. 
+- A melhor maneira de resolver esse conflito é alterando os Niveis de Referencia dos sistemas. 
+- No trabalho, agende horarios fixos para trabalhar e para descansar, dessa forma você irá atender as duas demandas. 
+- Entre um conflito de pessoas, como duas crianças brigando pelo mesmo brinquedo, mude os niveis de referencia delas, para cada uma aceitar o Nivel de Referencia de "Brincar Juntas" 
+
+## Patern Matching (Correspondencia de Padrões)
+
+Seu cerebro é uma maquina de Correspondencia de Padrões, tentando constantemente encontrar padrões e associando-os a padrões anteriores. 
+
+Seu cerebro faz isso simplesmente prestando atenção no mundo. 
+
+Os humanos aprendem padrões atráves da **Experimentação**. 
+
+Os padrões são armazenados em nossa memória, esperando para serem recuperados. 
+
+Esse processo é otimizado para velocidade e ajuda você a lembrar das coisas rapidamente, não com precisão. 
+
+Quanto mais padrões precisos você aprendeu, mais opções você tem ao resolver um problema.
+
+### Explicação 
+
+Muito antes de você saber o que era gravidade, você sabia que uma bola se moveria em direção ao chão se você a soltasse. 
+
+Nas primeiras vezes que você soltava uma bola, ela sempre caía no chão. 
+
+Não foram necessárias muitas experiências assim para você descobrir que qualquer objeto que você soltasse cairia.
+
+Gravidade é apenas um nome para algo que seu cérebro aprendeu sozinho.
+
+Uma das coisas mais interessantes sobre o cérebro é a sua capacidade de aprender e reconhecer padrões automaticamente.
+
+Se uma criança pequena quer ser segurada pela mãe, não demora muito para tentar várias abordagens diferentes e aprender qual resposta normalmente produz o resultado desejado, normalmente “Se eu chorar, a mãe vai me pegar e me segurar.” A partir daí, a criança confiará no padrão sempre que desejar o resultado.
+
+Quanto mais padrões precisos você aprendeu, mais opções você tem ao resolver novos problemas.
+
+[Correspondência de padrões](https://personalmba.com/pattern-matching/) é uma das principais razões pelas quais pessoas experientes tendem a tomar melhores decisões do que pessoas inexperientes: elas aprenderam padrões mais precisos por meio de sua experiência. 
+
+Ter um banco de dados mental maior para extrair é o que dá aos especialistas sua experiência.
+
+A correspondência de padrões é uma das capacidades fundamentais da nossa mente e de como ela funciona. 
+
+Quanto mais padrões precisos você tiver armazenado em sua memória, mais rápida e precisamente você poderá responder a tudo o que a vida lhe reserva.
+
+###  Conclusões importantes 
+
+- A mente humana aprende atráves da correspondencia de padrões, atráves da experiencia. 
+- Quanto mais padrões precisos você tiver, mais opções terá para resolver xyz problema. 
+- Um exemplo disso é um bebe, que tenta diferentes abordagens para a mae o pegar no colo, ao descobrir o padrão certo que " chorar " faz a mae o pegar no colo, sempre que quer isso ele chora. 
+- É por esse motivo que pessoas mais experientes tomam melhores decisões que pessoas inexperientes, porque a mente atráves da Experimentação aprendeu os padrões precisos. 
+
+Perguntas sobre Correspondencia de Padrões: 
+- Quantos padrões vc aprendeu sobre como o mundo funciona ? 
+- O que você pode fazer para se expor a novos padrões e informações diariamente ? 
+
+## Mental Simulation 
+
+Simulação mental é a capacidade da nossa mente de imaginar tomar uma ação espesifica e simular o resultado provavel antes de agir. 
+
+Antecipar o resultado das nossa ações melhora nossa capacidade de resolver novos problemas. 
+
+Simulação mental depende da nossa memória, aprendida atráves da percepção e experiencia. Sem fornecer um objetivo, um destino, a simulação mental não pode existir.
+
+É extremamente poderosa se você aprender a aproveitá-la conciententemente. 
+
+### Explicação 
+
+Rápido: imagine pular no meio de um vulcão ativo. É uma boa ideia?
+
+Responder a essa pergunta levou apenas algumas frações de segundo, mesmo que você nunca tenha pulado pessoalmente em um vulcão ou visto alguém que tenha feito isso.
+
+O que você acabou de fazer é bastante extraordinário: como é possível saber imediatamente a resposta para algo que você nunca considerou antes? Simulação Mental é a capacidade da nossa mente de imaginar tomar uma ação específica e então simular o resultado provável antes de agir.
+
+Nossas mentes estão constantemente tentando prever o que acontecerá no futuro, com base no que está acontecendo ao nosso redor e nas ações que estamos considerando.
+
+Antecipar os resultados das nossas ações é uma vantagem significativa: aumenta dramaticamente a nossa capacidade de resolver novos problemas.
+
+A simulação mental depende da nossa memória - o banco de dados de Padrões que aprendemos por meio da percepção e da experiência.
+
+Quando você imaginou pular em um vulcão, seu cérebro não conseguiu encontrar nenhuma experiência pessoal, mas achou relevante Associações: lava é quente, coisas quentes queimam, queimaduras são dolorosas e perigosas, coisas dolorosas e perigosas são ruins.
+
+A única limitação do que você pode simular é a sua imaginação.
+
+Por exemplo, como você visitaria a Antártida? É uma pergunta aleatória, mas mantendo o Resultado final em mente por alguns segundos, seu cérebro começa automaticamente a conectar os pontos, com base nos Padrões que você aprendeu.
+
+Simulação Mental só funciona se você fornecer um “ponto B(Resultado Final),” mesmo que a ação ou objetivo seja completamente arbitrário - você pode simular o caminho até mesmo para o destino mais irrealista e absurdo que você pode imaginar.
+
+Pense em usar um serviço como o Google Maps ou um sistema de GPS para veículos: o sistema pode fornecer direções precisas, mas não funcionará a menos que você insira um destino.
+
+Simulação mental é particularmente poderoso se você aprender a aproveitá-lo conscientemente, o que exploraremos em detalhes no Experimento Mental.
+
+### Conclusões importantes 
+
+- A simulação mental é extremamente util se você 
