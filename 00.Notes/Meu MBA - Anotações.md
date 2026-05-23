@@ -913,11 +913,136 @@ Observe o sinal de ameaça e faça o que puder para provar à sua mente que a am
 - Para se livrar do bloqueio de ameaça você precisa provar a sua mente que não existe nenhuma ameaça. 
 - As vezes ainda sim é dificil discipar o Bloqueio de Ameaça, porque os hormonios estão correndo na sua pele, uma solução é fazer algum exercicio rápido para disipar os hormonios. 
 - Quando estiver se sentindo sobrecarregado, fazer uma corrida rápida ou levantar pesos pode fazer maravilhas pro seu estado de espirito. 
-## Cognitive Scope Limitation
+## Cognitive Scope Limitation (Limitação do escopo cognitivo)
 
-Parei aqui... 
+_Limitação do escopo cognitivo_ é a maneira como a mente humana tende a simplificar a realidade quando ela se torna muito avassaladora para a mente. É isso que acontece quando você anda na Times Square: você não pode se sentir emocionalmente conectado a tantos estranhos.
 
-https://personalmba.com/human-mind/
+Não é possível expandir o escopo de informações em nossas mentes, simplesmente não conseguimos lidar com tanta realidade.
+
+Personalizar um problema é a melhor maneira de superar essa limitação. Ajuda a personalizar decisões imaginando que elas afetam alguém próximo a nós. E se o seu neto (presente, distante ou metafórico) avaliasse os resultados da sua decisão? E se aparecesse na primeira página do jornal?
+
+### Explicação 
+
+Se vc caminhar na timesquare, vc percebera que para as pessoas que caminham na sua direção, vc não é uma pessoa
+
+Pra eles vc é um objeto, um obstáculo na frente deles para que consigam chegar em seu objetivo 
+
+Como resultado eles vão atropelar você impunentemente
+
+Não importa o quanto alguem seja inteligente, há um limte para o quanto de informação uma unica mente pode lidar, armazenar e responder 
+
+Acima desse limite, as informações podem ser armazenadas em termos abstratos, mas são processadas de forma diferente das informações relacionadas à experiência ou preocupações pessoais desse indivíduo.
+
+De acordo com pesquisas os humanos podem manter até no maximo 150 relacionamentos proximos com as pessoas. 
+
+Acima disso começamos tratar as pessoas como objetos.
+
+Quando ocorre um desastre em algum lugar do mundo que afeta milhões de pessoas, podemos nos sentir mal, mas não sentimos um milhão de vezes o que sentiríamos se esse desastre afetasse diretamente um amigo próximo ou familiar. 
+
+==Quanto mais remota for a ligação, menos esse impacto nos afecta individualmente.
+
+Os turistas na timesquare não são pessoas más, apenas estão sobrecarregados... 
+
+Mais de 364 mil pessoas passam pela Times Square todos os dias e nossas mentes simplesmente não são capazes de lidar com tanta informação ao mesmo tempo.
+
+A mente fica sobrecarregada, então começa a simplificar a realidade para compensar.
+
+A mesma coisa acontece com executivos de grandes empresas
+
+Como resultado esses executivos podem prejudicar as pessoas sem nem perceber
+
+Personalizar um problema é uma forma de hackear essa limitação universal.
+
+Para contornar essa limitação, muitas vezes é útil personalizar decisões e questões imaginando que elas afetam alguém próximo a nós.
+
+A “regra do jornal” e a “regra do neto” são formas eficazes de personalizar os resultados das suas decisões.
+
+A “regra do jornal” é uma simulação do seguinte: suponha que sua decisão foi divulgada na primeira página do New York Times de amanhã, e seus pais e/ou outra pessoa importante a leram. 
+
+O que eles pensariam? Imaginar as consequências pessoais de suas decisões dessa maneira é uma maneira muito mais precisa de avaliar o impacto de decisões de curto prazo.
+
+A “regra do neto” é uma forma de avaliar decisões com consequências a longo prazo. Imagine que, daqui a trinta ou quarenta anos, seu neto lhe dê feedback sobre os resultados de sua decisão. 
+
+Eles vão elogiá-lo por sua sabedoria ou repreendê-lo por sua estupidez?
+
+Personalize os resultados de suas decisões e ações e você terá muito menos probabilidade de entrar em conflito com a Limitação do Escopo Cognitivo.
+
+### Conclusões importantes 
+
+- A mente humana é limitada pela quantidade de informação que consegue lidar. 
+- E por isso ao lidar com uma quantidade grande, a mente simplifica e objetifica as coisas. 
+- Isso é chamado de **Limitação do Escopo cognitivo**
+- > Uma morte é uma tragédia. Um milhão de mortes é uma estatistica
+- Para hackear essa limitação da mente e tomar melhores decisões, considere as regras do jornal e neto. 
+- Ao tomar essa decisão, o que seu neto diria sobre essa sua decisão ? Que foi uma decisão sabia ou você foi estupido ? 
+
+Perguntas para se refletir: 
+- Como você pode personalizar os resultados de ações ou decisões que afetam pessoas fora do seu círculo imediato de colegas?
+- Como você pode se lembrar de usar a ‘regra do jornal’ e a ‘regra do neto’ antes de tomar decisões importantes que afetam outras pessoas?
+
+## Association (Associação)
+
+A mente humana armazena informações contextualmente. Como o cérebro procura padrões, sua mente se forma sem esforço _Associações_, mesmo entre coisas que não estão logicamente conectadas.
+
+Apresentar associações positivas em sua oferta pode influenciar o que as pessoas pensam sobre ela.
+
+Cultive as associações certas e seus clientes vão querer ainda mais o que você tem.
+
+### Explicação 
+
+Quem se importa com quais tacos de golfe Tiger Woods usa? Quem se importa com os sapatos que Michael Jordan usa? Quem se importa com a bolsa que Paris Hilton está carregando? Sua mente se importa.
+
+Lembre-se, seu cérebro absorve informações o tempo todo e as usa para criar padrões que descrevem como o mundo funciona. Racionalmente, essas coisas podem não importar - você provavelmente sabe que usar os mesmos tacos de golfe que Tiger Woods usa não corrigirá magicamente sua fatia atroz.
+
+No entanto, quando chegar a hora de comprar tacos de golfe, sua mente será atraída pelos tacos que fazem você se sentir bem e, muito provavelmente, você achará os tacos que Tiger usa bastante atraentes.
+
+Porque o cérebro é um Correspondência de padrões máquina, está constantemente tentando descobrir o que está associado a quê.
+
+Como resultado, sua mente se forma sem esforço Associações-mesmo entre coisas que não estão logicamente conectadas.
+
+Há décadas, a Coca-Cola Company associa a Coca-Cola a uma única emoção: a felicidade. Faça uma busca rápida por comerciais da Coca-Cola no YouTube: você não encontrará nenhuma imagem de demissões ou funerais.
+
+Considere comerciais de cerveja, que geralmente apresentam mulheres atraentes e homens confiantes.
+
+Sua mente racional sabe que beber um certo tipo de cerveja não o tornará mais atraente ou confiante, mas Correlação é poderoso - seu cérebro fará o Associação de qualquer forma.
+
+Como resultado, os anúncios de cerveja influenciam o comportamento, mesmo que ninguém leve a sério as imagens que eles contêm.
+
+Apresentar associações positivas aos seus clientes potenciais pode influenciar a maneira como eles pensam sobre o que você oferece. Os endossos de celebridades funcionam porque estão vinculados a fortes associações que as pessoas já têm com os endossantes, associações que afetam o produto ou serviço que está sendo endossado.
+
+Todo mundo sabe que James Bond é um personagem fictício, mas quando Daniel Craig aparece vestindo um smoking em um anúncio de relógio, a associação “de espiões internacionais sofisticados” é automaticamente transferida para o relógio.
+
+Cultive as associações certas e os clientes em potencial desejarão ainda mais o que você tem.
+
+### Perguntas sobre ‘Associação’
+
+- Com o que seus clientes associam sua oferta atualmente?
+- Você poderia cultivar associações que gostaria que seus clientes em potencial tivessem em relação às suas ofertas?
+
+
+## Escassez 
+
+Escassez incentiva as pessoas a agirem rapidamente. Se as pessoas acham que podem perder a chance de adquirir o que você oferece, elas podem correr o risco.
+
+A Aversão à Perda garante que a possibilidade de perder pareça ruim o suficiente para levá-los a agir agora. Escassez faz com que esperar pareça uma perda.
+
+Aqui estão algumas maneiras de criar Escassez:
+
+Quantidades Limitadas
+Aumentos de preços num futuro próximo
+Diminuições de preços que terminarão num futuro próximo
+Prazos
+Adicione um elemento de Escassez à sua oferta, e você incentivará as pessoas a comprar agora em vez de mais tarde.
+
+### Conclusões importantes 
+
+- Devido a conservação de energia, as pessoas tem uma tendencia natural de decidir fazer as coisas mais tarde, a menos que haja uma razão convincente para agir agora.
+- _Escassez_ incentiva as pessoas a tomarem decisões rapidamente.
+- Como resultado, adicionar um elemento de escassez à sua oferta é uma ótima maneira de incentivar as pessoas a agir.
+
+## 
+
+
 
 
 

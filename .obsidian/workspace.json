@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/High5 Strengs.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of High5 Strengs"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -303,7 +303,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "956977402fa64091",
+  "active": "131cb54f08ff3359",
   "lastOpenFiles": [
     "00.Notes/High5 Strengs.md",
     "00.Notes/Meu MBA - Anotações.md",
