@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "High5 Strengs",
+      "path": "00.Notes/High5 Strengs.md"
+    },
+    {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tim Ferriss Book Recommendations",
       "path": "01.Assets/Clippings/Tim Ferriss Book Recommendations.md"
-    },
-    {
-      "basename": "Pentester JR - Try Hack Me",
-      "path": "01.Assets/Cursos/Pentester JR - Try Hack Me.md"
     }
   ],
   "omittedPaths": [
