@@ -1,5 +1,8 @@
 # Top 5 Strengs (Focus)
-Your HIGH5 strengths represent your greatest potential for success and fulfillment. Research confirms these dominant strengths 1-5 offer your clearest path to professional excellence and personal satisfaction when applied daily.
+
+Your HIGH5 strengths represent your greatest potential for success and fulfillment. 
+
+Research confirms these dominant strengths 1-5 offer your clearest path to professional excellence and personal satisfaction when applied daily.
 ## Philomath
 
 Your objective is to learn new things. 
@@ -23,7 +26,9 @@ It’s not that you don’t like ideas, concepts and theories — it’s that yo
 
 And what better way to prove something than with data? Although unbearable for some, large quantities of data make you feel like a fish in water. 
 
-It helps you be objective, unbiased and dispassionate. You’re constantly on the lookout for the patterns, connections and causes behind any result. 
+It helps you be objective, unbiased and dispassionate. 
+
+You’re constantly on the lookout for the patterns, connections and causes behind any result. 
 
 Others see you as logical and rigorous, and often come to you for your unbiased perspective on ideas. 
 
@@ -31,15 +36,39 @@ Being able to deliver your analysis kindly makes you a great asset to any team f
 
 ## Winner
 
-Your objective is to compete with others to win. In your mind, only losers believe that participating is more important than winning. Competitions are created to select one winner only because, in the end, the results are a measured comparison to others. And no one but you knows the real taste of victory! Since you compete to win, you also tend to participate in events where you feel more likely to do so. Sometimes it doesn’t even matter what you compete for — it’s being number one that excites you. People like being on your team because you take competition to an entirely new level. You infuse passion into the game and make sure victory is celebrated accordingly.
+Your objective is to compete with others to win. 
+
+In your mind, only losers believe that participating is more important than winning.
+
+Competitions are created to select one winner only because, in the end, the results are a measured comparison to others. 
+
+And no one but you knows the real taste of victory! Since you compete to win, you also tend to participate in events where you feel more likely to do so. 
+
+Sometimes it doesn’t even matter what you compete for — it’s being number one that excites you. 
+
+People like being on your team because you take competition to an entirely new level. 
+
+You infuse passion into the game and make sure victory is celebrated accordingly.
 
 ## Thinker 
 
-Your objective is to think. Some get excited by exercising their biceps and triceps, but you prefer to stretch your “brain muscles” through deep thought. This, however, does not necessarily mean that you are very focused. It simply means that you enjoy mental activity and meaningful conversations. In fact, you are your own best companion on your mind journeys. This introspection allows you to digest complex information and ideas before communicating them with the outside world. Who wouldn’t like to have a team member who can simplify sophisticated concepts in a way that even three year olds can understand?
+Your objective is to think. Some get excited by exercising their biceps and triceps, but you prefer to stretch your “brain muscles” through deep thought. 
+
+This, however, does not necessarily mean that you are very focused. It simply means that you enjoy mental activity and meaningful conversations. 
+
+In fact, you are your own best companion on your mind journeys. This introspection allows you to digest complex information and ideas before communicating them with the outside world. 
+
+Who wouldn’t like to have a team member who can simplify sophisticated concepts in a way that even three year olds can understand?
 
 ## Self-Believer 
 
-Your objective is to radiate confidence. You are not worried by what the future holds and, deep inside your heart, you know you will get through no matter what happens. Your inner confidence and self-motivation allow you to take risks, face new challenges, stake claims, and most importantly, deliver on your word. Your confidence applies not only to your abilities but also to your judgments. You seem to make the right decisions in all situations, which, for others, creates a sense of trust and security. This feeling of certainty is crucial for driving the decision-making process in any team.
+Your objective is to radiate confidence. You are not worried by what the future holds and, deep inside your heart, you know you will get through no matter what happens. 
+
+Your inner confidence and self-motivation allow you to take risks, face new challenges, stake claims, and most importantly, deliver on your word. 
+
+Your confidence applies not only to your abilities but also to your judgments. You seem to make the right decisions in all situations, which, for others, creates a sense of trust and security. 
+
+This feeling of certainty is crucial for driving the decision-making process in any team.
 
 # Secondary strengths (Leverage)
 
