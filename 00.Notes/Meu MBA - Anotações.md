@@ -166,7 +166,170 @@ Monoidealismo é o estado de concentrar sua atenção e energia em apenas uma co
 
 Como induzir um estado de fluxo: 
 - Elimine possiveis distrações e interrupções
-- Elimine confl
+- Elimine conflitos internos
+- Inicie o processo de atenção fazendo uma "pausa" de trabalho produtivo para entrar no fluxo rapidamente. Vc pode parar depois dessa corrida, mas é provavel que continue. 
+
+Se você eliminar distrações e conflitos antes de iniciar sua corrida, você fará uma transição rápida para um estado Monideal.
+
+### Explicação 
+
+Monoidealismo: 
+
+É a capacidade (ou estado) de **focar em uma única ideia de cada vez** — deixar que um pensamento domine completamente sua mente por um momento, excluindo os outros.
+
+O nome já entrega tudo: _mono_ (um) + _ideia_ + _ismo_ (estado/princípio).
+
+Sua mente não consegue processar duas ideias com profundidade ao mesmo tempo. Quando você tenta, uma delas sempre fica em segundo plano. O monoidealismo é justamente aproveitar isso de forma intencional — escolher _qual_ ideia ocupa o centro.
+
+Exemplo: 
+
+Pensa num jogador batendo pênalti. No momento do chute, se a mente dele está em **duas ideias ao mesmo tempo** — _"preciso acertar"_ e _"e se eu errar?"_ — ele está dividido.
+
+O monoidealismo seria estar completamente ocupado apenas por uma: _"canto direito, firme, no chão."_ Nada mais existe.
+
+Isso tambem pode ser chamado de estado de flow, onde sua mente está completamente concentrada em apenas uma ideia. 
+
+Quando tentamos ser produtivos o que estamos exatamente buscando ? Idealmente, você deseja concentrar todos os poderes de sua energia e atenção em um unico assunto de cada vez. 
+
+Monoidealismo é concentrar sua energia e atenção em apenas uma coisa, sem conflitos. 
+
+Monoidealismo é frequentemente chamado de estado de fluxo.
+
+Este é o estado da atenção humana em sua forma mais produtiva: atenção clara e focada e esforço direcionado a um (e somente um) sujeito por um longo período de tempo.
+
+Corretamente, “monoidealismo” é simplesmente o estado em que você tem exatamente uma coisa em mente, sem conflitos.
+
+É uma condição que faz com que alguém naturalmente tome uma atitude em relação ao pensamento, e não uma técnica em si. A utilidade de uma técnica de produtividade específica para um indivíduo específico dependerá em grande parte de se ela aborda seus obstáculos específicos para atingir um estado monoideal.
+
+Quando você está “apenas fazendo isso”, você está em “fluxo” — um estado monoideal. Não há distrações, nem interrupções, nem autojulgamentos ou dúvidas. Quando sua mente está no modo 100% “fazer”, você inevitavelmente faz muita coisa.
+
+1. **Primeiro elimine distrações** (Pode levar de 10-30 minutos até que sua mente se concentre somente no que está fazendo)
+	1. a prioridade n1 é garantir que vc não se distraia. 
+	2. O autor desliga a internet enquanto está escrevendo, tornando mais facil atingir um nivel monoideal. Dificultando que ele navegue na web, quando as coisas ficarem dificeis. 
+2. **Elimine Conflitos internos.**
+	1. As vezes é dificil começar porque vc está passando por uma briga entre dois sistemas de controle em sua mente. 
+	2. Eliminando esses conflitos, vc consegue entrar no estado monoideal com facilidade.
+	3. Uma boa maneira de fazer isso é explorar essa resistencia mental, atraves da simulação mental e Reinterpretação, o que irá te ajudar a redefinir o conflito interno. 
+3. **Inicie o processo fazendo um dash**
+	1. reserve de 10 a 30 minutos para uma rapida explosão de trabalho focado, tornando mais facil entrar nessa zona rapidamente. 
+	2. Se não estiver sendo produtivo após esse tempo, vc pode para e fazer outra coisa. 
+	3. Use a técnica **pomodoro** 25 minutos focado, e 5 minutos livre, focalizando um total de 30 minutos. 
+
+### Conclusões importantes 
+- Monoidealismo é quando nossa mente está focada em uma só ideia, por isso se chama "mono-idealismo" 
+- E quando estamos nesse estado de monoidealismo, conseguimos fazer muitas coisas com mais efetividade. 
+- Esse é o mesmo conceito de estado de flow, que é tão propagado. 
+- Uma estrategia para provocar esse estádo é usar pomodoro. 
+
+Perguntas sobre monoidealismo: 
+- Com que frequencia vc se encontra trabalhando em um estado monoideal ? 
+	- R: Hoje em dia acredito que consigo até bem entrar nesse estado monoideal. principalmente com o pomodoro. 
+- Usando as tecnicas acima vc pode reestruturar seu trabalho para torná-lo mais facil de "apenas faze-lo?"
+	- R: Sim, atraves da tecnica de pomodoro acredito que consigo sim, colocando as tarefas no todoist e fazendo-elas em bloco de tempo pomodoro. 
+
+> Just do it. Slogan da Nike 
+
+## Penalidade de troca cognitiva 
+
+Cada vez que você muda sua atenção de um assunto para outro, você incorre no _Penalidade de troca cognitiva_. Seu cérebro gasta tempo e energia destruindo, carregando e recarregando contextos.
+
+Neurologicamente, a multitarefa é impossível. Você não está realmente fazendo duas coisas, você está mudando sua atenção de uma coisa para outra. 
+
+A multitarefa produtiva é um mito.
+
+**Para evitar trocas improdutivas, é melhor agrupar tarefas semelhantes.**
+
+Dessa forma, seu cérebro precisa carregar o contexto na memória de trabalho apenas uma vez. Você fará mais com menos esforço.
+
+### Explicação 
+
+Devido ao monoidealismo é neurologicamente impossivel realizar duas coisas bem ao mesmo tempo. 
+
+Quando você tenta fazer mais de uma coisa ao mesmo tempo, você não está realmente processando paralelamente: você está rapidamente mudando sua atenção de uma coisa para outra. Enquanto você presta atenção à Tarefa A, você ignora a Tarefa B até voltar a ela. Como resultado, a multitarefa produtiva é um mito.
+
+De acordo com vários estudos neurológicos recentes, quanto mais coisas você tenta prestar atenção em um determinado momento, mais seu desempenho em todas elas sofre. É por isso que nunca é uma boa ideia falar ao celular enquanto dirige. 
+
+Ao tentar se concentrar em duas coisas ao mesmo tempo, seus tempos de reação diminuem para o mesmo nível de alguém que está dirigindo embriagado.
+
+==Para agir, seu cérebro precisa “carregar” o contexto do que você está fazendo na memória de trabalho. Se você muda constantemente o foco da sua atenção, você está forçando seu cérebro a gastar tempo e esforço debatendo, carregando e recarregando contextos repetidamente.
+
+É por isso que é possível passar um dia inteiro fazendo várias tarefas ao mesmo tempo, não fazer nada e se sentir exausto no final — você queimou toda a sua energia mudando de contexto em vez de progredir.
+
+A penalidade de troca cognitiva é atrito ou custo: Quanto menos você mudar de contexto menor será o custo. 
+
+Para evitar penalidades de troca de contexto cognitivo, uma estrategia eficiente é agrupar tarefas parecidas. 
+
+Normalmente quando vou fazer algum trabalho criativo como escrever, separo algumas horas ininterruptas pra fazer essa atividade. 
+
+Eu uso uma estratégia semelhante ao fazer tarefas, atualizar relatórios financeiros ou fazer recados: dedicarei algumas horas exclusivamente a essas tarefas. Como resultado, realizo tudo o que preciso fazer em muito pouco tempo.
+
+Paul Graham, capitalista de risco, programador e ensaísta, chama essa estratégia de agrupamento de “Cronograma do Criador / Cronograma do Gerente” Se você está tentando criar algo, a pior coisa que você pode fazer é tentar encaixar tarefas criativas entre tarefas administrativas. A troca de contexto prejudicará sua produtividade.
+
+A “Agenda do Criador” consiste em grandes blocos de tempo ininterrupto; a “Agenda do Gerente” é dividida em muitos pequenos blocos para reuniões. Ambos os cronogramas atendem a propósitos diferentes. Só não tente combiná-los se seu objetivo é realizar um trabalho útil.
+
+Uma regra prática simples que uso para planejar meu dia é o método 3/10/20: em um dia, tenho capacidade para terminar 3 tarefas principais e 10 tarefas menores. Uma tarefa importante é qualquer atividade que exija mais de 20 minutos de concentração focada; todas as outras tarefas são menores. Se uma tarefa importante for interrompida, reiniciá-la conta como uma nova tarefa.
+
+Contanto que eu reserve grandes períodos de tempo para minhas principais tarefas, posso realizar tudo em um único dia. Se eu for interrompido no meio de uma tarefa importante, essa tarefa não será concluída naquele dia, ou outra tarefa importante terá que escapar. Ter em mente que há um limite para o que posso realizar em um único dia torna mais fácil manter Estresse e Recuperação em equilíbrio.
+
+Elimine a troca improdutiva de contexto e você conseguirá fazer mais com menos esforço.
+
+### Conclusões importantes 
+
+- A penalidade de troca cognitiva é uma multa de energia que sua mente sofre ao mudar de contexto. 
+- Isso acontece devido a mente ter que carregar o contexto na memoria de trabalho, toda vez que você troca para uma atividade diferente. 
+- Uma estrategia eficiente é agrupar tarefas parecidas para executá-las de uma só vez. 
+- Use a regra 3/10/20: Você só consegue executar 3 tarefas importantes em um dia, tarefas importantes são aquelas que demoram mais de 20 minutos focados. e consegue fazer 10 tarefas menos importantes. 
+	- Tarefas importantes: Pode ser revisar um livro, consultar um cliente etc... 
+	- Tarefas secundarias (menores): ligações breves, responder emails, ler artigos, lavar a louça, limpar o escritorio. 
+- Contanto que vc reserve tempo suficiente para as tarefas maiores do dia, você conseguirá realizar tudo em um dia. 
+- Ter em mente que existe um limite para o quanto vc consegue realizar em um dia ajuda a manter o Estresse e Recuperação em equilibrio. 
+- Elimine a troca de contexto e você conseguirá fazer mais em menos tempo e esforço. 
+
+Perguntas importantes: 
+- Com que frequencia você tenta fazer várias tarefas ao mesmo tempo ? 
+	- R: Acredito que com bastante frequencia, estou sempre mudando de contexto. 
+- Você pode reorganizar sua agenda para agrupar tarefas semelhantes ? 
+	- Sim, minha agenda é bem flexivel acredito. 
+
+## Os 4 método de conclusão 
+
+A ideia é simples: toda tarefa que existe na sua lista só pode ser tratada de 4 formas — **Completar, Eliminar, Delegar ou Adiar.**
+
+ Os 4 métodos
+
+**Completar** — Fazer a tarefa você mesmo. Melhor para tarefas importantes que só você consegue fazer bem. Se outra pessoa pode fazer, considere os outros métodos.
+
+**Deletar** — Eliminar a tarefa completamente. Eficaz para qualquer coisa sem importância ou desnecessária. Se não vale a pena fazer, não vale a pena fazer bem ou rápido. 
+
+**Delegar** — Passar para outra pessoa. Eficaz para qualquer coisa que outra pessoa consiga fazer com 80% da sua qualidade. Não precisa ser perfeito — 80% já resolve. 
+
+**Adiar** — Empurrar para depois. Eficaz para tarefas que não são críticas nem dependem de prazo. Kaufman sugere uma lista "algum dia / talvez" para essas tarefas — você registra sem se comprometer agora.
+
+### Explicação
+
+Na sua lista de tarefas existem apenas 4 formas de lidar com as tarefas nela contidas: 
+- **Conclusão:** fazer a tarefa vc mesmo, isso é bom para tarefas que só você pode fazer bem, a maioria das pessoas acredita que na lista de tarefas delas, todas as tarefas são da responsabilidade dela concluir. 
+- **Exclusão:** eliminar a tarefa, é eficaz pra qualquer coisa que n seja importante ou seja desnecessária. Se algo na sua lista não é importante, elimine. Não hesite em se livrar disso. 
+- **Delegar:** atribuir a tarefa a outra pessoa, é eficaz pra qualquer coisa que outra pessoa possa fazer 80% tão bem quanto você. Para delegar, vc deve ter alguem para quem delegar. Funcionários, contratados ou terceirizados podem te ajudar a fazer mais coisas concluindo tarefas por você. 
+	- Se você não tem ninguem para delegar tarefas rotineiras, trabalhar com uma empresa de assistentes virtuais pode ser bastante util. Por menos de 100 dolares por mês, você pode contar com uma equipe de profissionais para te ajudar a fazer as coisas. Se vc tem pouca experiencia com delegação, é um ótimo experimento. 
+- **Adiamento** adiar a tarefa para mais tarde, é eficaz para tarefas que não são criticas ou dependentes de tempo.
+	- N se sinta mal ao adiar, a melhor maneira de se atolar é tentar lidar com várias coisas ao mesmo tempo. 
+
+Em fazendo as coisas acontecerem, o autor diz que é importante manter uma lista de "algum dia/talvez" de coisas que vc gostaria de fazer um dia, mas que não são importantes agora. 
+
+Use todas as quatro opções ao processar sua lista de tarefas e você fará mais do que jamais imaginou ser possível.
+
+### Conclusões importantes 
+
+- A maioria das pessoas acredita que as tarefas em sua lista, são as coisas que ela precisa fazer, que precisa fazer tudo, mas não é verdade, existem 4 maneiras de lidar com uma tarefa. 
+- **Conclusão**: é quando uma tarefa é importante e só você consegue faze-lá bem. 
+- **Exclusão**: quando uma tarefa não é importante, ou é desnecessária, elimine sem dó. 
+- **Delegação**: Quando uma pessoa pode fazer 80% bem a tarefa, delegue sem dó, se vc não tem prática com delegar, use uma empresa de assistentes virtuais para tarefas rotineiras, é uma experiencia legal. 
+- **Adiamento**: Adiar tarefas que não são importantes agora, adie sem peso na conciencia. 
+
+Perguntas: 
+- Faça uma lista de todas as coisas na sua mente, quais dessas podem ser excluidas, delegadas ou adiadas para uma data posterior? 
+- q
 
 ------
 # The Human Mind
