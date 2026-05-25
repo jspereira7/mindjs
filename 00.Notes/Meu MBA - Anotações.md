@@ -92,6 +92,84 @@ Em caso de duvida, considere como seus ancestrais viveram e aja de acordo.
 - Você está fornecendo pro seu corpo tudo que ele necessita ? Todas as suas necessidades fisicas estão sendo atendidas ?
 - O que vc pode fazer para melhorar ? 
 
+## Akrasia - Agir contra o próprio julgamento
+
+**Akrasia** é quando você _sabe_ o que deveria fazer, mas faz outra coisa. É a distância entre intenção e ação.
+
+Exemplo clássico: você sabe que deveria dormir cedo, mas fica no celular até as 2h. Não é falta de informação. Não é ignorância. É que, no momento da decisão, a versão impulsiva de você venceu a versão racional.
+
+Os gregos usavam esse conceito para descrever uma fraqueza de vontade — não preguiça, não burrice, mas uma falha na _execução_ do que você já decidiu que é certo.
+### Explicação 
+
+A rotina é engraçada porque é muito familiar. 
+
+Todos nós já tivemos a experiência de saber ou sentir que deveríamos fazer algo, ou que uma ação seria do nosso melhor interesse... mas não fazemos isso. 
+
+O termo para essa experiência é _Acrásia_ (pronuncia-se “ah-KRAH-see-ah”).
+
+Acrásia e procrastinação estão relacionadas, mas não são a mesma coisa.
+
+A procrastinação ocorre quando você decide concluir uma tarefa, mas continua adiando-a para mais tarde, sem decidir conscientemente fazê-la mais tarde.
+
+Se você tem “responder e-mail” na sua lista de tarefas, mas navega na internet por horas sem responder a nenhum e-mail, isso é procrastinação.
+
+**Akrásia é uma questão mais profunda:** é um sentimento geral de que você “deveria” fazer algo, sem necessariamente decidir fazê-lo. 
+
+O sentimento de "deveria" não leva a decisão ou ação, mesmo que a ação pareça ser do seu interrese. 
+- " Eu deveria parar de fumar " 
+
+O sentimento "deveria" permanece, mas nunca leva a ação, gerando intensa frustração. 
+
+O termo vem do grego ἀκρασία, que significa “falta de comando (sobre si mesmo).
+
+Embora os filosofos discutam sobre a séculos, nenhum chegou a uma cura definitiva pra isso. 
+
+É util ter uma estrategia para reconhecer e combater a akrasia quando ela aparece.
+
+Na minha experiencia, akrasia tem 4 partes gerais: uma tarefa, um desejo/querer, um "deveria" e uma experiencia emocional de resistencia. 
+
+E podem existir muitas fontes potenciais de resistencia: 
+1. Não consegue definir o que quer 
+2. Você sente que uma tarefa te aproxima de algo que vc não quer. 
+3. Vc não consegue descobrir como vai ir de onde está agora para onde quer estar. 
+4. Você idealiza o desejado resultado final a ponto de sua mente estimar baixa probabilidade de realização, resultando em Aversão a perda. 
+5. O "deveria" foi definido por outra pessoa, resultando em resistencia a persuasão. 
+6. Algo no momento imediato fornece gratificação imediata, enquanto esse algo que vc deveria fazer só fornece á longo prazo. (Desconto hiperbólico)
+7. Os beneficios da ação são abstratos e distantes, enquanto outras ações te darão beneficios concretos e imediatos ("teoria do nivel de construção")
+
+Situações akraticas podem assumir muitas formas: 
+- Comer biscoito x ser saudavel
+- Navegar na internet x trabalhar realmente
+- Continuar em um relacionamento ruim x seguir em frente
+- Sonhar com uma ideia de negocio x testá-la. 
+
+Sempre que você "deveria" fazer algo mas resiste em faze-lo vc experimenta akrasia. 
+
+Isso é uma problema escorregadio e não existe uma solução facil e universal. Dito isso existem muitas soluções que discutiremos juntos nesse capitulo. 
+
+### Conclusões importantes 
+- Akrasia é um sentimeno que ocorre quando você sente que deveria fazer algo, mas não tomou a decisão ou ação de fazer. 
+- É diferente de procastinação, onde vc já tomou a decisão de fazer, mas está adiando. 
+- Dito isso, nesse capitulo de trabalhando melhor consigo mesmo, vc descobrirá estrategias para lidar melhor com isso. 
+
+Perguntas sobre akrasia: 
+- Quando vc tende a experimentar akrasia ? 
+	- R: Sinto isso quando eu sei que algo funciona, e eu deveria continuar fazendo isso, mas prefiro testar outras coisas, como eu sei que deveria continuar focando em TikTokAds, mas decido ir atrás de outras coisas. 
+- O que vc faz quando percebe uma situação de akrasia ? 
+	- R: Eu geralmente fico resistindo. 
+
+> “Algumas das maiores batalhas serão travadas dentro das câmaras silenciosas da sua própria alma.”
+
+## Monoidealismo
+
+Monoidealismo é o estado de concentrar sua atenção e energia em apenas uma coisa. É com frequencia chamado de estado de fluxo: Atenção clara e focada em um assunto por um longo periodo de tempo. 
+
+Como induzir um estado de fluxo: 
+- Elimine possiveis distrações e interrupções
+- Elimine confl
+
+------
+# The Human Mind
 ## The onion Brain (Cerebro de cebola)
 
 O _Cérebro de cebola_ é uma maneira fácil de lembrar como o cérebro é construído: ele tem camadas, como uma cebola.
@@ -609,7 +687,7 @@ Elimine os conflitos internos que o obrigam a se afastar de ameaças potenciais 
 - Comece a remover os bloqueios que estão te impedindo de avançar. 
 	- O que está te fazendo recuar ? (o medo, a incerteza, a sensação de risco) a motivação aparece após remover os bloqueios.
 - Se pergunte, do que eu estou fugindo aqui nessa situação ? 
-- Reinterpretação é uma alavanca poderosa, você pode reinterpretar a situação como uma oportunidade e não uma ameaça. 
+- **Reinterpretação** é uma alavanca poderosa, você pode reinterpretar a situação como uma oportunidade e não uma ameaça. 
 
 **Perguntas importantes:** 
 - Por que você se sente atraído e do que sente necessidade de se afastar?
@@ -669,7 +747,7 @@ Perguntas sobre ***inibição***:
 - Status Signals são indicadores tangíveis de alguma qualidade intangível que aumenta o **status social** de uma pessoa ou sua afiliação a um grupo.
 - A busca por status faz parte da natureza humana e pode ser aproveitada para o bem ou mal. 
 
-## Explicação 
+### Explicação 
 
 A todo momento do seu dia, uma parte não trivial do seu cerebro é dedicada a monitorar como você se compara com o resto do mundo. 
 
@@ -762,8 +840,8 @@ Existem milhões de maneiras de obter melhores resultados em áreas importantes 
 
 ### Conclusões importantes 
 
-- O mal funcionamento do status diz que quanto mais algo possui status, mais provavel de que não valha a pena, e mais provavel que vc descarte as desvantagens dessa opção, só pelo desejo humano por status. 
-- Esse modelo mental tambem te ajuda a identificar oportunidades que não possuem status, mas que são altamente lucrativas, como negócios manuais e etc... 
+- O mal funcionamento do status diz que quanto mais algo possui status, mais provavel de que não valha a pena, e mais provavel que vc descarte as desvantagens dessa opção, só pelo desejo humano por status.
+- Esse modelo mental tambem te ajuda a identificar oportunidades que não possuem status, mas que são altamente lucrativas, como negócios manuais e etc.
 - Ignore as distrações atraentes e se concentre em fazer o que funciona. 
 
 > “Os seres humanos, que são quase únicos por terem a capacidade de aprender com a experiência dos outros, também são notáveis por sua aparente relutância em fazê-lo.”
@@ -821,10 +899,10 @@ Elimine essa percepção de risco oferecendo uma garantia de devolução do dinh
 
 ### Conclusões importantes 
 
-- A aversão a perda é o que explica que as pessoas são mais motivadas pelo medo de perder, do que a vontade de ganhar. 
-- Isso era util nos tempos das cavernas, para nos ajudar na sobrevimencia. 
+- A aversão a perda explica que as pessoas são mais motivadas pelo medo de perder, do que a vontade de ganhar. 
+- Isso era util nos tempos das cavernas, para nos ajudar na sobrevivencia. 
 - Mas hoje em dia não passamos os mesmos riscos de morte como nos tempos das cavernas. 
-- Por isso evite se paralisar pela aversão a perda, reinterpretando as situações de risco como se fosse "nada de mais" 
+- Por isso evite se paralisar pela aversão a perda, reinterpretando as situações de risco como se fosse "nada de mais".
 - Como vendedores que oferecem garantias, para deixar seus clientes seguros contra a aversão a perda. 
 
 Perguntas sobre a aversão a perda: 
@@ -908,10 +986,10 @@ Observe o sinal de ameaça e faça o que puder para provar à sua mente que a am
 ### Conclusões importantes 
 - O bloqueio de ameaças é uma reação do nosso corpo para lidar com ameaças. 
 - Ela faz uma das 3 coisas para lidar com a ameaça (Lutar, Fugir ou congelar)
-- Sua mente atraves da Simulação Mental, preve se você consegue ganhar a luta, então ela irá lutar, se ela prever que você consegue sobreviver correndo, você correrá etc... 
+- Sua mente atraves da **Simulação Mental**, preve se você consegue ganhar a luta, então ela irá lutar, se ela prever que você consegue sobreviver correndo, você correrá etc... 
 - Mas novamente esses tipos de ameaças não ocorrem nos dias modernos de hoje, mas esse instinto ainda ocorre. 
 - Para se livrar do bloqueio de ameaça você precisa provar a sua mente que não existe nenhuma ameaça. 
-- As vezes ainda sim é dificil discipar o Bloqueio de Ameaça, porque os hormonios estão correndo na sua pele, uma solução é fazer algum exercicio rápido para disipar os hormonios. 
+- As vezes ainda sim é dificil discipar o **Bloqueio de Ameaça**, porque os hormonios estão correndo na sua pele, uma solução é fazer algum exercicio rápido para disipar os hormonios. 
 - Quando estiver se sentindo sobrecarregado, fazer uma corrida rápida ou levantar pesos pode fazer maravilhas pro seu estado de espirito. 
 ## Cognitive Scope Limitation (Limitação do escopo cognitivo)
 
@@ -970,11 +1048,12 @@ Personalize os resultados de suas decisões e ações e você terá muito menos 
 ### Conclusões importantes 
 
 - A mente humana é limitada pela quantidade de informação que consegue lidar. 
-- E por isso ao lidar com uma quantidade grande, a mente simplifica e objetifica as coisas. 
+- E por isso ao lidar com uma quantidade grande de informações, a mente simplifica e objetifica as coisas. 
 - Isso é chamado de **Limitação do Escopo cognitivo**
 - > Uma morte é uma tragédia. Um milhão de mortes é uma estatistica
 - Para hackear essa limitação da mente e tomar melhores decisões, considere as regras do jornal e neto. 
 - Ao tomar essa decisão, o que seu neto diria sobre essa sua decisão ? Que foi uma decisão sabia ou você foi estupido ? 
+- Se amanha essa sua decisão aparecesse no jornal, o que as pessoas diriam sobre você e sua decisão ? 
 
 Perguntas para se refletir: 
 - Como você pode personalizar os resultados de ações ou decisões que afetam pessoas fora do seu círculo imediato de colegas?
@@ -1040,8 +1119,48 @@ Adicione um elemento de Escassez à sua oferta, e você incentivará as pessoas 
 - _Escassez_ incentiva as pessoas a tomarem decisões rapidamente.
 - Como resultado, adicionar um elemento de escassez à sua oferta é uma ótima maneira de incentivar as pessoas a agir.
 
-## 
+## Novidade (novelty)
 
+***Novidade*** nos humanos é a presença de novos dados sensoriais. Novidade é fundamental se você deseja atrair e manter a atenção por um longo periodo de tempo. 
+
+Mesmo o mais notável objeto fica chato com o tempo. A atenção humana precisa de novidades para se sustentar. 
+
+Continue oferecendo algo novo, e as pessoas continuarão prestando atenção. 
+
+### Explicação 
+
+Aqui está o que Mackworth descobriu: depois de dez minutos olhando para o relógio, a qualidade da atenção da operação caiu drasticamente.
+
+O período máximo de atenção sustentada que mesmo operadores altamente motivados (que receberam bônus substanciais por desempenho) conseguiram sustentar foi de 30min, e eles inevitavelmente se desligariam.
+
+_Novidade_- a presença de novos dados sensoriais - é fundamental se você deseja atrair e manter a atenção por um longo período de tempo.
+
+Uma das razões pelas quais as pessoas podem se concentrar em jogar ou navegar na Internet por horas a fio é a novidade: cada novo vídeo viral, postagem de blog, atualização do Facebook, postagem no Twitter e reportagem retoma nossa capacidade de prestar atenção.
+
+Em ***Regras do Cérebro***, John Medina compartilha como consegue manter a atenção de seus alunos de forma eficaz em aulas que duram mais de uma hora: ele planeja suas aulas em módulos que não duram mais de 10 minutos.
+
+Cada módulo começa com um Gancho-uma história ou anedota interessante, seguida de uma breve explicação do conceito-chave. Seguir esse formato garante que seu público retenha mais informações e não se distraia. 
+
+(Essa é a principal razão pela qual este livro está organizado em seções curtas que levam menos de 10 minutos para serem lidas.)
+
+Mesmo o mais Notável objeto de atenção fica chato com o tempo. 
+
+A atenção humana requer novidade para se sustentar.
+
+Continue a oferecer algo novo, e as pessoas prestarão atenção ao que você tem a oferecer.
+
+### Conclusões importantes 
+
+- A mente humana precisa de novidade para manter a atenção. 
+- Novidade - Até mesmo o objeto mais notavel se torna chato com o tempo, a mente humana precisa de novos dados sensoriasis para manter atenção. 
+- Mesmo o mais notável objeto de atenção fica chato com o tempo. 
+- É por isso que o livro personal MBA é escrito em seções que duram menos de 10 minutos para serem lidas. 
+- Aplique esse conceito na sua vida pessoal, faça coisas em blocos de tempo de até no máximo 10minutos. 
+- E continue a oferecer algo novo, e as pessoas prestarão atenção ao que vc tem a oferecer. 
+
+Perguntas sobre **Novidade***
+- Vc está oferecendo algo novo regularmente para manter a atenção ? 
+- O que vc pode fazer para evitar que as pessoas fiquem entediadas com o que vc oferece ? 
 
 
 
