@@ -96,4 +96,6 @@ O hesitante tem expectativas irreais sobre sí mesmo.
 
 Isso são pontos cegos, seus amigso conseguem reconhecer no nosso proprio comportamento padrões que não enxergamos. 
 
+----
+
 

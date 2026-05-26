@@ -1,3 +1,7 @@
+---
+tags:
+  - relacionamentos
+---
 # Introdução 
 
 O homem deve liderar literalmente tudo. Cada passo do caminho, e para isso ele precisa levar sua mulher a parar de liderar qualquer coisa. 
