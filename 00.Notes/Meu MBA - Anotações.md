@@ -482,7 +482,7 @@ Perguntas sobre tomar decisões:
 
 ----
 
-## The five fold Why (??)
+## A Técnica dos 5 porques (??)
 
 - A técnica dos 5 porques é uma técnica para ajudar você a descobrir o que realmente quer. 
 - Aplicar é facil: sempre que vc quiser alguma coisa, pergunte-se "Porque ?" quantas vezes forem necessárias até chegar a cauza raiz do desejo. 
@@ -499,7 +499,126 @@ Perguntas sobre tomar decisões:
 	- 5. Porque vc quer se sentir livre ? Porque eu quero me sentir livre. 
 	- O desejo raiz não é ter um milhão de dólares - é sentir-se livre.
 - É possivel se sentir livre sem ter 1 milhão de dolares ? Com certeza, há muitas maneiras de se sentir livre que não tem nada a ver com dinheiro. 
-- 
+- Adotar uma abordagem alternativa que aborde o problema real pode ser mais eficaz do que seu objetivo original. Descubra as causas profundas por trás de seus objetivos e você descobrirá novas maneiras de conseguir o que realmente deseja.
+
+**Se pergunte:**
+- Observe seus objetivos atuais: eles são fins em si mesmos ou pode haver razões mais profundas por trás de seus desejos?
+- Como você pode usar o Por quê Cinco Vezes para descobrir as causas profundas por trás de seus objetivos?
+
+------
+
+## A técnica dos 5 "Comos" 
+
+- A tecnica dos 5x como é uma maneira de conectar seus desejos principais ás ações fisicas.
+- Quando vc souber o que quer, pergunte a sí mesmo: "Como vc iria atrás disso" e continue até que vc tenha definido seu plano em termos de Proximas ações.
+- Se você fizer isso direito, cada ação lhe dará uma experiência do que você quer enquanto faz isso.
+- Conecte grandes objetivos a pequenas ações e você inevitavelmente realizará o que deseja.
+
+Perguntas:
+- O que é necessário para atingir o estado final desejado?
+- Você pode aplicar aproximação recursiva para dividir esse destino em ações pequenas e imediatas?
+
+> “Vá até onde você puder ver; quando chegar lá, você poderá ver mais longe.”
+
+------
+## Next Action 
+
+- A _Próxima Ação_ é a próxima coisa específica e concreta que você pode fazer agora para levar um projeto adiante.
+- Você não precisa saber tudo para seguir em frente, apenas o próximo passo.
+- Para evitar se sentir sobrecarregado, acompanhe seus projetos e tarefas separadamente.
+- Concentre-se em concluir a Próxima Ação e, eventualmente, você concluirá o projeto inteiro.
+- _Projetos_ são metas que exigem mais de uma ação para serem concluídas e, quanto maior o projeto, mais difícil é antecipar todas as ações que devem ser realizadas.
+- Simples: concentre-se apenas na ação que você precisa tomar em seguida para avançar em direção ao seu objetivo.
+- Você não precisa saber tudo o que precisa ser feito para progredir em um projeto. Tudo o que você precisa saber é a próxima coisa que pode fazer para levar o projeto adiante.
+- Concentre-se em completar o **Próxima Ação**, e você inevitavelmente concluirá todo o projeto.
+
+-------
+
+## Externalization (Externalização)
+
+Externalização é o processo de transformar nossos pensamentos em algum tipo de forma externa, normalmente escrevendo ou falando. 
+
+Respondemos melhor aos estímulos em nosso Meio Ambiente do que nossos próprios pensamentos internos. 
+
+Podemos melhorar nossa produtividade convertendo nossos pensamentos internos em uma forma externa.
+
+### Explicação 
+
+- Nossa mente responde melhor a estimulos externos do que internos. 
+- Uma vez que respondemos mais facilmente aos estímulos em nosso Meio Ambiente do que nossos próprios pensamentos internos, há um método simples que podemos usar para melhorar nossa produtividade — podemos converter nossos pensamentos internos em uma forma externa que nossas mentes podem usar de forma mais eficaz.
+- Existem duas maneiras de externalizar algo, escrevendo ou falando, escrevendo (Ou desenhando) é a melhor forma de capturar ideias, planos ou tarefas.
+- Desafios e problemas que parecem intransponíveis enquanto saltam no lobo frontal muitas vezes podem ser resolvidos surpreendentemente rapidamente depois de serem colocados no papel.
+- Falar —para si mesmo ou para outra pessoa— é outro método eficaz de externalização.
+- A externalização vocal explica por que a maioria de nós teve a experiência de resolver nossos próprios problemas enquanto conversava com um amigo ou colega.
+- Não importa como você faça isso, quanto mais você externalizar, mais claros seus pensamentos se tornarão e mais rápido você progredirá em direção aos seus objetivos.
+
+Eu externalizo bastante até, usando o obsidian, eu clarifico bastante minha mente, é legal entender isso. 
+
+## Auto-elicitação 
+
+_Autoelicitação_ é o processo de fazer perguntas a si mesmo e depois respondê-las.
+
+Ao registrar suas respostas em um diário, registrar quando comportamentos específicos ocorrem e observar a frequência desses comportamentos, você descobrirá padrões. Se você conhece o padrão, é mais fácil mudar o comportamento.
+
+Crie o hábito de sempre fazer boas perguntas a si mesmo e você superará seus desafios com mais facilidade.
+
+Se você tiver dificuldade em pensar em uma boa pergunta para se fazer, a solução é simples: pergunte a si mesmo “Quais são as melhores perguntas que eu poderia me fazer sobre essa situação?”
+
+Fazer boas perguntas a si mesmo ajuda você a descobrir boas respostas. Faça disso um Hábito fazer boas perguntas a si mesmo de forma consistente e você ficará surpreso com a facilidade de superar os desafios que enfrenta.
+
+> Como posso saber o que penso, até ouvir o que digo ? 
+
+----
+
+## Lei de parkinson 
+
+Lei de Parkinson geralmente é expresso como “O trabalho se expande para preencher o tempo disponível para sua conclusão.” Se algo precisa ser feito em um ano, será feito em um ano. Se isso tiver que ser feito em seis meses, então será.
+
+Lei de Parkinson não deve ser usado para estabelecer prazos irracionais.
+
+Lei de Parkinson é melhor usado como um Experimento de pensamento pergunta. Como seria terminar um projeto em um período de tempo muito curto?
+
+### Explicação 
+
+> “O trabalho se expande para preencher o tempo disponível para sua conclusão.” Se algo precisa ser feito em um ano, será feito em um ano.
+
+Lei de Parkinson é melhor usado como um Experimento de pensamento pergunta.
+
+Como seria se você terminasse o projeto em um prazo muito agressivo? Se você tivesse que construir um arranha-céu em um dia, como faria isso? Responda à pergunta da mesma forma que faria com um contrafactual e você descobrirá técnicas ou abordagens que pode usar para realizar o trabalho em menos tempo.
+
+A Regra de Ingvar é uma Contrafactual-o que você faria se tivesse apenas dez minutos para fazer alguma coisa? Aja de acordo.
+
+- Se pergunte, se vc tivesse apenas 10 minutos pra fazer xyz coisa, o que vc faria pra terminar a tarefa nesse tempo ? 
+
+## Cenário apocalipitico
+
+O cenário apocalipico é um experimento mental, onde vc faz a pergunta:  O que de pior pode acontecer ? 
+
+Isso te ajuda a perceber que vc irá ficar bem, mesmo que o pior aconteça. 
+
+Lembre-se: As ameaças de hoje em dia não são mais situações de vida ou morte. 
+
+Por Externalizando seus piores medos, você percebe o que eles realmente são: ***reações exageradas irracionais.***
+
+Ou melhor, a definição de CSJ: Medos são uma falsa evidencia. 
+
+### Explicação
+
+- Se você estiver dentro Bloqueio de ameaças, é difícil fazer qualquer coisa - sua mente está fixada na ameaça, imaginando cenas que parecem um filme de terror ruim.
+- Síndrome do Homem das Cavernas significa que nossos cérebros antigos tendem a ser excessivamente dramáticos e tratam todas as ameaças potenciais em termos de vida ou morte.
+- A razão pela qual ficamos tão estressados é que nossos cérebros interpretam a situação como ***perder recursos, diminuir de status ou ser rejeitado*** como ameaças à nossa sobrevivência.
+- Isso pode ter sido verdade há muito tempo, mas não é mais. 
+- Agora, você pode perder dinheiro, errar ou ser rejeitado centenas de vezes por dia — e viver para contar a história.
+- Quando você realmente define seus piores medos, provavelmente descobrirá que as coisas não serão tão ruins quanto você teme.
+- Ao lançar alguma luz sobre seus medos, ela percebe que não há realmente nada a temer.
+- Externalizando seus medos, você os expoe como eles realmente são: reações exageradas irracionais. Na verdade vc descobre que estava com medo de algo que realmente não importa. 
+- Mesmo que algo ruim dê errado, não será tão ruim quanto você pensa.
+- Assim que você percebe que não vai morrer, você está livre para fazer muito mais do que ousou fazer anteriormente.
+- Depois de imaginar seu Cenário do Juízo Final, você pode começar a fazer coisas para melhorar o pior caso.
+- Em vez de ser vítima de seus medos, você pode usá-los de forma construtiva.
+- Construa seu Cenário do Juízo Final e você poderá fazer seu cérebro excessivamente dramático trabalhar com você, em vez de contra você.
+
+> “O que parece grande de longe, de perto, nunca é tão grande.”
 
 
 
