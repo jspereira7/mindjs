@@ -69,7 +69,8 @@
               "title": "Questionario das 3 Tendencias de dating"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Estrela Guia.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Estrela Guia"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -288,10 +289,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "adbfe1269edf4f40",
+  "active": "131cb54f08ff3359",
   "lastOpenFiles": [
-    "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Estrela Guia.md",
+    "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/High5 Strengs.md",
     "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md",
     "00.Notes/Questionario das 3 Tendencias de dating.md",

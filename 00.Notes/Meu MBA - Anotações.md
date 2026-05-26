@@ -423,6 +423,91 @@ Perguntas sobre metas:
 
 > “Definir uma meta vaga é como entrar em um restaurante e dizer: ‘Estou com fome. Eu quero um pouco de comida.’ Você ficará com fome até pedir alguma coisa.”
 
+## Hábitos
+
+Habitos são ações regulares que nos apoiam. Devido ao poder de acumulação, hábitos podem resultar em grandes resultados ao longo do tempo. 
+
+Habitos exigem força de vontade pra serem criados. É melhor usar uma estrutura de orientação para ajudar você a criar um hábito. 
+
+Habitos são mais faceis de criar se você usar gatilhos. Por exemplo planeje tomar suas vitaminas toda vez que escovar os dentes. 
+
+Concentre-se em instalar 1 hábito de cada vez até que fique no automatico e você possa passar para o próximo. Lembre-se que sua força de vontade é limitada. 
+
+### Explicação: 
+
+- _Hábitos_ são ações regulares que nos apoiam.
+- Praticar exercícios, escovar os dentes, tomar vitaminas, seguir uma dieta específica ou manter contato regular com amigos e familiares são exemplos de hábitos que nos mantêm felizes e saudáveis.
+- Pequenos hábitos podem resultar em grandes resultados no longo prazo. 
+- Como resultado, se você tentar instalar muitos hábitos ao mesmo tempo, é provável que não consiga adotar nenhum deles por muito tempo.
+- Concentre-se em instalar um hábito até que a ação pareça automática e depois passe para o próximo.
+
+Perguntas: 
+- Que hábitos produtivos você já instalou?
+- Que hábitos, se você os instalasse, produziriam resultados positivos em sua vida?
+- Há algum gatilho ou mudança estrutural que você possa usar para facilitar a instalação do hábito?
+
+> “Somos o que fazemos repetidamente. Excelência, então, não é um ato, mas um hábito.”
+
+
+## Decisão 
+
+O que é uma decisão ? 
+
+Uma decisão é o ato de se comprometer com um plano de ação espesifico. 
+
+Se você não está cortando opções viáveis, você não está tomando uma decisão.
+
+A falta de informação não deve impedi-lo de decidir, o mundo é complexo demais para fazer previsões precisas.
+
+Falha em fazer uma Decisão é em si uma Decisão. A vida não para se você se recusar a escolher.
+
+Para melhores resultados, seja claro e consciente ao tomar uma decisão.
+
+### Explicação 
+
+- A palavra “decidir” vem do latim decidere, que significa “cortar.” Ao tomar uma decisão, você está cortando os outros caminhos possíveis que poderia explorar, deixando apenas o caminho com o qual está se comprometendo.
+- Se você não está cortando opções viáveis, você não está realmente fazendo uma escolha.
+- Não importa quão sofisticado seja o seu sistema de rastreamento de tarefas, ele nunca será capaz de lhe dizer a melhor coisa a fazer em um determinado momento.
+- Tomar a decisão será sempre sua responsabilidade.
+- Nenhuma escolha, grande ou pequena, é feita com informações completas.
+- Não sinta que precisa ter todas as informações antes de decidir: o mundo é muito complicado para fazer previsões precisas.
+- Não espere até ter fatos suficientes para ter 100% de certeza, porque aí já é quase sempre tarde demais...
+- Colete informações suficientes para tomar uma decisão informada, depois faça sua escolha e siga em frente.
+- Se você está tendo dificuldades para fazer uma escolha, Steve Pavlina (autor de _Desenvolvimento Pessoal para Pessoas Inteligentes_) recomenda usar esta questão como desempate: “Das opções disponíveis, qual experiência eu quero ter?”
+- Se você está tendo dificuldade em tomar uma decisão específica, provavelmente é porque seu cérebro está tendo dificuldade em descobrir qual é a melhor.
+
+Perguntas sobre tomar decisões:
+- Você está resistindo a fazer uma escolha clara de tomar uma determinada ação?
+- De onde vem a resistência e como você pode chegar a uma decisão clara rapidamente, com base nas informações disponíveis?
+
+----
+
+## The five fold Why (??)
+
+- A técnica dos 5 porques é uma técnica para ajudar você a descobrir o que realmente quer. 
+- Aplicar é facil: sempre que vc quiser alguma coisa, pergunte-se "Porque ?" quantas vezes forem necessárias até chegar a cauza raiz do desejo. 
+- Descubra as causas profundas por trás do desejo e você descobrirá novas maneiras de chegar lá.
+- Sempre que você definir uma meta ou objetivo, pergunte a si mesmo por que você realmente o quer. No caso de querer se tornar um milionário, você se perguntaria por que quer ter um milhão de dólares.
+- Não tente forçar uma resposta - apenas faça a pergunta a si mesmo com espírito de curiosidade e espere até que sua mente gere uma resposta por conta própria.
+- Quando sua mente fornece uma resposta, pergunte “por quê?” de novo.
+- Continue se perguntando o porquê até obter uma resposta “porque eu quero”, que indique que você atingiu a causa raiz do seu objetivo original.
+- Exemplo da técnica aplicada ao desejo de ser milionário: 
+	- 1. Porque que eu quero ter 1 milhão de dolares? Porque não quero ficar estressado com dinheiro. 
+	- 2. Porque não quer ficar estressado com dinheiro? Pq não vou me sentir ancioso
+	- 3. Porque vc não quer se sentir ancioso ? Porque quero me sentir seguro. 
+	- 4. Porque vc quer se sentir seguro ? Porque me sinto livre
+	- 5. Porque vc quer se sentir livre ? Porque eu quero me sentir livre. 
+	- O desejo raiz não é ter um milhão de dólares - é sentir-se livre.
+- É possivel se sentir livre sem ter 1 milhão de dolares ? Com certeza, há muitas maneiras de se sentir livre que não tem nada a ver com dinheiro. 
+- 
+
+
+
+
+
+
+
+
 
 
 

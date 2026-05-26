@@ -54,3 +54,10 @@ Padrões que me sabotam:
 
 --------
 
+## Planejamento 2026 
+
+Valor para limpar meu nome: 
+- 700 reais. 
+
+Na verdade o total pra limpar meu nome é 2000,00 reais. 
+
