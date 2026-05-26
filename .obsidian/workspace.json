@@ -83,9 +83,24 @@
               "icon": "lucide-file",
               "title": "High5 Strengs"
             }
+          },
+          {
+            "id": "157f3409650330b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Questionario das 3 Tendencias de dating.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Questionario das 3 Tendencias de dating"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -104,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Meu MBA - Anotações.md",
+                "file": "00.Notes/Questionario das 3 Tendencias de dating.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meu MBA - Anotações"
+              "title": "Outline of Questionario das 3 Tendencias de dating"
             }
           },
           {
@@ -303,10 +318,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "131cb54f08ff3359",
+  "active": "157f3409650330b6",
   "lastOpenFiles": [
-    "00.Notes/High5 Strengs.md",
+    "00.Notes/Questionario das 3 Tendencias de dating.md",
     "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/High5 Strengs.md",
     "00.Notes/Suficiencia.md",
     "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
@@ -340,7 +356,6 @@
     "00.Notes/mentalidade experimental.md",
     "01.Assets/Excalidraw/Drawing 2026-05-08 11.03.48.excalidraw.md",
     "00.Notes/algoritimos inteligentes.md",
-    "00.Notes/ferramentas.md",
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
