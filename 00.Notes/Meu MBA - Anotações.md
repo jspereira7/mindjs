@@ -620,6 +620,44 @@ Ou melhor, a definição de CSJ: Medos são uma falsa evidencia.
 
 > “O que parece grande de longe, de perto, nunca é tão grande.”
 
+## Estresse e Recuperação 
+
+É útil aprender seu ponto de ruptura: saiba o quanto você é capaz de fazer antes de se esgotar. Prestando atenção a _Estresse e Recuperação_ é a maneira como você garante que não terá mais coisas para fazer do que pode suportar.
+
+Você não é uma máquina: nem sempre pode operar a 100%.
+
+Dedicar tempo para relaxar e se recuperar tornará sua vida mais agradável e produtiva.
+
+### Explicação 
+
+- Aprender meu ponto de ruptura tornou muito mais fácil saber quando empurrar e quando desacelerar.
+- É impossível saber do que você é capaz até decidir ultrapassar seus limites.
+- Dito isto, nossos corpos não são máquinas projetadas para operar na capacidade máxima o tempo todo.
+- Os humanos precisam de descanso, relaxamento, sono e brincadeiras para funcionar de forma eficaz. 
+- Muito pouco de qualquer uma dessas coisas pode diminuir seriamente sua capacidade de fazer um bom trabalho e impactar o quanto você aproveita sua vida.
+- Descanse e se recupere fazendo coisas completamente diferentes das hábituais que você está acostumado. 
+- Dedicar tempo livre de culpa para descansar e se recuperar pode, ao mesmo tempo, tornar sua vida mais agradável e produtiva.
+
+## Testing
+
+Testar é a melhor maneira de garantir que sua vida melhore com o tempo.
+
+Com o tempo você descobre Padrões, e você se torna melhor em saber o que torna sua vida melhor ou pior.
+
+### Explicação
+
+- Testando é o ato de tentar algo novo - uma forma de aplicar o método científico e o Ciclo de Iteração para sua própria vida.
+- Você não pode fazer descobertas positivas que tornem sua vida melhor se nunca tentar nada novo.
+- Você pode testar abordagens aleatórias ou ler sobre o que funciona para outras pessoas e depois testar você mesmo a abordagem.
+- Ideias para você começar a testar coisas novas: 
+	- Quanto sono você precisa pra se sentir descansado e alerta ?
+	- Quando vc faz seu trabalho mais produtivo? Existem padrões de produtividade ? 
+	- Após encontrar um padrão nessas aréas, é hora de começar a testar. 
+
+## [[Mystique]]
+
+## [[Esteira Hedonica]]
+
 
 
 
