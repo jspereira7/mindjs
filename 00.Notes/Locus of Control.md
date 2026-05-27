@@ -5,7 +5,6 @@ Tentar controlar tudo o que acontece com você é uma receita para o desastre e 
 Concentre-se em seus esforços em vez de resultados que você não pode controlar.
 
 Concentre sua energia no que você pode influenciar e deixe todo o resto de lado.
-
 ## Explição
 
 - Não importa o quanto vc queira xyz emprego, depois que a entrevista termina, você não pode controlar se consegue ou não o emprego, vc já fez o que podia. 
