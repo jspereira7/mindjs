@@ -1,5 +1,5 @@
 
-## Philomatch (Aprendiz)
+## Philomatch (OK)
 
 São pessoas que adoram aprender. Eles exploram muitos interreses, seguem novos caminhos e gostam de acumular o máximo de conhecimento quanto possivel. 
 
@@ -58,10 +58,56 @@ Graças a essa força, você também é sempre capaz de contribuir com novos con
 
 - **EMPATHIZER** Empathizers conseguem perceber as diferenças entre os indivíduos, suas necessidades e emoções. Eles instintivamente observam o estilo, a motivação e os pensamentos de cada pessoa, e prestam atenção em como cada um constrói seus relacionamentos. Fazer parceria com Empathizers capacita os Philomaths a perceber e compreender as diversas formas como as pessoas aprendem de forma eficaz. Essa informação é especialmente útil para professores com a força Philomath, pois eles se tornam mais bem equipados para personalizar sua abordagem. Quanto aos gestores Philomath, aproveitar o conhecimento e as observações aguçadas daqueles com a força Empathizer proporciona uma maior compreensão das diferentes necessidades de aprendizado de sua equipe.
 
+### Aplicações de carreira 
+- Graças à sua capacidade de aprender coisas novas rapidamente, carreiras em áreas dinâmicas como consultoria proporcionam exposição contínua a novas oportunidades de aprendizagem.
+- Para evitar a monotonia e estimular seu desejo de aprendizado constante, opte por ambientes de trabalho que funcionem em projetos de curto prazo em vez de projetos de longo prazo.
+- Sua força Philomath permite que você não apenas adquira novas informações continuamente, mas também as compartilhe efetivamente com outras pessoas. Funções como professores e formadores empresariais realmente colocam esta força em uso valioso.
+- Carreiras que recompensam acompanhar a vanguarda da pesquisa, regulamentações ou melhores práticas tendem a se alinhar à sua paixão pelo aprendizado ao longo da vida.
+
 ------
 ## Analyst
 
 Os analistas se sentem motivados ao buscar simplicidade e clareza em meio a uma grande quantidade de dados. Eles se frustram quando são solicitados a seguir seus instintos em vez de fatos comprovados e lógica.
+
+### Full Description 
+
+Seu objetivo é analisar para encontrar causas raízes. Não é que você não goste de ideias, teorias e conceitos — mas você quer vê-los provados. E qual a melhor forma de provar algo senão com dados?
+
+Enquanto isso é insuportável para alguns, grandes quantidades de dados fazem você se sentir como um peixe n'água, porque você está constantemente buscando padrões, conexões e causas raízes por trás de qualquer resultado.
+
+Você sente que os dados te ajudam a ser objetivo, imparcial e racional. Como resultado, as pessoas ao seu redor te enxergam como lógico e criterioso. Elas costumam vir até você para ouvir uma perspectiva imparcial sobre as ideias delas.
+
+Se a sua análise for entregue de forma gentil, você se torna um grande trunfo para qualquer equipe cheia de sonhadores.
+
+### Pontos Cegos
+
+Nossos pontos fortes podem ser nosso maior ativo e recurso natural do qual podemos lançar mão. Porém, quando usados em excesso, eles podem te levar além do pico de desempenho e prejudicar relacionamentos — até com pessoas próximas.
+
+Aqui estão os pontos cegos que precisam de atenção:
+
+- Podem dominar reuniões e apresentações na busca pela verdade.
+- A abordagem lógica pode ser desconfortável, especialmente em temas acalorados.
+- Às vezes não há mais dados a encontrar, ou os dados são conflitantes. Isso pode desencadear **Paralisia por Análise** ou **Perfeccionismo**.
+- Podem perder de vista que existem outras formas igualmente válidas de tomar decisões — que não dependem de dados.
+- Quando os outros não estão no mesmo nível lógico de raciocínio, isso pode gerar impaciência, julgamento e até irritação.
+- Podem precisar ser lembrados de que, para outras pessoas, dados simplesmente são chatos. É assim mesmo.
+
+### **Ideias de Ação para o Analista**
+
+Para muitos, o maior mistério do desenvolvimento baseado em forças é: como você pega algo que já é bom e transforma em algo ainda melhor? Esta seção destaca passos práticos para desenvolver ainda mais seus pontos fortes:
+
+_1. IDENTIFIQUE E CONSULTE ESPECIALISTAS / FONTES CONFIÁVEIS_
+
+Como os Analistas insistem na solidez de uma teoria, é útil que eles reúnam uma base de fontes confiáveis nas quais possam se apoiar em suas respectivas áreas. Livros, sites ou outras fontes podem servir como referências úteis. Muitas dessas fontes podem ser consultadas na formulação de suas teorias e na tomada de decisões. Por exemplo, dado que há uma enorme quantidade de informações falsas na internet, pessoas com a força do Analista podem se munir de recursos altamente confiáveis para fazer verificações de fatos. Assim, conseguem comunicar com clareza os dados relevantes ao explicar suas teorias.
+
+Também seria útil identificar especialistas em suas respectivas áreas com quem possam construir boas relações de trabalho. Eles podem desenvolver sua força como Analista compartilhando suas ideias com esses especialistas.
+
+_2. RESERVE UM TEMPO PARA PENSAR_
+
+Como o talento do Analista está na sua capacidade de descobrir as causas raízes de cada problema, seria útil reservar um tempo toda semana para refletir sobre os desafios que suas equipes e organizações estão enfrentando. Esse tempo afastado da ação permitirá que apliquem plenamente suas mentes analíticas e obtenham insights que levarão a soluções eficazes.
+
+
+
 
 -------
 ## Winner 
@@ -70,7 +116,7 @@ Os vencedores transformam qualquer tarefa rotineira em um jogo ou desafio porque
 
 ---------
 
-## Thinker
+## Thinker (OK)
 
 Pessoas com perfil analítico apreciam atividades mentais, discussões intelectuais e momentos de reflexão a sós. Elas têm dificuldade para trabalhar em equipes que tendem a agir antes de pensar.
 
