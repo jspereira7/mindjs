@@ -658,6 +658,10 @@ Com o tempo você descobre Padrões, e você se torna melhor em saber o que torn
 
 ## [[Esteira Hedonica]]
 
+## [[Comparison Fallacy]]
+
+## [[Locus of Control]]
+
 
 
 
