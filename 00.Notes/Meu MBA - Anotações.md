@@ -28,6 +28,25 @@ Definição de Modelos Mentais:
 
 ------
 
+# Value Creation
+
+Todos os negócios criam algo de valor. O mundo está cheio de oportunidades para fazer as outras pessoas viverem melhor, seu trabalho é identificar coisas que as pessoas precisam mas não sabem como construir e entregar á elas. 
+
+## [[The 5 Parts of every business]]
+
+## [[Economically Valuable Skills]]
+
+
+
+----
+
+
+
+
+
+
+
+
 # Work Better with Yourself
 
 ## [[Requisitos de desempenho ]]

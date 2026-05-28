@@ -5,6 +5,14 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Economically Valuable Skills",
+      "path": "00.Notes/Economically Valuable Skills.md"
+    },
+    {
+      "basename": "The 5 Parts of every business",
+      "path": "00.Notes/The 5 Parts of every business.md"
+    },
+    {
       "basename": "Testing",
       "path": "00.Notes/Testing.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Projeto grana com SOI",
       "path": "00.Notes/Projeto grana com SOI.md"
-    },
-    {
-      "basename": "Estudo Eneagrama",
-      "path": "00.Notes/Estudo Eneagrama.md"
-    },
-    {
-      "basename": "energia potencial.",
-      "path": "00.Notes/energia potencial..md"
     }
   ],
   "omittedPaths": [
