@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Questionario das 3 Tendencias de dating.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questionario das 3 Tendencias de dating"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -348,10 +348,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "157f3409650330b6",
+  "active": "131cb54f08ff3359",
   "lastOpenFiles": [
-    "00.Notes/High5 Strengs.md",
+    "00.Notes/Gargalo Restrição(Systems).md",
     "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/Slack(Folga).md",
+    "00.Notes/Stock (Systems).md",
+    "00.Notes/Flow (Systems).md",
+    "00.Notes/Lei de Gall.md",
+    "00.Notes/High5 Strengs.md",
+    "00.Notes/Questionario das 3 Tendencias de dating.md",
     "00.Notes/Novidade (novelty).md",
     "00.Notes/Escassez.md",
     "00.Notes/Association (Associação).md",
@@ -370,12 +376,6 @@
     "00.Notes/Nivel de Referencia.md",
     "00.Notes/Teoria do controle perceptivo..md",
     "00.Notes/The onion Brain (Cerebro de cebola).md",
-    "00.Notes/Economically Valuable Skills.md",
-    "00.Notes/The 5 Parts of every business.md",
-    "00.Notes/Testing.md",
-    "00.Notes/Estresse e Recuperação.md",
-    "00.Notes/Cenário apocalipitico.md",
-    "00.Notes/Lei de parkinson.md",
     "01.Assets/Anexos/Pasted image 20260526185141.png",
     "01.Assets/Anexos/Pasted image 20260519143206.png",
     "01.Assets/Anexos/Pasted image 20260519140217.png",

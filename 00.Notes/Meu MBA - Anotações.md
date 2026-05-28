@@ -40,6 +40,17 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 
 ----
 
+# Understanding Systems 
+## [[Lei de Gall]]
+
+## [[Flow (Systems)]]
+
+## [[Stock (Systems)]]
+
+## [[Slack(Folga)]]
+
+## [[Gargalo Restrição(Systems)]]
+
 
 
 
