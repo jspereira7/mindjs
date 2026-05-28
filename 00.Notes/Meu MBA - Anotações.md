@@ -51,6 +51,22 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 
 ## [[Gargalo Restrição(Systems)]]
 
+## [[Feedback Loop]]
+
+## [[Autocatálise]]
+
+## [[Enviroment(Systems)]]
+
+## [[Selection Test]]
+
+## [[entropia]]
+
+## [[Incerteza (Systems)]]
+
+## [[Change(Systems)]]
+
+
+
 
 
 

@@ -11,3 +11,29 @@ Aqui está uma explicação simplificada baseada nos conceitos apresentados:
     - **Máquinas de Entropia:** Os autores brincam que as crianças são "máquinas de entropia" porque criam desordem muito rapidamente em seus quartos.
 
 Em resumo, a entropia nos ensina que **a desordem é o estado padrão da natureza** e que manter qualquer forma de organização exige trabalho e vigilância constantes.
+
+## O que é entropia ? 
+
+ - Os sistemas entram em desordem ao longo do tempo à medida que o ambiente em que operam muda.
+ - Entropia torna a manutenção uma atividade importante e valiosa.
+
+## Explicação 
+
+Deixados por conta própria, sistemas complexos entram em desordem.
+
+Entropia é a tendência natural de sistemas complexos se degradarem ao longo do tempo. Sistemas que permanecem operando por longos períodos de tempo requerem manutenção e melhoria ativas.
+
+Se o sistema não mudar de uma forma que lhe permita continuar a funcionar, degradar-se-á e acabará por deixar de funcionar ou deixar de existir.
+
+Entropia está em todo lugar. Sem nutrição, movimento e oxigênio adequados, sua saúde será prejudicada. As estradas precisam ser recapeadas a cada poucos anos ou desenvolverão rachaduras, solavancos e buracos.
+
+O software precisa ser atualizado e corrigido ou deixará de funcionar à medida que os computadores forem atualizados e os sistemas conectados mudarem.
+
+As casas precisam ser repintadas, restauradas e reformadas periodicamente para mantê-las em boas condições.
+
+**Entropia torna a manutenção uma atividade necessária e valiosa**
+
+A organização é tão forte quanto seus sistemas existentes, que sustentam sua capacidade de funcionar. 
+
+Dedicando Atenção e os recursos para manter e melhorar esses sistemas não são apenas importantes, mas também essenciais para a operação a longo prazo e para preservar o valor ao longo do tempo.
+
