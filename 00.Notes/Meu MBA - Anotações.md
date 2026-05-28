@@ -65,7 +65,39 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 
 ## [[Change(Systems)]]
 
+## [[Interdependencia(Systems)]]
 
+## [[Risco de contraparte]]
+
+## [[Second-Order Effects]]
+
+## [[Externalidade]]
+
+## [[normal-accidents]]
+
+--------
+
+# Analisando Sistemas 
+
+> “If you can’t understand it, you can’t change it.”
+
+Antes de poder melhorar um sistema, você precisa entender o quão bem ele está operando atualmente.
+
+Infelizmente para nós, isso é um negócio complicado — simplesmente não é possível parar o mundo pelo tempo que você quiser enquanto você faz medições cuidadosas. 
+
+Os sistemas devem ser analisados à medida que funcionam. Analisar um sistema em operação é difícil, mas definitivamente possível — se você souber o que procurar.
+
+Neste capítulo, você aprenderá como desconstruir sistemas em partes menores que você pode entender, medir o que é importante e descobrir como partes do sistema interagem e dependem umas das outras para funcionar.
+
+## [[Desconstruction]]
+
+## [[Measurament(Medir)]]
+
+## [[Key performance indicator (KPI)]]
+
+## [[Lixo entra Lixo sai]]
+
+## [[Tolerance]]
 
 
 

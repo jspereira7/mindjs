@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Change(Systems).md",
+                "file": "00.Notes/Tolerance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Change(Systems)"
+              "title": "Tolerance"
             }
           }
         ],
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Change(Systems).md",
+                "file": "00.Notes/Tolerance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Change(Systems)"
+              "title": "Outline of Tolerance"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Avaliação Josias Pereira Cognfit.md",
+                "file": "00.Notes/Tolerance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avaliação Josias Pereira Cognfit"
+              "title": "Outgoing links from Tolerance"
             }
           },
           {
@@ -276,8 +275,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -305,6 +303,16 @@
   "active": "d33ed417c1c49776",
   "lastOpenFiles": [
     "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/Tolerance.md",
+    "00.Notes/Lixo entra Lixo sai.md",
+    "00.Notes/Key performance indicator (KPI).md",
+    "00.Notes/Measurament(Medir).md",
+    "00.Notes/Desconstruction.md",
+    "00.Notes/normal-accidents.md",
+    "00.Notes/Externalidade.md",
+    "00.Notes/Second-Order Effects.md",
+    "00.Notes/Risco de contraparte.md",
+    "00.Notes/Interdependencia(Systems).md",
     "00.Notes/Change(Systems).md",
     "00.Notes/Incerteza (Systems).md",
     "00.Notes/desconhecidos desconhecidos.md",
@@ -320,17 +328,7 @@
     "01.Assets/Templates/book.md.md",
     "01.Assets/Templates/daily.md.md",
     "01.Assets/Templates/Tracker de Hábitos..md",
-    "01.Assets/Templates/Livro.md",
-    "00.Notes/Selection Test.md",
-    "00.Notes/Enviroment(Systems).md",
-    "00.Notes/Autocatálise.md",
-    "00.Notes/Feedback Loop.md",
     "01.Assets/Anexos/Pasted image 20260528170238.png",
-    "00.Notes/Gargalo Restrição(Systems).md",
-    "00.Notes/Slack(Folga).md",
-    "00.Notes/Stock (Systems).md",
-    "00.Notes/Flow (Systems).md",
-    "00.Notes/Lei de Gall.md",
     "01.Assets/Anexos/Pasted image 20260526185141.png",
     "01.Assets/Anexos/Pasted image 20260519143206.png",
     "01.Assets/Anexos/Pasted image 20260519140217.png",

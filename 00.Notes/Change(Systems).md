@@ -30,3 +30,4 @@ Muitos empresários e gerentes compartilham uma crença não examinada de que, a
 - Como você pode se lembrar constantemente de que o mundo não é um lugar estático?
 
 > *“Não é a mais forte das espécies que sobrevive, nem a mais inteligente, mas a mais responsiva à mudança.”*
+
