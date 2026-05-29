@@ -114,6 +114,13 @@ Como o talento do Analista está na sua capacidade de descobrir as causas raíze
 
 Os vencedores transformam qualquer tarefa rotineira em um jogo ou desafio porque a sensação de competição é essencial para eles. Eles se sentem perdidos em ambientes que não possuem uma medida definida de sucesso.
 
+### Ideias para ação 
+- Procure trabalhos aonde te permitam trabalhar o quanto quiser, e nos quais vc seja incentivado a medir sua produtividade. Nesses ambientes vc se sentirá desafiado e motivado. 
+- Defina prazos e metricas para suas metas, de uma forma que o esforço leve a um progresso concreto e resultados tangiveis.
+- Desfrute de seu progresso e suas conquistas.
+- Vc não precisa de muita motivação externa. Aproveite sua auto-motivação definindo metas desafiadoras. Estabeleça uma meta mais desafiadora a cada objetivo. 
+- 
+
 ---------
 
 ## Thinker (OK)

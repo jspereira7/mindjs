@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Tolerance.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tolerance"
+              "title": "Meu MBA - Anotações"
             }
           }
         ],
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Tolerance.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tolerance"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Tolerance.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tolerance"
+              "title": "Outgoing links from Meu MBA - Anotações"
             }
           },
           {
@@ -302,8 +302,11 @@
   },
   "active": "d33ed417c1c49776",
   "lastOpenFiles": [
-    "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Tolerance.md",
+    "00.Notes/High5 Strengs.md",
+    "00.Notes/Questionario das 3 Tendencias de dating.md",
+    "00.Notes/Insights High5.md",
+    "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Lixo entra Lixo sai.md",
     "00.Notes/Key performance indicator (KPI).md",
     "00.Notes/Measurament(Medir).md",
@@ -320,9 +323,6 @@
     "00.Notes/entropia.md",
     "00.Notes/Problema de Hoje.md",
     "00.Notes/Login with Premium High5.md",
-    "00.Notes/Insights High5.md",
-    "00.Notes/Questionario das 3 Tendencias de dating.md",
-    "00.Notes/High5 Strengs.md",
     "00.Notes/Estrela Guia.md",
     "01.Assets/Templates/ideia.md.md",
     "01.Assets/Templates/book.md.md",
