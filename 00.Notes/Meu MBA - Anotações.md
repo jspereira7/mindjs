@@ -99,6 +99,8 @@ Neste capítulo, você aprenderá como desconstruir sistemas em partes menores q
 
 ## [[Tolerance]]
 
+## [[Variance]]
+
 
 
 
