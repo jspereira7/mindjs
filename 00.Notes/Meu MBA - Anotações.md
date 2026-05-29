@@ -101,7 +101,17 @@ Neste capítulo, você aprenderá como desconstruir sistemas em partes menores q
 
 ## [[Variance]]
 
+## [[Analytical Honesty]]
 
+## [[Context]]
+
+## [[Sampling Measurament]]
+
+## [[Margem de Erro(Systems)]]
+
+## [[Ratio]]
+
+## [[Tipicidade]]
 
 
 

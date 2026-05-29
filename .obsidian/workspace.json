@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Variance.md",
+                "file": "00.Notes/Tipicidade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Variance"
+              "title": "Tipicidade"
             }
           }
         ],
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Variance.md",
+                "file": "00.Notes/Tipicidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Variance"
+              "title": "Outline of Tipicidade"
             }
           },
           {
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Notes/Variance.md",
+                "file": "00.Notes/Tipicidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variance"
+              "title": "Outgoing links from Tipicidade"
             }
           },
           {
@@ -303,6 +303,12 @@
   "active": "d33ed417c1c49776",
   "lastOpenFiles": [
     "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/Tipicidade.md",
+    "00.Notes/Ratio.md",
+    "00.Notes/Margem de Erro(Systems).md",
+    "00.Notes/Sampling Measurament.md",
+    "00.Notes/Context.md",
+    "00.Notes/Analytical Honesty.md",
     "00.Notes/Variance.md",
     "00.Notes/Tolerance.md",
     "00.Notes/High5 Strengs.md",
@@ -322,12 +328,6 @@
     "00.Notes/desconhecidos desconhecidos.md",
     "01.Assets/Templates/mental_model.md",
     "00.Notes/entropia.md",
-    "00.Notes/Problema de Hoje.md",
-    "00.Notes/Login with Premium High5.md",
-    "00.Notes/Estrela Guia.md",
-    "01.Assets/Templates/ideia.md.md",
-    "01.Assets/Templates/book.md.md",
-    "01.Assets/Templates/daily.md.md",
     "01.Assets/Anexos/Pasted image 20260528170238.png",
     "01.Assets/Anexos/Pasted image 20260526185141.png",
     "01.Assets/Anexos/Pasted image 20260519143206.png",

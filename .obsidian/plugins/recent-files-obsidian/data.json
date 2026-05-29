@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Variance",
-      "path": "00.Notes/Variance.md"
+      "basename": "Tipicidade",
+      "path": "00.Notes/Tipicidade.md"
     },
     {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
+      "basename": "Ratio",
+      "path": "00.Notes/Ratio.md"
+    },
+    {
+      "basename": "Margem de Erro(Systems)",
+      "path": "00.Notes/Margem de Erro(Systems).md"
+    },
+    {
+      "basename": "Sampling Measurament",
+      "path": "00.Notes/Sampling Measurament.md"
+    },
+    {
+      "basename": "Context",
+      "path": "00.Notes/Context.md"
+    },
+    {
+      "basename": "Analytical Honesty",
+      "path": "00.Notes/Analytical Honesty.md"
+    },
+    {
+      "basename": "Variance",
+      "path": "00.Notes/Variance.md"
     },
     {
       "basename": "Tolerance",
@@ -175,30 +199,6 @@
     {
       "basename": "Motivação (Motivation)",
       "path": "00.Notes/Motivação (Motivation).md"
-    },
-    {
-      "basename": "Interpretação e reinterpretação",
-      "path": "00.Notes/Interpretação e reinterpretação.md"
-    },
-    {
-      "basename": "Mental Simulation",
-      "path": "00.Notes/Mental Simulation.md"
-    },
-    {
-      "basename": "Patern Matching (Correspondencia de Padrões)",
-      "path": "00.Notes/Patern Matching (Correspondencia de Padrões).md"
-    },
-    {
-      "basename": "Conflict",
-      "path": "00.Notes/Conflict.md"
-    },
-    {
-      "basename": "Reorganização",
-      "path": "00.Notes/Reorganização.md"
-    },
-    {
-      "basename": "Conservação de Energia (Psicologia)",
-      "path": "00.Notes/Conservação de Energia (Psicologia).md"
     }
   ],
   "omittedPaths": [
