@@ -113,9 +113,15 @@ Neste capítulo, você aprenderá como desconstruir sistemas em partes menores q
 
 ## [[Tipicidade]]
 
+## [[Corelação e Causalidade]]
 
+## [[Norms(Systems)]]
 
+## [[Proxy(Measurement)]]
 
+## [[Segmentação(Measurement)]]
+
+## [[Humanization]]
 
 
 # Work Better with Yourself
@@ -175,9 +181,31 @@ Neste capítulo, você aprenderá como desconstruir sistemas em partes menores q
 ## [[The Arrival Fallacy]]
 
 
+# Improving Systems
 
+> Em teoria, não há diferença entre teoria e prática. Mas, na pratica, existe
 
+Criar e melhorar sistemas é o cerne de uma prática empresarial bem-sucedida.
 
+O objetivo de entender e analisar sistemas é melhorá-los, o que geralmente é complicado — mudar sistemas pode muitas vezes criar consequências não intencionais.
+
+Neste capítulo, você aprenderá os segredos da otimização, como remover atritos desnecessários de processos críticos e como construir sistemas que possam lidar com incertezas e mudanças.
+
+## [[Viés de intervenção]]
+
+## [[Otimização]]
+
+## [[Automação]]
+
+## [[O paradoxo da automação]]
+
+## [[A ironia da automação]]
+
+## [[Refatoração]]
+
+## [[80-20(inflows)]]
+
+## [[]]
 
 
 
