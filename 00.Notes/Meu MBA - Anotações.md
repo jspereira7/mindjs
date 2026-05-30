@@ -205,7 +205,11 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[80-20(inflows)]]
 
-## [[]]
+## [[Progressive Load (Carga Progressiva)]]
+
+## [[Friction(Systems)]]
+
+
 
 
 

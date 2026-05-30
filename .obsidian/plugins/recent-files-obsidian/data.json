@@ -5,6 +5,14 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Friction(Systems)",
+      "path": "00.Notes/Friction(Systems).md"
+    },
+    {
+      "basename": "Progressive Load (Carga Progressiva)",
+      "path": "00.Notes/Progressive Load (Carga Progressiva).md"
+    },
+    {
       "basename": "80-20(inflows)",
       "path": "00.Notes/80-20(inflows).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Feedback Loop",
       "path": "00.Notes/Feedback Loop.md"
-    },
-    {
-      "basename": "Gargalo Restrição(Systems)",
-      "path": "00.Notes/Gargalo Restrição(Systems).md"
-    },
-    {
-      "basename": "Slack(Folga)",
-      "path": "00.Notes/Slack(Folga).md"
     }
   ],
   "omittedPaths": [
