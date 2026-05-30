@@ -223,7 +223,6 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Nivel de Referencia ]]
 
-------
 ## [[Conservação de Energia (Psicologia)]]
 
 ## [[Reorganização]] 

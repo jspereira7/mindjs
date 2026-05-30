@@ -161,8 +161,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,7 +300,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d33ed417c1c49776",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
     "00.Notes/Friction(Systems).md",
     "00.Notes/Meu MBA - Anotações.md",
