@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Modelos Mentais",
+      "path": "00.Notes/Modelos Mentais.base"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
+      "basename": "Login with Premium High5",
+      "path": "00.Notes/Login with Premium High5.md"
+    },
+    {
+      "basename": "Insights High5",
+      "path": "00.Notes/Insights High5.md"
+    },
+    {
+      "basename": "Questionario das 3 Tendencias de dating",
+      "path": "00.Notes/Questionario das 3 Tendencias de dating.md"
+    },
+    {
+      "basename": "High5 Strengs",
+      "path": "00.Notes/High5 Strengs.md"
+    },
+    {
+      "basename": "Cessation",
+      "path": "00.Notes/Cessation.md"
     },
     {
       "basename": "Systematization",
@@ -39,10 +67,6 @@
     {
       "basename": "Threat Lockdown (Bloqueio de Ameaça)",
       "path": "00.Notes/Threat Lockdown (Bloqueio de Ameaça).md"
-    },
-    {
-      "basename": "Login with Premium High5",
-      "path": "00.Notes/Login with Premium High5.md"
     },
     {
       "basename": "The onion Brain (Cerebro de cebola)",
@@ -137,18 +161,6 @@
       "path": "00.Notes/Tolerance.md"
     },
     {
-      "basename": "High5 Strengs",
-      "path": "00.Notes/High5 Strengs.md"
-    },
-    {
-      "basename": "Questionario das 3 Tendencias de dating",
-      "path": "00.Notes/Questionario das 3 Tendencias de dating.md"
-    },
-    {
-      "basename": "Insights High5",
-      "path": "00.Notes/Insights High5.md"
-    },
-    {
       "basename": "Lixo entra Lixo sai",
       "path": "00.Notes/Lixo entra Lixo sai.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Change(Systems)",
       "path": "00.Notes/Change(Systems).md"
-    },
-    {
-      "basename": "Incerteza (Systems)",
-      "path": "00.Notes/Incerteza (Systems).md"
-    },
-    {
-      "basename": "desconhecidos desconhecidos",
-      "path": "00.Notes/desconhecidos desconhecidos.md"
-    },
-    {
-      "basename": "mental_model",
-      "path": "01.Assets/Templates/mental_model.md"
     }
   ],
   "omittedPaths": [

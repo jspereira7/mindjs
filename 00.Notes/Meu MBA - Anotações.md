@@ -217,6 +217,8 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Systematization]]
 
+## [[Cessation]]
+
 
 
 ------
@@ -256,7 +258,6 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 ## [[Escassez]] 
 
 ## [[Novidade (novelty)]]
-
 
 # Working Better with Others 
 
