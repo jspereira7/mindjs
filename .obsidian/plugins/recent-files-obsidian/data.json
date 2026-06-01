@@ -5,6 +5,34 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Modal Bies",
+      "path": "00.Notes/Modal Bies.md"
+    },
+    {
+      "basename": "Attribution Error",
+      "path": "00.Notes/Attribution Error.md"
+    },
+    {
+      "basename": "Reason Why",
+      "path": "00.Notes/Reason Why.md"
+    },
+    {
+      "basename": "The mind Reading Fallacy",
+      "path": "00.Notes/The mind Reading Fallacy.md"
+    },
+    {
+      "basename": "Threat Lockdown (Bloqueio de Ameaça)",
+      "path": "00.Notes/Threat Lockdown (Bloqueio de Ameaça).md"
+    },
+    {
+      "basename": "Login with Premium High5",
+      "path": "00.Notes/Login with Premium High5.md"
+    },
+    {
+      "basename": "The onion Brain (Cerebro de cebola)",
+      "path": "00.Notes/The onion Brain (Cerebro de cebola).md"
+    },
+    {
       "basename": "Friction(Systems)",
       "path": "00.Notes/Friction(Systems).md"
     },
@@ -165,40 +193,12 @@
       "path": "00.Notes/Problema de Hoje.md"
     },
     {
-      "basename": "Login with Premium High5",
-      "path": "00.Notes/Login with Premium High5.md"
-    },
-    {
       "basename": "Estrela Guia",
       "path": "00.Notes/Estrela Guia.md"
     },
     {
       "basename": "ideia.md",
       "path": "01.Assets/Templates/ideia.md.md"
-    },
-    {
-      "basename": "book.md",
-      "path": "01.Assets/Templates/book.md.md"
-    },
-    {
-      "basename": "daily.md",
-      "path": "01.Assets/Templates/daily.md.md"
-    },
-    {
-      "basename": "Selection Test",
-      "path": "00.Notes/Selection Test.md"
-    },
-    {
-      "basename": "Enviroment(Systems)",
-      "path": "00.Notes/Enviroment(Systems).md"
-    },
-    {
-      "basename": "Autocatálise",
-      "path": "00.Notes/Autocatálise.md"
-    },
-    {
-      "basename": "Feedback Loop",
-      "path": "00.Notes/Feedback Loop.md"
     }
   ],
   "omittedPaths": [

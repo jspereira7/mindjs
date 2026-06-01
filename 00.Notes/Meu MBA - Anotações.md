@@ -209,12 +209,6 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Friction(Systems)]]
 
-
-
-
-
-
-
 ------
 # The Human Mind 
 ## [[The onion Brain (Cerebro de cebola)]]
@@ -254,3 +248,12 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 ## [[Novidade (novelty)]]
 
 
+# Working Better with Others 
+
+## [[The mind Reading Fallacy]]
+
+## [[Reason Why]]
+
+## [[Attribution Error]]
+
+## [[Modal Bies]]
