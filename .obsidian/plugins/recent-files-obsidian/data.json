@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Ciclo de crescimento sustentável",
+      "path": "00.Notes/Ciclo de crescimento sustentável.md"
+    },
+    {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
-      "basename": "Insights High5",
-      "path": "00.Notes/Insights High5.md"
+      "basename": "Explore-Exploit",
+      "path": "00.Notes/Explore-Exploit.md"
+    },
+    {
+      "basename": "Scenario Planing (Planejamento de cenários)",
+      "path": "00.Notes/Scenario Planing (Planejamento de cenários).md"
+    },
+    {
+      "basename": "Stress Testing(Systems)",
+      "path": "00.Notes/Stress Testing(Systems).md"
+    },
+    {
+      "basename": "Proteção contra falhas",
+      "path": "00.Notes/Proteção contra falhas.md"
+    },
+    {
+      "basename": "Resiliencia",
+      "path": "00.Notes/Resiliencia.md"
+    },
+    {
+      "basename": "Locus of Control",
+      "path": "00.Notes/Locus of Control.md"
     },
     {
       "basename": "High5 Strengs",
       "path": "00.Notes/High5 Strengs.md"
+    },
+    {
+      "basename": "Insights High5",
+      "path": "00.Notes/Insights High5.md"
     },
     {
       "basename": "Modelos Mentais",
@@ -171,34 +199,6 @@
     {
       "basename": "Measurament(Medir)",
       "path": "00.Notes/Measurament(Medir).md"
-    },
-    {
-      "basename": "Desconstruction",
-      "path": "00.Notes/Desconstruction.md"
-    },
-    {
-      "basename": "normal-accidents",
-      "path": "00.Notes/normal-accidents.md"
-    },
-    {
-      "basename": "Externalidade",
-      "path": "00.Notes/Externalidade.md"
-    },
-    {
-      "basename": "Second-Order Effects",
-      "path": "00.Notes/Second-Order Effects.md"
-    },
-    {
-      "basename": "Risco de contraparte",
-      "path": "00.Notes/Risco de contraparte.md"
-    },
-    {
-      "basename": "Interdependencia(Systems)",
-      "path": "00.Notes/Interdependencia(Systems).md"
-    },
-    {
-      "basename": "Change(Systems)",
-      "path": "00.Notes/Change(Systems).md"
     }
   ],
   "omittedPaths": [

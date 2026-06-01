@@ -219,6 +219,19 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Cessation]]
 
+## [[Resiliencia]]
+
+## [[Proteção contra falhas]]
+
+## [[Stress Testing(Systems)]]
+
+## [[Scenario Planing (Planejamento de cenários)]]
+
+## [[Explore-Exploit]]
+
+## [[Ciclo de crescimento sustentável]]
+
+
 
 
 ------

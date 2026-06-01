@@ -28,13 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Meu MBA - Anotações.md",
+                "file": "00.Notes/Ciclo de crescimento sustentável.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Meu MBA - Anotações"
+              "title": "Ciclo de crescimento sustentável"
+            }
+          },
+          {
+            "id": "d94c0eb87ebd5595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Locus of Control.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Locus of Control"
             }
           }
         ],
@@ -57,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Meu MBA - Anotações.md",
+                "file": "00.Notes/Ciclo de crescimento sustentável.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meu MBA - Anotações"
+              "title": "Outline of Ciclo de crescimento sustentável"
             }
           },
           {
@@ -121,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -258,11 +274,20 @@
   },
   "active": "3a83d7663f533d57",
   "lastOpenFiles": [
-    "00.Notes/Insights High5.md",
+    "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/Ciclo de crescimento sustentável.md",
+    "00.Notes/Explore-Exploit.md",
+    "00.Notes/Scenario Planing (Planejamento de cenários).md",
+    "00.Notes/Stress Testing(Systems).md",
+    "00.Notes/Proteção contra falhas.md",
+    "00.Notes/Resiliencia.md",
+    "00.Notes/Locus of Control.md",
+    "01.Assets/Anexos/Pasted image 20260601185349.png",
+    "01.Assets/Anexos/Pasted image 20260601185323.png",
     "00.Notes/High5 Strengs.md",
+    "00.Notes/Insights High5.md",
     "00.Notes/Modelos Mentais.base",
     "CLAUDE.md",
-    "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Login with Premium High5.md",
     "00.Notes/Questionario das 3 Tendencias de dating.md",
     "00.Notes/Cessation.md",
@@ -278,13 +303,7 @@
     "00.Notes/The onion Brain (Cerebro de cebola).md",
     "00.Notes/Friction(Systems).md",
     "00.Notes/Progressive Load (Carga Progressiva).md",
-    "00.Notes/80-20(inflows).md",
     "80",
-    "00.Notes/Refatoração.md",
-    "00.Notes/A ironia da automação.md",
-    "00.Notes/O paradoxo da automação.md",
-    "00.Notes/Automação.md",
-    "00.Notes/Otimização.md",
     "01.Assets/Anexos/Pasted image 20260528170238.png",
     "01.Assets/Anexos/Pasted image 20260526185141.png",
     "01.Assets/Anexos/Pasted image 20260519143206.png",
@@ -293,8 +312,6 @@
     "01.Assets/Anexos/Pasted image 20260519112429.png",
     "01.Assets/Anexos/Pasted image 20260518121123.png",
     "01.Assets/Anexos/Pasted image 20260518115951.png",
-    "01.Assets/Anexos/Pasted image 20260515182733.png",
-    "01.Assets/Anexos/Pasted image 20260515181458.png",
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
