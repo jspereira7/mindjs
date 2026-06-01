@@ -28,30 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Insights High5.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Insights High5"
-            }
-          },
-          {
-            "id": "d33ed417c1c49776",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00.Notes/Modelos Mentais.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Modelos Mentais"
+              "title": "Meu MBA - Anotações"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Modelos Mentais.base",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modelos Mentais"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -269,15 +256,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d33ed417c1c49776",
+  "active": "3a83d7663f533d57",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "00.Notes/Insights High5.md",
+    "00.Notes/High5 Strengs.md",
     "00.Notes/Modelos Mentais.base",
+    "CLAUDE.md",
     "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Login with Premium High5.md",
-    "00.Notes/Insights High5.md",
     "00.Notes/Questionario das 3 Tendencias de dating.md",
-    "00.Notes/High5 Strengs.md",
     "00.Notes/Cessation.md",
     "00.Notes/Systematization.md",
     "00.Notes/Checklist.md",
@@ -298,7 +285,6 @@
     "00.Notes/O paradoxo da automação.md",
     "00.Notes/Automação.md",
     "00.Notes/Otimização.md",
-    "00.Notes/Viés de intervenção.md",
     "01.Assets/Anexos/Pasted image 20260528170238.png",
     "01.Assets/Anexos/Pasted image 20260526185141.png",
     "01.Assets/Anexos/Pasted image 20260519143206.png",

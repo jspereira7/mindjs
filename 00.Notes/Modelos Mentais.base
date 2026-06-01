@@ -4,3 +4,10 @@ views:
     groupBy:
       property: file.folder
       direction: ASC
+  - type: list
+    name: Listas
+    markers: bullet
+    indentProperties: false
+  - type: cards
+    name: Cards
+    cardSize: 150
