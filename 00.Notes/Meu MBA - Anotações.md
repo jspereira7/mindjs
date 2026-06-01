@@ -209,6 +209,16 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Friction(Systems)]]
 
+## [[retornos decresentes]]
+
+## [[SOP(Procedimento Operacional Padrão)]]
+
+## [[Checklist]]
+
+## [[Systematization]]
+
+
+
 ------
 # The Human Mind 
 ## [[The onion Brain (Cerebro de cebola)]]

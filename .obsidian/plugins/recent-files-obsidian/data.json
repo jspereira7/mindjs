@@ -5,6 +5,22 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Systematization",
+      "path": "00.Notes/Systematization.md"
+    },
+    {
+      "basename": "Checklist",
+      "path": "00.Notes/Checklist.md"
+    },
+    {
+      "basename": "SOP(Procedimento Operacional Padrão)",
+      "path": "00.Notes/SOP(Procedimento Operacional Padrão).md"
+    },
+    {
+      "basename": "retornos decresentes",
+      "path": "00.Notes/retornos decresentes.md"
+    },
+    {
       "basename": "Modal Bies",
       "path": "00.Notes/Modal Bies.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "mental_model",
       "path": "01.Assets/Templates/mental_model.md"
-    },
-    {
-      "basename": "entropia",
-      "path": "00.Notes/entropia.md"
-    },
-    {
-      "basename": "Problema de Hoje",
-      "path": "00.Notes/Problema de Hoje.md"
-    },
-    {
-      "basename": "Estrela Guia",
-      "path": "00.Notes/Estrela Guia.md"
-    },
-    {
-      "basename": "ideia.md",
-      "path": "01.Assets/Templates/ideia.md.md"
     }
   ],
   "omittedPaths": [
