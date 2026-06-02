@@ -294,3 +294,14 @@ As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 
 ## [[Profit]] 
 
+## [[Profit Margin]]
+
+## [[Value Capture]]
+
+## [[Suficiencia]]
+
+## [[Custos Fixos e variaveis]]
+
+# Value Delivery
+## [[Acumulation]]
+

@@ -16,6 +16,8 @@ Não importa se sua empresa gera US$ 100 milhões por ano em receita se você ga
 
 Lucro é um conceito muito simples: é trazer mais dinheiro do que você gasta. Para que uma empresa continue existindo, a receita total que ela arrecada deve exceder as despesas totais que ela acumula em algum momento no futuro previsível.
 
+Lucro também fornece uma “almofada” que permite à empresa resistir a eventos inesperados. Se uma empresa mal gera receitas suficientes para cobrir as suas despesas e essas despesas aumentam subitamente, a empresa está em apuros. Quanto mais lucrativo for o negócio, melhor ele será capaz de lidar Incerteza e Mudança, e quanto mais opções tiver para responder ao imprevisível.
+
 
 
 ----
