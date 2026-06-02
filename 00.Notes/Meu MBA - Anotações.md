@@ -231,8 +231,9 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Ciclo de crescimento sustentável]]
 
+## [[The middle Path]]
 
-
+## [[The Experimental Mindset]]
 
 ------
 # The Human Mind 
