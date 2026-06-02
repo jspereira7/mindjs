@@ -5,6 +5,10 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Goals (Metas)",
+      "path": "00.Notes/Goals (Metas).md"
+    },
+    {
       "basename": "Net (Lucro Liquido)",
       "path": "00.Notes/Net (Lucro Liquido).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Variance",
       "path": "00.Notes/Variance.md"
-    },
-    {
-      "basename": "Tolerance",
-      "path": "00.Notes/Tolerance.md"
     }
   ],
   "omittedPaths": [
