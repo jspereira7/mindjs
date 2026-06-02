@@ -282,3 +282,15 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 
 ## [[Modal Bies]]
 
+# Finance 
+
+Finance é a arte de observar o dinheiro entrando e saindo de um negocio e apartir disso decidir se é suficiente ou não continuar. 
+
+Contabilidade é o processo de garantir que os dados que você usa para tomar decisões financeiras sejam os mais completos e precisos possiveis. 
+
+As melhores empresas criam um ciclo virtuoso: criam enormes quantidades de valor, mantendo as suas despesas consistentemente baixas, por isso ganham dinheiro mais do que suficiente para continuar sem captar demasiado valor.
+
+As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
+
+## [[Profit]] 
+

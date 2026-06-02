@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Profit",
+      "path": "00.Notes/Profit.md"
+    },
+    {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Analytical Honesty",
       "path": "00.Notes/Analytical Honesty.md"
-    },
-    {
-      "basename": "Variance",
-      "path": "00.Notes/Variance.md"
     }
   ],
   "omittedPaths": [
