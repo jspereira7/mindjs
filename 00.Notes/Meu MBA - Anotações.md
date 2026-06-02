@@ -36,8 +36,6 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 
 ## [[Economically Valuable Skills]]
 
-
-
 ----
 
 # Understanding Systems 
@@ -123,6 +121,7 @@ Neste capítulo, você aprenderá como desconstruir sistemas em partes menores q
 
 ## [[Humanization]]
 
+## [[Net (Lucro Liquido)]]
 
 # Work Better with Yourself
 
@@ -282,3 +281,4 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 ## [[Attribution Error]]
 
 ## [[Modal Bies]]
+

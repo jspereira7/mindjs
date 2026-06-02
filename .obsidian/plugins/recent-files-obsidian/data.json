@@ -5,6 +5,10 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Net (Lucro Liquido)",
+      "path": "00.Notes/Net (Lucro Liquido).md"
+    },
+    {
       "basename": "The Experimental Mindset",
       "path": "00.Notes/The Experimental Mindset.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tolerance",
       "path": "00.Notes/Tolerance.md"
-    },
-    {
-      "basename": "Lixo entra Lixo sai",
-      "path": "00.Notes/Lixo entra Lixo sai.md"
     }
   ],
   "omittedPaths": [
