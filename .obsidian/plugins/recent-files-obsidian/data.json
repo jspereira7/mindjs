@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Meu MBA - Anotações",
+      "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
       "basename": "High5 Strengs",
       "path": "00.Notes/High5 Strengs.md"
     },
@@ -9,8 +13,8 @@
       "path": "00.Notes/Insights High5.md"
     },
     {
-      "basename": "Meu MBA - Anotações",
-      "path": "00.Notes/Meu MBA - Anotações.md"
+      "basename": "A falácia da grande ideia",
+      "path": "00.Notes/A falácia da grande ideia.md"
     },
     {
       "basename": "Acumulation",
@@ -195,10 +199,6 @@
     {
       "basename": "Corelação e Causalidade",
       "path": "00.Notes/Corelação e Causalidade.md"
-    },
-    {
-      "basename": "Tipicidade",
-      "path": "00.Notes/Tipicidade.md"
     }
   ],
   "omittedPaths": [

@@ -73,6 +73,9 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 
 ## [[normal-accidents]]
 
+## [[A falácia da grande ideia]]
+
+
 --------
 
 # Analisando Sistemas 

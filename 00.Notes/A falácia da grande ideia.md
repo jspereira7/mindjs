@@ -21,7 +21,7 @@ Se você nunca teve uma grande ideia na sua vida, mas virou mestre em executar a
 
 Vá atrás delas e os faça funcionar. As ideias não precisam necessariamente ser suas.
 
-A execução é tudo!
+**A execução é tudo!**
 
 Se pelo contrario, você passa seus dias pensando e desenvolvendo em sua cabeça essa “ grande ideia “, é improvável que você enriqueça. Mas é provável que você enriqueça outras pessoas.
 
