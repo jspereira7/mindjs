@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Minha Zona de Genialidade",
+      "path": "00.Notes/Minha Zona de Genialidade.md"
+    },
+    {
+      "basename": "High5 Strengs",
+      "path": "00.Notes/High5 Strengs.md"
+    },
+    {
       "basename": "Insights High5",
       "path": "00.Notes/Insights High5.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Power",
       "path": "00.Notes/Power.md"
-    },
-    {
-      "basename": "High5 Strengs",
-      "path": "00.Notes/High5 Strengs.md"
     },
     {
       "basename": "A falácia da grande ideia",
@@ -195,10 +199,6 @@
     {
       "basename": "The onion Brain (Cerebro de cebola)",
       "path": "00.Notes/The onion Brain (Cerebro de cebola).md"
-    },
-    {
-      "basename": "Friction(Systems)",
-      "path": "00.Notes/Friction(Systems).md"
     }
   ],
   "omittedPaths": [
