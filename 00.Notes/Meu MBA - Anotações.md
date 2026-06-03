@@ -35,96 +35,12 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 ## [[The 5 Parts of every business]]
 
 ## [[Economically Valuable Skills]]
+# Value Delivery
+## [[Acumulation]]
+
+
 
 ----
-
-# Understanding Systems 
-## [[Lei de Gall]]
-
-## [[Flow (Systems)]]
-
-## [[Stock (Systems)]]
-
-## [[Slack(Folga)]]
-
-## [[Gargalo Restrição(Systems)]]
-
-## [[Feedback Loop]]
-
-## [[Autocatálise]]
-
-## [[Enviroment(Systems)]]
-
-## [[Selection Test]]
-
-## [[entropia]]
-
-## [[Incerteza (Systems)]]
-
-## [[Change(Systems)]]
-
-## [[Interdependencia(Systems)]]
-
-## [[Risco de contraparte]]
-
-## [[Second-Order Effects]]
-
-## [[Externalidade]]
-
-## [[normal-accidents]]
-
-## [[A falácia da grande ideia]]
-
-
---------
-
-# Analisando Sistemas 
-
-> “If you can’t understand it, you can’t change it.”
-
-Antes de poder melhorar um sistema, você precisa entender o quão bem ele está operando atualmente.
-
-Infelizmente para nós, isso é um negócio complicado — simplesmente não é possível parar o mundo pelo tempo que você quiser enquanto você faz medições cuidadosas. 
-
-Os sistemas devem ser analisados à medida que funcionam. Analisar um sistema em operação é difícil, mas definitivamente possível — se você souber o que procurar.
-
-Neste capítulo, você aprenderá como desconstruir sistemas em partes menores que você pode entender, medir o que é importante e descobrir como partes do sistema interagem e dependem umas das outras para funcionar.
-
-## [[Desconstruction]]
-
-## [[Measurament(Medir)]]
-
-## [[Key performance indicator (KPI)]]
-
-## [[Lixo entra Lixo sai]]
-
-## [[Tolerance]]
-
-## [[Variance]]
-
-## [[Analytical Honesty]]
-
-## [[Context]]
-
-## [[Sampling Measurament]]
-
-## [[Margem de Erro(Systems)]]
-
-## [[Ratio]]
-
-## [[Tipicidade]]
-
-## [[Corelação e Causalidade]]
-
-## [[Norms(Systems)]]
-
-## [[Proxy(Measurement)]]
-
-## [[Segmentação(Measurement)]]
-
-## [[Humanization]]
-
-## [[Net (Lucro Liquido)]]
 
 # Work Better with Yourself
 
@@ -183,6 +99,165 @@ Neste capítulo, você aprenderá como desconstruir sistemas em partes menores q
 ## [[The Arrival Fallacy]]
 
 
+# Working Better with Others 
+
+## [[The mind Reading Fallacy]]
+
+## [[Reason Why]]
+
+## [[Attribution Error]]
+
+## [[Modal Bies]]
+
+## [[Power]]
+
+## [[ Intenção do comandante]]
+
+## [[Consideração merecida]]
+
+## [[Apatia do espectador]]
+
+## [[A falácia do planejamento]]
+
+## [[Forcing Function]]
+
+## [[Referrals]]
+
+## [[Convergencia e Divergencia]]
+
+## [[Prova social]]
+
+## [[Autoridade]]
+
+
+
+# The Human Mind 
+
+## [[The onion Brain (Cerebro de cebola)]]
+
+## [[Teoria do controle perceptivo. ]]
+
+## [[Nivel de Referencia ]]
+
+## [[Conservação de Energia (Psicologia)]]
+
+## [[Reorganização]] 
+
+## [[Conflict]]
+
+## [[Patern Matching (Correspondencia de Padrões)]]
+
+## [[Mental Simulation ]]
+
+## [[Interpretação e reinterpretação]]
+
+## [[Motivação (Motivation)]]
+
+## [[Inhibition (Inibição)]]
+
+## [[Status Signals (Sinais de Status)]]
+
+## [[Aversão a perda (Loss aversion)]]
+
+## [[Threat Lockdown (Bloqueio de Ameaça)]]
+
+## [[Cognitive Scope Limitation (Limitação do escopo cognitivo)]]
+
+## [[Association (Associação)]]
+
+## [[Escassez]] 
+
+## [[Novidade (novelty)]]
+
+# Understanding Systems 
+## [[Lei de Gall]]
+
+## [[Flow (Systems)]]
+
+## [[Stock (Systems)]]
+
+## [[Slack(Folga)]]
+
+## [[Gargalo Restrição(Systems)]]
+
+## [[Feedback Loop]]
+
+## [[Autocatálise]]
+
+## [[Enviroment(Systems)]]
+
+## [[Selection Test]]
+
+## [[entropia]]
+
+## [[Incerteza (Systems)]]
+
+## [[Change(Systems)]]
+
+## [[Interdependencia(Systems)]]
+
+## [[Risco de contraparte]]
+
+## [[Second-Order Effects]]
+
+## [[Externalidade]]
+
+## [[normal-accidents]]
+
+## [[A falácia da grande ideia]]
+
+
+--------
+
+
+# Analisando Sistemas 
+
+> “If you can’t understand it, you can’t change it.”
+
+Antes de poder melhorar um sistema, você precisa entender o quão bem ele está operando atualmente.
+
+Infelizmente para nós, isso é um negócio complicado — simplesmente não é possível parar o mundo pelo tempo que você quiser enquanto você faz medições cuidadosas. 
+
+Os sistemas devem ser analisados à medida que funcionam. Analisar um sistema em operação é difícil, mas definitivamente possível — se você souber o que procurar.
+
+Neste capítulo, você aprenderá como desconstruir sistemas em partes menores que você pode entender, medir o que é importante e descobrir como partes do sistema interagem e dependem umas das outras para funcionar.
+
+## [[Desconstruction]]
+
+## [[Measurament(Medir)]]
+
+## [[Key performance indicator (KPI)]]
+
+## [[Lixo entra Lixo sai]]
+
+## [[Tolerance]]
+
+## [[Variance]]
+
+## [[Analytical Honesty]]
+
+## [[Context]]
+
+## [[Sampling Measurament]]
+
+## [[Margem de Erro(Systems)]]
+
+## [[Ratio]]
+
+## [[Tipicidade]]
+
+## [[Corelação e Causalidade]]
+
+## [[Norms(Systems)]]
+
+## [[Proxy(Measurement)]]
+
+## [[Segmentação(Measurement)]]
+
+## [[Humanization]]
+
+## [[Net (Lucro Liquido)]]
+
 # Improving Systems
 
 > Em teoria, não há diferença entre teoria e prática. Mas, na pratica, existe
@@ -238,53 +313,6 @@ Neste capítulo, você aprenderá os segredos da otimização, como remover atri
 ## [[The Experimental Mindset]]
 
 ------
-# The Human Mind 
-## [[The onion Brain (Cerebro de cebola)]]
-
-## [[Teoria do controle perceptivo. ]]
-
-## [[Nivel de Referencia ]]
-
-## [[Conservação de Energia (Psicologia)]]
-
-## [[Reorganização]] 
-
-## [[Conflict]]
-
-## [[Patern Matching (Correspondencia de Padrões)]]
-
-## [[Mental Simulation ]]
-
-## [[Interpretação e reinterpretação]]
-
-## [[Motivação (Motivation)]]
-
-## [[Inhibition (Inibição)]]
-
-## [[Status Signals (Sinais de Status)]]
-
-## [[Aversão a perda (Loss aversion)]]
-
-## [[Threat Lockdown (Bloqueio de Ameaça)]]
-
-## [[Cognitive Scope Limitation (Limitação do escopo cognitivo)]]
-
-## [[Association (Associação)]]
-
-## [[Escassez]] 
-
-## [[Novidade (novelty)]]
-
-# Working Better with Others 
-
-## [[The mind Reading Fallacy]]
-
-## [[Reason Why]]
-
-## [[Attribution Error]]
-
-## [[Modal Bies]]
-
 # Finance 
 
 Finance é a arte de observar o dinheiro entrando e saindo de um negocio e apartir disso decidir se é suficiente ou não continuar. 
@@ -304,7 +332,4 @@ As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 ## [[Suficiencia]]
 
 ## [[Custos Fixos e variaveis]]
-
-# Value Delivery
-## [[Acumulation]]
 

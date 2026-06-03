@@ -5,6 +5,46 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Autoridade",
+      "path": "00.Notes/Autoridade.md"
+    },
+    {
+      "basename": "Prova social",
+      "path": "00.Notes/Prova social.md"
+    },
+    {
+      "basename": "Convergencia e Divergencia",
+      "path": "00.Notes/Convergencia e Divergencia.md"
+    },
+    {
+      "basename": "Referrals",
+      "path": "00.Notes/Referrals.md"
+    },
+    {
+      "basename": "Forcing Function",
+      "path": "00.Notes/Forcing Function.md"
+    },
+    {
+      "basename": "A falácia do planejamento",
+      "path": "00.Notes/A falácia do planejamento.md"
+    },
+    {
+      "basename": "Apatia do espectador",
+      "path": "00.Notes/Apatia do espectador.md"
+    },
+    {
+      "basename": "Consideração merecida",
+      "path": "00.Notes/Consideração merecida.md"
+    },
+    {
+      "basename": "Intenção do comandante",
+      "path": "00.Notes/Intenção do comandante.md"
+    },
+    {
+      "basename": "Power",
+      "path": "00.Notes/Power.md"
+    },
+    {
       "basename": "High5 Strengs",
       "path": "00.Notes/High5 Strengs.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Refatoração",
       "path": "00.Notes/Refatoração.md"
-    },
-    {
-      "basename": "A ironia da automação",
-      "path": "00.Notes/A ironia da automação.md"
-    },
-    {
-      "basename": "O paradoxo da automação",
-      "path": "00.Notes/O paradoxo da automação.md"
-    },
-    {
-      "basename": "Automação",
-      "path": "00.Notes/Automação.md"
-    },
-    {
-      "basename": "Otimização",
-      "path": "00.Notes/Otimização.md"
-    },
-    {
-      "basename": "Viés de intervenção",
-      "path": "00.Notes/Viés de intervenção.md"
-    },
-    {
-      "basename": "Humanization",
-      "path": "00.Notes/Humanization.md"
-    },
-    {
-      "basename": "Segmentação(Measurement)",
-      "path": "00.Notes/Segmentação(Measurement).md"
-    },
-    {
-      "basename": "Proxy(Measurement)",
-      "path": "00.Notes/Proxy(Measurement).md"
-    },
-    {
-      "basename": "Norms(Systems)",
-      "path": "00.Notes/Norms(Systems).md"
-    },
-    {
-      "basename": "Corelação e Causalidade",
-      "path": "00.Notes/Corelação e Causalidade.md"
     }
   ],
   "omittedPaths": [
