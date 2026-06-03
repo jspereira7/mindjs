@@ -181,3 +181,12 @@ Pessoas com perfil analítico apreciam atividades mentais, discussões intelectu
 
  São pessoas independentes, autossuficientes e inspiram os outros com sua segurança e convicção. Elas não toleram que outros lhes digam o que fazer ou tentem controlar suas ações.
 
+### Full Description
+
+Seu objetivo é irradiar confiança. Você não se preocupa com o que o futuro reserva e, no fundo do seu coração, sabe que conseguirá superar qualquer situação, aconteça o que acontecer.
+
+Sua confiança interior e sua automotivação permitem que você assuma riscos, enfrente novos desafios, tome a iniciativa e, acima de tudo, cumpra aquilo que promete.
+
+Sua confiança não se aplica apenas às suas habilidades, mas também aos seus julgamentos. Você parece tomar as decisões certas em qualquer situação, o que gera nos outros uma sensação de confiança e segurança.
+
+Esse sentimento de certeza é fundamental para impulsionar o processo de tomada de decisões em qualquer equipe.
