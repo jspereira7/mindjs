@@ -62,8 +62,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,12 +81,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/The 5 Parts of every business.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The 5 Parts of every business"
             }
           },
           {
@@ -279,11 +279,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8c8e2bff5977f427",
+  "active": "e5507598303cb9d3",
   "lastOpenFiles": [
+    "00.Notes/Insights High5.md",
     "00.Notes/High5 Strengs.md",
     "00.Notes/Minha Zona de Genialidade.md",
-    "00.Notes/Insights High5.md",
     "00.Notes/The 5 Parts of every business.md",
     "01.Assets/Excalidraw/As 5 partes de todo negocio (Youtube).md",
     "00.Notes/Meu MBA - Anotações.md",
