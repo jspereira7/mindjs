@@ -1,12 +1,30 @@
-<%*
-Let autor = await tp.System.Prompt ("Qual o autor?")
-Let ano = await tp.System.Prompt ("Ano de publicação?")
-%>
-# 📖 <% tp.file.title %>
 
-**Autor:** <%* tR = autor %>  
-**Ano:** <%* tR = ano %>  
-**Criado em:** <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
----
-## Resumo
+| Conceito / Ideia | Reação / Aplicação / Insight |
+| ---------------- | ---------------------------- |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+|                  |                              |
+
+## Perguntas úteis para preencher
+
+### Conceito / Ideia
+- O que o autor está afirmando?
+- Qual princípio está sendo explicado?
+- O que parece importante ou recorrente?
+
+### Reação / Aplicação / Insight
+- Concordo ou discordo?
+- Isso muda algo na minha visão?
+- Como posso aplicar isso?
+- Isso conecta com qual experiência minha?
+- Isso contradiz algo que eu acreditava?
+- Que problema isso resolve?
+- Isso me lembra qual outro conceito/livro?

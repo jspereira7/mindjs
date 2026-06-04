@@ -29,5 +29,5 @@ Adicione um pouco de [Atrito](https://personalmba.com/friction/) ou elimine ce
 - Como seu ambiente atual está afetando seu comportamento?
 - Como você pode mudar a estrutura do seu ambiente para facilitar a realização das coisas?
 
-> “Seu ambiente consumirá seus objetivos e planos para o café da manhã.”
+> “Seu ambiente consumirá seus objetivos e planos para no café da manhã.”
 
