@@ -5,6 +5,14 @@
       "path": "00.Notes/Meu MBA - Anotações.md"
     },
     {
+      "basename": "Mental Models Canva",
+      "path": "01.Assets/Mental Models Canva.canvas"
+    },
+    {
+      "basename": "Akrasia",
+      "path": "00.Notes/Akrasia.md"
+    },
+    {
       "basename": "Auto-elicitação",
       "path": "00.Notes/Auto-elicitação.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Monoidealismo",
       "path": "00.Notes/Monoidealismo.md"
-    },
-    {
-      "basename": "Akrasia",
-      "path": "00.Notes/Akrasia.md"
     },
     {
       "basename": "Requisitos de desempenho",
@@ -195,10 +199,6 @@
     {
       "basename": "Scenario Planing (Planejamento de cenários)",
       "path": "00.Notes/Scenario Planing (Planejamento de cenários).md"
-    },
-    {
-      "basename": "Stress Testing(Systems)",
-      "path": "00.Notes/Stress Testing(Systems).md"
     }
   ],
   "omittedPaths": [
