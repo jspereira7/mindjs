@@ -1,5 +1,9 @@
+---
+tags:
+  - modelos_mentais
+---
 
-## O que é xxx ? 
+## O que é {{title}} ? 
 
 
 

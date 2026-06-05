@@ -8,31 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16ef44b58014d8ec",
+            "id": "b52de28213da1d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Aversão a perda (Loss aversion).md",
+                "file": "00.Notes/Eixo entre Ti - Fe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aversão a perda (Loss aversion)"
+              "title": "Eixo entre Ti - Fe"
             }
           },
           {
-            "id": "b52de28213da1d66",
+            "id": "084b0db889622e6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Insights High5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Insights High5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Aversão a perda (Loss aversion).md",
+                "file": "00.Notes/Insights High5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aversão a perda (Loss aversion)"
+              "title": "Outline of Insights High5"
             }
           },
           {
@@ -110,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,36 +256,37 @@
       "random-note:Open random note": false
     }
   },
-  "active": "16ef44b58014d8ec",
+  "active": "084b0db889622e6a",
   "lastOpenFiles": [
-    "00.Notes/Association (Associação).md",
-    "00.Notes/Threat Lockdown (Bloqueio de Ameaça).md",
-    "00.Notes/Status Signals (Sinais de Status).md",
-    "00.Notes/Motivação (Motivation).md",
-    "00.Notes/Interpretação e reinterpretação.md",
-    "00.Notes/Mental Simulation.md",
-    "00.Notes/Patern Matching (Correspondencia de Padrões).md",
-    "00.Notes/Conflict.md",
+    "00.Notes/Eixo entre Ti - Fe.md",
+    "00.Notes/Como ficar Rico.md",
+    "00.Notes/Anotações Sensacao Extrovertida - Lenore Thomson..md",
+    "00.Notes/Anotações Nessaham Alita.md",
+    "00.Notes/Analise de Métricas para cortar campanhas sem lucro..md",
+    "00.Notes/A pergunta que irá resolver minha vida.md",
+    "00.Notes/ACESSO CURSO VAZADO - ALAN NICOLAS.md",
+    "01.Assets/Clippings/The Perfect ChatGPT Prompt Formula.md",
+    "01.Assets/Clippings/Kevin Kelly Book Recommendations.md",
+    "01.Assets/Clippings/Ray Dalio Book Recommendations.md",
+    "01.Assets/Clippings/Charlie Munger Book Recommendations.md",
+    "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md",
+    "01.Assets/Cursos/Curso de Lógica - Victor Elius..md",
+    "01.Assets/Cursos/Curso Python Básico - Solyd.md",
+    "01.Assets/Cursos/Curso Zona de Genialidade - Alan Nicolas.md",
+    "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
+    "01.Assets/Excalidraw/As 5 partes de todo negocio (Youtube).md",
+    "01.Assets/Templates/daily.md.md",
+    "01.Assets/Templates/mental_model.md",
+    "01.Assets/Templates/ideia.md.md",
+    "01.Assets/Templates/book.md.md",
+    "01.Assets/Templates/meet-template.md",
+    "00.Notes/Teste Nota nova.md",
+    "01.Assets/Estudo de Ai.canvas",
+    "CLAUDE.md",
+    "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
+    "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
-    "00.Notes/Reorganização.md",
-    "00.Notes/Guiding Stucture.md",
-    "00.Notes/Conservação de Energia (Psicologia).md",
-    "00.Notes/Insights High5.md",
-    "00.Notes/retornos decresentes.md",
-    "00.Notes/Meu MBA - Anotações.md",
-    "00.Notes/The 5 Parts of every business.md",
     "01.Assets/Mental Models Canva.canvas",
-    "00.Notes/Auto-elicitação.md",
-    "00.Notes/Externalization (Externalização).md",
-    "00.Notes/A técnica dos 5 \"Comos\".md",
-    "00.Notes/A Técnica dos 5 porques (??).md",
-    "00.Notes/Decisão.md",
-    "00.Notes/Hábitos.md",
-    "00.Notes/Goals (Metas).md",
-    "00.Notes/Most important Tasks (MIT).md",
-    "00.Notes/Os 4 método de conclusão.md",
-    "00.Notes/Penalidade de troca cognitiva.md",
-    "00.Notes/Monoidealismo.md",
     "01.Assets/Anexos/Pasted image 20260601185349.png",
     "01.Assets/Anexos/Pasted image 20260601185323.png",
     "00.Notes/Modelos Mentais.base",
@@ -294,7 +302,6 @@
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
-    "01.Assets/Estudo de Ai.canvas",
     ":.claude/settings.json",
     ":.claude/obsidian-skills-main copy/skills/json-canvas/references",
     ":.claude/obsidian-skills-main copy/skills/json-canvas",
