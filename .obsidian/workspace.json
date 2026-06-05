@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Insights High5.md",
+                "file": "00.Notes/Aversão a perda (Loss aversion).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Insights High5"
+              "title": "Aversão a perda (Loss aversion)"
             }
           },
           {
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Insights High5.md",
+                "file": "00.Notes/Aversão a perda (Loss aversion).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Insights High5"
+              "title": "Outline of Aversão a perda (Loss aversion)"
             }
           },
           {
@@ -251,6 +251,18 @@
   },
   "active": "16ef44b58014d8ec",
   "lastOpenFiles": [
+    "00.Notes/Association (Associação).md",
+    "00.Notes/Threat Lockdown (Bloqueio de Ameaça).md",
+    "00.Notes/Status Signals (Sinais de Status).md",
+    "00.Notes/Motivação (Motivation).md",
+    "00.Notes/Interpretação e reinterpretação.md",
+    "00.Notes/Mental Simulation.md",
+    "00.Notes/Patern Matching (Correspondencia de Padrões).md",
+    "00.Notes/Conflict.md",
+    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+    "00.Notes/Reorganização.md",
+    "00.Notes/Guiding Stucture.md",
+    "00.Notes/Conservação de Energia (Psicologia).md",
     "00.Notes/Insights High5.md",
     "00.Notes/retornos decresentes.md",
     "00.Notes/Meu MBA - Anotações.md",
@@ -267,17 +279,6 @@
     "00.Notes/Os 4 método de conclusão.md",
     "00.Notes/Penalidade de troca cognitiva.md",
     "00.Notes/Monoidealismo.md",
-    "00.Notes/Akrasia.md",
-    "00.Notes/Requisitos de desempenho.md",
-    "00.Notes/Guiding Stucture.md",
-    "00.Notes/Suficiencia.md",
-    "00.Notes/Questionario das 3 Tendencias de dating.md",
-    "00.Notes/Doomsday Sexta Feira 29.05.2026.md",
-    "00.Notes/High5 Strengs.md",
-    "01.Assets/Templates/book.md.md",
-    "00.Notes/Untitldfsaed.md",
-    "00.Notes/Minha Zona de Genialidade.md",
-    "01.Assets/Excalidraw/As 5 partes de todo negocio (Youtube).md",
     "01.Assets/Anexos/Pasted image 20260601185349.png",
     "01.Assets/Anexos/Pasted image 20260601185323.png",
     "00.Notes/Modelos Mentais.base",
@@ -292,7 +293,6 @@
     "01.Assets/Anexos/Pasted image 20260518115951.png",
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
     "01.Assets/Estudo de Ai.canvas",
     ":.claude/settings.json",
