@@ -5,12 +5,16 @@
       "path": "00.Notes/Insights High5.md"
     },
     {
-      "basename": "The 5 Parts of every business",
-      "path": "00.Notes/The 5 Parts of every business.md"
+      "basename": "retornos decresentes",
+      "path": "00.Notes/retornos decresentes.md"
     },
     {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
+      "basename": "The 5 Parts of every business",
+      "path": "00.Notes/The 5 Parts of every business.md"
     },
     {
       "basename": "Mental Models Canva",
@@ -195,10 +199,6 @@
     {
       "basename": "Explore-Exploit",
       "path": "00.Notes/Explore-Exploit.md"
-    },
-    {
-      "basename": "Scenario Planing (Planejamento de cenários)",
-      "path": "00.Notes/Scenario Planing (Planejamento de cenários).md"
     }
   ],
   "omittedPaths": [
