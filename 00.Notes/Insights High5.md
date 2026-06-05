@@ -20,7 +20,7 @@ Graças a essa força, você também é sempre capaz de contribuir com novos con
 - Inscreva-se em cursos ou workshops relevantes para sua área ou interesses. Esse aprendizado formal manterá você engajado e em contínuo desenvolvimento da sua base de conhecimento.
 - Experimente diversos formatos de aprendizado, como podcasts, webinars, cursos online e livros. Diversificar a forma como você aprende pode manter o processo estimulante e adaptá-lo aos seus contextos em constante mudança.
 - Crie metas de aprendizado específicas e mensuráveis. Essas metas podem ser ler uma certa quantidade de livros anualmente, dominar uma nova habilidade ou conquistar uma certificação.
-- Ensinar é uma forma poderosa de aprofundar sua própria compreensão. Ofereça-se para treinar colegas, orientar outras pessoas ou conduzir workshops. Isso reforça seu conhecimento e beneficia sua comunidade ou organização.
+- **Ensinar é uma forma poderosa de aprofundar sua própria compreensão.** Ofereça-se para treinar colegas, orientar outras pessoas ou conduzir workshops. Isso reforça seu conhecimento e beneficia sua comunidade ou organização.
 - Participe de grupos de estudo, clubes do livro ou fóruns online. Engajar-se com outras pessoas no aprendizado pode proporcionar novos insights e perspectivas.
 - Aplique novos conhecimentos no seu trabalho diário ou em projetos pessoais. Essa aplicação prática consolida o aprendizado e demonstra seu valor.
 - Documente suas experiências de aprendizado, insights e aplicações. Refletir sobre o que você aprendeu pode aprimorar a compreensão e a retenção.

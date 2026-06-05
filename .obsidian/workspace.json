@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Meu MBA - Anotações.md",
+                "file": "00.Notes/Insights High5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meu MBA - Anotações"
+              "title": "Outline of Insights High5"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,10 +270,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cfa49926c5ad173f",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
-    "01.Assets/Mental Models Canva.canvas",
+    "00.Notes/The 5 Parts of every business.md",
     "00.Notes/Meu MBA - Anotações.md",
+    "01.Assets/Mental Models Canva.canvas",
     "00.Notes/Auto-elicitação.md",
     "00.Notes/Externalization (Externalização).md",
     "00.Notes/A técnica dos 5 \"Comos\".md",
@@ -294,7 +294,6 @@
     "00.Notes/Doomsday Sexta Feira 29.05.2026.md",
     "00.Notes/High5 Strengs.md",
     "00.Notes/Insights High5.md",
-    "00.Notes/The 5 Parts of every business.md",
     "01.Assets/Templates/book.md.md",
     "00.Notes/Untitldfsaed.md",
     "00.Notes/Minha Zona de Genialidade.md",
@@ -327,7 +326,6 @@
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
     "01.Assets/DataBaseTikTok.canvas",
-    "Funil - Concorrente.canvas",
-    "Recursos/Untitled.canvas"
+    "Funil - Concorrente.canvas"
   ]
 }
