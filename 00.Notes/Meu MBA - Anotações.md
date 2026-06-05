@@ -333,3 +333,16 @@ As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 
 ## [[Custos Fixos e variaveis]]
 
+## [[Cash Flow statement]]
+
+## [[Income statement]]
+
+## [[Balance Sheet]]
+
+## [[Financial Ratios]]
+
+## [[4 Methods to increse revenue]]
+
+## [[Overhead(Sobrecarga)]]
+
+

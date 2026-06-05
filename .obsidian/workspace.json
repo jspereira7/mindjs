@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b52de28213da1d66",
+            "id": "3f707eb5c03d014b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Eixo entre Ti - Fe.md",
+                "file": "00.Notes/Overhead(Sobrecarga).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Eixo entre Ti - Fe"
-            }
-          },
-          {
-            "id": "084b0db889622e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Insights High5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Insights High5"
+              "title": "Overhead(Sobrecarga)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Insights High5.md",
+                "file": "00.Notes/Overhead(Sobrecarga).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Insights High5"
+              "title": "Outline of Overhead(Sobrecarga)"
             }
           },
           {
@@ -116,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,9 +239,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "084b0db889622e6a",
+  "active": "3f707eb5c03d014b",
   "lastOpenFiles": [
+    "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/Overhead(Sobrecarga).md",
+    "00.Notes/4 Methods to increse revenue.md",
+    "00.Notes/Financial Ratios.md",
+    "00.Notes/Balance Sheet.md",
+    "00.Notes/Income statement.md",
+    "00.Notes/Cash Flow statement.md",
+    "00.Notes/Custos Fixos e variaveis.md",
     "00.Notes/Eixo entre Ti - Fe.md",
+    "00.Notes/Insights High5.md",
     "00.Notes/Como ficar Rico.md",
     "00.Notes/Anotações Sensacao Extrovertida - Lenore Thomson..md",
     "00.Notes/Anotações Nessaham Alita.md",
@@ -275,16 +267,7 @@
     "01.Assets/Cursos/Curso Zona de Genialidade - Alan Nicolas.md",
     "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
     "01.Assets/Excalidraw/As 5 partes de todo negocio (Youtube).md",
-    "01.Assets/Templates/daily.md.md",
-    "01.Assets/Templates/mental_model.md",
-    "01.Assets/Templates/ideia.md.md",
-    "01.Assets/Templates/book.md.md",
-    "01.Assets/Templates/meet-template.md",
-    "00.Notes/Teste Nota nova.md",
     "01.Assets/Estudo de Ai.canvas",
-    "CLAUDE.md",
-    "Clippings/The Aesthetic Blueprint. - Training · The Clavicular System.md",
-    "00.Notes/Livro Zack Rodie - Não deixe ela liderar.md",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Anexos/Pasted image 20260601185349.png",
