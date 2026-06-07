@@ -23,15 +23,13 @@
             }
           },
           {
-            "id": "ece4a78df422e47d",
+            "id": "05fa37b18d236532",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-06-05 21.21.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-05 21.21.15.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -54,13 +52,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-06-05 21.21.15.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-06-05 21.21.15.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -252,10 +249,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ece4a78df422e47d",
+  "active": "05fa37b18d236532",
   "lastOpenFiles": [
-    "01.Assets/Excalidraw/Drawing 2026-06-05 21.21.15.excalidraw.md",
     "00.Notes/Meu MBA - Anotações.md",
+    "01.Assets/Excalidraw/Drawing 2026-06-05 21.21.15.excalidraw.md",
     "00.Notes/CashFlow Cicle.md",
     "00.Notes/Breakeven.md",
     "00.Notes/Overhead(Sobrecarga).md",
