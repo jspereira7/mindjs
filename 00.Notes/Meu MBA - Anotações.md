@@ -345,4 +345,8 @@ As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 
 ## [[Overhead(Sobrecarga)]]
 
+## [[Breakeven]]
+
+## [[ CashFlow Cicle]]
+
 
