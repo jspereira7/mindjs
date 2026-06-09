@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Meu MBA - Anotações"
             }
-          },
-          {
-            "id": "05fa37b18d236532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Anotações Read People Like a Book.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Anotações Read People Like a Book"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Anotações Read People Like a Book.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anotações Read People Like a Book"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -255,7 +239,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05fa37b18d236532",
+  "active": "3f707eb5c03d014b",
   "lastOpenFiles": [
     "00.Notes/Anotações Read People Like a Book.md",
     "00.Notes/Meu MBA - Anotações.md",
