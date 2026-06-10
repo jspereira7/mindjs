@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Decision Making",
+      "path": "00.Notes/Decision Making.md"
+    },
+    {
       "basename": "Gestão Pessoal Js",
       "path": "00.Notes/Gestão Pessoal Js.md"
+    },
+    {
+      "basename": "Como Ler mais de 30 livros por ano - James Clear",
+      "path": "00.Notes/Como Ler mais de 30 livros por ano - James Clear.md"
     },
     {
       "basename": "High5 Strengs",
@@ -191,14 +199,6 @@
     {
       "basename": "Aversão a perda (Loss aversion)",
       "path": "00.Notes/Aversão a perda (Loss aversion).md"
-    },
-    {
-      "basename": "Association (Associação)",
-      "path": "00.Notes/Association (Associação).md"
-    },
-    {
-      "basename": "Threat Lockdown (Bloqueio de Ameaça)",
-      "path": "00.Notes/Threat Lockdown (Bloqueio de Ameaça).md"
     }
   ],
   "omittedPaths": [
