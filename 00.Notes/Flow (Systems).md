@@ -2,9 +2,9 @@
 
 Todo sistema tem fluxos ou flows: Movimentos de recursos para dentro e para fora do sistema. 
 
-***Inputs*** são recursos que entram no sistema, como a água em uma pia, ***Outputs*** são recursos saindo do sistema, como dinheiro saindo de uma conta bancaria. 
+***inflows*** são recursos que entram no sistema, como a água em uma pia, ***Outflows*** são recursos saindo do sistema, como dinheiro saindo de uma conta bancaria. 
 
-Entenda os fluxos para entender o sistema
+Entenda os fluxos para entender o sistema.
 
 ------
 ## Explicação

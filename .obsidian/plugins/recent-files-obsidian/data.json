@@ -5,12 +5,28 @@
       "path": "00.Notes/Gestão Pessoal Js.md"
     },
     {
-      "basename": "Viés de intervenção",
-      "path": "00.Notes/Viés de intervenção.md"
+      "basename": "Flow (Systems)",
+      "path": "00.Notes/Flow (Systems).md"
     },
     {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
+      "basename": "Anotações Read People Like a Book",
+      "path": "00.Notes/Anotações Read People Like a Book.md"
+    },
+    {
+      "basename": "Anotações Livro Personal Management",
+      "path": "00.Notes/Anotações Livro Personal Management.md"
+    },
+    {
+      "basename": "Based BioHacker Insights",
+      "path": "00.Notes/Based BioHacker Insights.md"
+    },
+    {
+      "basename": "Viés de intervenção",
+      "path": "00.Notes/Viés de intervenção.md"
     },
     {
       "basename": "High5 Strengs",
@@ -25,16 +41,8 @@
       "path": "00.Notes/Como Ler mais de 30 livros por ano - James Clear.md"
     },
     {
-      "basename": "Anotações Livro Personal Management",
-      "path": "00.Notes/Anotações Livro Personal Management.md"
-    },
-    {
       "basename": "2026-06-09 Tuesday",
       "path": "+Daily Notes/2026-06-09 Tuesday.md"
-    },
-    {
-      "basename": "Anotações Read People Like a Book",
-      "path": "00.Notes/Anotações Read People Like a Book.md"
     },
     {
       "basename": "Drawing 2026-06-05 21.21.15.excalidraw",
@@ -191,14 +199,6 @@
     {
       "basename": "Traffic Brokering - How to Make Money with Affiliates",
       "path": "00.Notes/Traffic Brokering - How to Make Money with Affiliates.md"
-    },
-    {
-      "basename": "Como lidar com as mulheres - Nessaham alita.",
-      "path": "00.Notes/Como lidar com as mulheres - Nessaham alita..md"
-    },
-    {
-      "basename": "Incerteza (Systems)",
-      "path": "00.Notes/Incerteza (Systems).md"
     }
   ],
   "omittedPaths": [
