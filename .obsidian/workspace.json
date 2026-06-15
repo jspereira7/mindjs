@@ -11,10 +11,15 @@
             "id": "5b7245893ff1587e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+Daily Notes/2026-06-15 Monday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-06-15 Monday"
             }
           }
         ]
@@ -36,12 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "+Daily Notes/2026-06-15 Monday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-06-15 Monday"
             }
           },
           {
@@ -234,10 +240,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cf321efad4a60738",
+  "active": "5b7245893ff1587e",
   "lastOpenFiles": [
-    "+Daily Notes/2026-06-13 Saturday.md",
+    "+Daily Notes/2026-06-09 Tuesday.md",
+    "+Daily Notes/2026-06-15 Monday.md",
     "+Daily Notes/2026-06-11 Thursday.md",
+    "+Daily Notes/2026-06-13 Saturday.md",
     "00.Notes/Gestão Pessoal Js.md",
     "00.Notes/Flow (Systems).md",
     "00.Notes/Meu MBA - Anotações.md",
@@ -248,7 +256,6 @@
     "00.Notes/High5 Strengs.md",
     "00.Notes/Decision Making.md",
     "00.Notes/Como Ler mais de 30 livros por ano - James Clear.md",
-    "+Daily Notes/2026-06-09 Tuesday.md",
     "01.Assets/Excalidraw/Drawing 2026-06-05 21.21.15.excalidraw.md",
     "00.Notes/CashFlow Cicle.md",
     "00.Notes/Breakeven.md",
@@ -261,7 +268,6 @@
     "00.Notes/Custos Fixos e variaveis.md",
     "00.Notes/Eixo entre Ti - Fe.md",
     "00.Notes/Insights High5.md",
-    "00.Notes/Como ficar Rico.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Mental Models Canva.canvas",
