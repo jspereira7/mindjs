@@ -94,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,7 +234,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5b7245893ff1587e",
+  "active": "cf321efad4a60738",
   "lastOpenFiles": [
     "+Daily Notes/2026-06-13 Saturday.md",
     "+Daily Notes/2026-06-11 Thursday.md",
