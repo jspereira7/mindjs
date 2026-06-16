@@ -35,6 +35,31 @@ Todos os negócios criam algo de valor. O mundo está cheio de oportunidades par
 ## [[The 5 Parts of every business]]
 
 ## [[Economically Valuable Skills]]
+
+# Marketing
+
+Marketing é a arte e a ciência de encontrar _clientes potenciais_ – pessoas que estão ativamente interessadas no que você tem a oferecer. 
+
+As melhores empresas do mundo encontram maneiras de atrair a atenção de clientes potenciais qualificados de forma rápida e barata. 
+
+Quanto mais clientes em potencial você atrair, melhor será para o seu negócio.
+
+Marketing não é a mesma coisa que vender. Embora as estratégias “de marketing direto” muitas vezes minimizem o tempo entre atrair atenção e pedir a venda, marketing e venda são duas coisas diferentes.
+
+Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o negócio.
+
+## [[Atenção]]
+
+## [[Receptivity(Marketing)]]
+
+## [[Remarkability]]
+
+## [[Cliente em potencial]]
+
+## [[Levels of Awarness]]
+
+
+
 # Value Delivery
 ## [[Acumulation]]
 
