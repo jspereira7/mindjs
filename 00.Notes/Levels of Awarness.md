@@ -16,7 +16,15 @@ O melhor marketing encontra o cliente potencial onde ele está, não onde você 
 
 Sua abordagem para atrair atenção depende do nível atual de conscientização do seu cliente potencial, e seu objetivo com cada contato de marketing é levar o cliente potencial a um nível mais alto de conscientização ao longo do tempo.
 
-Isso cria o q
+Isso cria o que muitos proffionais de marketing chamam de funil de vendas, onde seu cliente vai cada vez mais descendo no funil de conciencia. 
+
+1. Inconciente (Não sabe que tem um problema)
+2. Conciente do problema(Porque você malha a meses e não cresce? Provalmente é isso...)
+3. Conciente da solução(Sabe que existem soluções, mas não conhece seu produto)
+4. Conciente do produto(Já te conhece mais ainda não comprou)
+5. Conciente(Quer comprar, só precisa do empurrão certo, preço, bonus, garantia, urgencia)
+
+
 
 
 ----

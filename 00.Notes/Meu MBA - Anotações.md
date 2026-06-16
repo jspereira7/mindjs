@@ -58,7 +58,17 @@ Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o 
 
 ## [[Levels of Awarness]]
 
+## [[Resultado Final(Marketing)]]
 
+## [[Demosntração(Marketing)]]
+
+## [[Qualificação(Marketing)]]
+
+## [[Ponto de entrada no mercado]]
+
+## [[Endereçabilidade(Marketing)]]
+
+## Parei em desejo
 
 # Value Delivery
 ## [[Acumulation]]
