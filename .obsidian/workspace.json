@@ -37,7 +37,8 @@
               "title": "Meu MBA - Anotações"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-06-16 Tuesday.md",
+                "file": "00.Notes/Meu MBA - Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-16 Tuesday"
+              "title": "Outline of Meu MBA - Anotações"
             }
           },
           {
@@ -254,15 +255,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5b7245893ff1587e",
+  "active": "020d0a387bacc815",
   "lastOpenFiles": [
+    "00.Notes/Guia para Fortuna.md",
+    "+Daily Notes/2026-06-16 Tuesday.md",
     "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Endereçabilidade(Marketing).md",
     "00.Notes/Ponto de entrada no mercado.md",
     "00.Notes/Qualificação(Marketing).md",
     "00.Notes/Demosntração(Marketing).md",
     "00.Notes/Resultado Final(Marketing).md",
-    "+Daily Notes/2026-06-16 Tuesday.md",
     "00.Notes/Levels of Awarness.md",
     "00.Notes/Cliente em potencial.md",
     "00.Notes/Remarkability.md",
@@ -283,7 +285,6 @@
     "00.Notes/Viés de intervenção.md",
     "00.Notes/High5 Strengs.md",
     "00.Notes/Decision Making.md",
-    "00.Notes/Como Ler mais de 30 livros por ano - James Clear.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Mental Models Canva.canvas",

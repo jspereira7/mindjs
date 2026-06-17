@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-06-16 Tuesday",
-      "path": "+Daily Notes/2026-06-16 Tuesday.md"
-    },
-    {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
+      "basename": "Guia para Fortuna",
+      "path": "00.Notes/Guia para Fortuna.md"
+    },
+    {
+      "basename": "2026-06-16 Tuesday",
+      "path": "+Daily Notes/2026-06-16 Tuesday.md"
     },
     {
       "basename": "Endereçabilidade(Marketing)",
@@ -195,10 +199,6 @@
     {
       "basename": "Curso Comunicador Digital - Abraham",
       "path": "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md"
-    },
-    {
-      "basename": "Curso de Lógica - Victor Elius.",
-      "path": "01.Assets/Cursos/Curso de Lógica - Victor Elius..md"
     }
   ],
   "omittedPaths": [
