@@ -68,7 +68,16 @@ Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o 
 
 ## [[Endereçabilidade(Marketing)]]
 
-## Parei em desejo
+## [[Free(Marketing)]]
+
+## [[ HOOK(Gancho)]]
+
+## [[Narrativa(Marketing)]]
+
+## [[Controversia]]
+
+## [[Reputation]]
+
 
 # Value Delivery
 ## [[Acumulation]]

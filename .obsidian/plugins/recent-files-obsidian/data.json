@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Reputation",
+      "path": "00.Notes/Reputation.md"
+    },
+    {
       "basename": "Meu MBA - Anotações",
       "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
+      "basename": "Controversia",
+      "path": "00.Notes/Controversia.md"
+    },
+    {
+      "basename": "Narrativa(Marketing)",
+      "path": "00.Notes/Narrativa(Marketing).md"
+    },
+    {
+      "basename": "HOOK(Gancho)",
+      "path": "00.Notes/HOOK(Gancho).md"
+    },
+    {
+      "basename": "Free(Marketing)",
+      "path": "00.Notes/Free(Marketing).md"
     },
     {
       "basename": "Guia para Fortuna",
@@ -179,26 +199,6 @@
     {
       "basename": "ACESSO CURSO VAZADO - ALAN NICOLAS",
       "path": "00.Notes/ACESSO CURSO VAZADO - ALAN NICOLAS.md"
-    },
-    {
-      "basename": "The Perfect ChatGPT Prompt Formula",
-      "path": "01.Assets/Clippings/The Perfect ChatGPT Prompt Formula.md"
-    },
-    {
-      "basename": "Kevin Kelly Book Recommendations",
-      "path": "01.Assets/Clippings/Kevin Kelly Book Recommendations.md"
-    },
-    {
-      "basename": "Ray Dalio Book Recommendations",
-      "path": "01.Assets/Clippings/Ray Dalio Book Recommendations.md"
-    },
-    {
-      "basename": "Charlie Munger Book Recommendations",
-      "path": "01.Assets/Clippings/Charlie Munger Book Recommendations.md"
-    },
-    {
-      "basename": "Curso Comunicador Digital - Abraham",
-      "path": "01.Assets/Cursos/Curso Comunicador Digital - Abraham.md"
     }
   ],
   "omittedPaths": [
