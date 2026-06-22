@@ -23,18 +23,13 @@
             }
           },
           {
-            "id": "d7d10dfadf4b4bb2",
+            "id": "4397e4f562cc8f10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/How to entire your life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How to entire your life"
+              "title": "New tab"
             }
           }
         ],
@@ -256,9 +251,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d7d10dfadf4b4bb2",
+  "active": "4397e4f562cc8f10",
   "lastOpenFiles": [
-    "00.Notes/How to entire your life.md",
+    "00.Notes/Como se livrar de qualquer vicio.md",
     "+Daily Notes/2026-06-18 Thursday.md",
     "+Daily Notes/2026-06-13 Saturday.md",
     "+Daily Notes/2026-06-15 Monday.md",
