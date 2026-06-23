@@ -26,10 +26,15 @@
             "id": "4397e4f562cc8f10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+Daily Notes/2026-06-23 Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-06-23 Tuesday"
             }
           }
         ],
@@ -253,6 +258,7 @@
   },
   "active": "4397e4f562cc8f10",
   "lastOpenFiles": [
+    "+Daily Notes/2026-06-23 Tuesday.md",
     "+Daily Notes/2026-06-18 Thursday.md",
     "00.Notes/Como se livrar de qualquer vicio.md",
     "+Daily Notes/2026-06-13 Saturday.md",
@@ -280,7 +286,6 @@
     "01.Assets/Anexos/Pasted image 20260615194155.png",
     "01.Assets/Anexos/Pasted image 20260615194121.png",
     "+Daily Notes/2026-06-09 Tuesday.md",
-    "+Daily Notes/2026-06-11 Thursday.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Mental Models Canva.canvas",
