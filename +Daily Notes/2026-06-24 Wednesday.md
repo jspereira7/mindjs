@@ -20,3 +20,26 @@ Realizar as tarefas que temos que fazer hoje, que no caso é:
 - Outra coisa é o cloacker pra tiktok ads, o white rabbit, que segura a maioria dos bots, talvez possamos fazer a engenharia reversa de como ele funciona, e vibe codar um cloacker nós mesmo
 - Outra coisa que precisamos é um app de mindmap, onde possamos esboçar o projeto inteiro do tiktok ads, em um mapa mental, e ir executando o projeto, pensamento em forma linear e lista não funciona tão bem pra gente... 
 
+------
+
+## The feynman techinich to learn 
+
+Prompt 1: 
+
+```
+
+Acabei de terminar de ler sobre [TÓPICO].
+Quero aplicar o Método Feynman para garantir que isso realmente fique na minha cabeça.
+
+Passo 1: Mapa de Conceitos.
+Liste as 5 ideias mais importantes desse tópico que eu preciso entender completamente.
+
+Para cada ideia, me dê:
+- A definição em 1 frase, em português simples
+- Por que essa ideia importa no mundo real
+- 1 pergunta que eu deveria conseguir responder se eu realmente entendi ela
+
+Não use jargão. Não assuma que eu tenho conhecimento prévio nessa área.
+Escreva como se estivesse explicando para um adolescente inteligente de 16 anos.
+
+```
