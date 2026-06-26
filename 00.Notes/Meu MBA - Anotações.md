@@ -2,6 +2,7 @@
 tags:
   - charlie_munger
   - modelos_mentais
+  - JoshKaufman
 ---
 # Introdução
 
@@ -367,7 +368,7 @@ As melhores empresas criam um ciclo virtuoso: criam enormes quantidades de valor
 
 As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 
-## [[Profit]] 
+## [[Profit]] (Lucro)
 
 ## [[Profit Margin]]
 
@@ -393,4 +394,11 @@ As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 
 ## [[ CashFlow Cicle]]
 
+## [[Segregação de Deveres]]
+
+## [[Autorização Limitada]]
+
+## [[Oportunity Cost]]
+
+## [[Time Value of Money]]
 

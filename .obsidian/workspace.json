@@ -11,10 +11,15 @@
             "id": "e79f1d65cb070a08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Time Value of Money.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Time Value of Money"
             }
           }
         ]
@@ -36,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-06-18 Thursday.md",
+                "file": "00.Notes/Time Value of Money.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-18 Thursday"
+              "title": "Outline of Time Value of Money"
             }
           },
           {
@@ -95,13 +100,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -238,6 +241,19 @@
   },
   "active": "e79f1d65cb070a08",
   "lastOpenFiles": [
+    "00.Notes/Meu MBA - Anotações.md",
+    "00.Notes/Time Value of Money.md",
+    "00.Notes/Oportunity Cost.md",
+    "00.Notes/Autorização Limitada.md",
+    "00.Notes/Segregação de Deveres.md",
+    "01.Assets/Business Canvas.canvas",
+    "00.Notes/Custos Fixos e variaveis.md",
+    "00.Notes/Financial Ratios.md",
+    "00.Notes/Suficiencia.md",
+    "00.Notes/Value Capture.md",
+    "00.Notes/Profit Margin.md",
+    "00.Notes/Profit.md",
+    "00.Notes/The 5 Parts of every business.md",
     "+Daily Notes/2026-06-24 Wednesday.md",
     "00.Notes/The new Leverage - Artigo Twitter.md",
     "+Daily Notes/2026-06-18 Thursday.md",
@@ -248,22 +264,10 @@
     "+Daily Notes/2026-06-15 Monday.md",
     "+Daily Notes/2026-06-16 Tuesday.md",
     "+Daily Notes/2026-06-17 Wednesday.md",
-    "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/Reputation.md",
     "00.Notes/Controversia.md",
     "00.Notes/Narrativa(Marketing).md",
     "00.Notes/HOOK(Gancho).md",
-    "00.Notes/Free(Marketing).md",
-    "00.Notes/Guia para Fortuna.md",
-    "00.Notes/Endereçabilidade(Marketing).md",
-    "00.Notes/Ponto de entrada no mercado.md",
-    "00.Notes/Qualificação(Marketing).md",
-    "00.Notes/Demosntração(Marketing).md",
-    "00.Notes/Resultado Final(Marketing).md",
-    "00.Notes/Levels of Awarness.md",
-    "00.Notes/Cliente em potencial.md",
-    "00.Notes/Remarkability.md",
-    "00.Notes/Receptivity(Marketing).md",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
     "01.Assets/Anexos/Pasted image 20260615194121.png",
     "01.Assets/Estudo de Ai.canvas",
@@ -292,7 +296,6 @@
     "01.Assets/Untitled 1.canvas",
     "Projetos/DayOne/DataBase TikTokAds.canvas",
     "01.Assets/Funil de email recuperacao de Vendas.canvas",
-    "01.Assets/DataBaseTikTok.canvas",
-    "Funil - Concorrente.canvas"
+    "01.Assets/DataBaseTikTok.canvas"
   ]
 }
