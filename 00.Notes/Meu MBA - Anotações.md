@@ -402,3 +402,9 @@ As finanças ajudam você a controlar seu dinheiro de uma forma que faz sentido.
 
 ## [[Time Value of Money]]
 
+## [[Compounding]]
+
+## [[Leverage]]
+
+## [[Internal Controls]]
+

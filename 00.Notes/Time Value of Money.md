@@ -12,9 +12,6 @@ Ou melhor dizendo, valor temporal do dinheiro
 
 O valor temporal do dinheiro pode ajudar você a determinar quais opções escolher e quanto gastar, dadas as alternativas.
 
-
-
-
 ------
 ## Explicação
 
