@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,13 +69,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-06-29 19.51.43.excalidraw.md",
+                "file": "+Daily Notes/2026-06-29 Monday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-06-29 19.51.43.excalidraw"
+              "title": "Outline of 2026-06-29 Monday"
             }
           },
           {
@@ -267,11 +267,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "08a1db65711cc8ef",
+  "active": "0663349fe66b306d",
   "lastOpenFiles": [
+    "01.Assets/Excalidraw/Drawing 2026-06-29 19.51.43.excalidraw.md",
     "+Daily Notes/2026-06-29 Monday.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
-    "01.Assets/Excalidraw/Drawing 2026-06-29 19.51.43.excalidraw.md",
     "01.Assets/Anexos/Pasted Image 20260629195535_293.png",
     "00.Notes/Internal Controls.md",
     "00.Notes/Meu MBA - Anotações.md",
