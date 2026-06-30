@@ -145,5 +145,77 @@ Somente com a caixa de entrada vazia você conseguirá se concentrar no trabalho
 
 ## Gerenciando Tarefas 
 
+Quanto mais fluxogramas e estruturas o método tiver, mais tempo levará para aprender e praticar, e menos produtivo o usuario será. 
+
+A gestão de tarefas é o processo de gerenciar nossa atenção ao longo do tempo.
+
+Ao olhar a lista de tarefas, o desafio não é concluir tudo de uma vez, mas sim quais devem ser realizadas agora e quais devem ser realizadas depois, e em qual ordem. 
+
+Quando as tarefas são abundantes, o tempo é o recurso escasso que deve ser gerenciado. 
+
+> Não existe gestão de tarefas sem gestão do tempo
+
+### O ciclo de vida das tarefas 
+
+
+![[Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw]]
+
+- **Criação:** Assim que você perceber que a tarefa precisa ser criada, ela precisa ser criada agora, mesmo que não exija ação agora. 
+- **Inatividade:** Tarefas que não requerem atividade agora, devem ser retiradas de vista, para não sobrecarregar o usuario. Algumas tarefas exigem ação agora, então é possivel pular essa etapa. 
+- **Ativação**: ocorre quando a tarefa fica disponivel para o usuario concluir, e é necessario o lembrete da sua existencia. A tarefa permanece ativa até que seja concluida. 
+- A **conclusão** ocorre quando a tarefa é finalizada e marcada como concluida na lista de tarefas. Ou as vezes significa que o usuario excluiu a tarefa da sua lista de tarefas. 
+
+Para gerenciar corretamente as tarefas é necessario que cada tarefa passe por esse processo. 
+
+O problema é que a maioria dos apps ignora a parte da inatividade. 
+
+O app tbm deve ter uma interface simples, para que permita o uso rápido e facil. 
+
+Todas as tarefas devem: 
+1. Estar associada a um dia espesifico.
+2. Cada tarefa tem um classificação de prioridade dentro do seu respectivo dia
+3. Cada tarefa pode conter um campo de detalhes, como um resumo, da mesma forma que um email pode conter um corpo da mensagem e uma linha de assunto. 
+### Insights interresantes
+
+> Quanto mais os usuarios precisam filtrar - seja tarefas inativas ou recursos irrelevantes da interface - menos tempo e energia eles possuem para concluir o trabalho real. 
+
+> O programa deve ser simples o suficiente para manter o usuario focado na tarefa em sí e não no app. 
+
+> O campo de detalhes na lista de tarefas é util para adicionar tudo o que é necessario para concluir a tarefa. 
+
+> Funcionalidades sofisticadas como " Categorizar ", " Priorizar ", "Sub-tareas", são um sobreajuste, porque adicionam mais bits que os usuarios precisam gerenciar, adicionando mais sobrecarga. 
+
+> A produtividade é medida pela quantidade de trabalho que os usuarios realizam fora da lista de tarefas e não pela quantidade de tempo que gastam organizando a propria lista
+
+> Os usuarios se beneficiam mais de uma ferramenta que os incentive a disciplina de realmente concluir o trabalho, ao inves de ficar reajustando o sistema infinitamente
+
+> Ter muitas tarefas na sua lista não significa que há um problema com o app em sí, mas é um problema fora do app
+
+> Uma boa medida de sucesso na gestão de tarefas é o numero de itens na sua lista de hoje. Você deve tentar esvaziar sua lista de tarefas pelo menos uma vez por semana. (É irrealista tentar zerar a lista de tarefas todos os dias, já que algumas tarefas exigem dias para serem concluidas)
+
+----
+
+# A dieta de Midia 
+
+> Um dos efeitos mais angustiantes da era da informação é a sensação de que você precisa saber de tudo. Reconhecer suas proprias limitações torna-se essencial para sobreviver a uma avalanche de informações, vc não pode e nem deve absorver ou prestar a atenção em tudo. 
+
+O primeiro passo para lidar com a sobrecarga de informação é não se sentir culpado, vc recebe infomações demais, e isso não é culpa sua. 
+
+Somente aceite que existe mais informação do que tempo disponivel. 
+
+Mas ainda é possivel prosperar diante desse diluvio, só precisamos escolher concientemente e sermos disciplinados. 
+
+> Nesse ambiente de informações abundantes e tempo escasso, nosso trabalho é dizer "Não" cedo e com frequencia, e dizer "Sim" raramente, apenas quando nos convem.
+
+> Manter uma dieta de informação é prestar atenção ao que você consome. Por isso se pergunte: Vale a pena investir meu tempo nisso ? 
+
+> O usuario digital deve praticar constantemente o hábito de dizer "Não", todo conteudo é um candidato para um não, a menos que se prove em um teste rigoroso. 
+
+### Identificando boas fontes 
+
+Como você aprendeu na escola, uma boa pesquisa parte de uma boa fonte. 
+
+# Gerenciando Fotos 
+
 
 

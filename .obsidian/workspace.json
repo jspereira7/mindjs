@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "7557f33cd6ee457c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Anexos/Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw"
+            }
+          },
+          {
             "id": "0663349fe66b306d",
             "type": "leaf",
             "state": {
@@ -49,8 +61,7 @@
               "title": "Drawing 2026-06-29 19.51.43.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-06-29 Monday.md",
+                "file": "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-29 Monday"
+              "title": "Outline of Alfabetização Digital - Anotações Livro Bit Literacy."
             }
           },
           {
@@ -267,11 +278,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0663349fe66b306d",
+  "active": "a70e23aa3c52722a",
   "lastOpenFiles": [
-    "01.Assets/Excalidraw/Drawing 2026-06-29 19.51.43.excalidraw.md",
-    "+Daily Notes/2026-06-29 Monday.md",
+    "01.Assets/Anexos/Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
+    "+Daily Notes/2026-06-29 Monday.md",
+    "01.Assets/Excalidraw/Drawing 2026-06-29 19.51.43.excalidraw.md",
     "01.Assets/Anexos/Pasted Image 20260629195535_293.png",
     "00.Notes/Internal Controls.md",
     "00.Notes/Meu MBA - Anotações.md",
