@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Alfabetização Digital - Anotações Livro Bit Literacy."
             }
+          },
+          {
+            "id": "bb01aaaf19fe0cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
+                "file": "00.Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alfabetização Digital - Anotações Livro Bit Literacy."
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -240,10 +256,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a70e23aa3c52722a",
+  "active": "bb01aaaf19fe0cc9",
   "lastOpenFiles": [
-    "+Daily Notes/2026-06-30 Tuesday.md",
+    "00.Notes/Untitled.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
+    "+Daily Notes/2026-06-30 Tuesday.md",
     "01.Assets/Anexos/Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw.md",
     "00.Notes/Engenharia Reversa - API TIKTOK ADS.md",
     "00.Notes/Insight Ouro TikTokAds.md",
@@ -269,7 +286,6 @@
     "00.Notes/Custos Fixos e variaveis.md",
     "00.Notes/Financial Ratios.md",
     "00.Notes/Suficiencia.md",
-    "00.Notes/Value Capture.md",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
     "01.Assets/Anexos/Pasted image 20260615194121.png",
     "01.Assets/Estudo de Ai.canvas",
