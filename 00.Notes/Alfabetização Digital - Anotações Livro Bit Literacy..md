@@ -215,7 +215,113 @@ Mas ainda é possivel prosperar diante desse diluvio, só precisamos escolher co
 
 Como você aprendeu na escola, uma boa pesquisa parte de uma boa fonte. 
 
-# Gerenciando Fotos 
+# Criando Bits 
 
+O principio de tudo é deixar os bits irem. 
 
+Todos os livros sobre uma boa escrita ensimam o principio de ser conciso. Usar poucas palavras. 
+
+- Ao escrever um email, seja breve e direto ao ponto
+- Ao exibir fotos, mostre só as melhores, nunca duplicadas ou fotos ruins. 
+- Ao criar um site, tenha certeza que o objetivo do site fique claro a primeira vista da página inicial. 
+
+Sempre se pergunte " Isso é necessário ? " 
+
+---
+# Nomeando Arquivos 
+
+Um bom nome de arquivo facilita a localização posterior do arquivo e economiza tempo, informando ao usuario o conteudo sem que ele precise abri-lo. 
+
+Nomear arquivos da maneira correta ajuda muito a evitar a sobrecarga de arquivos e aumeta muito a produtividade. 
+
+Erros: 
+- Nomes de arquivo com a palavra "Novo" 
+
+### Como nomear um arquivo 
+
+iniciais - data - topico 
+
+-----
+
+# Armazenando Arquivos 
+
+Como regra geral, mantenha a area de trabalho vazia, a pasta downloads tambem. 
+
+Organize o seu sistema principal de arquivos da maneira correta. 
+
+----
+
+# Recursos que você deve conhecer 
+
+## Touch typing 
+
+A meta é no minimo 100 palavras por minuto, sem olhar para o teclado ou ficar catando milho.
+## Use teclados Dvorak 
+
+O teclado QWERTY é o pior de todos para a sua saude dos pulsos, no longo prazo ele irá te causar lesões. 
+
+Esse modelo de teclado aumenta sua produtividade porque coloca as letras mais comuns mais acessiveis aos seus dedos. 
+
+Muitas palavras comuns podem ser digitadas sem mover os dedos, usando um teclado no modelo Dvorak. 
+## Use a alavanca 
+
+Tarefas repetitivas, devem ser delegadas para o computador, para que ele faça o trabalho pesado por você. 
+
+O touch typing é essencial, mas uma maneira ainda melhor é deixar o computador digitar por você. 
+
+Basicamente é usar snipets de texto, para digitar coisas comuns. 
+
+- Correção automatica de pontuação ou palavras digitadas errado
+- Digitar palavras ou frases longas: ex -> exemplo 
+- Digitar mensagens inteiras
+- Digitar urls longas 
+- Guardar senhas, exemplo -> pw = uma senha comum que uso para sites sem muita importancia, para qualquer site é mais facil guardar as abreviações do que a senha inteira
+
+Esse programa de correção deve funcionar em todos os programas para ser eficaz. 
+
+Usuarios de mac: 
+1. typinator
+2. typeitformy
+
+Ter sucesso ao usar esse tipo de alavanca de bits requer que você comece pequeno, criando pequenas abreviações, e com o tempo ir aumentando. 
+
+Depois de usar um digitador, você nunca mais irá querer voltar para o modo padrão. 
+
+## Evite usar o mouse 
+
+Em qualquer software, o usuario familiarizado em bits deve evitar usar o mouse pra qualquer coisa que seja.
+
+Isso pode aumetar significamente a produtividade
+
+Use o mouse somente quando for extremamente necessario utilizar na tarefa. 
+
+> O ideal é interagir com o computador na velocidade do pensamento, tão rápido quanto seus neuronios conseguem pensar.
+
+## Para usuarios avançados (Macros)
+
+Usuarios avançados devem aprender a criar macros. 
+
+Um macro é uma série de comandos, precionamentos de teclas, cliques, que os usuarios podem programar uma vez e executar várias vezes com um unicio precionamento de teclas. 
+
+Com as macros, os usuarios não se sobrecarregam mais com tarefas repetitivas no computador. 
+
+Para macOs = QuicKeys
+
+Com esse app vc consegue criar macros em qualquer aplicativo que vc queira. 
+
+## Use atalhos para abrir programas, pastas e arquivos importantes 
+
+Essa é mais uma maneira de usar mais o teclado ao inves do mouse, aumentando drasticamente sua produtividade. 
+
+Eu já utilizo isso no macOs com o karabine elements, só precisamos criar mais atalhos para outros programas que usamos com frequencia. 
+
+## Discernimento 
+
+É importante entender que cada programa ou ferramenta deve ser utilizado principalmente para o objetivo que foi projetado inicialmente. 
+
+Muitos usuarios utilizam o excel ou planilhas como um banco de dados, para salvar dados. 
+
+Mas não foi pra isso que ele foi projetado. Ele foi projetado para ser uma calculadora em formato de grade. 
+
+Uma ultima observação é que os usuarios ao usarem aplicativos novos, devem procurar opções de esconder elementos visuais que o distraem ou atrapalhem. 
 

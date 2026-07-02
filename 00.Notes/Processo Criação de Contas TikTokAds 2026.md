@@ -1,4 +1,4 @@
-Cartão para ser usado na criação da shopify: 
+**Cartão para ser usado na criação da shopify:** 
 
 4729 5300 1278 7725 | 06 / 31 | 796
 
