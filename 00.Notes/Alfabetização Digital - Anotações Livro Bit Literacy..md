@@ -1,3 +1,7 @@
+---
+tags:
+  - produtividade
+---
 
 #  1. Bits
 
@@ -324,4 +328,8 @@ Muitos usuarios utilizam o excel ou planilhas como um banco de dados, para salva
 Mas não foi pra isso que ele foi projetado. Ele foi projetado para ser uma calculadora em formato de grade. 
 
 Uma ultima observação é que os usuarios ao usarem aplicativos novos, devem procurar opções de esconder elementos visuais que o distraem ou atrapalhem. 
+
+## Favoritos (bookmarks)
+
+É util ter seus bookmarks salvos em um site externo, porque dessa maneira você consegue acessar depois em qualquer dispositivo. 
 
