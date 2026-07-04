@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0353fe9dc8aaa079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Daily Notes/2026-07-02 Thursday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-02 Thursday"
-            }
-          },
-          {
             "id": "67b4d856705e66eb",
             "type": "leaf",
             "state": {
@@ -36,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Processo Criação de Contas TikTokAds 2026"
             }
+          },
+          {
+            "id": "03b0306e8bf080d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,10 +257,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0353fe9dc8aaa079",
+  "active": "03b0306e8bf080d7",
   "lastOpenFiles": [
-    "+Daily Notes/2026-07-02 Thursday.md",
+    "00.Notes/Untitled.md",
     "00.Notes/Processo Criação de Contas TikTokAds 2026.md",
+    "+Daily Notes/2026-07-02 Thursday.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "00.Notes/Processo subir contas de anuncio TTK.md",
     "+Daily Notes/2026-06-30 Tuesday.md",
@@ -285,7 +287,6 @@
     "00.Notes/Segregação de Deveres.md",
     "01.Assets/Business Canvas.canvas",
     "00.Notes/Custos Fixos e variaveis.md",
-    "00.Notes/Financial Ratios.md",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
     "01.Assets/Anexos/Pasted image 20260615194121.png",
     "01.Assets/Estudo de Ai.canvas",
