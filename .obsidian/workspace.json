@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Fc 26 Guide"
             }
+          },
+          {
+            "id": "de565c32a8969373",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +252,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "acfe4c8875e88fbf",
+  "active": "de565c32a8969373",
   "lastOpenFiles": [
     "00.Notes/Fc 26 Guide.md",
     "00.Notes/Processo Criação de Contas TikTokAds 2026.md",
