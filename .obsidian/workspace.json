@@ -11,10 +11,15 @@
             "id": "acfe4c8875e88fbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Fc 26 Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fc 26 Guide"
             }
           }
         ]
@@ -36,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-07-02 Thursday.md",
+                "file": "00.Notes/Fc 26 Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-02 Thursday"
+              "title": "Outline of Fc 26 Guide"
             }
           },
           {
@@ -95,12 +100,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -238,6 +243,7 @@
   },
   "active": "acfe4c8875e88fbf",
   "lastOpenFiles": [
+    "00.Notes/Fc 26 Guide.md",
     "00.Notes/Processo Criação de Contas TikTokAds 2026.md",
     "00.Notes/Meus Snippets.md",
     "+Daily Notes/2026-07-02 Thursday.md",
@@ -265,7 +271,6 @@
     "00.Notes/Autorização Limitada.md",
     "00.Notes/Segregação de Deveres.md",
     "01.Assets/Business Canvas.canvas",
-    "00.Notes/Custos Fixos e variaveis.md",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
     "01.Assets/Anexos/Pasted image 20260615194121.png",
     "01.Assets/Estudo de Ai.canvas",
