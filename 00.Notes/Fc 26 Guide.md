@@ -46,3 +46,10 @@ Formação 4411
 	- Marque em cima
 	- Não deixe ele construir o jogo lentamente 
 - O importante é não ter medo de ser agressivo com os meias centrais. 
+
+-----
+
+## 11 Tips for better atacking in fc26
+
+- O campo tem 3 zonas (Zaga, Meio, Ataque)
+	- Corra menos riscos na zaga, e no ataque seja ousado. 

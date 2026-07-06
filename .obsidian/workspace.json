@@ -32,8 +32,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -252,7 +252,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "de565c32a8969373",
+  "active": "acfe4c8875e88fbf",
   "lastOpenFiles": [
     "00.Notes/Fc 26 Guide.md",
     "00.Notes/Processo Criação de Contas TikTokAds 2026.md",
