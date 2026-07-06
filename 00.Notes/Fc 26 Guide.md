@@ -52,4 +52,8 @@ Formação 4411
 ## 11 Tips for better atacking in fc26
 
 - O campo tem 3 zonas (Zaga, Meio, Ataque)
-	- Corra menos riscos na zaga, e no ataque seja ousado. 
+	- Corra menos riscos na zaga, e no ataque seja ousado.
+
+
+----
+
