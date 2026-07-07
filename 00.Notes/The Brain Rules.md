@@ -143,14 +143,37 @@ Controla todas as funções básicas do organismo. Respiração, batimentos card
 
 ## O cerebro de mamifero 
 
-Ele tam- bém é encontrado em vários mamíferos, como gatos domésti- cos, e é por isso que tem esse nome. Está mais relacionado com a nossa sobrevivência animal do que com o nosso potencial hu- mano. A maioria das suas funções envolve quatro pontos prin- cipais: lutar, alimentar, escapar e se reproduzir.
+Ele também é encontrado em vários mamíferos, como gatos domésti- cos, e é por isso que tem esse nome. Está mais relacionado com a nossa sobrevivência animal do que com o nosso potencial humano. A maioria das suas funções envolve quatro pontos principais: lutar, alimentar, escapar e se reproduzir.
 
 Várias partes desse "segundo cérebro" desempenham papéis importantes nas Regras do Cérebro.
 
+## O cerebro Humano (Cortex)
 
+O cerebro humano nada mais é do que uma casca, por isso se chama cortex. 
+
+Essa é a sua conciencia. 
+
+## Vc me ajuda e eu te ajudo 
+
+Suponha que vc não seja a pessoa mais forte da sua rua, vc tem duas opções, passar muito tempo desenvolvendo musculos, ou então fazendo uma aliança com alguem 
+
+Acontece que existe outra maneira de dobrar a sua bio-massa. Não é criando um corpo, e sim conseguindo um aliado. Se você for capaz de estabelecer acordos de cooperação com al- guns de seus vizinhos, duplicará o seu poder, ainda que a sua força permaneça a mesma.
+
+Isso muda as regras do jogo. Aprendemos a cooperar uns com os outros, ou seja, a criar um objetivo compartilhado que leva em consideração os interesses dos nossos aliados além dos nossos próprios.
+
+## Os sentimentos e o aprendizado 
+
+Essas ideias nos levam à conclusão de que a nossa capacidade de aprender tem raízes profundas nos relacionamentos. Se for assim, o nosso desempenho nessa área pode ser intensamente afetado pelo ambiente emocional em que o aprendizado ocorre.
+
+Quando uma pessoa não se sente segura com um professor ou com um chefe, o seu desempenho pode não ser tão bom.
+
+aprendemos a improvisar com base em um banco de dados e graças à capacidade crescente de pensar de maneira simbólica a respeito do nosso mundo.
+
+## Resumo 
 
 
 
 -------
+
 
 
