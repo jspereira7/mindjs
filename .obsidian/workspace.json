@@ -41,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Fc 26 Guide.md",
+                "file": "00.Notes/The Brain Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fc 26 Guide"
+              "title": "Outline of The Brain Rules"
             }
           },
           {
@@ -100,13 +100,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -242,7 +240,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d284274c19315572",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
     "00.Notes/The Brain Rules.md",
     "00.Notes/The Finesse Shot Tutorial.md",

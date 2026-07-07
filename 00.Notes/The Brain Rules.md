@@ -95,12 +95,62 @@ Se você não pratica atividade fisica regularmente, está funcionando abaixo do
 Exercicios fisicos são como uma pilula mágica de saude que temos nos tempos atuais. 
 
 ## Resumo 
-
 - O cerebro foi feito para que caminhasemos 20km por dia
 - Para melhorar nossa capacidade de pensamento precisamos nos exercitar. Nos mover. 
 - Os exercícios levam sangue para o cérebro, trans- portando até ele a glicose, que se transforma em energia e oxigênio para absorver os elétrons tóxicos excedentes. E também estimulam a proteína, que mantém os nerônios conectados.
 - Exercicios aerobicos 2x por semana são suficientes para reduzir drasticamente o risco de doenças mentais. 
 
 ----
+
+# Regra 2 - O cerebro tambem evolui 
+
+O cerebro foi projetado para (1) resolver problemas (2) relacionados a sobrevivencia (3) em um ambiente externo hostil (4) para atuar em movimento quase constante. 
+
+O cerebro se adaptou assim para nos ajudar a sobreviver o suficiente para passar nossos genes pra frente. É verdade que tudo termina no sexo. 
+
+O que nos diferencia como humanos é a nossa capacidade de usar o raciocionio simbolico, dar significado as coisas. 
+- Ex: uma criança que pega um galho como se fosse uma espada. 
+- De modo mais geral, isso significa que inventamos coisas que não existem. 
+
+Não somos tão diferentes de um macaco antes de antingir a idade de 2 anos de idade. 
+
+## Caracteristicas unicas
+
+Não existe regra mais importante na biologia do que a seleção natural: 
+- aqueles que conseguem alimento sobrevivem, aqueles que sobrevivem fazem sexo, e aqueles que fazem sexo transmitem suas caracteristicas para a geração seguinte. 
+
+Aqueles que não tinham capacidade para solucionar novos problemas com rapidez nem para aprender com os próprios erros não sobreviviam para transmitir os seus genes.
+
+Os seres humanos evoluiram não fortacelendo os musculos mas sim a mente, ao ponto de o cerebro hoje utilizar 20% da nossa energia corporal. 
+
+Essas mudanças adaptativas, acabaram produzindo uma das maiores maravilhas da evolução, a região que distingue os seres humanos de todas as outras criaturas: O cortex pré frontal. 
+
+O cortex pré frontal comanda diversos talentos cognitivos, chamados "funções executivas", que envolvem a solução de problemas, a manutenção da atenção e o controle de impulsos emocionais. 
+
+No geral, essa parte do cerebro comanda muitos os comportamentos que nos distinguem de outros animais, e adolecentes. 
+
+## O cerebro 
+
+Nosso cerebro na verdade são 3, isso é a teoria do cerebro de cebola. 
+
+Que diz que o cerebro é composto por camadas. 
+
+### O cerebro de largato
+
+Isso quer dizer que essa camada do cerebro funciona da mesma maneira em nós e nos largatos. 
+
+Controla todas as funções básicas do organismo. Respiração, batimentos cardiacos, sono e despertar
+
+## O cerebro de mamifero 
+
+Ele tam- bém é encontrado em vários mamíferos, como gatos domésti- cos, e é por isso que tem esse nome. Está mais relacionado com a nossa sobrevivência animal do que com o nosso potencial hu- mano. A maioria das suas funções envolve quatro pontos prin- cipais: lutar, alimentar, escapar e se reproduzir.
+
+Várias partes desse "segundo cérebro" desempenham papéis importantes nas Regras do Cérebro.
+
+
+
+
+
+-------
 
 
