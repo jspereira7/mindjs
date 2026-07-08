@@ -109,4 +109,4 @@ Excesso de atenção, carinho e presentes no começo, muito rápido, pra criar d
 
 No terceiro dia de conversa: "Eu nunca senti isso por ninguém, acho que você é a pessoa da minha vida" + textões todo dia + quer só falar com você o tempo todo.
 
-## 
+
