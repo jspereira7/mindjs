@@ -171,9 +171,105 @@ aprendemos a improvisar com base em um banco de dados e graças à capacidade 
 
 ## Resumo 
 
+O cérebro também evoluiu
 
+- Nós não temos apenas um cérebro, e sim três. Começamos com um "cérebro de lagarto" para nos manter respirando. Depois adquirimos um cérebro idêntico ao de um gato e cobrimos os dois com uma camada de gelatina chamada córtex – o terceiro e poderoso cérebro "humano".
+- Ocupamos todo o planeta por meio de adaptações à mudança em si, depois de sermos forçados a descer das árvores para a savana quando alterações no clima destruíram as nossas fontes de alimento.
+- O fato de termos deixado de andar sobre quatro apoios e nos tornado bípedes que passaram a caminhar na savana liberou energia para desenvolvermos um cérebro complexo.
+- O raciocínio simbólico é um talento tipicamente humano. Pode ter surgido da nossa necessidade de compreender as inten- ções e motivações uns dos outros, permitindo assim que nos organizássemos em grupos.
 
 -------
+
+# Regra 3 - Conexões
+
+Todo cérebro tem conexões específicas
+
+Podemos dizer que cada centimetro da nossa aparencia fisica está morto. 
+- Células mortas. 
+
+No DNA estão os genes, fragmentos de instrucões biológicas que determinam todas as nossas características – da estatura à maneira como reagimos ao estresse.
+
+O cerebro ao adquirir novas informações, e aprender, ele altera fisicamente as conexões mentais, nesse exato momento o seu cerebro está movendo os neuronios para que vc se lembre depois que o cerebro funciona dessa maneira. 
+
+> O cérebro age como um músculo: quanto mais atividade fa- zemos, maior e mais complexo ele tem condições de se tornar.
+
+Se isso pode nos proporcionar mais inteligência é outra questão, mas algo é indiscutível: **aquilo que fazemos na vida modifica a aparência física do nosso cérebro.**
+
+Podemos conectar e reconectar os nossos circuitos cerebrais simplesmente escolhendo praticar determinado esporte ou tocar um tipo específico de instrumento.
+
+## Cerebro em construção 
+
+O cére- bro de todo recém-nascido devia vir com um adesivo com a fra- se "Ainda não está pronto". Quando nascemos, esse órgão está apenas parcialmente construído e só assumirá a sua forma final depois de anos. 
+
+Os maiores programas cerebrais se concluem somente quando entramos na casa dos 20 anos, e os ajustes de sintonia fina terminam por volta dos 45 anos.
+
+- Cada cerebro é unico e possui diferentes tempos para se desenvolver. 
+
+Na sua cabeça existe um neuronio que só se acende quando ve uma foto da jennifer aniston funny, hahahaha.
+
+O cérebro é tão sensível a estímulos externos que as suas conexões físicas dependem da cultura em que vivemos.
+
+Nem gêmeos univitelinos têm conexões iguais no cérebro.
+- Imagine que dois gemeos identicos estão assitindo a um filme com um ator x. 
+- Mas o gemeo 1, alguns dias atras leu uma publicação, criticando o ator do filme. 
+- E o gemeo 2 não viu nada. 
+- A mesma experiencia está criando duas memorias distintas sobre o filme.
+
+Esse é o poder da Regra do Cérebro. O aprendizado cria mudanças físicas no cérebro, e essas alterações são únicas para cada indivíduo. 
+
+Nem mesmo gêmeos idênticos vivenciando a mesma situação fazem as conexões cerebrais da mesma forma. E tudo pode ser relacionado à experiência.
+
+## Padrões individuais de cada cerebro 
+
+Todos os cerebros nascem praticamente com o mesmo hardware, então como explicar a individualidade de cada um ? 
+
+O que explica a individualidade de cada um, são as conexões mentais, vindas da experiencia. 
+- É praticamente impossivel ter as mesmas experiencias que outra pessoa. 
+- Então é praticamente impossivel formar as mesmas conexões neurais que ela. 
+
+Dizem que existem de 7 a 9 tipos de inteligencia. 
+
+Foi observado 7 tipos de inteligencia: 
+- verbal/linguistica
+- musical/ritmica
+- lógica, matematica.
+- espacial
+- corporal/cinestésica
+- interpessoal e intrapessoal
+
+Gardner disse: "Se você sabe que é muito bom em música, posso prever com exatidão próxima de zero se você é bom ou ruim em outras coisas."
+
+Não existem cerebros com conexões identicas. 
+
+No caso da linguaguem, podemos saber atraves das do mapeamento mental, se vc é bom com linguagem ou não. 
+
+## Insights
+
+Levando em consideração esses dados, faz sentido a existencia de um sistema de aprendizado padronizado ? Aonde se espera que todos os individuos aprendam da mesma maneira ? 
+
+É correto tratar todas as pessoas da mesma forma ? em ambientes profissionais e etc... ? 
+
+Mesmo em ambientes culturais completamente diferentes ? 
+
+- Alunos da mesma idade aprensentam graus extremamente variados da capacidade intelectual. 
+- 10% dos alunos não tem as conexões mentais suficientes para ler na idade que deveriam saber isso
+
+Ter habilidades avançadas da teoria da mente, indica que vc pode ser um bom professor, porque consegue meio que ler o que está se passando na mente da pessoa. 
+
+Vc entende instintivamente como essa pessoa funciona mentalmente. 
+
+Precisamos tratar as pessoas como individuos, vc pode ser um ótimo nadador, mas estão exigindo que vc jogue futebol. 
+
+## Resumo 
+
+- Aquilo que fazemos e aprendemos modifica a aparência fí- sica do cérebro – literalmente o reprogama com novas conexões.
+- As diversar areas cerebrais, se desenvolvem em diferentes velocidades em cada pessoa. 
+- Não existem dois indivíduos cujos cérebros armazenam a mesma informação da mesma maneira e no mesmo lugar.
+- Temos diversos tipos de inteligência, e muitos deles não apareem nos testes de Q.I.
+
+---
+
+
 
 
 
