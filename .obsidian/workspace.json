@@ -52,7 +52,8 @@
               "title": "Evo Joelington"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -270,13 +272,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d284274c19315572",
+  "active": "2c696b6beaed5f35",
   "lastOpenFiles": [
+    "00.Notes/The Brain Rules.md",
     "00.Notes/Evo Joelington.md",
     "00.Notes/Instagram Status Maxxing.md",
     "01.Assets/Anexos/Pasted image 20260707222148.png",
     "+Daily Notes/2026-07-07 Tuesday.md",
-    "00.Notes/The Brain Rules.md",
     "01.Assets/Excalidraw/Drawing 2026-07-07 22.05.23.excalidraw.md",
     "00.Notes/The Finesse Shot Tutorial.md",
     "00.Notes/Fc 26 Tutorials.md",

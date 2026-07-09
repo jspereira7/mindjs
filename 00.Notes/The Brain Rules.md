@@ -269,6 +269,83 @@ Precisamos tratar as pessoas como individuos, vc pode ser um ótimo nadador, mas
 
 ---
 
+# Regra 4 - Ninguem presta atenção em coisas chatas 
+
+Quanto mais atento está um cerebro a determinado estimulo, mais elaborado será a forma como essa informação será codificada e armazenada na memoria. 
+
+O cerebro humano só consegue manter a atenção por no máximo 10 minutos. 
+
+As coisas que prendem sua atenção estão ligadas a memoria, interresse e a percepção. 
+
+## Memoria 
+
+Aquilo que prestamos a atenção está profundamente ligada a memoria. 
+
+Porque usamos experiencias anteriores para decidir o que vale prestar a atenção ou não. 
+
+Como por exemplo um nativo que vive na selva, está acostumado com o ambiente, e tem aquilo em sua memoria, e por isso percebe diferenças nos minimos detalhes. 
+
+## Interesse
+
+Prestamos a atenção naquilo que estamos interresados. 
+
+E o inverso tambem ocorre, algo que chama muito atenção desperta nosso interesse...
+
+Os marketeiros sabem bem disso, criando anuncios que quebram o padrão. 
+
+## Percepção 
+
+Só prestamos a atenção a aquilo que conseguimos perceber. 
+
+## O significado ou o modelo mental vem antes dos detalhes 
+
+Tanto faz se você é garçom ou neurocientista – se quiser entender corretamente as particularidades, não comece com os detalhes. 
+
+Parta das ideias principais e, usando a hierarquia, forme os detalhes em torno desses conceitos mais amplos.
+
+## O cerebro não é capaz de executar várias tarefas simultaneamente
+
+Quando se trata de prestar atenção, a possibilidade de fazer várias coisas ao mesmo tempo é um mito.
+
+O cérebro se con- centra naturalmente nos conceitos de forma sequencial, um de cada vez.
+
+Para ser direto: pesquisas mostram que não conseguimos executar várias tarefas ao mesmo tempo. Somos biologicamente incapazes de processar diversos estímulos que necessitam de atenção simultânea.
+
+Nós precisamos ir passando de uma coisa a outra, sequencialmente, do inicio ao fim, e só depois partir para outra tarefa 
+
+Isso ocorre porque o cerebro precisa carregar o contexto de como executar aquela tarefa, toda vez, e se vc ficar mudando de tarefa, ele faz esse processo repetidamente.
+
+Isso consome tempo e energia, que são desperdiçados. 
+
+O que podemos dizer sobre pessoas que parecem conseguir executar varias tarefas de uma só vez, é que eles possuem uma boa memoria de trabalho, conseguem processar varios estimulos na memoria, sequencialmente. 
+
+Alguem que sofre de interrupções, demora 50% a mais de tempo para conlcuir uma tarefa. 
+
+E ela erra 50% mais tambem. 
+
+Alguem que dirige ao telefone, possui um tempo de reação mais lento, porque o cerebro precisa recarregar o contexto. 
+
+Um exemplo disso é que essa pessoa demora mais tempo para frear. 
+
+## O cerebro precisa de descanso 
+
+O cerebro precisa de tempo para diregir as informações, dar muito conteudo sequencialmente pra ele é um erro. 
+
+## Uma coisa de cada vez 
+
+O cérebro é um processador sequencial, incapaz de prestar atenção em duas coisas ao mesmo tempo.
+
+Empresas e escolas exaltam a capacidade de executarmos várias tarefas simultaneamente, no entanto pesquisas mostram que isso reduz a produtividade e aumenta a ocorrência de erros.
+
+Ou seja, quando for executar uma tarefa, experimente fechar tudo que não tem a ver com a tarefa em questão, dessa forma você será extremamente mais produtivo. 
+
+## Resumo 
+
+- O "spot" cerebral conectado à atenção consegue fo- calizar apenas uma coisa de cada vez, e não várias ao mesmo tempo.
+- Somos mais eficientes em perceber padrões e captar o significado de um acontecimento do que em gravar detalhes.
+- A estimulação emocional ajuda o cérebro a aprender.
+- A plateia para de prestar atenção depois de 10 minu- tos, mas é possível reacender o seu interesse com narrativas ou eventos ricos em emoções.
+
 
 
 
