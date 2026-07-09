@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7c881bbab05179a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/The art of Crafting Prompts Insights.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The art of Crafting Prompts Insights"
+            }
+          },
+          {
             "id": "d284274c19315572",
             "type": "leaf",
             "state": {
@@ -38,22 +53,22 @@
             }
           },
           {
-            "id": "7c881bbab05179a5",
+            "id": "3bcedcbeaae0b686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Evo Joelington.md",
+                "file": "00.Notes/Fc 26 Guide2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Evo Joelington"
+              "title": "Fc 26 Guide2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
+                "file": "00.Notes/The art of Crafting Prompts Insights.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Alfabetização Digital - Anotações Livro Bit Literacy."
+              "title": "Graph of The art of Crafting Prompts Insights"
             }
           },
           {
@@ -246,12 +261,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
+    "width": 684.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -272,11 +286,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2c696b6beaed5f35",
+  "active": "3bcedcbeaae0b686",
   "lastOpenFiles": [
-    "00.Notes/The Brain Rules.md",
-    "00.Notes/Evo Joelington.md",
+    "01.Assets/Anexos/Pasted image 20260709162311.png",
+    "00.Notes/Fc 26 Guide2.md",
     "00.Notes/Instagram Status Maxxing.md",
+    "00.Notes/The Brain Rules.md",
+    "00.Notes/The art of Crafting Prompts Insights.md",
     "01.Assets/Anexos/Pasted image 20260707222148.png",
     "+Daily Notes/2026-07-07 Tuesday.md",
     "01.Assets/Excalidraw/Drawing 2026-07-07 22.05.23.excalidraw.md",
@@ -299,8 +315,6 @@
     "00.Notes/Parametros Campanha.md",
     "00.Notes/Proxy(Measurement).md",
     "00.Notes/Livro BlackHat Carding.md",
-    "01.Assets/Excalidraw/Drawing 2026-06-29 19.51.43.excalidraw.md",
-    "+Daily Notes/2026-06-29 Monday.md",
     "01.Assets/Anexos/Pasted Image 20260629195535_293.png",
     "01.Assets/Business Canvas.canvas",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
