@@ -51,4 +51,35 @@ Ative a corrida e continue jogando, e veja como o adversario irá reagir.
 
 ### 1) Squad Battles Nivel iniciante 
 - A AI defende de forma previsivel, no squad battle é uma ótima forma de treinar. 
-### 2) Toda vez que vc ganhar a bola 
+### 2) Toda vez que vc ganhar a bola acione alguem 
+- Não pense em quem, apenas precione L1 em qualquer player perto de vc, conquiste o habito de acionar alguem sempre que pegar na bola. 
+
+### 3) Passe com L1X sempre que estiver com o CAM ou ST 
+- Por 10 minutos, apenas jogue e de passes com L1X usando o CAM & ST. Observe como o jogo se abre
+
+### 4) Veja a linha defensiva se abrindo 
+- Preste a atenção como a linha do adversario afunda quando você aciona um jogador. 
+
+### 5) Adicione o que aprendeu no Rivals
+- Comece a executar o que aprendeu no division rivals. Foque em acionar alguem sempre que ganhar a bola. 
+
+----
+
+## Seu foco no ataque
+- Ganhar a bola, precionar imediatamente o L1 para acionar o ponta
+- Use o L1 para acionar os pontas, laterais e meias
+- Use L1X para acionar o ST e CAM, quando a bola estiver perto deles. 
+
+-----
+## Pass with purpose — Breaking the defensive line 
+
+> *Todo passe deve ter um motivo. Aprenda a quebrar linhas defensivas uma de cada vez, e passe a bola para o stricker.* 
+
+[[As 3 Linhas Defensivas]]
+
+----
+
+## How to cut passing lanes 
+
+[[Fundamentals 101 — Cutting pass lanes]]
+

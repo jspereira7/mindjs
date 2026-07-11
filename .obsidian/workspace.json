@@ -6,6 +6,7 @@
       {
         "id": "75eeef5affff1e4d",
         "type": "tabs",
+        "dimension": 43.52750809061489,
         "children": [
           {
             "id": "7c881bbab05179a5",
@@ -58,17 +59,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Fc 101 Fundamentals.md",
+                "file": "00.Notes/Fundamentals 101 — Cutting pass lanes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fc 101 Fundamentals"
+              "title": "Fundamentals 101 — Cutting pass lanes"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "df3d9f34df60dba2",
+        "type": "tabs",
+        "dimension": 56.47249190938511,
+        "children": [
+          {
+            "id": "f70e0026bd71ca67",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Fundamentals 101 — Cutting pass lanes"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,8 +306,10 @@
   },
   "active": "3bcedcbeaae0b686",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20260709162311.png",
     "00.Notes/Fc 101 Fundamentals.md",
+    "00.Notes/Fundamentals 101 — Cutting pass lanes.md",
+    "00.Notes/As 3 Linhas Defensivas.md",
+    "01.Assets/Anexos/Pasted image 20260709162311.png",
     "00.Notes/Instagram Status Maxxing.md",
     "00.Notes/The Brain Rules.md",
     "00.Notes/The art of Crafting Prompts Insights.md",
@@ -314,7 +334,6 @@
     "00.Notes/Links Traffego.md",
     "00.Notes/Parametros Campanha.md",
     "00.Notes/Proxy(Measurement).md",
-    "00.Notes/Livro BlackHat Carding.md",
     "01.Assets/Anexos/Pasted Image 20260629195535_293.png",
     "01.Assets/Business Canvas.canvas",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
@@ -329,7 +348,6 @@
     "01.Assets/Anexos/Pasted image 20260528170238.png",
     "01.Assets/Anexos/Pasted image 20260526185141.png",
     "01.Assets/Anexos/Pasted image 20260519143206.png",
-    "01.Assets/Anexos/Pasted image 20260519140217.png",
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
