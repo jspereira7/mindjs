@@ -41,14 +41,19 @@
             "id": "dd60e8b2cfc88366",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Meu cronotipo de sono.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meu cronotipo de sono"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,10 +271,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d284274c19315572",
+  "active": "dd60e8b2cfc88366",
   "lastOpenFiles": [
-    "00.Notes/The art of Crafting Prompts Insights.md",
+    "00.Notes/Meu cronotipo de sono.md",
     "00.Notes/The Brain Rules.md",
+    "00.Notes/The art of Crafting Prompts Insights.md",
     "00.Notes/Instagram Status Maxxing.md",
     "00.Notes/Fundamentals 101 — Cutting pass lanes.md",
     "00.Notes/Fc 101 Fundamentals.md",
@@ -295,7 +301,6 @@
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Links Traffego.md",
     "00.Notes/Parametros Campanha.md",
-    "00.Notes/Proxy(Measurement).md",
     "01.Assets/Anexos/Pasted Image 20260629195535_293.png",
     "01.Assets/Business Canvas.canvas",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
