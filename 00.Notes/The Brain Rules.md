@@ -17,7 +17,6 @@ tags:
 	- Cansado as 15:00 da tarde ? Talvez seu cerebro precise apenas de uma soneca. 
 	- Estudos comprovam que apenas uma soneca de 20 minutos melhorou drasticamente a produtividade de pilotos da NASA. 
 
-
 ## De volta a selva 
 
 Embora na realidade moderna, passamos muito tempo trancados em salas de aula, o nosso cerebro ainda funciona nos padrões dos tempos da selva. 
@@ -338,15 +337,123 @@ O cérebro é um processador sequencial, incapaz de prestar atenção em dua
 Empresas e escolas exaltam a capacidade de executarmos várias tarefas simultaneamente, no entanto pesquisas mostram que isso reduz a produtividade e aumenta a ocorrência de erros.
 
 Ou seja, quando for executar uma tarefa, experimente fechar tudo que não tem a ver com a tarefa em questão, dessa forma você será extremamente mais produtivo. 
-
 ## Resumo 
-
-- O "spot" cerebral conectado à atenção consegue fo- calizar apenas uma coisa de cada vez, e não várias ao mesmo tempo.
+- O "spot" cerebral conectado à atenção consegue focalizar apenas uma coisa de cada vez, e não várias ao mesmo tempo.
 - Somos mais eficientes em perceber padrões e captar o significado de um acontecimento do que em gravar detalhes.
 - A estimulação emocional ajuda o cérebro a aprender.
-- A plateia para de prestar atenção depois de 10 minu- tos, mas é possível reacender o seu interesse com narrativas ou eventos ricos em emoções.
+- A plateia para de prestar atenção depois de 10 minutos, mas é possível reacender o seu interesse com narrativas ou eventos ricos em emoções.
+
+## Regra 5 — Memoria de curto prazo 
+
+> Repita para se lembrar 
+
+Os humanos se destacam dos outros animais porque possuem a memoria, não precisam aprender repetidamente como fazer xyz coisa. 
+
+Até mesmo os talentos mais simples da cognição humana, como ler e escrever, é possivel por causa da memoria. 
+
+### Como a memoria funciona 
+
+No geral, em um periodo de 30 dias, as pessoas se esquecem de 90% do que aprendem na sala de aula. 
+
+Esse esquecimento ocorre nas primeiras horas após o aprendizado. 
+
+É possivel aumentar o tempo de existencia de uma memoria com a simples repetição da informação em intervalos espesificos. 
+
+Quanto maior a quantidade de ciclos de repetição, maior é a probabilidade de que determinada memoria persista em sua mente. 
+
+O aprendizado intervalado é muito mais efetivo do que o aprendizado massivo. 
+
+Ninguem se lembra de numeros da mesma forma que se lembra de uma habilidade como andar de bicicleta. 
+
+Existem dois tipos de memoria, uma é a que recordamos concientemente, como um CPF. A segunda é sobre as capacidades motoras do nosso corpo, como andar de bicicleta. 
+
+### O processo de aprendizado 
+
+Muitas pessoas acreditam que o processo de aprendizado é igual ao de um gravador, que no momento que estamos aprendendo é como ligar o botão " gravar " e no momento de lembrar é como apertar o botão "reproduzir" 
+
+Mas isso está errado, o cerebro na verdade codifica a informação, como um liquidificador ligado com a tampa aberta. 
+
+A informação é picada em pequenos pedaços e distribuida ao redor do cerebro. 
+
+A **codificação** da mente é basicamente converter dados em código. 
+- A mente traduz a informação externa em em padrões eletricos que a mente consegue entender. 
+
+Existem diferentes tipos de codificação na mente. 
+- O processamento automatico, que guarda infomações de maneira automatica e com o minimo de atenção. (como por exemplo determinado acontecimento de xyz dia)
+- O processamento a base de esforço (como decorar sua senha etc, requer muita repetição para ficar gravado na mente) 
+
+## Teste de codificação 
+
+Existem ainda 3 outros tipos de codificação que podem ser exemplificados pelo teste abaixo: 
+
+- FUTEBOL 
+	- Essa palavra se encaixa na frase "Eu me virei para lutar __"?
+	- R: Não 
+- NIVEL 
+	- Essa palavra rima com incrivel ? 
+		- Sim 
+- MINIMUM
+	- Há algum tipo de circulo nessa palavra ? 
+	- Não
+
+A primeira palavra requer **codificação semantica**, para responder corretamente é necessario prestar a atenção as definições das palavras. 
+
+A segunda frase requer **codificação semenica**, envolve a comparação entre os sons.
+
+A terceira remeter a **codificação estrutural**, requer apenas a verificação visual das formas. 
+
+O tipo de codificação que entra na nossa mente tem uma forte influencia se conseguiremos nos recordar dela depois. 
+
+### Linguaguem elétrica 
+
+As informações externas, são convertidas para a linguagem elétrica do cerebro, que é uma forma de transferencia de energia. 
+
+Todos os processos de codificação possuem caracteristicas em comum, que possuem aplicações práticas no trabalho e estudos. 
+
+1. **Quanto mais elaborado é o processo de codificação  da informação no processo de aprendizado, mais forte é a memoria** 
+
+	Como por exemplo, num teste de decorar palavras, ao processar o significado das palavras, ao inves da forma visual delas, é possivel se lembrar 2-3x mais 
+
+	O significado da palavra importa muito mais do que a forma visual dela, a palavra maça individualmente é muito menos complexa de se codificiar do que a maravilhosa torta de maça da sua tia. 
+
+	O truque é aprensentar xyz informação de forma atraente para a plateira, de forma que ela codifique a infomação sozinha. 
+
+Mais complexidade corresponde a um aprendizado melhor. 
+
+2. **A memoria parece ser codificada no mesmo lugar que do cerebro que percebem e processam o estimulo inicial.**
+
+	O armazenamento é como abrir uma mata inexplorada, pavimentando a trilha, depois de concluido esse processo a mente recorre ao mesmo lugar para se recordar da informação
+
+3. A capacidade de recuperação pode ser melhorada com a reprodução das condições em que se deu a codificação inicial
+
+	A memoria é 15% mais eficiente em relembrar a informação, quando o ambiente em que a codificação ocorreu é simulado novamente 
+
+	Como por exemplo, se no momento que aprendemos xyz coisa estavamos tristes, no momento em que precisarmos nos lembrar da informação, se estivermos tristes tambem, você conseguirá se recordar mais facilmente
 
 
+### Ideias 
 
+- A informação é lembrada com mais exatidão quando é elaborada, significativa e contextualizada. 
+- Quanto mais a pessoa se concentra no significado da informação apresentada, mais elaborado é o processo de codificação
+	- Ao tentar registrar algo na sua mente, tenha absoluta certeza de que entende o sentido disso. 
+		- Se quiser inserir isso no cerebro de outra pessoa, tenha certeza que ela sabe o que aquilo significa.
+			- Se vc não sabe o que aquela informação significa, não tente decora-la, nem fique rezando para que o sentido apareça do nada. 
+				- Isso é o mesmo que prestar atenção as linhas horizontais de uma palavra e depois tentar se recordar dela.
+- **Um truque simples é inserir exemplos da vida real, sempre temperando os pontos principais do aprendizado com experiencias significativas.**  
+	- É melhor usar situações da vida real que sejam familiares com os alunos, quanto mais pessoal for o exemplo, maior a riqueza da sua codificação e com mais facilidade ele será lembrado. 
+	- A informação é codificada com maior rapidez quando conseguimos associa-la a dados já presentes no cerebro. 
+- A introdução é tudo, a forma com que a informação é introduzida para você, possui enorme inflencia em como irá se recordar dela depois
+	- Ao tentar ensinar uma informação a alguem, a forma com que vc introduz o tema para a pessoa tem enorme, influencia na forma com que ela irá aprender. 
+	- Isso é o que chamam de Hook, muito usado no marketing. 
+- **O ambiente ajuda a memorizar as informações.** 
+	- Por exemplo ao aprender espanhol, pais criaram um chamado "quarto do espanhol", onde la dentro só é permitido falar espanhol. 
+	- Dessa forma a informação foi codificada com mais complexidade, facilitando o aprendizado.
+	- No trabalho isso pode ser tão simples quanto fazer com que os alunos de mecanica, aprendam a mecanica no local onde a mecanica é feita, dessa forma serão muito mais eficientes. 
+	- Não de forma tradicional na sala de aula, lendo livros e etc... 
 
+### Resumo 
+- Repita para se lembrar
+- O cerebro possui muitos sistemas de memoria, um deles segue 4 fases de processamento: codificação, armazenamento, recuperação e esquecimento.
+- Quanto mais elaborada é a codificação da memória nos seus momentos inicias, mais forte ela será.
+- Podemos melhorar nossa capacidade de recordar, simplesmente reproduzindo os ambientes em que estávamos quando nosso cerebro foi exposto pela primeira vez. 
 
