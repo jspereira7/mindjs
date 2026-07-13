@@ -457,3 +457,97 @@ Mais complexidade corresponde a um aprendizado melhor.
 - Quanto mais elaborada é a codificação da memória nos seus momentos inicias, mais forte ela será.
 - Podemos melhorar nossa capacidade de recordar, simplesmente reproduzindo os ambientes em que estávamos quando nosso cerebro foi exposto pela primeira vez. 
 
+---
+## Durma bem, pense bem 
+
+Nós não dormimos para simplesmente descansar. 
+
+Na média ficamos 16 horas acordados com conciencia ativa, e 8 horas dormindo. 
+
+### Cotovia ou coruja ? 
+
+Cotovia são pessoas que funcionam melhor acordando cedo. 
+- Geralmente acordam cedo, por volta das 6hrs da manha. 
+- E as 21hrs já vão dormir, ou estão com sono. 
+
+As corujas, que são 20% da população, funcionam melhor a noite. 
+- Esse tipo de pessoa está no seu pico de energia por volta das 18hrs da noite. 
+- Não sentem vontade de dormir antes das 3:00 da manha
+- Sempre precisam de um despertador para acordar cedo. 
+- Se pudessem fazer as coisas do jeito delas, não se levantariam antes das 10hrs da manha
+- Esses tipos de pessoa acumulam um defit enorme de sono durante suas vidas.
+
+Um estudo comprova que se a mae e o pai forem cotovias, a metade dos filhos tambem será. 
+
+Cotovias e corujas são apenas 30% da população, o resto de nós é como beija-flor. 
+- Algumas mais voltadas pra coruja, outras pra cotovias e assim vai... 
+
+### De quanto sono precisamos ? 
+
+A resposta é que não sabemos, embora muito é dito sobre 8 hrs, a ciencia não tem certeza sobre isso. 
+
+Os horarios de sono são dinamicos, mudam de acordo com idade, sexo, puberdade, gestação etc... 
+
+Uma pergunta mais inteligente é " De quanto sono não precisamos ? " 
+- Qual a quantidade que afeta nosso cerebro ?
+- Tanto a privação, quanto o excesso de sono, causam disfunções. 
+- Se não resolvido, coisas ruins começarão acontecer com o seu cerebro. 
+
+### Soneca depois do almoço
+
+Nosso corpo precisa de uma soneca, e isso não tem nada a ver com a quantidade de comida no almoço, embora grandes refeições de carboidrato contribuam para isso. 
+
+E esse sono no almoço não tem nada a ver com privação de sono. Dormir a tarde faz parte do nosso historico evolutivo. 
+
+A zona de soneca é fatal, acidentes ocorrem com mais frequencia nesse horario. 
+
+Até mesmo fazer uma palestra nesse horario pode ser um desastre. 
+
+Seu cerebro não funciona bem nesse horario. 
+
+Uma simples soneca de 30 minutos no almoço, aumenta significativamente o desempenho mental. 
+
+### Durma para encontrar a solução
+
+Não importa, as pessoas que dormem bem, sempre terão um desempenho melhor do que as que dormem mal. 
+
+O sono pode ser um ótimo amigo para aprender tarefas intelectuais. 
+
+### Privação de sono = esgotamento mental 
+
+Um ótimo aluno pode ser colocado em queda livre na questão do aprendizado se suas horas de sono forem diminuidas. 
+
+Pesquisas tambem comprovam que quando uma pessoa não dorme o suficiente, até mesmo a função do intestino em processar alimentos é reduzida. 
+
+Sua capacidade de produzir insulina e extrair energia da sobremesa preferida do cérebro, a glicose, começa a cair drasticamente.
+
+De maneira literal, o seu cerebro consolida o aprendizado do dia, durante o sono, repetindo os caminhos neurais varias vezes, para grava-los na memoria de longo prazo. 
+
+### Ideias 
+
+#### Cronotipos no horario de trabalho 
+
+- Hoje em dia existem diversos meios para identificar o cronotipo de uma pessoa, e se implementassemos horarios de trabalho compativeis com os cronotipos das pessoas ? 
+- Porque a maioria das pessoas, está atuando abaixo da sua produtividade normal por estar atuando fora do seu horario produtivo. 
+- Você pode dobrar sua produtividade apenas alterando o seu horario de trabalho. 
+
+#### Sonecas após o almoço 
+
+- Não lute contra a soneca após o almoço, tire um sono rápido, isso irá melhorar muito a sua capacidade mental. 
+
+#### Durma para encontrar a solução
+
+- Ao se deparar com um problema, não tire uma conclusão antes de dormir 8 horas de sono. 
+- Deixe seu cerebro cristalizar as informações na noite de sono. 
+
+### Resumo 
+- No cerebro constantemente há uma tensão entre celulas que querem nos fazer domir, e celulas que querem nos manter acordados.
+- Os neuronios repetem os caminhos neurais do aprendizado do dia, consolidando o que aprendemos naquele dia. 
+- Há diferença na quantidade de sono que cada um de nós precisa e ao horario que preferimos dormir, mas a vontade de tirar uma soneca a tarde é universal. 
+- A privação de sono prejudica a atenção, memoria, função executiva, humor e até agilidade motora. 
+
+-----
+
+
+
+
