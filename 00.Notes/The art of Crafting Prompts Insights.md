@@ -11,8 +11,6 @@ Dessa forma, você ajuda a Ai dar a resposta que será mais relevante para você
 
 Você pode usar essa estrategia, para encontrar formas simples de explicar um tópico para alguem, ou até mesmo para aprender melhor. 
 
-
-
 ----
 
 ### Exemplos de prompt: 

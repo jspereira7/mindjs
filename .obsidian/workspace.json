@@ -36,24 +36,9 @@
               "icon": "lucide-file",
               "title": "The Brain Rules"
             }
-          },
-          {
-            "id": "dd60e8b2cfc88366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Meu cronotipo de sono.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Meu cronotipo de sono"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -271,11 +255,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dd60e8b2cfc88366",
+  "active": "d284274c19315572",
   "lastOpenFiles": [
-    "00.Notes/Meu cronotipo de sono.md",
-    "00.Notes/The Brain Rules.md",
     "00.Notes/The art of Crafting Prompts Insights.md",
+    "00.Notes/The Brain Rules.md",
+    "00.Notes/Meu cronotipo de sono.md",
     "00.Notes/Instagram Status Maxxing.md",
     "00.Notes/Fundamentals 101 — Cutting pass lanes.md",
     "00.Notes/Fc 101 Fundamentals.md",

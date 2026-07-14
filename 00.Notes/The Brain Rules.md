@@ -548,6 +548,9 @@ De maneira literal, o seu cerebro consolida o aprendizado do dia, durante o sono
 
 -----
 
-
+Exemplo de um programa para parar de seguir
+- Recebe a lista de pessoas que não me seguem de volta 
+- Vai até a pagina, e pede para parar de seguir, ou melhor envia a request de parar de seguir. 
+- 
 
 
