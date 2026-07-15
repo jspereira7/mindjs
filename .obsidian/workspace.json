@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "The art of Crafting Prompts Insights"
             }
-          },
-          {
-            "id": "d284274c19315572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/The Brain Rules.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Brain Rules"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/The Brain Rules.md",
+                "file": "00.Notes/The art of Crafting Prompts Insights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Brain Rules"
+              "title": "Outline of The art of Crafting Prompts Insights"
             }
           },
           {
@@ -256,10 +240,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d284274c19315572",
+  "active": "7c881bbab05179a5",
   "lastOpenFiles": [
-    "00.Notes/The art of Crafting Prompts Insights.md",
     "00.Notes/The Brain Rules.md",
+    "00.Notes/The art of Crafting Prompts Insights.md",
     "00.Notes/Meu cronotipo de sono.md",
     "00.Notes/Instagram Status Maxxing.md",
     "00.Notes/Fundamentals 101 — Cutting pass lanes.md",

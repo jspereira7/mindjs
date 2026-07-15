@@ -609,7 +609,6 @@ Suas intervenções reduzem a taxa de divorcio em até 50%
 Ele identificou que quando o casal tem filho, as interações hostis aumentam significativamente. 
 
 ### Resumo 
-
 - O sistema de defesa do corpo — a liberação de adrenalina e cortisol, foi feita para garantir a nossa resposta imediata a um perigo importante e passageiro. O estresse cronico como a hostilidade doméstica, desregula de maneira nociva o seu sistema, que é programado para lidar apenas com reações de curto prazo. 
 - Com o estresse cronico a sua capacidade de aprendizado é reduzida abaixo de 50%, prejudicando sua memoria. 
 - O pior tipo de estresse é aquele que sentimos que nada podemos fazer para resolver o problema. 
