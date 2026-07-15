@@ -547,6 +547,74 @@ De maneira literal, o seu cerebro consolida o aprendizado do dia, durante o sono
 - A privação de sono prejudica a atenção, memoria, função executiva, humor e até agilidade motora. 
 
 -----
+##  Regra 8 — Extresse
+
+> Cerebros estressados não aprendem da mesma maneira
+
+Quanto mais se acredita que o fator que está causando o estresse não tem controle, mais estressante é. 
+
+É possivel perceber o estresse quando nosso corpo dá alguns sinais:
+- O pulso dispara
+- A pressão sanguinea sobe 
+- Sentimos uma enorme liberação de energia 
+- O famoso hormonio da adrenalina
+- O efeito geral é chamado de luta ou fuga. 
+
+**Tenha em mente que o cerebro é o orgao de sobrevivencia mais sofisticado que exite.** 
+
+**O objetivo dele é nos permitir que tenhamos uma vida longa o suficiente para transmitir nossos genes para a proxima geração.**
+
+O estresse nos ajuda a lidar com as ameaças que poderiam impedir nossa reprodução. 
+
+O estresse é uma reação que foi feita para ações rápidas, de meio minuto no máximo, usada contra predadores etc... 
+
+Mas hoje em dia enfrentamos problemas que nos colocam sob estresse por horas, dias e até meses. 
+
+Desde um ambiente de trabalho prejudicial, crianças que não param de chorar, e problemas financeiros. 
+
+Nosso organismo não foi feito pra isso. 
+
+E quando esse hormonio permanece por um tempo excessivo no nosso organismo, ele se torna bastante prejudicial.
+
+É assim que esse hormonio pode atrapalhar os resultados em provas e etc.. 
+
+Mas quando o estresse não é muito intenso, ele tem beneficios, a pessoa aprende muito mais rapido, e resolve problemas com maior agilidade. 
+
+Dizem que memorias estressantes que ameaçam nossa vida, são gravadas intantaneamente na memoria. 
+
+Pessoas que estão sob estresse cronico, possuem dificuldade no aprendizado, não conseguem realizar calculos matematicos e coisas do tipo. 
+
+O estresse reduz 50% da capacidade cerebral de uma pessoa. 
+
+Um dos piores efeitos do estresse é a sua capacidade de causar depressão a longo prazo. 
+
+Tambem foi constatado que as pessoas tem diferentes reações ao estresse. algumas são mais tolerantes do que outras. 
+
+O pior tipo de estresse é aquele que sentimos que não temos controle sob ele, que não conseguimos resolver a situação que está nos estressando. 
+
+Essa é a formula para a impotencia aprendida: saber que as pessoas esperam muito de você, e não ter controle sob o resultado do seu desempenho. 
+
+O pior de tudo é que o estresse no trabalho, leva ainda mais estresse no lar, e o estresse no lar causa ainda mais estresse, é um espiral da morte. 
+
+### Casamento e estresse 
+
+Um pesquisador chamado John Gottman em 3 minutos consegue prever o futuro de um relacionamento. 
+
+Ele conseguia fazer isso identificando comportamentos espesificos. 
+
+E identificou comportamentos que levam ao sucesso do relacionamento: 
+
+Suas intervenções reduzem a taxa de divorcio em até 50% 
+
+Ele identificou que quando o casal tem filho, as interações hostis aumentam significativamente. 
+
+### Resumo 
+
+- O sistema de defesa do corpo — a liberação de adrenalina e cortisol, foi feita para garantir a nossa resposta imediata a um perigo importante e passageiro. O estresse cronico como a hostilidade doméstica, desregula de maneira nociva o seu sistema, que é programado para lidar apenas com reações de curto prazo. 
+- Com o estresse cronico a sua capacidade de aprendizado é reduzida abaixo de 50%, prejudicando sua memoria. 
+- O pior tipo de estresse é aquele que sentimos que nada podemos fazer para resolver o problema. 
+
+----
 
 
 
