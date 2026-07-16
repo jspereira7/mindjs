@@ -615,6 +615,31 @@ Ele identificou que quando o casal tem filho, as interações hostis aumentam si
 
 ----
 
+## A visão — Regra 10 
+
+O processamento visual, influencia os outros sentidos, a visão pode enganar o paladar, tato e outros sentidos. 
+
+### O cerebro cria alucinações 
+
+Nesse exato momento o seu cerebro está mostrando apenas parte do que seus olhos estão transmitindo pra ele. 
+
+Nosso olho possui pontos cegos, e nesses pontos cegos, o cerebro preence com algo
+
+Nunca temos uma representação 100% do ambiente 
+
+O cerebro fragmenta a informação que chega até ele atraves do olho, e depois reconstroi com o que ele acha que deveria estar ali. 
+
+Aquilo que estamos vendo, não é a realidade em sí, mas o que o cerebro está nos transmitindo. 
+
+### Resumo 
+
+- A visão é o sentido dominante – ela usa quase metade dos recursos cerebrais.
+-  Aquilo que vemos é apenas o que o cérebro nos diz para ver, e não é 100% exato.
+- A análise visual que fazemos ocorre em muitas etapas. A retina reúne fótons em fluxos de informação que são como pequenos filmes. O córtex visual processa esses fluxos – al- gumas de suas áreas registram movimento, outras captam cores, outras percebem os contornos, e assim por diante. Por fim, a informação é reintegrada para que possamos vê-la co- mo um todo.
+- O melhor modo de aprender e lembrar é por meio de figuras, e não de palavras escritas ou faladas.
+
+----
+
 
 
 
