@@ -153,4 +153,4 @@ E um vigarista pode ter a aparencia de puro por fora, mas seu coração é egois
 - Como praticante você deve exercitar sua capacidade de ignorar criticas, ridiculo, difamação e ao mesmo tempo cumprir seus deveres como julgar adequado. 
 - A sabedoria espiritual é a raiz cotidiana. A capacidade de discernir entre o bem e o mal é essencial. Não há ninguem lá fora que você precise conquistar — quando tiver conquistado a sí mesmo, o mundo estará aos seus pés. 
 - A coragem suprema de um guerreiro reside na indiferença ao sofrimento — ter a coragem de lutar apesar do medo, se desapegando as emoções da derrota para que isso não o impeca de avançår.
-- 
+
