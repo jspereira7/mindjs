@@ -140,7 +140,6 @@ Quando as pessoas agem com excessiva gentileza, sempre me pergunto quais são su
 A aparencia externa e ações de um homem bom, as vezes podem parecer crueis e violentas, e sua expressão egoista, mas ele possui um coração puro por dentro. 
 
 E um vigarista pode ter a aparencia de puro por fora, mas seu coração é egoista, e só visa o proprio bem estar. 
-
 ## Resumo dos pontos principais 
 
 - Thick Face, Black Heart é a lei secreta da natureza que rege o comportamento bem-sucedido em todos os aspectos da vida. 
@@ -153,4 +152,18 @@ E um vigarista pode ter a aparencia de puro por fora, mas seu coração é egois
 - Como praticante você deve exercitar sua capacidade de ignorar criticas, ridiculo, difamação e ao mesmo tempo cumprir seus deveres como julgar adequado. 
 - A sabedoria espiritual é a raiz cotidiana. A capacidade de discernir entre o bem e o mal é essencial. Não há ninguem lá fora que você precise conquistar — quando tiver conquistado a sí mesmo, o mundo estará aos seus pés. 
 - A coragem suprema de um guerreiro reside na indiferença ao sofrimento — ter a coragem de lutar apesar do medo, se desapegando as emoções da derrota para que isso não o impeca de avançår.
+
+------
+
+## Sobre o Medo 
+
+> Cumprir o dever sem apego ou aversão. É um ótimo antidoto para o medo. 
+
+> Se você não se preocupar com o resultado de uma situação, você não sentirá medo. Ao se apegar a expectativas, a ansiedade e medo o dominarão. Os resultados serão o que tiver que ser, independente das suas expectativas e medos. 
+
+> Sou um homem idoso e tenho muitos problemas, dos quais a maioria nunca existirão. 
+
+A maioria dos nossos medos e inquietação quase nunca se concretizam. Não de muita importancia ao seu medo. Um convidado ignorado muitas vezes vai embora sem avisar. 
+
+> A fé o passaro que sente a luz. E canta quando a aurora ainda está escura. 
 
