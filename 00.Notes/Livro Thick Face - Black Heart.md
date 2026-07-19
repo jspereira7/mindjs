@@ -167,3 +167,21 @@ A maioria dos nossos medos e inquietação quase nunca se concretizam. Não de m
 
 > A fé o passaro que sente a luz. E canta quando a aurora ainda está escura. 
 
+Em seus encontros diarios com o medo, faça o que precisa ser feito. 
+
+### Adquira a coragem de acreditar em sí mesmo 
+
+Tenha coragem de ser fiel as suas proprias convicções. 
+
+## Resumo 
+
+- Há tempo para dar a outra face e ser agressivo — o que conta realmente é o porque por trás disso. 
+- Para se libertar, você deve os verdadeiros padrões dos quais deve se comportar, encontre a coragem para fazer o que deve ser feito, independente do que os outros pensem
+- Liberte-se do medo do sucesso e do fracasso. Sucesso significa mudança e risco de fracasso. 
+- Supere o medo — o medo para o homem é como o veneno para uma fonte de agua potável. 
+- O medo não é tão assustador quando você o encara de frente. 
+- Se você não se preocupa com o resultado de uma situação, o medo desaparece. Seja qual for o resultado, ele aparecerá, quer vc sinta medo ou não. 
+- Apesar do medo faça o que deve ser feito. 
+- O seu maior defeito é sua busca pelo prazer, e evitação da dor, a grandeza reside além da busca pelo prazer e evitação da dor. 
+- Adquira a coragem de acreditar em sí mesmo, muitas ideias que são comuns hoje, um dia já foram ideias radicais de pessoas que tiveram a coragem de acreditar nos seus proprios corações. 
+- 
