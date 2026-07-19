@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd1f279a8943d705",
+            "id": "3f0dc6078244d385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Russel Brunson Study.md",
+                "file": "00.Notes/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Russel Brunson Study"
-            }
-          },
-          {
-            "id": "d126c74a89d140fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/The Brain Rules.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Brain Rules"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/The Brain Rules.md",
+                "file": "00.Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Brain Rules"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -255,12 +239,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d126c74a89d140fc",
+  "active": "3f0dc6078244d385",
   "lastOpenFiles": [
-    "00.Notes/Livro Thick Face - Black Heart.md",
-    "+Daily Notes/2026-07-16 Thursday.md",
+    "00.Notes/Untitled.md",
     "00.Notes/The Brain Rules.md",
     "00.Notes/Russel Brunson Study.md",
+    "00.Notes/Livro Thick Face - Black Heart.md",
+    "+Daily Notes/2026-07-16 Thursday.md",
     "01.Assets/Excalidraw/Drawing 2025-06-24 23.20.35.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-06-11 20.18.52.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-07-02 17.23.39.excalidraw.md",
@@ -282,7 +267,6 @@
     "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-11-19 16.24.38.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2026-02-25 11.31.34.excalidraw.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00.Notes/Untitled.md"
+    },
+    {
       "basename": "The Brain Rules",
       "path": "00.Notes/The Brain Rules.md"
+    },
+    {
+      "basename": "Russel Brunson Study",
+      "path": "00.Notes/Russel Brunson Study.md"
     },
     {
       "basename": "Livro Thick Face - Black Heart",
@@ -11,10 +19,6 @@
     {
       "basename": "2026-07-16 Thursday",
       "path": "+Daily Notes/2026-07-16 Thursday.md"
-    },
-    {
-      "basename": "Russel Brunson Study",
-      "path": "00.Notes/Russel Brunson Study.md"
     },
     {
       "basename": "Drawing 2025-06-24 23.20.35.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw",
       "path": "01.Assets/Anexos/Alfabetização Digital - Anotações Livro Bit Literacy. 2026-06-30 09.39.22.excalidraw.md"
-    },
-    {
-      "basename": "Engenharia Reversa - API TIKTOK ADS",
-      "path": "00.Notes/Engenharia Reversa - API TIKTOK ADS.md"
     }
   ],
   "omittedPaths": [
