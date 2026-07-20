@@ -28,13 +28,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Top5 Forças minhas..md",
+                "file": "00.Notes/Como usar minhas forças.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Top5 Forças minhas."
+              "title": "Como usar minhas forças"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1f13641a59657af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4588bb9c366887",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Como usar minhas forças"
             }
           }
         ]
@@ -56,13 +73,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/High5 Strengs.md",
+                "file": "00.Notes/Como usar minhas forças.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of High5 Strengs"
+              "title": "Outline of Como usar minhas forças"
             }
           },
           {
@@ -120,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -255,10 +273,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3f0dc6078244d385",
+  "active": "ee417e05013abfd1",
   "lastOpenFiles": [
-    "00.Notes/Top5 Forças minhas..md",
     "00.Notes/High5 Strengs.md",
+    "00.Notes/Como usar minhas forças.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "00.Notes/The Brain Rules.md",
     "00.Notes/Instagram Status Maxxing.md",
