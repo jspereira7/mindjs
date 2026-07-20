@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Extension Plan.md",
+                "file": "00.Notes/High5 Strengs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Extension Plan"
+              "title": "High5 Strengs"
+            }
+          },
+          {
+            "id": "ee417e05013abfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Top5 Forças minhas..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Top5 Forças minhas."
             }
           }
         ]
@@ -41,13 +56,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Extension Plan.md",
+                "file": "00.Notes/High5 Strengs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Extension Plan"
+              "title": "Outline of High5 Strengs"
             }
           },
           {
@@ -100,7 +115,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,8 +257,15 @@
   },
   "active": "3f0dc6078244d385",
   "lastOpenFiles": [
-    "00.Notes/Extension Plan.md",
+    "00.Notes/Top5 Forças minhas..md",
+    "00.Notes/High5 Strengs.md",
+    "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "00.Notes/The Brain Rules.md",
+    "00.Notes/Instagram Status Maxxing.md",
+    "00.Notes/The art of Crafting Prompts Insights.md",
+    "00.Notes/Fc 101 Fundamentals.md",
+    "00.Notes/As 3 Linhas Defensivas.md",
+    "00.Notes/Extension Plan.md",
     "00.Notes/Russel Brunson Study.md",
     "00.Notes/Livro Thick Face - Black Heart.md",
     "+Daily Notes/2026-07-16 Thursday.md",
@@ -260,13 +283,6 @@
     "01.Assets/Excalidraw/Drawing 2025-08-08 16.12.28.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-08-11 19.42.11.excalidraw.md",
     "01.Assets/Excalidraw/Fluxo Integracao CartPanda x Active 2025-06-03 19.16.02.excalidraw.md",
-    "01.Assets/Excalidraw/SpotPersonality Types Using WhatsApp.excalidraw.md",
-    "01.Assets/Excalidraw/Framework 4C.md",
-    "01.Assets/Excalidraw/Drawing 2025-10-13 12.55.59.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2025-11-06 17.05.09.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2025-11-07 16.51.26.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2025-11-19 16.24.38.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2026-01-30 16.00.47.excalidraw.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",

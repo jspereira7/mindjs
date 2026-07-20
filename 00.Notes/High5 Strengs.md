@@ -5,7 +5,7 @@ Your HIGH5 strengths represent your greatest potential for success and fulfillme
 Research confirms these dominant strengths 1-5 offer your clearest path to professional excellence and personal satisfaction when applied daily.
 ## Philomath
 
-Your objective is to learn new things. 
+**Your objective is to learn new things.** 
 
 You have a genuine thirst for knowledge and others appreciate your curiosity. 
 
@@ -20,7 +20,7 @@ That’s why you thrive in short projects and dynamically changing environments.
 Thanks to this strength, you’re always able to contribute valuable new knowledge to your team as well.
 ## Analyst 
 
-Your objective is to analyze in order to find root causes. 
+**Your objective is to analyze in order to find root causes.** 
 
 It’s not that you don’t like ideas, concepts and theories — it’s that you want to see these proven. 
 
