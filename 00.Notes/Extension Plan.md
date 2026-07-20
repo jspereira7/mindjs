@@ -1,0 +1,3 @@
+## Funcionalidades 
+
+- **Following Ratio** = Calcula a relação entre seguidores / seguindo, e exibe o valor em destaque no perfil (ex 2.34x) e classificar o ratio com cores abaixo de 1.0x (vermelho), 1.1+ (equilibrado) cor amarela, 2-5x(excelente) cor verde. E deve mostrar a projeção futura, de quantos perfis será necessário parar de seguir para tingir o proximo nivel de ratio, como por exemplo, se estiver no ratio vermelho(abaixo de 1.0x) ele mostra quantos parar de seguir para atingir o ratio ideal, sempre calculando o nivel atual, e quanto deve parar de seguir pra atingir o proximo nivel. 
