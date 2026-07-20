@@ -1,6 +1,0 @@
-# Como usar suas forças 
-
-
-
-------
-
