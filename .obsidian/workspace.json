@@ -26,10 +26,15 @@
             "id": "b205c69b6f5062fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Psicologia Evolucionista - David M.BUSS"
             }
           }
         ],
@@ -254,6 +259,7 @@
   },
   "active": "b205c69b6f5062fd",
   "lastOpenFiles": [
+    "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
     "00.Notes/Expert Secrets - Book.md",
     "00.Notes/Insights personalidade.md",
     "00.Notes/High5 Strengs.md",
@@ -279,7 +285,6 @@
     "01.Assets/Excalidraw/Drawing 2025-08-04 17.10.08.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-07-29 15.01.52.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-08-08 16.12.28.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2025-08-11 19.42.11.excalidraw.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",
