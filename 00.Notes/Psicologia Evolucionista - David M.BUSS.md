@@ -1,5 +1,7 @@
 
-## Fundamentos da Psicologia Evolucionista
+# Fundamentos da Psicologia Evolucionista
+
+## Introdução 
 - Os biologos que acreditavam que as formas de vida não eram fixa, e mudavam ao longo do tempo se denominaram evolucionistas. 
 - As caracteristicas nas espécies possuem uma função, os espinhos do porco espinho o ajuda a se proteger de predadores, os bicos das aves são adaptados para auxiliar a quebra de nozes. 
 
@@ -40,3 +42,48 @@
 	- Como a mudança evolutiva acontece muito lentamente, durante milhares de anos, os seres humanos atuais são projetados para ambientes do tempo das pedras, e não modernos. 
 	- Uma forte preferencia por gordura e açucar, que antes era fundamental para estocar energia, hoje causa diabetes e ataques cardiacos. 
 	- Isso significa que alguns dos nossos mecanismos não estão devidamente projetados para o ambiente atual.
+- Em resumo, não somos limitados geneticamente, não existe determinismo genético, não digo que é facil mudar, mas é possivel se moldar. 
+
+## Teoria Psicanalitica de Freud 
+- Segundo freud, todos os nossos mecanismos psicologicos, são meramente maneiras de canalizar nossa sexualidade. 
+- Mas seu pensamento ao longo do tempo se afastou nas origens darwinianas. 
+- Os insistindo são adaptações para resolver problemas espesificos. 
+
+## As descobertas da variabilidade cultural
+- Cientistas antigos acreditavam que as pessoas nascem vazias, sem nenhum comportamento inato, e os comportamentos são adicionados pela nossa cultura. 
+	- Ex: No brasil mulheres usam bikini fio dental, na arabia as mulheres cobrem até o rosto. 
+- Mas essa teoria da varieabilidade cultural é um mito.
+
+## Behaviorismo Radical debunked
+- O behaviorismo radicical foi desbancado, levando a duas conclusões importantes. 
+- Ratos, macacos e até mesmo humanos são pré-dispostos a aprender algumas coisas com facilidade e a não aprender outras mesmo insistindo muito. 
+- O ambiente externo não é o unico fator causal do comportamento — Algo acontece dentro da mente e do organismo que deve ser levado em consideração para explicar os comportamentos. 
+
+## Desvendando a caixa preta 
+- A revolução cognitiva devolveu a psicologia o poder de olhar para dentro da mente das pessoas, os sistemas que estão funcionando internamente, e não somente o que se está vendo de fora. 
+- Basicamente o pensamento sistemico, onde há uma Entrada, processamento e uma saida. 
+- Para que um organismo realize uma tarefa ele precisa resolver varios outros problemas, uma série de processamento de informações — Como enchergar pareça algo facil, são necessarios milhares de mecanismos para que isso aconteça, uma cornea, pupila, palpebra etc... 
+- A função evolutiva do cerebro é receber informações do ambiente (interno e externo) e transformar isso em ação e regulação do corpo. 
+	- Ambiente externo: O que vc ve, ouve, cheira etc..
+	- Ambiente interno: O que acontece dentro do seu corpo, fome, sede, dor, cansaço, temperatura corporal.
+	- O cerebro usa essas informações para gerar ação (correr, comer, falar, fugir)
+	- Regular a fisiologia (batimentos cardiacos, temperatura, hormonios)
+- Off topic: Um computador pode ser programado para executar uma variedade imensa de tarefas, limitado apenas pela imaginação e engenhosidade do programador. 
+
+## A psicologia evolutiva
+- A psicologia evolutiva surgiu para responder sobre os nossos processos internos mentais, o motivo pelo qual nossas mentes foram programas. 
+- Explicando as finalidades, e unindo toda a teoria antiga de darwin e seus sucessores. 
+
+-----
+
+# A nova ciencia 
+
+## As origens da natureza humana 
+- Carregamos conosco em nossa biologia os mecanismos adaptativos que levaram o sucesso dos nossos ancestrais.
+- **Uma adaptação pode ser definida como uma caracteristica herdada que surgiu por meio da seleção natural porque ajudou a resolver um problema de sobrevivencia ou reprodução.** 
+- Os produtos do processo evolutivo: 
+	- **Adaptações:** caracteristicas herdadas que surgiram por meio da seleção natural que ajudou a resolver um problema de sobrevivencia ou reprodução. 
+	- **Subproduto:** Caracteristicas que não resolvem problemas adaptativos e não possuem um design funcional, são apenas algo que está acoplado a algumas adaptações. E.G Umbigo.
+	- **Ruido:** Caracteristicas aleatorias sem função ou influencia alguma adaptativa, exemplo se o seu umbigo é pra dentro ou pra fora. 
+- As adaptações são moldadas pelo processo de seleção, atuando como uma peneira em cada geração nova, desse modo toda geração acaba sendo diferente uma da outra.
+- 
