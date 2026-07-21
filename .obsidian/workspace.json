@@ -6,7 +6,6 @@
       {
         "id": "f85af032c27c662e",
         "type": "tabs",
-        "dimension": 32.028469750889684,
         "children": [
           {
             "id": "d5b6768a1d45fdac",
@@ -22,25 +21,19 @@
               "icon": "lucide-file",
               "title": "Expert Secrets - Book"
             }
-          }
-        ]
-      },
-      {
-        "id": "31900ecb9ef84b3e",
-        "type": "tabs",
-        "dimension": 67.97153024911033,
-        "children": [
+          },
           {
-            "id": "e6a8278ab1f21e57",
+            "id": "b205c69b6f5062fd",
             "type": "leaf",
             "state": {
-              "type": "mindmap-nextgen-plugin",
+              "type": "empty",
               "state": {},
-              "icon": "dot-network",
-              "title": "Expert Secrets - Book"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,11 +252,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d5b6768a1d45fdac",
+  "active": "b205c69b6f5062fd",
   "lastOpenFiles": [
+    "00.Notes/Expert Secrets - Book.md",
     "00.Notes/Insights personalidade.md",
     "00.Notes/High5 Strengs.md",
-    "00.Notes/Expert Secrets - Book.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "00.Notes/The Brain Rules.md",
     "00.Notes/Instagram Status Maxxing.md",
