@@ -86,4 +86,14 @@
 	- **Subproduto:** Caracteristicas que não resolvem problemas adaptativos e não possuem um design funcional, são apenas algo que está acoplado a algumas adaptações. E.G Umbigo.
 	- **Ruido:** Caracteristicas aleatorias sem função ou influencia alguma adaptativa, exemplo se o seu umbigo é pra dentro ou pra fora. 
 - As adaptações são moldadas pelo processo de seleção, atuando como uma peneira em cada geração nova, desse modo toda geração acaba sendo diferente uma da outra.
+- A estrategia sexual dos sexos é definina pela quantidade de investimento parental — aquele que investe mais, é mais seletivo na escolha dos melhores parceiros.
+	- Com base nessa teoria, como as mulheres são o sexo que investe mais, podemos fazer uma previsão sobre o comportamento das mulheres. 
+	- (1) as mulheres valorizarão homens por qualidades espesificas conhecidas por estarem ligadas a aquisição de recursos, status social, inteligencia, idade um pouco avançada. 
+	- (2) Em redes sociais, mulheres serão mais propensas a responder a homens que aparentam ter recursos, do que homens que não tem
+	- (3) Homens que não fornecem recursos economicos terão maior chance de ter o relacionamento terminado, do que homens que fornecem recursos. 
+- Teorias que não são validadas empiricamente são abandonadas. 
+
+## A essencia da natureza humana 
+- Todas as espécies possuem sua natureza — adaptações unicas que se diferem das de outras especies. O porco espinho, o gamba e a tartaruga se defendem de predadores, mas cada um a sua maneira. 
+- A psicologia Evolucionista estuda os mecanismos evoluidos da mente, e não da biologia geral. 
 - 
