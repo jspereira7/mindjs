@@ -96,4 +96,54 @@
 ## A essencia da natureza humana 
 - Todas as espécies possuem sua natureza — adaptações unicas que se diferem das de outras especies. O porco espinho, o gamba e a tartaruga se defendem de predadores, mas cada um a sua maneira. 
 - A psicologia Evolucionista estuda os mecanismos evoluidos da mente, e não da biologia geral. 
-- 
+- Os mecanismos de seu corpo foram feitos para captar apenas uma pequena parcela de informação da realidade como um todo. 
+	- Como por exemplo seu olho, ele apenas ve o que é tangivel, ele não exerga raio X. 
+	- Esses mecanismos foram calibrados durante milhares de anos para identificar somente o que importa para a sobrevivencia e reprodução. 
+	- Exemplo acuçar, antigamente o seu sensor de açucar te entregava mais prazer porque isso ajudava a identificar comidas mais calóricas, que eram beneficas para sobrevivencia, mas hoje em dia o açucar em excesso faz mal. 
+	- O mecanismo não sabe que mudou o contexto, ele apenas age de acordo com o que foi programado. 
+	- Assim como paisagens, achamos bonito paisagens porque antigamente viviamos na savana, e um espaço aberto era vantajoso para a nossa sobrevivencia, porque viamos predadores de longe. 
+	- Parceiros — seu cerebro tem sensores espesificos para identificar sinais que bons parceiros para reprodução, como por exemplo uma mulher com um quadril largo em relação a cintura. 
+	- Muitos estimulos hoje em dia, fazem o exploit desses mecanismos da metne humana, como fast-food por exemplo, comidas assim estão abusando dos seus sensores. 
+	- As pessoas hackeiam esses sensores para beneficio proprio, como por exemplo editar fotos para parecer mais atraentes. 
+	- ![[Pasted image 20260721183818.png]]
+	- Esses mecanismos funcionam de forma automatica, inconcientemente — como por exemplo, vc não sente o cheiro de uma pizza e pensa "Nossa agora estou passando por um mecanismo adaptativo evoluido"
+	- O input é transformado em output, com base em **regras de decisão.**
+	- IF --> THEN (Se x então y)
+		- Se esse cara for mais forte que eu, eu corro, se ele for mais fraco fisicamente eu aceito a luta. 
+		- Para esse mecanismo atuar, ele precisa de um input. um estimulo, como o mecanismo do ciumes, ele é um mecanismo adaptativo para resolver um problema evolutivo "A perda de um parceiro sexual" 
+		- O resultado do mecanismo do ciumes visa resolver o problema. 
+		- Nem sempre isso irá resolver o problema para o qual foi destinado, mas em média ele tende a resolver melhor o problema comparado a estrategias concorrentes no ambiente original que evoluiu. 
+- **Entenda que os mecanimos adaptativos que funcionaram bem no passado podem não funcionar bem no ambiente atual.** 
+- Resumo: Um mecanismo evolutivo é um conjunto de procedimentos no organismo, feitos para receber determinada informação e transforma-la atráves de regras de decisão, em uma resposta que historicamente auxiliou na solução de um problema adaptativo. 
+
+
+## Propriedades importantes dos mecanismos psicologicos evoluidos 
+- Como os cientistas identificaram que os mecanismos são diferentes uns dos outros ? Atraves da sua função. 
+- Ou seja, você diferencia os mecanismos com base na sua funcionalidade, se produzem outputs diferentes, não mecanismos individuais. 
+- Como os problemas adaptativos são espesificos, eles requerem o processamento espesifico tambem — o que significa que os mecanismos são bem espesificos. 
+- A espesificidade é melhor ilustrada ainda pelos erros — quando vc consome uma comida podre, que é um erro de seleção de alimento, seu corpo irá ativar outro mecanismo (vomitar) para se livrar desse alimento ruim. 
+	- Mas ao escolher um parceiro ruim para relacionamento, vc não irá vomitar, vc irá resolver de outras maneiras, como terminar o relacionamento. 
+- A mente tambem contem muitos mecanismos especializados e complexos. 
+- Todos os mecanismos psicológicos requerem o input para serem ativados. 
+- Mecanismos adaptativos não são como instintos rigidos por causa das regras de decisão — essas regras de decisão permitem várias opções para resolver o problema.
+- Os mecanismos da evolução nos humanos tambem não trabalham de forma isolada, eles formam um sistema, trabalhando todos juntos. 
+
+## Aprendizagem, Cultura e mecanismos psicologicos evoluidos.
+
+- Um erro comum é separar nurture x nature, inato x aprendido, sendo que de acordo com a definição original dos mecanismos evoluidos, eles precisam da influencia do ambiente para emergir, ou seja é uma combinação, nurture + nature. 
+- Nós aprendemos criterios de status prestando atenção aqueles que obtem maior atenção — e imitamos esses comportamentos. 
+- A mente possui mecanismos de aprendizagem espesificos. 
+
+## Identificando problemas adaptativos
+- Todos os problemas adaptativos por definição, ser coisas necessárias para a reprodução, ou que a auxiliem. 
+- No geral são esses 4 problemas: 
+	- 1) Problemas de crescimento — levar o organismo ao ponto em que ele seja capaz de se reproduzir. 
+	- 2) Problemas de acasalamento — selecionar, atrair e manter um parceiro, realizar o comportamento sexual necessário.
+	- 3) Problemas de parentalidade — ajudar os filhos a sobreviver e crescer até o ponto que sejam capazes de se reproduzir
+	- 4) problemas de auxilio a parentes genéticos — auxiliar parentes com o mesmo gene q vc 
+
+## Este livro é sobre problemas adaptativos evoluidos
+- Ele está organizado em torno de problemas adaptativos humanos e  das soluções psicologicas que evoluiram para resolve-los.
+- Começamos com os problemas de sobrevivencia, porque sem sobrevivencia não há acasalamento. 
+- Depois partimos para o acasalamento, seleção, atração e retenção de um parceiro.
+- Depois para os produtos do acasalamento — os filhos
