@@ -147,3 +147,32 @@
 - Começamos com os problemas de sobrevivencia, porque sem sobrevivencia não há acasalamento. 
 - Depois partimos para o acasalamento, seleção, atração e retenção de um parceiro.
 - Depois para os produtos do acasalamento — os filhos
+
+----
+
+# Analise de acasalamento de longo prazo 
+
+## O que as mulheres preferem 
+- Escolher um parceiro é uma tarefa complexa, e por isso não há respostas simples para o que as mulheres desejam
+
+### Preferencias por recursos economicos
+- As femeas evitam completamente os machos sem recursos, os isolando a solteirice. 
+
+|                                                                                      |                                                                                                                                 |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Problema adaptativo**                                                              | **Preferencia evoluida**                                                                                                        |
+| Escolha de um parceiro capaz de investir nela e no filho.                            | Boas perspectivas financeiras, status social, idade um pouco avançada, Ambição/Diligencia, Tamanho força e capacidade atlética. |
+| Encontrar um parceiro que esteja disposto a investir no relacionaento de longo prazo | Confiabilidade e estabilidade, sinais de amor e compromisso, interações positivas com crianças                                  |
+| Um parceiro capaz de protege-la fisicamente e aos filhos                             | Altura, bravura, habilidade atlética, fisico masculino                                                                          |
+| Escolher um parceiro com boas habilidades parentais                                  | Confiabilidade, estabilidade emocional, gentileza, interações positivas com crianças.                                           |
+| Selecionar um parceiro que seja compátivel.                                          | Valores semelhantes, idades semelhantes, personalidades semelhantes                                                             |
+| Escolher um parceiro saudavel                                                        | Atratividade fisica, simetria, Saude, caracteristicas masculinas                                                                |
+
+- É muito improvavel que a mulher obtenha recursos para sua prole de homens de acasalamento de curto prazo, embora algumas mulheres desenvolvam "amizades especiais" com homens que podem oferecer proteção e recursos em momentos de necessidade ou servir como parceiros reservas caso algo aconteça com seu parceiro fixo. 
+- Caracteristicas de personalidade podem indicar o mecanismo evolutivo das mulheres identificando homens que podem ascender socialmente no futuro. 
+- Segundo mulheres americanas, elas preferem um homem que ganha 70% a mais que os outros homens.
+- Mulheres que realmente estão interresadas em casamento de longo prazo, valorizam parceiros com recursos financeiros.
+
+
+
+
