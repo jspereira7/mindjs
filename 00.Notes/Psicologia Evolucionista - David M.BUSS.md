@@ -191,8 +191,13 @@ Medos comuns e seus motivos adaptativos
 | Ansiedade social                 | Perda de status, ostracismo do grupo    |
 | Ansiedade de acasalamento        | Rejeição publica da tentativa de namoro |
 
+Formas de lidar com os medos é atraves da exposição gradual, dessa forma o sistema é calibrado, entende que o contexto xyz não é perigoso.
 
-
+## Porque morremos ? 
+- A seleção natural atua de forma fraca nas mulheres mais velha — porque essa já se reproduziu. 
+- Desenvolvemos uma série de genes que nos ajudam no inicio da vida, mas que nos causam prejuizos no final da vida. é uma questão de custos. 
+- A seleção natural pesa com mais intensidade sobre os homens do que sobre as mulheres
+- 
 
 
 
@@ -221,5 +226,37 @@ Medos comuns e seus motivos adaptativos
 - Mulheres que realmente estão interresadas em casamento de longo prazo, valorizam parceiros com recursos financeiros.
 
 
+## Preferencia por status 
+- Status alto significa mais controle de recursos, o que é benefico para a mulher. 
+- Indicadores de status futuro são valiosos para mulheres que estão procurando relacionamentos a longo prazo. 
+- Não é tão relevante para mulheres que querem se relacionar a curto prazo. 
 
+## Preferencia por homens um pouco mais velhos
+- Em todas as culturas, as mulheres preferem homens cerca de 3-5 anos mais velhos. 
+- A força fisica dos homens atinge seu pico no final dos 20 anos e inicio dos 30. 
+## Preferencia por ambição e diligencia
+- No geral as mulheres valorizam ambição e diligencia mais do que os homens. 
+- Porque durante a historia, aqueles homens que são trabalhadores e ambiciosos conseguem status na sociedade e mais recursos. 
+## Confiabilidade e estabilidade emocional
+- As mulheres preferem homens estaveis emocionalmente porque eles não consomem a energia delas atoa. 
+- As mulheres preferem homens relativamente altos, atléticos, musculosos e com torso em V, com os ombros mais largos que os quadris — sinais que indicam capacidade do homem de proteger sua mulher e seus filhos. 
+- Elas valorizam estabilidade e confiabilidade para colher os beneficios do fornecimento de recursos a longo prazo. 
 
+## Preferencia por proezas atleticas, imponencia e altura
+- Mulheres preferem homens fortes e atléticos porque isso lhe fornece proteção. 
+- Mulheres que possuem muito medo de criminosos, sentem ainda mais atração por homens fortes fisicamente. 
+
+## Preferencia por boa saude: simetria e masculinidade 
+- Um importante indicador fisico de boa saude é o grau de simetria entre o rosto e o corpo
+
+-----
+
+## Sexo Casual 
+
+- As mulheres estão dispostas a aceitar propostas sexuais de homens atraentes caso tenha um contexto previo de intimidade emocional e não apenas sexo puro. 
+- O sexo casual é um mecanismo adaptativo nos homens porque eles possuem um baixo custo para ele, sendo assim eles podem aumentar sua reprodução se fizerem sexo com várias mulheres.
+
+### Custos de acasalamento de curto prazo para os homens
+- Doenças, brigas com irmãos, maridos. 
+- Fama de "mulherengo", dificultando conseguir relacionamentos de longo prazo. 
+- 
