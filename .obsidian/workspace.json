@@ -41,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Expert Secrets - Book.md",
+                "file": "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expert Secrets - Book"
+              "title": "Outline of Psicologia Evolucionista - David M.BUSS"
             }
           },
           {
@@ -100,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

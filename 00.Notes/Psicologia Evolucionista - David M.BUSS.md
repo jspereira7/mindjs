@@ -150,6 +150,53 @@
 
 ----
 
+# Combatendo as forças hostis da natureza 
+
+## Aquisição e seleção de alimentos 
+- Sem comida ou agua todos nós morreriamos, a dieta é o principal fator que permite ou restringe o restante dos mecanismos de adaptação de uma espécie. 
+- Em suma, a comida permeia nossas preocupações psicológicas, discurso verbal, interação social e crenças religiosas diariamente. 
+- Tanto humanos quanto ratos desenvolveram preferencias por alimentos doces — o que sinaliza altas calorias. 
+- O nojo é um mecanismo evolutivo para lidar com doenças, então da proxima vez que vc ver alguem com nojo, você já sabe o motivo. 
+
+
+## Porque os humanos gostam de beber alcool ? 
+- Frutas maduras possem etanol, mas em doses muito baixas, os humanos gostam de bebidas alcolicas porque relembram os tempos de frutas maduras. 
+
+## Caçadores e coletores
+- Homens se especializaram na caça e mulheres se especializaram na coleta. 
+- Os homens apresentam caracteristicas e habilidades maiores relacionadas a caça. 
+- As mulheres serão melhores na memoria de localização espacial, resultado da adaptação para a coleta. 
+- Os homens serão melhores em habilidades de navegação, leitura de mapas e etc... 
+- Os homens se dão melhor em ambientes desconhecidos, porque no passado eram exploradores. 
+
+## Combate a predadores — medos, fobias e etc... 
+- O medo é uma herança evolutiva vital que leva o organismo a evitar ameaças e tem um valor para a sobrevivencia — Sem medo, poucos sobrevivem por muito tempo
+- Medo é uma sensação desagradavel, que surge como resposta normal a um perigo real — os medos são diferentes das fobias que são medos desproporcionais ao perigo real, que levam a evitação da situação temida.
+
+
+|           |                                                                         |
+| --------- | ----------------------------------------------------------------------- |
+| Defesa    | Definição                                                               |
+| Congelar  | Parar, ficar alerta, vigilante e em guarda                              |
+| Fuga      | Fugir rapidamente ou escapar da ameaça                                  |
+| Lutar     | Atacar a fonte de ameaça                                                |
+| Submissão | Apaziguar ou ceder a um membro da propria especie para evitar um ataque |
+
+Medos comuns e seus motivos adaptativos
+
+|                                  |                                         |
+| -------------------------------- | --------------------------------------- |
+| **Medo**                         | **Problema adaptativo**                 |
+| Ansiedade em relação a estranhos | Danos causados por machos desconhecidos |
+| Ansiedade social                 | Perda de status, ostracismo do grupo    |
+| Ansiedade de acasalamento        | Rejeição publica da tentativa de namoro |
+
+
+
+
+
+
+
 # Analise de acasalamento de longo prazo 
 
 ## O que as mulheres preferem 
