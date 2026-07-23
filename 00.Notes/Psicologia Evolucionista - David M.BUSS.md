@@ -264,4 +264,4 @@ Formas de lidar com os medos é atraves da exposição gradual, dessa forma o si
 - Mulheres podem interpretar o relacionamento casual como o inicio de um relacionamento romantico tradicional.
 - Pesquisadores descobriram que mulheres que se envolvem em relacionamentos de curto prazo valorizam muito a atratividade fisica. 
 - Tambem desejam um parceiro que tenha um estilo de vida extravagante e que gaste muito com elas logo no inicio. 
-- 
+- Mulheres abertas a relacionamento de curto prazo tendem a ter um rosto mais masculino, ou a ter comportamentos mais masculinos.
