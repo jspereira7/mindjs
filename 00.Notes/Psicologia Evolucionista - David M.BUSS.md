@@ -259,4 +259,9 @@ Formas de lidar com os medos é atraves da exposição gradual, dessa forma o si
 ### Custos de acasalamento de curto prazo para os homens
 - Doenças, brigas com irmãos, maridos. 
 - Fama de "mulherengo", dificultando conseguir relacionamentos de longo prazo. 
+- Um fato interresante é que as 0:00 as mulheres e homens sentem maior atração sexual
+- Emoções e personalidade são cruciais para as mulheres fazerem sexo casual. 
+- Mulheres podem interpretar o relacionamento casual como o inicio de um relacionamento romantico tradicional.
+- Pesquisadores descobriram que mulheres que se envolvem em relacionamentos de curto prazo valorizam muito a atratividade fisica. 
+- Tambem desejam um parceiro que tenha um estilo de vida extravagante e que gaste muito com elas logo no inicio. 
 - 
