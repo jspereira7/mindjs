@@ -1,3 +1,7 @@
+---
+tags:
+  - natureza_humana
+---
 
 # Fundamentos da Psicologia Evolucionista
 

@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b205c69b6f5062fd",
+            "id": "3ebe6684bbf5216b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
+                "file": "+Daily Notes/2026-07-26 Sunday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Psicologia Evolucionista - David M.BUSS"
+              "title": "2026-07-26 Sunday"
             }
           }
         ]
@@ -41,13 +41,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
+                "file": "+Daily Notes/2026-07-26 Sunday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Psicologia Evolucionista - David M.BUSS"
+              "title": "Outline of 2026-07-26 Sunday"
             }
           },
           {
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -240,10 +239,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b205c69b6f5062fd",
+  "active": "3ebe6684bbf5216b",
   "lastOpenFiles": [
-    "00.Notes/Perfect Face Analisys.md",
+    "+Daily Notes/2026-07-26 Sunday.md",
     "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
+    "00.Notes/Perfect Face Analisys.md",
     "01.Assets/Anexos/Pasted image 20260721183818.png",
     "00.Notes/Expert Secrets - Book.md",
     "00.Notes/Insights personalidade.md",
@@ -268,7 +268,6 @@
     "01.Assets/Excalidraw/Drawing 2025-07-09 14.47.42.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-08-08 12.11.21.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-08-04 17.10.08.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2025-07-29 15.01.52.excalidraw.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",
