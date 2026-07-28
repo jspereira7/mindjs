@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Daily Notes/2026-07-27 Monday.md",
+                "file": "+Daily Notes/2026-07-28 Tuesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-27 Monday"
+              "title": "2026-07-28 Tuesday"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "TDHA 2.0 - Book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,13 +71,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Self-Direct Behavior - Book.md",
+                "file": "+Daily Notes/2026-07-28 Tuesday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Self-Direct Behavior - Book"
+              "title": "Outline of 2026-07-28 Tuesday"
             }
           },
           {
@@ -270,11 +269,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9c26d46ad778d91d",
+  "active": "140ec5c9c43ea0de",
   "lastOpenFiles": [
-    "00.Notes/TDHA 2.0 - Book.md",
-    "00.Notes/Self-Direct Behavior - Book.md",
     "+Daily Notes/2026-07-27 Monday.md",
+    "+Daily Notes/2026-07-28 Tuesday.md",
+    "00.Notes/Self-Direct Behavior - Book.md",
+    "00.Notes/TDHA 2.0 - Book.md",
     "+Daily Notes/2026-07-26 Sunday.md",
     "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
     "00.Notes/Perfect Face Analisys.md",
@@ -298,7 +298,6 @@
     "01.Assets/Excalidraw/Drawing 2025-07-08 20.39.36.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-07-03 23.29.01.excalidraw.md",
     "01.Assets/Excalidraw/Drawing 2025-07-09 20.01.20.excalidraw.md",
-    "01.Assets/Excalidraw/Drawing 2025-07-09 20.57.35.excalidraw.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",
