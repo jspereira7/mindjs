@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/TDHA 2.0 - Book.md",
+                "file": "00.Notes/Self-Direct Behavior - Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TDHA 2.0 - Book"
+              "title": "Outline of Self-Direct Behavior - Book"
             }
           },
           {
@@ -270,7 +270,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "02cd94856e46f88f",
+  "active": "9c26d46ad778d91d",
   "lastOpenFiles": [
     "00.Notes/TDHA 2.0 - Book.md",
     "00.Notes/Self-Direct Behavior - Book.md",
