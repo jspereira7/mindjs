@@ -5,11 +5,11 @@
 
 Existem 5 partes que compoem um negocio de sucesso: 
 
-1. *Criação de valor* - descobrir o que as pessoas precisam ou querem e depois criá-lo
-2. *Marketing* - Chamar a atenção e criar demanda pelo que você criou
-3. *Vendas* - Transformas leads em clientes pagantes
-4. *Entrega de valor* - Dar aos clientes o que você prometeu, garantindo que eles fiquem satisfeitos
-5. *Finanças* - Arrecadar dinheiro suficiente para pagar os custos e fazer seu esforço continuar valendo a pena
+1. *Criação de valor* - descobrir o que as pessoas precisam ou querem e depois criá-lo.
+2. *Marketing* - Chamar a atenção e criar demanda pelo que você criou.
+3. *Vendas* - Transformas leads em clientes pagantes.
+4. *Entrega de valor* - Dar aos clientes o que você prometeu, garantindo que eles fiquem satisfeitos.
+5. *Finanças* - Arrecadar dinheiro suficiente para pagar os custos e fazer seu esforço continuar valendo a pena.
 
 Remova qualquer uma dessas partes e não será um negócio. 
 
