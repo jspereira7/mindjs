@@ -13,7 +13,7 @@ tags:
 - Comporamentos de risco e pensamentos irracionais andam de mãos dadas com tdha. 
 - Gostamos do que é irracional. ficamos a vontade diante da incerteza, ficamos relaxados enquanto os outros estão anciosos, e estamos confortaveis até mesmo quando não sabemos onde ir. 
 - Somos amantes no sentido do otimismo extremo, nunca nos deparamos com coisas que não queremos testar, nem oportunidades que queremos aproveitar. 
-- Somos arrastados, vemos possibilidades ilimitadas aonde os outros só enchergam limitações. 
+- **Somos arrastados, vemos possibilidades ilimitadas aonde os outros só enchergam limitações.** 
 - Somos poetas no sentido de criatividade, sonhador e inquieto. 
 	- Sentimos uma necessidade constante, uma coceira em criar alguma coisa. 
 - Não sofremos de defit de atenção, na verdade temos uma hiperatenção em tudo, e como é muita coisa não lidamos bem. 
@@ -56,4 +56,42 @@ Possuimos alto grau de criatividade e imaginação.
 
 **Pessima auto-imagem**
 - Como nos vemos de maneira negativa devido ao historico de fracassos e alta sensibilidade a criticas, nos afastamos de oportunidades e relacionamentos. 
+
+----
+
+## Entenda o Demonio da mente 
+
+### Nurture x Nature 
+
+Os ultimos avanços da ciencia comprovaram a epigenetica. 
+
+O que explica que mesmo tendo dos genes pra xyz coisa, ainda é preciso o ambiente para ativar essa genetica. 
+
+Isso se chama neuroplasticidade. 
+
+### Elementos básicos do cerebro
+
+O tdha é uma serie de caracteristicas paradoxais, cada ponto negativo, tem seu correspondente positivo. 
+
+Você pode se concentrar e de repende se desconcentrar, ou cair no hiperfoco quando não quer.
+
+Ou seja, o TDHA não é totalmente ruim nem totalmente bom. 
+
+O dom de criatividade do thda faz com que ele imagine tanto cenarios bons quanto fique ruminando sobre coisas que na verdade não existem. 
+
+As pessoas com altas habilidades de critividade podem ficar presas mentalmente na rede de modo padrão, que é onde o cerebro consegue ter pensamentos criativos e etc... 
+
+A pessoa com tdha se tiver um momento de reflexão sobre xyz situação, ela sempre vai imaginar o pior, por conta dos fracassos passados em sua mente. 
+
+O cerebro que tem tdha não tem freios da rede de modo padrão e da rede de trabalho focado na tarefa. 
+
+#### A solução 
+
+Como os neuronios ficam mais fortes sempre que se ativam repetidamente. 
+
+O truque é se forçar a se concentrar em uma unica tarefa, sempre se forçando, porque assim seu cerebro irá abrir caminho para esse modo tarefa. 
+
+O ponto é se concentrar em qualquer coisa externa a você, ativar a RPT (modo tarefa focada) vai desligar o modo de ruminação (RPM)
+
+-----
 
