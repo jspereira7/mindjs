@@ -52,7 +52,8 @@
               "title": "TDHA 2.0 - Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-07-28 Tuesday.md",
+                "file": "00.Notes/Self-Direct Behavior - Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-28 Tuesday"
+              "title": "Outline of Self-Direct Behavior - Book"
             }
           },
           {
@@ -269,12 +270,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "140ec5c9c43ea0de",
+  "active": "9c26d46ad778d91d",
   "lastOpenFiles": [
-    "+Daily Notes/2026-07-27 Monday.md",
-    "+Daily Notes/2026-07-28 Tuesday.md",
-    "00.Notes/Self-Direct Behavior - Book.md",
     "00.Notes/TDHA 2.0 - Book.md",
+    "+Daily Notes/2026-07-28 Tuesday.md",
+    "+Daily Notes/2026-07-27 Monday.md",
+    "00.Notes/Self-Direct Behavior - Book.md",
     "+Daily Notes/2026-07-26 Sunday.md",
     "00.Notes/Psicologia Evolucionista - David M.BUSS.md",
     "00.Notes/Perfect Face Analisys.md",
