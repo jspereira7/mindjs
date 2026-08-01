@@ -34,8 +34,7 @@
               "title": "2026-08-01 Saturday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -254,10 +255,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dde159a4f98f8c0a",
+  "active": "134de9d667919393",
   "lastOpenFiles": [
-    "00.Notes/Tratando o TDHA em adultos - Livro.md",
     "+Daily Notes/2026-08-01 Saturday.md",
+    "00.Notes/Tratando o TDHA em adultos - Livro.md",
     "01.Assets/Excalidraw/Drawing 2026-07-31 18.50.41.excalidraw.md",
     "00.Notes/Meu MBA - Anotações.md",
     "00.Notes/The 5 Parts of every business.md",
