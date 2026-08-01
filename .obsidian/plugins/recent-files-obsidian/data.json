@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Meu MBA - Anotações",
+      "path": "00.Notes/Meu MBA - Anotações.md"
+    },
+    {
       "basename": "Drawing 2026-07-31 18.50.41.excalidraw",
       "path": "01.Assets/Excalidraw/Drawing 2026-07-31 18.50.41.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mental Models Canva",
       "path": "01.Assets/Mental Models Canva.canvas"
-    },
-    {
-      "basename": "Meu cronotipo de sono",
-      "path": "00.Notes/Meu cronotipo de sono.md"
     }
   ],
   "omittedPaths": [
