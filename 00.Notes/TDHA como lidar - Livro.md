@@ -134,9 +134,62 @@ E essas habilidades podem ser aprendidas.
 - "Se quiser fazer mais, faça menos"
 	- Quando mais vc tenta fazer, mais coisas tem pra acompanhar e mais dificil é para o seu sistema de função executiva dar conta. 
 	- Uma das formas de lidar melhor com as coisas é simplesmente ter menos coisas para lidar. 
-- Delegue areas de responsabilidade
+- Delegue areas de responsabilidade, não tarefas individuais
 	- Delegar tarefas individuais com frequencia exige mais recursos cognitivos do que os economiza para nós com tdha. 
-	- 
+	- Delegar áreas inteiras de responsabilidade, é mais eficiente para a função executiva porque isso permite que a outra pessoa assuma tanto a execução, quanto a tarefa de gerenciar. 
+	- Dar uma lista de tarefas para a sua esposa te economizará o tempo de ir ao mercado, mas entrar em acordo com ela de que ela será responsavel por não deixar faltar comida na casa, irá te liberar um enorme espaço mental. 
+- Use sistemas simples
+	- Por mais que seja simples criar sistemas de organização quando hiperfocamos, o dificil é mantelos funcionando no longo prazo
+	- Simplifique seus sistemas, para que eles sejam faceis de manter a longo prazo. 
+	- Ao inves de dizer que os livros devem ficar na estante classificados por cor, diga apenas que os livros devem ser colocados na estante. 
+- Pratique o minimalismo
+	- Minimalismo significa simplesmente ter menos coisas. 
+	- É mais facil cuidar da bagunça se você tem menos coisas para criar uma bagunça. 
+	- Isso funciona pra projetos, limite a quantidade de projetos a longo prazo, tirando a pressão da função executiva. 
+- Diga não (pelo menos para algumas coisas)
+	- Limitar a quantidade de projetos de longo prazo tira a pressão da nossa função executiva. 
+	- A quantidade de coisas que queremos fazer na vida é ilimitada. A nossa capacidade de faze-las não. 
+	- Se o seu prato estiver cheio, não pegue mais comida. 
+
+O segredo pra sair do ciclo de fracasso do tdha é assumir menos coisas pra fazer, fazer literalmente menos, compensando nosso atraso de neurodesenvolvimento. 
+
+E antes de se comprometer a fazer mais, melhore suas habilidades. 
+
+#### Crie adaptações para si mesmo 
+- Adicione suportes. 
+	- Assim como rodinhas dão suporte para uma criança andar de bicicleta, vc pode adicionar suportes para te ajudar a aprender um sistema novo ou lidar com mais responsabilidades. 
+	- Exemplo ao aprender algo novo vc pode pedir a alguem para te ajudar, e depois que já estiver se virando sozinho pode fazer completamente sozinho. 
+- Advogue a seu favor
+	- Quando vc identificar algo que possa te beneficiar e facilitar as coisas pra vc, manifeste-se. 
+	- Como em uma aula vc pode pedir se o documento pode ser compartilhado para vc acompanhar junto
+
+#### Leve em consideração o imposto do adhd
+- ADHD tax se refere a simplesmente as despesas ou "imposto" adicional que temos na vida, simplesmente por ter tdha. 
+- Apenas um imposto extra, que vc precisa pagar apenas por ter tdha, ou seja, vc precisa se esforçar mais.
+- Não se trata somente de dinheiro, mas sim custos em energia, tempo e outros recursos. E é cara! 
+- Podemos reduzir muito os custos se levarmos em consideração essa taxa do adhd, usar sistemas para reduzir esse imposto extra.
+	- Investindo nosso tempo, dinheiro e energia em ferramentas e sistemas que irão reduzir nosso custo a longo prazo
+- Exemplos
+	- Multas por atraso
+	- Taxas de entrega rápida
+	- Taxas e assinaturas que esquecemos de cancelar
+	- Tempo perdido procurando por tudo. 
+
+#### Use serviços para tarefas com tolerancia zero a erros
+- Contrate um contador para lidar com impostos. 
+- Contrate advogados para lidar com contratos e coisas do tipo. 
+
+#### Crie atalhos 
+- Para coisas que faz com frequencia, aprenda ou pratique, formas de reduzir os passos que ela envolve. 
+- Exemplos. 
+	- Aprender atalhos de teclado de programas que vc utiliza com frequencia. 
+	- Cabideiros de casados, reduz o tempo que vc leva para guardar seu casaco. 
+
+#### Invista em ferramentas
+- Se vc perde suas coisas com frequencia, compre rastreadores. 
+- Se vc esquece de tomar uma medicação, compre porta comprimidos com temporizadores. 
+- Gastando com essas coisas para pagar o imposto do adhd é uma forma de pagar mais barato, é uma economia na verdade. 
+
 
 
 
