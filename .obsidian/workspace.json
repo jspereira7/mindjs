@@ -6,7 +6,6 @@
       {
         "id": "b0bb96769d90af4d",
         "type": "tabs",
-        "dimension": 56.14173228346456,
         "children": [
           {
             "id": "1006a64914df47df",
@@ -22,25 +21,24 @@
               "icon": "lucide-file",
               "title": "Funções executivas para adultos com tdha - livro"
             }
-          }
-        ]
-      },
-      {
-        "id": "c007f2eaecc9519a",
-        "type": "tabs",
-        "dimension": 43.85826771653543,
-        "children": [
+          },
           {
-            "id": "6b83b9d6ae670a2e",
+            "id": "0df2f4c14adc218b",
             "type": "leaf",
             "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Funções executivas para adultos com tdha - livro"
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/ADHD Tool KIT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ADHD Tool KIT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,13 +259,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6b83b9d6ae670a2e",
+  "active": "0df2f4c14adc218b",
   "lastOpenFiles": [
+    "+Daily Notes/2026-08-04 Tuesday.md",
+    "00.Notes/ADHD Tool KIT.md",
+    "00.Notes/Funções executivas para adultos com tdha - livro.md",
     "00.Notes/Fc 101 Fundamentals.md",
     "00.Notes/Fc 26 Guide.md",
     "00.Notes/The Finesse Shot Tutorial.md",
     "00.Notes/Fc 26 Tutorials.md",
-    "00.Notes/Funções executivas para adultos com tdha - livro.md",
     "00.Notes/TDHA como lidar - Livro.md",
     "+Daily Notes/2026-08-03 Monday.md",
     "00.Notes/Tratando o TDHA em adultos - Livro.md",
@@ -288,8 +288,6 @@
     "00.Notes/Insights personalidade.md",
     "00.Notes/High5 Strengs.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
-    "00.Notes/The Brain Rules.md",
-    "00.Notes/Instagram Status Maxxing.md",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",
