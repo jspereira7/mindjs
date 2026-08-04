@@ -100,7 +100,49 @@
 - O principal problema é superar a procastinação e encontrar motivação para iniciar tarefas. 
 - Sem uma habilidade cognitiva de iniciação de tarefas, trabalhos importantes são atrasados, levando ao estresse, perda de oportunidades e diminuição de desempenho no geral. 
 - O tdha dificulta a iniciação de tarefas por criar bloqueios mentais, esses bloqueios surgem da forma como o cerebro processa as situações. 
-- Gerando incerteza de por onde comeår 
+- Bloqueios como — falta de confiança, ansiedade e baixa auto-estima, o que reduz sua motivação para iniciar tarefas. 
+- Eles são desmotivados a começar especialmente se a tarefa não lhes interresar ou não oferecer recompensas rápidas. 
+- A procastinação é um comportamento de evitação(avoidance), procastinam tarefas tediosas e se concentram excessivamente naquelas que consideram interresante
+
+### O impacto do perfeccionismo na iniciação de tarefas
+- A necessidade de que tudo seja perfeito, afetam pessoas com tdha quando tentam iniciar tarefas. 
+- Consideram qualquer coisa abaixo da perfeição como um fracasso. 
+- Não iniciam tarefas até sentirem que estão prontos para fazer com  perfeição. 
+- Mentalidade tudo ou nada, pra eles se não for perfeito, não vale a pena fazer, isso os prende na inação. 
+- Entenda que atingir a perfeição é impossivel, e que progredir, mesmo que em pequenos passos é fundamental. 
+- Ter uma mentalidade flexivel aos erros ajuda a diminuir a paralisia causada pelo desejo que tudo seja perfeito. 
+
+### A natureza avassaladora das tarefas
+- Pessoas com TDHA julgam as tarefas como excessivamente complexas desde o inicio, enxergam as tarefas como problemas enormes e incontrolaveis, ao inves de pequenas etapas simples. 
+- Ao se deparar com uma tarefa complexa, a pessoa com tdha a considera enorme e complexa, não considera que deve quebrar a tarefa em pequenos passos, o que dificulta saber por onde começar. 
+- E não possuem noção do tempo que uma tarefa irá levar, as vezes super-estimando o tempo, achando que levará muito tempo para concluir, ou achando que a tarefa será rápida. 
+- Para melhorar esse processo, é necessario praticar a quebra de tarefas em partes menores e mais faceis, se concentrando em uma etapa de cada vez, tornando a tarefa menos assustadora, e clareando a execução. 
+
+### Medo do fracasso e rejeição
+- O medo do fracasso e rejeição é uma grande barreira que impede pessoas com TDHA a iniciarem tarefas, devido aos fracassos passados dessas pessoas, e os tempos que foram criticadas.
+- E como resultado sentem ansiedade ao se deparar com novas tarefas, com medo de falhar ou serem julgados. 
+- Superar esse medo envolve criar uma auto-imagem positiva e aprender a ser resiliente. 
+
+### Estrategias práticas para lidar com a motivação para iniciar tarefas 
+- Defina metas claras e realistas (SMART), elas funcionam como um mapa, te mostrando aonde deve trabalhar. 
+- Tenha uma rotina — Definir horarios fixo para determinadas tarefas te ajuda a não ter que decidir quando deve começar uma tarefa ou não. 
+- Tenha um espaço de trabalho limpo e organizado, isso te ajudará a aumentar o foco e produtividade.
+- Se de recompensas ao concluir determinada meta smart, como por exemplo comer um lanche após 1 hora de trabalho focado. 
+- Trabalhe com outras pessoas — isso te ajuda a sanar a necessidade de interação social, e cria um senso de responsabilidade compartilhada. 
+- Tenha em mente que é possivel melhorar com esforço e prática. 
+- Utilize aplicativos que te permitem gerenciar seu dia e melhorar o inicio de tarefas. 
+- **Divida grandes tarefas em pequenas etapas**, dessa forma a tarefa se torna mais tangivel de ser executada, e reduz o monstro ilusório na sua cabeça.
+- Utilize recursos visuais — Kanbans podem te ajudar a acompanhar o progresso e manter vc motivado, ferramentas como mapais mentais são otimo para brainstorming, ajudando você a dividir projetos complexos em partes gerenciaveis. 
+
+### Colocando tudo em prática 
+- 1) Comece dividindo suas tarefas em partes gerenciaveis
+- 2) Priorize com base na importancia 
+- 3) Crie um plano passo a passo para orientar suas ações e utilize recursos visuais para facilitar a visualização. 
+- Essas estrategias vão te ajudar com projetos pessoais, tarefas do trabalho e afazeres diarios, reduzindo a procastinação.
+- Utilize alarmes de notificações para te lembrar quando é a hora de iniciar novas tarefas. 
+- Ferramentas como Accountability Buddy, Calendarios podem te ajudar muito a iniciar tarefas com maior frequencia. 
+
+
 
 
 
