@@ -21,4 +21,4 @@ tags:
 - O TDHA existe desde a existencia do cerebro humano
 - O TDHA é definido hoje como o comprometimento das funções executivas.
 - Individuos com TDHA tem dificuldade em organizar, concluir tarefas e empreendimentos que geram o resultado desejado a longo prazo, mas que não oferecem recompensa suficiente a curto prazo. 
-- 
+
