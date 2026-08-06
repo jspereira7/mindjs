@@ -24,7 +24,6 @@ tags:
 - É um transtorno de autoregulação — incapacidade em escolher conciente e voluntariamente inibir o proprio comportamento, é um problema de autocontrole
 - ADHD não consegue pensar nas consequencias dos seus proprios atos
 - Não consegue se auto-controlar para que tenha um melhor futuro 
-
 ## How normal self-control develops 
 - O auto controle não é aprendido, isso é um equivoco que a maioria das pessoas acredita
 - Se o principal problema com o adhd é a falta de auto-controle, então deve haver algo genetivo envolvido
@@ -34,4 +33,12 @@ tags:
 	- 1) Você não consegue parar, nem esperar 
 		- Tudo vem até aqueles que sabem esperar
 		- Seu cerebro não tem esse tempo de espera, ele recebe o gatilho e responde
-	- 2) Você não tem auto-elicitação, auto dialogo 
+	- 2) Você não tem auto-elicitação, auto dialogo com sí mesmo na sua mente, isso é um requisito para o auto-controle
+	- 3) Auto-motivação — você não consegue se auto-motivar
+		- Isso significa que você será sempre refem do seu ambiente, e nas consequencias imediatas que ele acarreta
+		- Sem consequencias imediatas, ele não consegue trabalhar, persistir e concluir a tarefa
+		- Tanto para o lado positivo, tanto para o negativo, sem resultado imediato e nem consequencias imediatas, ele não consegue fazer o esforço
+		- Se você que ver uma pessoa adhd falhar, coloque a em um ambiente que não há consequencias imediatas
+	- 4) Resolução de problemas — simulação mental do que pode acontecer
+	- Não é que não tenham, é que essas funções mentais são atrasadas
+
