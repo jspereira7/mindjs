@@ -42,3 +42,60 @@ tags:
 	- 4) Resolução de problemas — simulação mental do que pode acontecer
 	- Não é que não tenham, é que essas funções mentais são atrasadas
 
+## ADHD is Time Blindness 
+- É uma cegueira temporal — não existe passado, nem futuro, somente o presente
+- Não importa seu objetivo, seu plano, somente o que importa é o agora, nada que está na sua mente importa tanto
+- Você será arrastado pelo momento presente, fluindo conforme os estimulos 
+- É uma miopia em relação ao futuro, assim como pessoas miopes que só conseguem enchegar coisas que estão proximas, adhd people somente conseguem lidar com as coisas no hoje 
+- Quanto mais longe está o evento futuro, piores eles são em lidar com isso
+- É por isso que tudo é deixado para a ultima hora, só conseguem lidar com o que está proximo no tempo
+- É um transtorno de intenção — não importa quais sejam suas intensoes, você não irá conseguir realiza-las
+- Seu cerebro é divido em algumas partes: 
+	- A parte de trás é onde você adquire conhecimento
+	- A parte da frente é onde você as usa
+	- Não importa o que você saiba, você não irá usa-las
+- Você tem um performance disorder — você tem todas as skills que outras pessoas da sua idade possuem, mas você não consegue usa-las
+- ADHD é um transtorno de fazer o que você sabe, não de não saber o que fazer. 
+- Você pode ser a pessoa mais inteligente do planeta, ter todas as informações, o problema real é aplicá-las, é sobre isso que o adhd se trata
+## Não é falta de conhecimento, é falta de desempenho 
+- TDHA não é falta de conhecimento, é falta de desempenho — a pessoa sabe o que fazer, mas não consegue usar esse conhecimento na hora certa 
+- O real problema é o atraso entre ação e consequencia, não ausencia de consequencia. 
+- A solução é aumentar a responsabilidade, não diminuir a cobrança por causa do adhd
+- Faça modificações na motivação, não em ensinar novas habilidades, tirar a motivação do adhd é um tiro no pé 
+- O sucesso será em fazer ajustes no ambiente externo onde a pessoa com adhd atua, isso sim trará resultados
+	- Trazer as consequencias/recompensas mais pra perto no tempo, como receber um elogio ao terminar a tarefa no trabalho, ao inves de ser demitido do emprego
+
+## Como gerenciar o ADHD 
+- Memoria de trabalho — Não consegue segurar informações na mente
+	- Não dependa das informações na sua mente
+	- Externalize as informações, post-its, cartazes, simbolos, graficos, lembretes visuais
+	- Use papel e caneta o tempo todo, melhor até que dispositivos digitais
+	- O caderno deve ir sempre com você pra todos os lugares, como se fosse uma memoria de trabalho externa 
+	- Anote imediatamente qualquer compromisso ou pedido 
+- Cegueira temporal — miopia temporal, não tem noção de tempo
+	- Qualquer tarefa que envolva tempo precisa de um temporizador fisico ou sinal externo
+	- Se torne dependente de timers e calendarios para organizar a vida
+- Planejamento e visão de futuro — não está conciente do futuro se aproximando
+	- Quebre tarefas grandes em baby steps, e faça um pedaço hoje. 
+	- Aproxime evento > Resposta > consequencia no tempo (como em video-games onde tudo está junto)
+	- Crie "pontes" diarias sobre o tempo (ex: ler 3 páginas hoje + recompensa imediata)
+- Autoregulação emocional e motivacional — só existe motivação externa
+	- A motivação externa é fraca, é necessario haver algo em troca
+	- Use recompensas externas, tokens, privilegios, pontos etc...
+	- Não espere que faça apenas por fazer, ou por ser uma pessoa melhor etc — isso não funciona 
+- Resolução de problemas e criatividade (dificuldade de manipular ideias na mente)
+	- Transforme o pensamento em algo manual e fisico. 
+	- Matematica: use objetos concretos (bolinhas, reta numerica, ábaco) em vez de só calculo mental
+	- Isso explica porque várias pessoas com adhd se dão bem em tarefas manuais e fisicas
+- Comorbidades — geralmente os adhd possuem outro transtorno junto
+	- Cerca de 80% das crianças e adultos possuem outro transtorno, o tdha puro é raro
+	- Cerca de 50% tem 2 ou mais
+	- É necessario tratar os outros problemas álem do tdha
+- Pontos chave
+	- Substitua o que falta internamente por apoios externos, visuais, fisicos e imediatos
+	- Quebre o tempo e as tarefas longas
+	- Torne o abstrato concreto e manipulável
+
+## How to overcome the executive funcion deficit 
+- Externalize o que as pessoas normais guardam na mente — precisa estar no campo visual da pessoa
+
