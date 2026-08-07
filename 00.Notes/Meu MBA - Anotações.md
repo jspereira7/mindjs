@@ -14,7 +14,7 @@ Se dedidar o tempo necessario para aprender os fundamentos contidos nesse livro,
 
 Esse livro é um filtro, que te ajudará a eliminar as coisas que não importam, e a focar no que realmente importa e irá fazer as coisas acontecerem. 
 
-Juntos analisaremos 266 conceitos, e após vc terá uma compreensão muito melhor do que as empresas realmente são e aquilo que as empresas de sucesso realmente fazem. 
+Juntos analisaremos **266 conceitos**, e após vc terá uma compreensão muito melhor do que as empresas realmente são e aquilo que as empresas de sucesso realmente fazem. 
 
 Definição de Modelos Mentais: 
 - São conceitos que representam a nossa compreensão de como as coisas funcionam. 
@@ -25,18 +25,19 @@ Definição de Modelos Mentais:
 	- Inversão = Ao inves de perguntar o como ter sucesso, se pergunte o que te faz fracassar. 
 - São uma maneira de descrever como o mundo funciona. 
 
-> É importante aos alunos que adotem um elemento de irreverencia nos seus estudos, não estão aqui para venerar o que se conhece, mas sim para questionar 
+> *É importante aos alunos que adotem um elemento de irreverencia nos seus estudos, não estão aqui para venerar o que se conhece, mas sim para questionar* 
 
 ------
 
 # Value Creation
 
-Todos os negócios criam algo de valor. O mundo está cheio de oportunidades para fazer as outras pessoas viverem melhor, seu trabalho é identificar coisas que as pessoas precisam mas não sabem como construir e entregar á elas. 
+*Todos os negócios criam algo de valor. O mundo está cheio de oportunidades para fazer as outras pessoas viverem melhor, seu trabalho é identificar coisas que as pessoas precisam mas não sabem como construir e entregar á elas.* 
 
 ## [[The 5 Parts of every business]]
 
 ## [[Economically Valuable Skills]]
 
+-------
 # Marketing
 
 Marketing é a arte e a ciência de encontrar _clientes potenciais_ – pessoas que estão ativamente interessadas no que você tem a oferecer. 
@@ -79,7 +80,7 @@ Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o 
 
 ## [[Reputation]]
 
-
+-------
 # Value Delivery
 ## [[Acumulation]]
 
@@ -112,7 +113,7 @@ Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o 
 ## [[A técnica dos 5 "Comos" ]]
 
 ## [[Next Action ]]
-## [[Externalization (Externalização)]]
+## [[Externalization]]
 
 ## [[Auto-elicitação ]]
 

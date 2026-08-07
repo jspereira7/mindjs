@@ -1,8 +1,8 @@
-Externalização é o processo de transformar nossos pensamentos em algum tipo de forma externa, normalmente escrevendo ou falando. 
+Externalização é o processo de transformar nossos pensamentos internos em algum tipo de forma externa, normalmente escrevendo ou falando. 
 
-Respondemos melhor aos estímulos em nosso Meio Ambiente do que nossos próprios pensamentos internos. 
+Respondemos melhor aos estímulos em nosso ***Ambiente*** do que nossos próprios pensamentos internos. 
 
-Podemos melhorar nossa produtividade convertendo nossos pensamentos internos em uma forma externa.
+Podemos melhorar nossa produtividade convertendo nossos pensamentos internos em uma algo externo.
 
 ### Explicação 
 
