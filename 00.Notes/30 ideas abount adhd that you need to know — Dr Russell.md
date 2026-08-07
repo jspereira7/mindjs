@@ -135,4 +135,3 @@ tags:
 ## A regra dos 30% não se aplica a pessoas medicadas
 - Apenas quando a medicação já passou o efeito no final do dia, ai essas crianças e pessoas estão sim com o atraso
 - A medicação pode não normalizar completamente algumas crianças, por isso, é necessario adicionar outros gadgets juntos externamente para chegar a preencher completamente
-- 
