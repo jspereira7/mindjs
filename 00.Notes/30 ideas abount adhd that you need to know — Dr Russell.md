@@ -118,4 +118,21 @@ tags:
 	- TDHA's geralmente vão para profissoes manuais, porque é fisico e externo, eles conseguem usar melhor as informações
 
 ## The 30% rule 
+- É um transtorno de auto-regulamento, que atrasa as funções executivas em 30%, ou seja se a criança tem 10 anos, ela tem as funções executivas de alguem com 7 anos 
+- Exija o funcionamento adequado de acordo com a regra dos 30%
+- Ou seja, se eu tenho 24, minhas funções executivas são de alguem com 21 anos. 
+- Não de responsabilidades acima da executive age.
+- Se torne um especialista sobre adhd, estude, leia muito 
+- Leia o livro os 7 hábitos das pessoas altamente eficazes
+
+## Você é um pastor, não engenheiro — você não consegue moldar como serão seus filhos
+- A genética deles é o que vai determinar isso, isso não significa que estimulos no ambiente não funcionam, só significa que você não deve ser tão rigido com seus filhos. 
+- Seus filhos não são uma folha em branco
+
+## Faça suas tarefas em pequenas doses intervaladas
+- Sua atenção é curta, então faça as coisas em pequenos blocos intervalados de tempo. 
+
+## A regra dos 30% não se aplica a pessoas medicadas
+- Apenas quando a medicação já passou o efeito no final do dia, ai essas crianças e pessoas estão sim com o atraso
+- A medicação pode não normalizar completamente algumas crianças, por isso, é necessario adicionar outros gadgets juntos externamente para chegar a preencher completamente
 - 
