@@ -97,5 +97,25 @@ tags:
 	- Torne o abstrato concreto e manipulável
 
 ## How to overcome the executive funcion deficit 
-- Externalize o que as pessoas normais guardam na mente — precisa estar no campo visual da pessoa
+- Externalize o que as pessoas normais guardam na mente — precisa estar no campo visual da pessoa com adhd
+	- É o mesmo que acontece com pessoas idosas, elas esquecem o que estavam fazendo
+	- Use muitos post-its com lembretes
+	- Use um caderno para anotar, porque sua memoria de trabalho é extremamente fraca
+	- Vire um viciado em relogios, cronometros e calendarios
+- Quebre as tarefas do futuro em pequenas partes e faça hoje
+	- Você não consegue trabalhar com prazos, não consegue adiar uma tarefa pra frente no futuro, você deve quebrar a tarefa em baby steps, e fazer um pouco hoje, depois se recompensar por isso 
+- O tempo é dividido em 3 partes — o que está vindo até você, as respostas que você prepara e as consequencias(resultados).
+	- Se você juntar todas as partes, como em um video game, onde a ação gera resultado imediato, então você não precisa de um lobo frontal. 
+	- Isso significa baby steps, pequenos passos com recompensas imediatas. 
+- Você precisa dar a eles recompensas imediatas, eles não estão nem ai para recompensas no futuro. 
+- **Problemas com resolução de problemas, devido a memoria de trabalho ruim** 
+	- Torne essa resolução de problemas fisica, manual, que você fará com as mãos 
+	- Para resolver problemas matematicos, use bolinhas de gude, um lapis ou uma calculadora
+	- Não faça isso somente com a sua cabeça, não irá funcionar, você precisa de uma muleta externa pra te ajudar com matematica
+	- Um escrita por exemplo, pegue post-its, deixe sua mente fluir e escreva partes da historia de forma desconectada, e depois junte-as de uma maneira estruturada
+	- **O segredo é tornar a informação mental fisica, de alguma forma** 
+	- Externalizar é o segredo para você.
+	- TDHA's geralmente vão para profissoes manuais, porque é fisico e externo, eles conseguem usar melhor as informações
 
+## The 30% rule 
+- 
