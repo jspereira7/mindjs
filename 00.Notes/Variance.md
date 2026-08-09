@@ -1,3 +1,7 @@
+---
+tags:
+  - modelos_mentais
+---
 ## O que é Variancia ? 
 
 - Variância é o grau de flutuação em uma medida ou conjunto de dados.
