@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/O mal estar na civilização.md",
+                "file": "00.Notes/O mal estar na civilização — Freud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "O mal estar na civilização"
+              "title": "O mal estar na civilização — Freud"
             }
           }
         ]
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/O mal estar na civilização.md",
+                "file": "00.Notes/O mal estar na civilização — Freud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -244,7 +245,7 @@
   },
   "active": "3e34b620ee58a1ce",
   "lastOpenFiles": [
-    "00.Notes/O mal estar na civilização.md",
+    "00.Notes/O mal estar na civilização — Freud.md",
     "00.Notes/A técnica dos 5 \"Comos\".md",
     "01.Assets/Excalidraw/Drawing 2025-07-29 15.01.52.excalidraw.md",
     "01.Assets/Clippings/Kevin Kelly Book Recommendations.md",
