@@ -1,3 +1,8 @@
+---
+tags:
+  - adhd
+  - autoconhecimento
+---
 ## Intro 
 - Memory is the foundation for everything else
 
