@@ -51,6 +51,18 @@
               "icon": "lucide-file",
               "title": "O PODER DA Neurodiversidade — Livro OURO"
             }
+          },
+          {
+            "id": "a0b896ac670e3c86",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Excalidraw/socio-grama.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "socio-grama.excalidraw"
+            }
           }
         ],
         "currentTab": 2
@@ -276,11 +288,13 @@
   },
   "active": "164fc748f9a175c0",
   "lastOpenFiles": [
-    "+Daily Notes/2026-08-10 Monday.md",
+    "00.Notes/Prompt — Quebrar tarefas em pequenas partes.md",
+    "01.Assets/Excalidraw/socio-grama.excalidraw.md",
     "00.Notes/O PODER DA Neurodiversidade — Livro OURO.md",
+    "01.Assets/Anexos/Pasted image 20260810172708.png",
+    "+Daily Notes/2026-08-10 Monday.md",
     "00.Notes/Prompt — Brain Dump Sorter.md",
     "00.Notes/Prompt — Priorizar o que é importante.md",
-    "00.Notes/Prompt — Quebrar tarefas em pequenas partes.md",
     "00.Notes/Prompts.base",
     "00.Notes/ADHD Prompts.md",
     "00.Notes/ADHD On Auto pilot.md",
@@ -302,7 +316,6 @@
     "00.Notes/Projeto grana com SOI.md",
     "00.Notes/Como se tornar um comunicador melhor em 8 minutos.md",
     "00.Notes/Plano de Ação 2026.md",
-    "00.Notes/Ne dominante.md",
     "01.Assets/Anexos/Pasted image 20260805191002.png",
     "01.Assets/Anexos/Pasted image 20260721183818.png",
     "01.Assets/Estudo de Ai.canvas",
@@ -318,7 +331,6 @@
     "01.Assets/Anexos/Pasted image 20260601185323.png",
     "00.Notes/Modelos Mentais.base",
     "80",
-    "01.Assets/Anexos/Pasted image 20260528170238.png",
     "Clippings",
     "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
     "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",

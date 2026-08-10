@@ -5,6 +5,14 @@
       "path": "00.Notes/O PODER DA Neurodiversidade — Livro OURO.md"
     },
     {
+      "basename": "Prompt — Quebrar tarefas em pequenas partes",
+      "path": "00.Notes/Prompt — Quebrar tarefas em pequenas partes.md"
+    },
+    {
+      "basename": "socio-grama.excalidraw",
+      "path": "01.Assets/Excalidraw/socio-grama.excalidraw.md"
+    },
+    {
       "basename": "2026-08-10 Monday",
       "path": "+Daily Notes/2026-08-10 Monday.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Prompt — Priorizar o que é importante",
       "path": "00.Notes/Prompt — Priorizar o que é importante.md"
-    },
-    {
-      "basename": "Prompt — Quebrar tarefas em pequenas partes",
-      "path": "00.Notes/Prompt — Quebrar tarefas em pequenas partes.md"
     },
     {
       "basename": "ADHD Prompts",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-07-28 Tuesday",
       "path": "+Daily Notes/2026-07-28 Tuesday.md"
-    },
-    {
-      "basename": "Self-Direct Behavior - Book",
-      "path": "00.Notes/Self-Direct Behavior - Book.md"
     }
   ],
   "omittedPaths": [
