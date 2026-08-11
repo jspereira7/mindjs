@@ -119,4 +119,36 @@ tags:
 - Essa é a forma dos seres humanos organizar a vida, colocam tudo em categorias e rotulos.
 	- Exemplo: Altos, baixos, pessoas que eu não acredito, pessoas doentes, saudaveis, isso é grande ou pequeno. 
 - Os medicos dão diagnosticos que nada mais são do que rotulos e categorias dentro de um spectro. 
-- Ter um diagnóstico preciso é dificil, porque muitas neurodiversidades (Autismo, tdha,)
+- Ter um diagnóstico preciso é dificil, porque muitas neurodiversidades (Autismo, tdha e disgrafia) apresentam caracteristicas semelhantes, o que faz com que sejam primas no diagnostico.
+- Identificar com precisão é um desafio por conta dessas caracteristicas compartilhadas. 
+- Os neurodivergentes possuem outras necessidades médicas, e por isso talvez seja dificil para os medicos distinguir entre a neurodivergencia e outras condições. 
+- E tudo bem, entenda que essas limitações não tornam você menos neuro-divergente. 
+
+## Entendendo o autismo 
+- Em algumas situações os autistas respondem de maneira diferente, o que alguns acham estranho. 
+- O mundo de hoje é projetado para meios não autistas de viver, isso faz com que seja mais dificil para os autistas e suas familias.
+- Você pode as vezes identificar alguem autista logo de cara, e tambem pode conhecer alguem que é autista, mas não sabia disso. 
+- Os autistas tem varias semelhanças e diferenças, cada pessoa é um individuo. 
+### As condições do spectro — cada autista é unico
+- As caracteristicas não são como uma linha onde alguem é mais ou menos autista. as caracteristicas variam muito. 
+- Até mesmo você se não for autista, pode identificar algumas caracteristicas parecidas em você. 
+- Mas um autista se identifica com várias delas.
+- Ser autista significa se identificar com varios dos traços e caracteristicas listados nele. 
+
+### Os pontos em comum 
+- Cada um é diferente um do outro, mas se colocarmos um grupo de autistas dentro de uma sala eles costumam se entender de uma forma bastante profunda.
+- Existe algo em comum em cada um deles, mesmo com as suas diferenças e independente com a forma que eles possam agir por fora. 
+- É como um idioma compartilhado.
+
+### Falantes x não falantes
+- Alguns podem falar e outros não, mas em geral todos conseguem entender uns aos outros.
+- Alguns autistas demoram para falar, o que é uma caracteristica bem comum.
+
+### Pensamento não linear x linear
+- Austitas geralmente pensam de forma não linear, como uma teia de aranha, o que favorece a criatividade e geração de ideias.
+- O pensamento linear é produtivo para planejamento, conclusão de tarefas e etc... 
+- Podemos usar AI para transformar nossos pensamentos não lineares em lineares. Como um filtro. 
+
+
+![[Pasted image 20260810194752.png]]
+
