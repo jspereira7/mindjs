@@ -152,3 +152,22 @@ tags:
 
 ![[Pasted image 20260810194752.png]]
 
+------
+
+## Neurodiversidade — Forças 
+- TDHA — criativo, espontaneo, pensador divergente e alta energia "Caçadores em um mundo de agricultores"
+
+----
+
+
+## Criação de "Nicho positivo" — ADHD 
+- Escolhar de carreira e Estilo de vida
+	- Busque novidade e movimento — evite empregos estáticos das 9 as 17hrs, que podem fazer seus sintomas parecerem defeitos. Procure profissoes que envolvam **velocidade, mudança, atividade fisica e novidade**
+	- Fotografo itinerante, empreendedor, bombeiro, consultor de midia, designer, corretor de imoveis ou qualquer area que permita autonomia e lide com situações de pressão ou emergencias. 
+	- **Empreendedorismo** — O cerebro tdha muitas vezes brilha em simplificar fatos complexos e buscar formas inovadoras de fazer negocios. 
+- Modificações no ambiente fisico
+	- Como o cérebro com TDAH é frequentemente **sub-estimulado**, o ambiente deve fornecer o nível certo de estímulo para manter o foco.
+	- Natureza reduz os sintomas do tdha segundo pesquisas, procure incluir caminhadas em parques ou trabalhar em lugares com vista para areas verdes. (Elas regulam naturalmente o sistema de dopamina no cerebro)
+	- Use coisas que permitem movimentação enquanto você trabalha, mesas que permitem o trabalho em pé, ou bolas de ioga ao inves de cadeiras
+	- Ao contrario de ambientes minimalistas, o ambiente rico de pessoas e etc pode ajudar a estimular o cerebro adhd. 
+	- Utilize calendarios de computador, lembretes, alarmes, apps para priorizar tarefas e etc... 
