@@ -7,9 +7,108 @@
 		- **Regulação emocional** — modular a intensidade e expressão das emoções para agir de maneira compativel com a situação e objetivos de longo prazo
 		- **Automotivação** — iniciar, sustentar e concluir tarefas mesmo sem recompensa imediata, interresse ou supervisão externa
 		- **Planejamento e resolução de problemas** — analisar uma situação, prever obstaculos, organizar etapas, gerar alternativas e ajustar estrategias quando necessario
-
-Relação entre Funções cognitivas e funções executivas
+- Seu problema é sobre quando e onde executar o que você sabe, e não o que e como executar. 
+- É necessario criar uma estrutura ao seu redor para que você consiga realizar o que você sabe. 
+- O segredo é criar um estrutura ao seu redor, para compensar essas funções executivas em falta. 
+- O seu problema é com as consequencias futuras, que não estão caindo sobre o seu colo. 
+- Precisamos trazer as consequencias mais pra perto de você, só dessa forma você conseguirá performar. 
+- O TDHA é o diabetes da psicologia, não há cura, você precisa continuar tratando esse problema, ou ele irá causar danos na sua vida. 
+## Relação entre Funções cognitivas e funções executivas
 - As funções que mais se assemelham são: 
 - Te (Pensamento extrovertido) — **Planejamento, organização e Gestão**
 	- Ele é a definição que mais se asemelha a essencia das funções executivas, ele é definido pela conciencia de procedimentos, dados e a ordem das coisas. 
-	- O Te user é excelente em organizar informações de forma coesa, estabelecer passos e 
+	- O Te user é excelente em organizar informações de forma coesa, estabelecer passos e sequencias para atingir objetivos 
+	- Tambem é excelente em gestão do tempo e iniciação de tarefas, eles são focados em realizações, metas mensuraveis e em criar estruturas externas que facilitam a produtividade. 
+- Si = Memoria de trabalho e confiabilidade. 
+	- Ela funciona como um banco de dados de dados de experiencias passadas para orientar o presente. 
+	- Eles tendem a ser pessoas mais confiaveis, cumprindo responsabilidades e obrigações de forma estavel.
+- Ti funciona como um processador interno que destroça as informações e problemas em pequenas partes, para reconstruir uma solução depois.
+
+---------
+## Como compensar a falta de funções executivas ? 
+- Externalize informações importantes nos momentos chave de execução
+	- Precisamos colocar no seu campo visual, o que precisa ser feito, para que você se lembre do que deve ser feito. 
+	- Dicas, sinais, graficos, lembretes, do-lists
+- Externalize o tempo e os periodos de tempo relacionados a tarefas e prazos importantes
+	- Relogios, timers, cronometros, contadores, lembretes de pulso
+	- Qualquer coisa que coloque o tempo pra fora de você
+	- Para que você possa velo fisicamente passando, e ir se ajustando conforme ele
+	- Você não tem um relogio interno, então precisamos coloca-lo pra fora de você. 
+- Divida tarefas grandes ou projetos grandes em pequenos pedaços(baby steps)
+	- Precisamos transformar o projeto grande, em pequenos passos no aqui e agora, distribuidos ao longo do tempo.
+	- Um pequeno esforço nesse projeto xyz, ao longo do tempo, te levará aonde você quer chegar 
+	- Você não sabe lidar com o depois, com o delay, então você precisa transformar tudo isso em pequenos passos no agora
+	- Divida um grande projeto em pequenos passos, faça esse pequeno passo todos os dias, e consequentemente você chegará la.
+- Externalize as fontes de motivação 
+	- Você precisa trazer as consequencias para o aqui e agora, senão eles não farão o trabalho para você 
+	- Não resistem a recompensas futuras, somente o aqui e agora é o que os motiva
+	- Eles não tem motivação interna
+	- É por isso que conseguem jogar videogames por horas, e não conseguir fazer o dever de casa por 5 minutos
+	- Os videogames não precisam de motivação interna, e é por isso que eles conseguem
+	- Eles precisam de recompensas imediatas, o que eles vão ganhar com xyz se fizerem isso agora ? 
+	- A solução então é gamificar minha vida! 
+- Externalize a resolução mental de problemas 
+	- Eles não conseguem segurar a informação mentalmente, por isso de coisas manuais para que eles consigam resolver o problema
+	- Como fazer uma contagem com os dedos, eu mesmo só consigo fazer contas de dedo
+- A força de vontade é limitada — Repor o Pool de Recursos de Autorregulação (Força de Vontade)
+	- E o tanque do tdha tem uma capacidade muito pequena, então você precisa reabastecer esse tanque. 
+	- Como reabastecer o tanque?
+		- Recompensas e emoções positivas
+		- Afirmações de auto-confiança, "Eu consigo, eu sei que consigo"
+			- Essa é a conversa de motivação antes do jogo, que ajuda a aumentar a motivação. 
+		- Pausas de 10 minutos entre tarefas que exigem autocontrole e funções executivas
+			- Quebrar tarefas em partes menores, e fazer pausas com frequencia
+			- Durante as pausas, um pouco de relaxamento e meditação ajudam a reabastecer o tanque
+			- Pare de usar o sistema executivo por alguns minutos e de um tempo para ele se recarregar 
+			- 10 minutos de trabalho, 3 de pausa. 
+			- Você não consegue fazer mais do que 10 minutos de trabalho, porque estará esvaziando o tanque 
+		- Visualizando e falando sobre recompensas no futuro, antes ou durante tarefas que precisam de autocontrole
+		- Rotina de exercicios fisicos, academia e exercicios aerobicos ajudam mais nesse transtorno doque em qualquer outro. 
+		- Açucar no lobo frontal está diretamente correlacionado com habilidades executivas, ou seja, se estiver fazendo uma prova ou algo do tipo, é bom que esteja ingerindo com frequencia glucose.
+		- O açucar na verdade ajuda muito pessoas com adhd, principalmente se for de forma liquida, porque aumenta o açucar no sangue, ou seja, manter a glicemia alta
+- Praticar a incorporação das 5 estratégias de regulação emocional nas atividades diárias
+- Hoje no mercado há varios programas que incorporam esses principios, como os de Russ Ramsey que é terapia comportamental
+- Programa de Steve Saffron. 
+
+## Medicamentos melhoram somente 50% dos problemas com tdha
+- Os medicamentos pode reduzir muito os sintomas principais de atenção, desinibição e impulsividade. 
+- E os medicamentos não oferecem intrinsicamente estrategias concretas e habilidades para enfrentar suas dificuldades.
+	- E os problemas relacionados com o tdha na vida adulta, precisam de outras estrategias adicionais. 
+- **Organização e planejamento**
+	- Os problemas de organização e planejamento estão relacionados à dificuldade de descobrir os passos lógicos e específicos para realizar tarefas que fazem a pessoa se sentir sobrecarregada. 
+		- Para muitos pacientes, isso leva à desistência, procrastinação, ansiedade e a sentimentos de incompetência e baixo rendimen­ to.
+- **Tendencia a distração**
+	- Os problemas de tendência à distração envolviam dificuldades no trabalho ou nos estudos.
+	- Muitos de nossos pacientes relataram que não completavam as tarefas porque outras coisas, menos importantes, atrapalhavam.
+	- Exem­plos, pode-se citar sentar-se diante do computador para fazer um trabalho, mas ir constantemente à internet para olhar determinadas páginas ou buscar coisas para comprar.
+- **Problemas com humor** 
+	- Muitos pacientes tem problemas de humor, como se preocupar com eventos em suas vidas ou tristeza por ter um baixo rendimento real ou percebido. 
+	- Eles tem uma grande tristeza porque sabem que não conseguem realizar uma tarefa com o máximo de skill que eles poderiam. 
+
+## Requisitos para ter sucesso 
+- Você sentirá a tentação de desistir, mas não no começo.
+	- No inicio tudo será novidade, então as coisas serão interresantes. 
+	- O periodo intermediario é que é o mais dificil, e é aqui onde a maioria das pessoas desistem 
+	- Você precisa executar xyz habilidade até que ela se torne um hábito. 
+	- Não caia na tentação de desistir, ao ter um momento de baixa, certamente não é hora de desistir, e sim aprender com as coisas que o levaram a ter essa baixa e aprender com elas. 
+	- Ao final de tudo isso você PRECISA continuar executando essas coisas, porque quando as coisas estão ruins, é que as pessoas lutam para sair do buraco, há motivação.
+
+## Modulos do treinamento 
+- **Organização e planejamento** 
+	- Aprender a usar uma agenda de forma constante e eficaz
+	- Aprender a usar uma lista de tarefas de forma constante e eficaz
+	- Trabalhar em habilidades de resolução de problemas: 
+		- 1. desmembrar tarefas em partes menores 
+		- 2. escolher a menor solução para um problema, quando nenhuma solução é ideal 
+	- Formular um sistema para organizar papeis e responder a correspondencia 
+- **Gerenciar distrações**
+	- Maximizar e melhorar o tempo de duração da atenção(desmembrar tarefas em pequenos passos que correspondem ao tempo de duração da atenção, e depois trabalhar para ampliar essa estrategia)
+	- Usar cronometro, pistas e outras técnicas para reduzir a tendencia a distração.
+- **Uso do pensamento adaptativo**
+	- Aprender a pensar sobre problemas e fatores de estresse da forma mais adaptativa possivel
+		- Aplicar auto-instrução positiva
+		- Aprender a identificar e questionar pensamentos negativos
+		- Aprender a enxergar as situações de forma racional, fazendo escolhas racionais sobre as melhores soluções para você 
+- **Lidar com procrastinação**
+	- Modulo adicional onde irá te ensinar como lidar melhor com a tendencia a procrastinar. 
+
