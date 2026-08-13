@@ -1,3 +1,7 @@
+---
+tags:
+  - psicologia_junguiana
+---
 Existem dois processos basicos que a mente realiza, percepção (o como recebemos uma informação), e julgamento (avaliar informações e decidir qual ação tomar).
 - Percebemos atraves da sensação ou intuição.
 - Julgamos atraves do sentimento ou pensamento. 
@@ -28,8 +32,6 @@ A extroversão é uma atividade em tempo real, já a introversão há um leve at
 Se user = tem total noção do que está acontecendo ao seu redor
 
 Si user = julga com base no que ele já experenciou anteriormente, não necessariamente oque está acontecendo. 
-
-Ou seja, Si user não tem medo de coisas que ele já fez antes, ele tem medo de coisas novas. 
 
 ---
 

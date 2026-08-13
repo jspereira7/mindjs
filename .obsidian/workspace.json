@@ -13,44 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Daily Notes/2026-08-12 Wednesday.md",
+                "file": "00.Notes/How treat ADHD based in science - Dr Russell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-12 Wednesday"
-            }
-          },
-          {
-            "id": "dcb7f0882d5c8b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Emenda cabo usb.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Emenda cabo usb"
-            }
-          },
-          {
-            "id": "d00172fb3640f330",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "How treat ADHD based in science - Dr Russell"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,10 +243,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d00172fb3640f330",
+  "active": "7390458536dba570",
   "lastOpenFiles": [
-    "00.Notes/Emenda cabo usb.md",
+    "00.Notes/John Beebe Arquetipos das funções cognitivas..md",
+    "00.Notes/ISTP - Overview by john bodine.md",
+    "00.Notes/How treat ADHD based in science - Dr Russell.md",
+    "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
+    "00.Notes/Funções executivas para adultos com tdha - livro.md",
+    "+Daily Notes/2026-08-13 Thursday.md",
     "+Daily Notes/2026-08-12 Wednesday.md",
+    "00.Notes/Emenda cabo usb.md",
     "+Daily Notes/2026-08-11 Tuesday.md",
     "00.Notes/Prompt — Quebrar tarefas em pequenas partes.md",
     "00.Notes/Prompt — Priorizar o que é importante.md",
@@ -298,12 +276,6 @@
     "00.Notes/Minha Zona de Genialidade.md",
     "00.Notes/Variance.md",
     "00.Notes/GPT Pago Free.md",
-    "00.Notes/Modal Bies.md",
-    "00.Notes/Analise claude Ai sobre mim.md",
-    "00.Notes/Tipicidade.md",
-    "00.Notes/Next Action.md",
-    "00.Notes/Cenário apocalipitico.md",
-    "00.Notes/Quadras - CsJoseph.md",
     "01.Assets/Anexos/Pasted image 20260805191002.png",
     "01.Assets/Anexos/Pasted image 20260721183818.png",
     "01.Assets/Estudo de Ai.canvas",
