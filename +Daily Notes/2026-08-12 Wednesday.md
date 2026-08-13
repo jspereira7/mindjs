@@ -1,0 +1,23 @@
+Emprego. 
+- 4 Horas de serviço 
+	- 14 as 18hrs.
+- Pagamento quinzenal, uma semana sim, outra não. 
+- 300 dolares fixo. 
+- + 20 dolares por hora. 
+- Dev Nocode.
+- Começo segunda dia 16. 
+------
+
+- Analisando js
+	- Boa resistencia e velocidade, não é bom em força bruta. 
+	- Testa para lógica rápida, aquela logica que você precisa pensar no meio da ação. 
+	- Existem 3 perfis de cranios: Caçador, matemático e gestor.
+	- Seu cranio Js, é mais um cranio de um explorador, aquele cara que vai pra fora da aldeia, explorar recursos. 
+	- Bom com 5 sentidos, bom em pensar rápido, bom para resistir.
+	- Se vc treinar seu controle emocial, você irá ficar melhor ainda do que quem tem isso por natureza, ou seja, inibição. 
+	- Você tem uma velocidade de pensamento maior, principalmente para mundo externo. 
+	- Você gosta de explorar o novo, não é alguem que fica muito tempo em um assunto só. 
+	- É um tipo de cranio que é bom para caça
+	- Você é muito bom para sobreviver em ambientes hostis
+	- Sua mente é boa pra pensar rapidamente no meio do estresse 
+	- Area que você usa mais seu corpo, e logica rápida é onde você irá mais prosperar. 
