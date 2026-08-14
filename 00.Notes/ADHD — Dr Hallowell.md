@@ -23,5 +23,22 @@
 - Como se parece o TDHA bem tratado ? 
 	- Premios nobeis, um podcast de sucesso, conquistas extraordinarias.
 	- Ver nossa criatividade em um produto que as outras pessoas gostam e admiram é muito gratificando no final das contas. 
-- Não faça nada sozinho, porque somos bons no inicio e no fim das ciosas, mas péssimas no meio. 
--  
+- Não faça nada sozinho, porque somos bons no inicio e no fim das ciosas, mas péssimas no meio.
+
+**Insights video aleatorio sobre adhd:** 
+- Se não está no app de tarefas ou calendario, simplesmente não existe pra mim.
+- Você precisa organizar o seu dia em ordem cronologica, senão não irá executar aquilo. 
+- Externalize tudo, tire da sua cabeça. 
+- Não anote literalmente tudo, anote tudo que te surpreender e etc... 
+- Gerencie energia, não tempo, não pense na janela do hoje, pense na janela da semana, o que precisa ser feito essa semana ? 
+
+## Insights PrimeAgen
+- Maturidade + ADHD = GIFT
+- Vitimismo + ADHD = Failure
+- É simples assim, não existe nenhuma "Silver bullet", só trabalho duro. 
+- 
+
+
+
+  
+ 
