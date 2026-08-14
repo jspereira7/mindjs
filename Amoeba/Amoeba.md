@@ -10,9 +10,9 @@ Run Amoeba: true
 
 #### Note Stream
 %% amoeba-link %%
-[[Intenção do comandante]]
-[[Segmentação(Measurement)]]
-[[Linda V Barens - Type Descriptions]]
+[[Reorganização]]
+[[CC test]]
+[[Processo subir contas de anuncio TTK]]
 %% /amoeba-link %%
 
 ---

@@ -1,0 +1,9 @@
+{
+	"id": "tocuhpad-zoom",
+	"name": "Touchpad zoom",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Adds browser-style touchpad zoom.",
+	"author": "Ruarai T",
+	"isDesktopOnly": false
+}
