@@ -6,7 +6,15 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Amoeba\"",
+      "color": {
+        "a": 1,
+        "rgb": 12047045
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +25,6 @@
   "repelStrength": 10.2445974827832,
   "linkStrength": 0,
   "linkDistance": 199,
-  "scale": 0.09701121762501297,
+  "scale": 0.09995336552381894,
   "close": true
 }
