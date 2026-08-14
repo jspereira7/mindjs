@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "How treat ADHD based in science - Dr Russell"
             }
+          },
+          {
+            "id": "58d6da70fbd00380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Fc 26 Today.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fc 26 Today"
+            }
           }
         ]
       }
@@ -245,9 +260,10 @@
   },
   "active": "7390458536dba570",
   "lastOpenFiles": [
+    "00.Notes/Fc 26 Today.md",
+    "00.Notes/How treat ADHD based in science - Dr Russell.md",
     "00.Notes/John Beebe Arquetipos das funções cognitivas..md",
     "00.Notes/ISTP - Overview by john bodine.md",
-    "00.Notes/How treat ADHD based in science - Dr Russell.md",
     "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "00.Notes/Funções executivas para adultos com tdha - livro.md",
     "+Daily Notes/2026-08-13 Thursday.md",
@@ -275,7 +291,6 @@
     "01.Assets/Clippings/Kevin Kelly Book Recommendations.md",
     "00.Notes/Minha Zona de Genialidade.md",
     "00.Notes/Variance.md",
-    "00.Notes/GPT Pago Free.md",
     "01.Assets/Anexos/Pasted image 20260805191002.png",
     "01.Assets/Anexos/Pasted image 20260721183818.png",
     "01.Assets/Estudo de Ai.canvas",

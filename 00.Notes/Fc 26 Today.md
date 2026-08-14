@@ -1,0 +1,2 @@
+- Não de espaço para o adversario pensar, seja agressivo, tanto na devesa, quanto na marcação. 
+- Trigger Winger >> Ball to ST >> Pass >> Shoot

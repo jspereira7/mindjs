@@ -112,3 +112,11 @@
 - **Lidar com procrastinação**
 	- Modulo adicional onde irá te ensinar como lidar melhor com a tendencia a procrastinar. 
 
+-----
+
+**Habilidade de priorização de tarefas:** 
+- Priorize as tarefas em 3 niveis: A, B, C. 
+	- As tarefas A, devem ser feitas primeiro do que as tarefas B e C. 
+
+
+
