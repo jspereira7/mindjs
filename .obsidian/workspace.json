@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/ADHD — Dr Hallowell.md",
+                "file": "+Daily Notes/2026-08-13 Thursday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ADHD — Dr Hallowell"
+              "title": "2026-08-13 Thursday"
+            }
+          },
+          {
+            "id": "2c81ce6051fc9dd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -117,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.1361198425293,
-    "collapsed": true
+    "width": 275.1361198425293
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -256,6 +265,18 @@
   },
   "active": "5b285098c24478d7",
   "lastOpenFiles": [
+    "+Daily Notes/2026-08-13 Thursday.md",
+    "+Daily Notes/2026-07-07 Tuesday.md",
+    "+Daily Notes/2026-07-16 Thursday.md",
+    "+Daily Notes/2026-07-26 Sunday.md",
+    "+Daily Notes/2026-07-27 Monday.md",
+    "+Daily Notes/2026-07-28 Tuesday.md",
+    "+Daily Notes/2026-08-01 Saturday.md",
+    "+Daily Notes/2026-08-04 Tuesday.md",
+    "+Daily Notes/2026-08-07 Friday.md",
+    "+Daily Notes/2026-08-10 Monday.md",
+    "+Daily Notes/2026-08-11 Tuesday.md",
+    "+Daily Notes/2026-08-12 Wednesday.md",
     "00.Notes/ADHD — Dr Hallowell.md",
     "00.Notes/O mal estar na civilização — Freud.md",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
@@ -273,20 +294,8 @@
     "00.Notes/ISTP - Overview by john bodine.md",
     "00.Notes/Resumo Funções Cognitivas + John Beebe.md",
     "00.Notes/Funções executivas para adultos com tdha - livro.md",
-    "+Daily Notes/2026-08-13 Thursday.md",
-    "+Daily Notes/2026-08-12 Wednesday.md",
-    "00.Notes/Emenda cabo usb.md",
-    "+Daily Notes/2026-08-11 Tuesday.md",
-    "00.Notes/Prompt — Quebrar tarefas em pequenas partes.md",
-    "00.Notes/Prompt — Priorizar o que é importante.md",
-    "00.Notes/High5 Strengs.md",
-    "00.Notes/O PODER DA Neurodiversidade — Livro OURO.md",
-    "00.Notes/Prompt — Brain Dump Sorter.md",
-    "00.Notes/ADHD Prompts.md",
-    "01.Assets/Excalidraw/Drawing 2026-08-10 23.43.47.excalidraw.md",
     "01.Assets/Anexos/Pasted Image 20260810234420_129.png",
     "01.Assets/Anexos/Pasted Image 20260810234351_397.png",
-    "01.Assets/Excalidraw/socio-grama.excalidraw.md",
     "01.Assets/Anexos/Pasted image 20260810194752.png",
     "01.Assets/Anexos/Pasted image 20260810172708.png",
     "00.Notes/Prompts.base",

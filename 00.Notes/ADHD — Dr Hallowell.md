@@ -36,7 +36,6 @@
 - Maturidade + ADHD = GIFT
 - Vitimismo + ADHD = Failure
 - É simples assim, não existe nenhuma "Silver bullet", só trabalho duro. 
-- 
 
 
 
