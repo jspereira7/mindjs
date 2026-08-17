@@ -142,7 +142,11 @@
 - Utilize alarmes de notificações para te lembrar quando é a hora de iniciar novas tarefas. 
 - Ferramentas como Accountability Buddy, Calendarios podem te ajudar muito a iniciar tarefas com maior frequencia. 
 
+-------
 
+## Executive Functions > QI 
+- As funções executivas, preveem mais coisas na vida real, do que IQ. 
+- Não se pergunte, essa pessoa é muito ou pouco autista, se pergunte: Aonde essa pessoa encontra dificuldades na vida ? 
 
 
 
