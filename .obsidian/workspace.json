@@ -11,10 +11,15 @@
             "id": "6268d4eea68ac5b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Pensar em apostas — Annie Duke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pensar em apostas — Annie Duke"
             }
           }
         ]
@@ -251,7 +256,12 @@
   },
   "active": "6268d4eea68ac5b3",
   "lastOpenFiles": [
+    "+Daily Notes/2026-08-17 Monday.md",
+    "00.Notes/Pensar em apostas — Annie Duke.md",
     "00.Notes/ESTP SDJM.md",
+    "Amoeba/Amoeba.md",
+    "_vault-audit.md",
+    "CLAUDE.md",
     "01.Assets/Excalidraw/Drawing 2026-08-15 19.04.09.excalidraw.md",
     "+Daily Notes/2026-08-15 Saturday.md",
     "+Daily Notes/2026-08-13 Thursday.md",
@@ -273,13 +283,8 @@
     "00.Notes/Fc 26 Today.md",
     "Amoeba/amoeba.pseudopods/amoeba.pseudopod.5.md",
     "Amoeba/amoeba.pseudopods/amoeba.pseudopod.4.md",
-    "Amoeba/amoeba.pseudopods/amoeba.pseudopod.3.md",
-    "Amoeba/amoeba.pseudopods/amoeba.pseudopod.2.md",
-    "Amoeba/amoeba.pseudopods/amoeba.pseudopod.1.md",
     "Amoeba/amoeba.pseudopods",
-    "Amoeba/Amoeba.md",
     "Amoeba",
-    "00.Notes/John Beebe Arquetipos das funções cognitivas..md",
     "01.Assets/Anexos/Pasted Image 20260810234420_129.png",
     "01.Assets/Anexos/Pasted Image 20260810234351_397.png",
     "01.Assets/Anexos/Pasted image 20260810194752.png",
@@ -294,12 +299,12 @@
     "01.Assets/Anexos/Pasted image 20260707222148.png",
     "01.Assets/Anexos/Pasted Image 20260629195535_293.png",
     "01.Assets/Anexos/Pasted image 20260615194155.png",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
+    "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "00.Notes/Modelos Mentais.base",
     "80",
     "Clippings",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
-    "01.Assets/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
+    "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/The magic diamond _ Jung's 8 paths for self-coaching _ a -- Dario Nardi -- 1_0, 2020 -- Radiance House -- 9788682551966 -- ebe81494d36d3dd210c4c43235a1723c -- Anna’s Archive.pdf",
+    "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Untitled 2.canvas",
