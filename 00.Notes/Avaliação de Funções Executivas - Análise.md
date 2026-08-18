@@ -210,3 +210,7 @@ O alvo mais promissor não é tentar produzir mais força de vontade internament
 O objetivo é tornar sua execução menos dependente de estar interessado, motivado ou sob pressão de uma emergência.
 
 > A análise é baseada em autorrelato e deve ser revisada conforme novos exemplos reais forem observados. Ela não substitui uma avaliação profissional.
+
+[[COMO FRACASSAR NA VIDA COMO ADHD]]
+
+
