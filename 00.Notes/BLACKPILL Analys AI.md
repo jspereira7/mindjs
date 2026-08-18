@@ -1,0 +1,2 @@
+- Basicamente a teoria do rosto é composta por 4 fatores: Harmony, Angularity, Dimorphism, Features. 
+- 
