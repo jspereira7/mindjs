@@ -23,18 +23,13 @@
             }
           },
           {
-            "id": "1537b26ed36b5a15",
+            "id": "ef22b0a6399356d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/The Power of Full Engagement.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Power of Full Engagement"
+              "title": "New tab"
             }
           }
         ],
@@ -270,12 +265,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1537b26ed36b5a15",
+  "active": "ef22b0a6399356d3",
   "lastOpenFiles": [
-    "00.Notes/Prática deliberada.md",
-    "00.Notes/The Power of Full Engagement.md",
-    "00.Notes/Forcing Function.md",
     "+Daily Notes/2026-08-19 Wednesday.md",
+    "00.Notes/The Power of Full Engagement.md",
+    "00.Notes/Prática deliberada.md",
+    "00.Notes/Forcing Function.md",
     "00.Notes/COMO FRACASSAR NA VIDA COMO ADHD.md",
     "00.Notes/O que eu sei sobre a sua vida amorosa se vc tem adhd.md",
     "00.Notes/Avaliação de Funções Executivas - Análise.md",
