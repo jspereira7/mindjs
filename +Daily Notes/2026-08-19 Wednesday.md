@@ -1,0 +1,3 @@
+- The absolute blueprint, to get what you want of the life, is simple like that thing. 
+- Your need to improve your executive skills, is only this. 
+- 
