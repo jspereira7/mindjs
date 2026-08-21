@@ -1,3 +1,7 @@
+---
+tags:
+  - modelos_mentais
+---
 ## O que é uma crença limitante ? 
 
 Crenças Limitantes são **suposições** **equivocadas** ou visões de mundo que podem atuar como barreiras para conseguir o que você quer. 
@@ -28,7 +32,6 @@ Identificar e superar suas crenças limitantes é uma maneira eficaz de melhorar
 - Para conseguir vc precisa identificar e eliminar crenças que te impedem de progredir. 
 - Todo mundo tem Crenças Limitantes em certas áreas.
 	- Toda vez que você usa as palavras “Eu não posso,” “Eu tenho que,” ou “Eu não sou bom nisso,” você descobre uma potencial Crença Limitante.
-	- 
 - Na maioria das vezes, reservar um momento para questionar conscientemente a crença é tudo o que você precisa fazer para quebrá-la.
 	- "Isso é realmente verdade ? e como eu sei que isso é verdade ? as auto elicitações são extremamente poderosas aqui. 
 - As crenças limitantes tambem aparecem quando vamos fazer coisas que nos deixam desconfortável, como se inscrever em um novo emprego, ou vender para um novo cliente em potencial.

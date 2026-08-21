@@ -1,3 +1,7 @@
+---
+tags:
+  - csjoseph
+---
 
 🎉 **Complexo da Diversão** – SJ & NJ (SDPM, SDJF, SDJM, SDPF)  
 - O Complexo da Diversão gira em torno da necessidade profunda de que a vida seja agradável e digna de ser antecipada. Tipos SJ com Si forte (ego SDPM, SDJF) constroem rotinas, tradições e recompensas para sempre haver "algo para esperar", enquanto tipos NJ com Se sombra (SDJM, SDPF) podem se tornar impulsivos e buscar emoção quando estressados. No seu melhor, esse complexo cria calor, celebração e rituais confortantes; no seu pior, ele persegue a estimulação constante para evitar tédio ou vazio interior.

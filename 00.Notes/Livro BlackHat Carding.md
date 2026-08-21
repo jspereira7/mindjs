@@ -1,3 +1,7 @@
+---
+tags:
+  - hacking
+---
 
 Proxy/IP: 
 - Sites identificam fraudes primeiramente atraves de IP, identificando se um associado a fraude ou não. 

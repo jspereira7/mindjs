@@ -1,3 +1,8 @@
+---
+tags:
+  - modelos_mentais
+  - human_mind
+---
 
 _Bloqueio de ameaças_ é um modo de proteção em que sua mente e seu corpo entram para se defender contra uma ameaça externa.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - relacionamentos
+---
 São “atalhos” conversacionais ou comportamentais que funcionam quase como droga emocional para mulheres, ativando fantasia, drama e curiosidade, e tornando a interação mais envolvente.
 
 **Serve para:** 

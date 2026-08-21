@@ -1,3 +1,8 @@
+---
+tags:
+  - modelos_mentais
+  - pensamento_sistemico
+---
 
 ## O que é ? 
 
@@ -5,9 +10,13 @@ _Os poucos críticos_, também conhecida como Lei de Pareto ou regra “80/20”
 
 Você pode alcançar ótimos resultados concentrando-se nas entradas críticas que produzem a maioria das saídas desejadas.
 
-O mesmo pode ser aplicado aos resultados que você não deseja. Às vezes, eliminar certas fontes de entrada é a escolha inteligente, porque são custos de oportunidade significativos.
+O mesmo pode ser aplicado aos resultados que você não deseja. 
 
-Encontre as entradas que produzem as saídas desejadas e concentre-se nelas. Elimine o resto.
+Às vezes, eliminar certas fontes de entrada(inputs) é a escolha inteligente, porque são custos de oportunidade significativos.
+
+Encontre as entradas que produzem as saídas desejadas e concentre-se nelas. 
+
+Elimine o resto.
 
 ------
 ## Explicação
@@ -21,11 +30,17 @@ Esse padrão de não linearidade persistente é agora chamado de Lei de Pareto, 
 - Você usa menos de 20% das roupas do seu armário mais de 80% do tempo.
 - Você passa mais de 80% do seu tempo se comunicando com menos de 20% dos seus contatos pessoais.
 
-A não linearidade do Poucos críticos muitas vezes pode ser extremo. Por exemplo, menos de 3% da população mundial possui mais de 97% da riqueza total mundial.
+A não linearidade do Poucos críticos muitas vezes pode ser extremo.
 
-Os insumos não críticos são significativos Custos de oportunidade. Se você está desperdiçando a maior parte do seu tempo em reuniões improdutivas, por exemplo, você está desperdiçando tempo que poderia ser usado para realmente fazer coisas importantes.
+Por exemplo, menos de 3% da população mundial possui mais de 97% da riqueza total mundial.
 
-O mesmo vale para despesas não críticas: elas representam dinheiro que você poderia usar com muito mais efeito. Encontre as entradas que produzem as saídas desejadas e faça delas o foco da maior parte do seu tempo e energia.
+Os insumos não críticos são significativos Custos de oportunidade. 
+
+Se você está desperdiçando a maior parte do seu tempo em reuniões improdutivas, por exemplo, você está desperdiçando tempo que poderia ser usado para realmente fazer coisas importantes.
+
+O mesmo vale para despesas não críticas: elas representam dinheiro que você poderia usar com muito mais efeito. 
+
+Encontre as entradas que produzem as saídas desejadas e faça delas o foco da maior parte do seu tempo e energia.
 
 Elimine implacavelmente o resto.
 

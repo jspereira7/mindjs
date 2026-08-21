@@ -1,3 +1,7 @@
+---
+tags:
+  - hacking
+---
 
 **Topologias de rede local (LAN)**:
 

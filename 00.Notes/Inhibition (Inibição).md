@@ -1,3 +1,7 @@
+---
+tags:
+  - modelos_mentais
+---
 
 > “Inibição é a capacidade de parar: atrasar nossa resposta até que estejamos adequadamente preparados para fazê-la.”
 

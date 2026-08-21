@@ -1,3 +1,7 @@
+---
+tags:
+  - modelos_mentais
+---
 
 ## O que é Acumulation ? 
 

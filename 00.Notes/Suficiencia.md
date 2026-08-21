@@ -1,3 +1,7 @@
+---
+tags:
+  - modelos_mentais
+---
 ## Suficiência (Sufficiency)
 
 A ideia central é simples: **sucesso não é maximizar lucro — é chegar no ponto onde você ganha o suficiente para que valha a pena continuar**.
@@ -20,7 +24,9 @@ Silêncio.
 
 ### O conceito na prática
 
-Dinheiro é uma ferramenta, não um fim em si mesmo. O que importa é o que você faz com ele.
+Dinheiro é uma ferramenta, não um fim em si mesmo. 
+
+O que importa é o que você faz com ele.
 
 **Suficiência** é o ponto onde suas receitas cobrem o que precisa — e tornam o esforço valioso pra você. Abaixo desse ponto, o negócio morre. Acima dele, você já é bem-sucedido — independente de quanto a mais você poderia ganhar.
 
@@ -38,7 +44,9 @@ Dinheiro é uma ferramenta, não um fim em si mesmo. O que importa é o que voc�
 
 ### Como calcular a sua suficiência
 
-Use o conceito de **Receita Mensal Alvo (Target Monthly Revenue)**: some tudo que você precisa pagar por mês — funcionários, contas, seu próprio salário. Se você entra mais do que isso, atingiu a suficiência.
+Use o conceito de **Receita Mensal Alvo (Target Monthly Revenue)**: some tudo que você precisa pagar por mês — funcionários, contas, seu próprio salário. 
+
+Se sua empresa recebe mais do que isso, você atingiu a suficiência.
 
 ---
 

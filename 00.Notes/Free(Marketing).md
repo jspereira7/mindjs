@@ -12,8 +12,9 @@ Uma ótima forma de atrair clientes em potencial.
 ------
 ## Explicação
 
+Isso significa basicamente oferecer valor de graça, algo que atrairá seus potencias clientes
 
-
+E depois fica facil converter em reais compradores
 
 ----
 

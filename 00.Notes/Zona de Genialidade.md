@@ -1,3 +1,7 @@
+---
+tags:
+  - modelos_mentais
+---
 
 É onde expressamos nosso máximo potencial, unindo talento, paixão e propósito. Produzimos nosso trabalho mais valioso e impactante ao ativar esta zona. 
 

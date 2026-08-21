@@ -1,6 +1,7 @@
 ---
 tags:
   - modelos_mentais
+  - Finance
 ---
 
 ## O que é Financial Ratios ? 
