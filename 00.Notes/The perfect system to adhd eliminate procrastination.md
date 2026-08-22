@@ -1,5 +1,0 @@
----
-tags:
-  - adhd
-  - produtividade
----
