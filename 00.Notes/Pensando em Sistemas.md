@@ -41,3 +41,7 @@ Escalar um negocio não é sobre trabalhar duro, é sobre construir melhores sis
 - 4. Create a roadmap
 - 5. Automate & integrate
 - 6. Upgrade Loops
+
+----
+
+
