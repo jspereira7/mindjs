@@ -37,7 +37,8 @@
               "title": "Pensando em Sistemas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,11 +262,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "962947df14b667de",
+  "active": "a7eb52f3f6c6c35d",
   "lastOpenFiles": [
+    "00.Notes/Planejamento RENDA ONLINE.md",
     "00.Notes/Pensando em Sistemas.md",
     "+Daily Notes/2026-08-21 Friday.md",
-    "00.Notes/Planejamento RENDA ONLINE.md",
     "00.Notes/Avoiding Toxic Productivy Advice for ADHD.md",
     "00.Notes/Cursos Ouro Premium v2.md",
     "01.Assets/Clippings/Ray Dalio Book Recommendations.md",

@@ -26,5 +26,7 @@ Ideias:
 
 Decidi já = Produção de conteudo, é isso. 
 
+Precisamos criar um sistema de produção de conteudo, é isso. 
+
 ------
 

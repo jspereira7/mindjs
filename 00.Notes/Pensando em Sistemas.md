@@ -10,7 +10,6 @@ Sistema = sequencia de passos/ações que produz o mesmo resultado todas as veze
 Escalar um negocio não é sobre trabalhar duro, é sobre construir melhores sistemas. 
 
 -----
-
 ## Systems > Goals 
 ----
 - Definir apenas uma meta, não vai te dar clareza sobre como chegar lá 
@@ -44,4 +43,5 @@ Escalar um negocio não é sobre trabalhar duro, é sobre construir melhores sis
 
 ----
 
-
+Se você é um visual learner, e não conhece mind maps, omg, o que vc está fazendo da sua vida ? 
+- Você coloca um tema principal no meio
