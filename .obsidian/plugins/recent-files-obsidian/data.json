@@ -5,6 +5,10 @@
       "path": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md"
     },
     {
+      "basename": "Livros Tai Lopez os top 4 melhores",
+      "path": "00.Notes/Livros Tai Lopez os top 4 melhores.md"
+    },
+    {
       "basename": "Pensando em Sistemas",
       "path": "00.Notes/Pensando em Sistemas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Executive Functions - Russell Barkley - Resumo",
       "path": "00.Notes/Executive Functions - Russell Barkley - Resumo.md"
-    },
-    {
-      "basename": "2026-08-18 Tuesday",
-      "path": "+Daily Notes/2026-08-18 Tuesday.md"
     }
   ],
   "omittedPaths": [

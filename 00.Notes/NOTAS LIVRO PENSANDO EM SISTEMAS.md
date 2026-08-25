@@ -155,4 +155,5 @@
 - O nivel do estoque controla a sí mesmo por meio de uma cadeia de sinais e ações que se realimentam
 - Mas nem todos os sistemas possuem ciclos de feedback, alguns são cadeias abertas relativamente simples, de estoques e fluxos. 
 	- Eles podem ser alterados por fatores externos, mas as entradas e saidas não são afetadas pelo monitoramento no estoque.
+- Parei na página 54-55. 
 - 
