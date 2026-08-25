@@ -92,4 +92,67 @@
 - Pode ser a agua de uma banheira, uma população, os livros em uma livraria, a madeira de uma arvore, o dinheiro de um banco, sua auto-confiança.
 - Um estoque não precisa ser fisico, a reserva da boa vontade e a esperança que o mundo melhore tambem são estoques. 
 - ***Um estoque é o historico das mudanças de fluxo em um sistema.*** 
+- Estoque = tudo que entrou (fluxo de input) - tudo que saiu (fluxo de saida)
+	- A agua na banheira é o resultado de tudo que a torneira jogou, menos tudo que o ralo escoou. 
+	- Sua auto-confiança é resultado de todas as experiencias que a fortaleceram - os momentos que a corroeram
+	- O dinheiro no seu banco é a soma de tudo que entrou (salario, rendimentos) menos tudo que saiu(gastos)
+	- É por isso que as vezes é lento o processo de alterar um sistema, porque você precisa esvaziar os estoques. ![[Screenshot 2026-08-25 at 13.37.13.png|417]]
+	- Todos os diagramas são versões simplificadas do mundo real. ![[Screenshot 2026-08-25 at 13.42.29.png|433]]
+	- ![[Screenshot 2026-08-25 at 13.44.35.png|411]]
+	- Que daora mano, então quer dizer que um sistema de estoque, pode ter vários flows ou fluxos, dando input ou drenando o estoque do sistema. 
+	- Se você entender a dinamica de estoques e fluxos, seu comportamento ao longo do tempo, entenderá bem o comportamento de sistemas complexos. 
+	- Se já teve experiencia com banheiras, irá entender bem a dinamica de estoques e fluxos. 
+		- Ao abrir o ralo de uma banheira cheia, a agua se escoará até a banheira ficar vazia. 
+		- Mas se você abrir a torneira, de modo que se equilibre com a quantidade de agua que sai pelo ralo, o estoque irá permanecer o mesmo, mesmo que a agua esteja fluindo contantemente. 
+		- Agora imagine-se aumentado um pouco mais o fluxo de entrada, de modo que ultrapasse o de saida, aos poucos o nivel da agua irá subir. Volte a diminuir a entrada e o nivel da agua cairá lentamente. 
+- Com isso em mente, podemos deduzir várias coisas padroes sobre sistemas de estoque até mais complexos com varios fluxos de entrada, estoque e saida: 
+	- Enquanto a soma de todas as entradas exceder a soma de todas as saidas, o nivel de estoque aumentará. 
+	- Enquanto a soma de todas as saidas exceder a soma de todas as entradas, o nivel do estoque diminuirá.
+	- Se a soma de todas as saidas forem iguais a todas as entradas, o nivel de estoque não será alterado. Manterá um equilibrio dinamico, independente do nivel que esteja o estoque atualmente. 
+- A mente humana se concentra mais nos estoques. E presta mais atenção aos estoques de entrada do que as vazoes. E esquece que se pode chegar ao mesmo resultado diminuindo o fluxo de vazão.
+- Um estoque pode ser aumentado tanto diminuindo o fluxo de saida, quanto aumentando o fluxo de entrada. Há mais de uma maneira de encher uma banheira. 
+- Da mesma forma que uma empresa pode aumentar a força de trabalho com mais contratações ou com menos demissões. 
+	- Essas duas estrategias podem ter custos muito diferentes. 
+	- A riqueza de um pais pode ser aumentado tanto construindo novas empresas, tanto quanto cuidando das empresas existentes para que não quebrem. 
+- Você pode ajustar o ralo e a torneira de uma banheira (fluxo e vazão) de modo bruto, de uma hora pra outra, mas é muito dificil mudar o nivel da agua(estoque) com rapidez.
+	- A agua não escoa só de uma vez, mesmo que você abra o ralo por completo. 
+	- A banheira não pode ser enchida imediatamente, mesmo que você abra o máximo da torneira. 
+- Um estoque leva tempo para mudar porque fluxos e vazoes levam tempo para se completar. 
+- Os estoques mudam com lentidão, assim podem gerar atrasos e defasagens no sistema, da mesma maneira. 
+- Os estoques mudam devagar, mesmo quando os fluxos de entrada ou saida mudam de repente. Assim, podem gerar atrasos, criar lastros ou absorver choques em um sistema. 
+- A lentidão para esvaziar ou aumentar um estoque pode ser tanto algo bom quanto ruim, a mudança não ocorre da noite pro dia, leva tempo. 
+	- Mas pode ser algo bom, porque o estoque pode dar mais estabilidade, ele pode ser uma fonte de estabilidade. 
+	- Uma população que adquiriu muito conhecimento, não o esquece de uma vez. 
+	- Uma conta bancaria com bastante dinheiro, pode aguentar muitos meses sem que precise ter dinheiro entrando. 
+	- Quando você tem essa noção que as mudanças levam tempo, você não fica esperando que as coisas acontecam da noite para o dia. Não desiste tão cedo. 
+- A presença de estoques permite que as entradas e saidas sejam independentes umas das outras e temporariamente desequilibradas entre sí.
+	- O estoque é um buffer, algo que amortece as mudanças nos fluxos no curto prazo. 
+	- Imagine se não houvessem estoques, os postos de gasolina não conseguiriam produzir gasolina no mesmo instante que o carro está sendo abastecido. 
+	- A floresta precisaria crescer as arvores na mesma velocidade que os lenhadores cortam as arvores. 
+	- Isso é impossivel porque raramente as entradas tem a mesma quantidade exata das saidas — o crescimento das arvores e lento, enquanto o corte é rapido. 
+	- A demanda de gasolina varia, mais no verão, menos á noite, o crescimento das arvores é lento e constante, mas o corte pode ser rapido e irregular. 
+
+#### Os estoques permitem que as entradas e saidas sejam independentes e temporariamente desequilibradas entre sí 
+- Os seres humanos criaram vários dispositivos para a manutenção de estoques de modo a tornar as saidas e entradas independentes e estáveis. 
+	- Os bancos permitem temporariamente que você ganhe dinheiro a uma taxa diferente daquela a que gasta
+	- Uma caixa de agua permite que você tenha agua para usar sem que precise da chuva para sempre encher. 
+- A maioria das decisões individuais e institucionais é projetada para regular os niveis nos estoques. 
+	- Se os estoques subirem muito, os preços serão reduzidos ou os orçamentos em marketing serão aumentados, de modo a aumentar as vendas e diminuir os estoques.
+	- Se o estoque de comida no seu armario estiver baixo, você irá ao mercado.
+- As pessoas monitoram o estoque e tomam medidas para aumentalos, ou diminui-los ou mante-los dentro de faixas aceitáveis.
+- Os pensadores sistemicos veem o mundo como uma coleção de estoques e concebem mecanismos para regular seus niveis mediante a manipulação dos fluxos. 
+
+#### Sistemas de controle de feedback — feedback loops
+- Um ciclo de feedback é formado quando as mudanças em um estoque afetam os fluxos de entrada ou de saida.
+- Imagine uma conta bancaria de poupança que rende juros(estoque), a quantidade de dinheiro na conta afeta a quantidade de juros que irá receber. 
+	- Os juros depositados na conta a cada ano(fluxo de entrada) não são um valor fixo, ele varia conforme o total depositado
+	- Outro exemplos é quando voce acessa o extrato da sua conta bancaria todos os meses, ao ver o dinheiro disponivel na conta, você pode decidir trabalhar mais pra ganhar mais dinheiro.
+	- Caso o estoque aumente muito, vc pode se sentir a vontade para trabalhar menos(diminuindo o fluxo de entrada)
+	- Esse ciclo de feedback mantem o nivel de dinheiro que é aceitavel para você.
+	- Mas ajustar as entradas não é o unico meio em um loop de feedback, ajustar as saidas tambem é uma opção para deixar o dinheiro "disponivel" 
+- Os feedback loops basicamente são sobre ajustes nos fluxos de entrada ou saida dependendo de como está o estoque. 
+- Quem ou o que está monitorando o estoque ajustara o nivel de entradas ou saidas ou ambos, alterando o nivel do estoque. 
+- O nivel do estoque controla a sí mesmo por meio de uma cadeia de sinais e ações que se realimentam
+- Mas nem todos os sistemas possuem ciclos de feedback, alguns são cadeias abertas relativamente simples, de estoques e fluxos. 
+	- Eles podem ser alterados por fatores externos, mas as entradas e saidas não são afetadas pelo monitoramento no estoque.
 - 
