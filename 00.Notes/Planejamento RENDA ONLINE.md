@@ -30,7 +30,12 @@ Precisamos criar um sistema de produção de conteudo, é isso.
 
 O esquema é não ficar de overthinking, e começar a fazer logo algo, porque a clareza vem depois de começar a executar algo, não antes estudando. Você aprende melhor fazendo. 
 
-
+Tratamento com as duas substancias, venvanse + atentah, fica por volta de 360 reais por mês, até vale o investimento. 
+- Puta merda, fodeu carai, venvanse tá acabando denovo, fudeu, fudeuuuuu, precisamos arrumar dinheiro rápido, e falar pra médica o que está acontecendo. 
 
 ------
+
+Talvez eu tenha discalculia tambem, que merda ein hahaha, vai tomar no cu.
+
+----
 
