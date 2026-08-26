@@ -16,12 +16,12 @@
 	- Um sistema diversificado, com multiplos caminhos e redundancias, é mais estável e menos vulneravel a choques externos que um sistema uniforme com pouca diversidade.
 		- *Não coloque todos os ovos no mesmo cesto*
 
-## Problemas como guerra, fome, desemprego são intrinsicamente problemas sistemicos.
+### Problemas como guerra, fome, desemprego são intrinsicamente problemas sistemicos.
 - Comportamentos indesejaveis caracteristicos das estruturas dos sistemas que os produzem.
 - Só recuarão quando recuperarmos a intuição, pararmos de atribuir culpas e virmos o sistema como a fonte de seus proprios problemas.
 - Assim podemos encontrar coram e sabedoria para reestruturá-lo.
 
-## Esse livro é uma tradução da ciencia dos sistemas em termos simples
+### Esse livro é uma tradução da ciencia dos sistemas em termos simples
 - Essa é uma forma diferente de fazer analises, confortável, pois as soluções estão em nossas mãos, mas tambem incomoda, pois teremos que *fazer coisas*, ou melhor... enchergar ou pensar as coisas de modo diferente.
 - Esse livro é sobre essa maneira diferente de ver e pensar, é feito para as pessoas que se intimidam com a palavra "sistema"
 - Mostra como obter a compreenção dos sistemas sem recorrer a mátematica, nem mesmo aos computadores. 
@@ -42,7 +42,7 @@
 
 -----
 
-## Estrutura e comportamento dos sistemas
+## 1) Estrutura e comportamento dos sistemas
 
 ### Os fundamentos 
 - *Ainda estou para ver um problema complexo que se olhado da forma correta, não se torne ainda mais complexo.* 
@@ -164,3 +164,35 @@
 
 > Os ciclos de feedback de equilibrio são estruturas de equilibrio ou de busca de objetivos nos sistemas e são fontes tanto de estabilidade, quanto de resistencia a mudanças
 
+-----
+
+#### Ciclos descontrolados — feedback de reforço 
+- É um ciclo virtuoso ou viciosos que pode originar crescimento saudavel ou destruição descontrolada.
+- Conhecido como ciclo de feedback de reforço. Gera mais entradas a um estoque quanto mais estoque houver (e menos entrada quanto menos estoque tiver)
+- Um ciclo de feedback de reforço intensifica qualquer direção de mudança que lhe seja imposta. 
+	- Exemplos
+	- Dois irmãos se empurrando, quanto mais um empurra, mais o outro o empurra de volta e assim por diante
+	- Quanto mais os bens ficam caros, mais é necessario que o salario aumente, e quanto mais o salario aumenta, mais é necessario lucrar para pagar os salarios, o que encarece ainda mais os bens
+	- Quanto mais toco piano, mais prazer o som me dá, e quanto mais prazer eu tenho, mais toco piano e mais prática adquiro. 
+- ***Os ciclos de feedback de reforço geram, ao longo do tempo, crescimentos exponenciais ou colapsos descontrolados. Ocorrem sempre que um estoque tem a capacidade de se ampliar ou se multiplicar por sí mesmo.*** 
+- Pense nisto: Se A causa B, é possivel que B tambem cause A ? Esse é a definição central desses ciclos. 
+	- O conceito de feedback traz a ideia de que um sistema pode gerar o proprio comportamento.
+
+------
+
+### 1.3 — Uma breve visita ao zoologico de sistemas 
+- Uma boa maneira de aprender algo novo é atraves de exemplos espesificos em vez de abstrações e generalidades. Então, veremos vários exemplos, comuns, simples, mas importantes, de sistemas uteis que ilustrarão principios gerais de sistemas complexos. 
+
+#### O ajuste de um ciclo de feedback tem um delay
+- O ciclo de feedback de equilibrio só consegue ajustar os fluxos com base em feedbacks, que são informações atrasadas, elas só podem ajustar os fluxos no futuro futuras, não podem gerar um sinal extremamente rapido para corrigir o comportamento que gerou o feedback. 
+- Mesmo informações não fisicas levam tempo para serem realimentadas no sistema. 
+	- Em uma banheira, vc leva fraçoes de segundos para avaliar a profundidade da agua e ajustar os fluxos.
+	- Imagine que você está encheno uma banheira que está vazando água o tempo todo, se vc quer que a banheira fique com 20 litros, vc precisa colocar agua a mais, 20 litros + o que está vazando.
+	- Se você não colocar a mais, será dificil chegar ao resultado que você quer, porque há outros ciclos agindo sobre o sistema.
+	- Vamos supor que você tem 50 funcionarios, e quer ter 60, não contrate somente 10, porque hávera pessoas que se demitirão etc... o que não irá fazer você chegar no seu resultado. 
+	- Em resumo, você precisa compensar o buraco. 
+	- Dieta considerando o efeito rebote — se você quer perder peso e sabe que o seu metabolismo irá desacelerar para compensar, você precisa ajustar a dieta levando em consideração essa conta, porque o corpo está vazando menos energia do que você previu. 
+- Todo sistema com ciclo de equilibrio tem embutido nele, outras forças competindo ao mesmo tempo, e se o seu plano não leva isso em conta, a realidade vai te surpreender com um resultado abaixo do que você estava esperando. 
+
+#### Ciclo de feedback de equilibrio precisa ter seu objetivo definido compensando outros fluxos
+- 

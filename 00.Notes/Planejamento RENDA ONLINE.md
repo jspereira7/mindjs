@@ -28,5 +28,9 @@ Decidi já = Produção de conteudo, é isso.
 
 Precisamos criar um sistema de produção de conteudo, é isso. 
 
+O esquema é não ficar de overthinking, e começar a fazer logo algo, porque a clareza vem depois de começar a executar algo, não antes estudando. Você aprende melhor fazendo. 
+
+
+
 ------
 
