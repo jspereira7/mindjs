@@ -155,5 +155,12 @@
 - O nivel do estoque controla a sí mesmo por meio de uma cadeia de sinais e ações que se realimentam
 - Mas nem todos os sistemas possuem ciclos de feedback, alguns são cadeias abertas relativamente simples, de estoques e fluxos. 
 	- Eles podem ser alterados por fatores externos, mas as entradas e saidas não são afetadas pelo monitoramento no estoque.
-- Parei na página 54-55. 
-- 
+
+#### Sistemas com ciclos de equilibrio de feedback 
+- Esses sistemas geralmente funcionam para equilibrar o sistema em uma determinada faixa. 
+- Exemplo o sistema da temperatura ambiente, se vc colocar algo numa mesa, como um café que esteja quente, mas o dia está frio, pouco a pouco o ambiente irá puxá-lo de volta para a temperatura ambiente. 
+- A função desse tipo de sistema é zerar a discrepancia entre a temperatura do café e a temperatura do ambiente, independentemente da direção da diferença
+- A mudança é mais rápida no inicio, mas fica lenta a medida que a diferença entre o estoque e a meta diminui.
+
+> Os ciclos de feedback de equilibrio são estruturas de equilibrio ou de busca de objetivos nos sistemas e são fontes tanto de estabilidade, quanto de resistencia a mudanças
+
