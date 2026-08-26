@@ -54,7 +54,8 @@
               "title": "Livros Tai Lopez os top 4 melhores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,10 +279,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "6d1f83afada59527",
+  "active": "962947df14b667de",
   "lastOpenFiles": [
-    "00.Notes/Livros Tai Lopez os top 4 melhores.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
+    "00.Notes/Livros Tai Lopez os top 4 melhores.md",
     "01.Assets/Anexos/Screenshot 2026-08-25 at 13.44.35.png",
     "01.Assets/Anexos/Screenshot 2026-08-25 at 13.42.29.png",
     "01.Assets/Anexos/Screenshot 2026-08-25 at 13.37.13.png",
