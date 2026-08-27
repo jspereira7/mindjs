@@ -5,6 +5,10 @@
       "path": "00.Notes/Personal Research.md"
     },
     {
+      "basename": "High5 Strengs",
+      "path": "00.Notes/High5 Strengs.md"
+    },
+    {
       "basename": "Livros Tai Lopez os top 4 melhores",
       "path": "00.Notes/Livros Tai Lopez os top 4 melhores.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Forcing Function",
       "path": "00.Notes/Forcing Function.md"
-    },
-    {
-      "basename": "COMO FRACASSAR NA VIDA COMO ADHD",
-      "path": "00.Notes/COMO FRACASSAR NA VIDA COMO ADHD.md"
     }
   ],
   "omittedPaths": [
