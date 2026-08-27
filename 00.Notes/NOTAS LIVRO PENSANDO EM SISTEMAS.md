@@ -194,5 +194,11 @@
 	- Dieta considerando o efeito rebote — se você quer perder peso e sabe que o seu metabolismo irá desacelerar para compensar, você precisa ajustar a dieta levando em consideração essa conta, porque o corpo está vazando menos energia do que você previu. 
 - Todo sistema com ciclo de equilibrio tem embutido nele, outras forças competindo ao mesmo tempo, e se o seu plano não leva isso em conta, a realidade vai te surpreender com um resultado abaixo do que você estava esperando. 
 
-#### Ciclo de feedback de equilibrio precisa ter seu objetivo definido compensando outros fluxos
-- 
+#### É possivel aumentar um estoque tanto diminuindo a taxa de saida, quanto aumentando a taxa de entrada 
+- Como eu poderia aplicar isso aos sistemas da minha vida ? 
+- Eu poderia ficar rico tanto ganhando mais, quanto poupando mais, os dois jeitos estão corretos. 
+
+#### Sistemas com estruturas de feedback semelhantes produzem comportamentos dinamicos semelhantes
+- Uma população não se parece em nada com uma empresa, exceto pelo fato que ambas podem se reproduzir apartir de sí mesmas e assim, crescer exponencialmente
+- O resfriamento de uma xicara de café é como o resfriamento de um quarto aquecido, como uma substancia radioativa se decompondo e uma população ou economia industrial envelhecendo e morrendo. Todos declinam devido a um ciclo de feedback de equilibrio. 
+
