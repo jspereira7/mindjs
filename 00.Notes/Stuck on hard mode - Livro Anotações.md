@@ -56,4 +56,13 @@ tags:
 	- Você sabe o que quer fazer, mas tem dificuldade em fazer seu personagem executar o movimento.
 
 #### NT's parecem estar jogando o jogo no Pc gamer, e ND's no console
-- 
+- Você está jogando o jogo no modo hard e lendario, os NT's estão jogando o jogo no modo casual. 
+- Embora existam muitas desvantagens, tambem existem muitas vantagens em ser neuro divergente no life.exe
+
+-----------
+
+## Criação de personagem 
+
+### Você não precisa se identificar com o que dizem sobre você
+- Pessoas autistas tem mais facilidade em se identificar como transgenero e etc... 
+- Você não precisa aceitar os rotulos que a sociedade te coloca
