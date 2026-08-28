@@ -202,3 +202,10 @@
 - Uma população não se parece em nada com uma empresa, exceto pelo fato que ambas podem se reproduzir apartir de sí mesmas e assim, crescer exponencialmente
 - O resfriamento de uma xicara de café é como o resfriamento de um quarto aquecido, como uma substancia radioativa se decompondo e uma população ou economia industrial envelhecendo e morrendo. Todos declinam devido a um ciclo de feedback de equilibrio. 
 
+----
+#### Atrasos são comuns em sistemas
+- Atrasos são comuns nos sistemas, além de fortes determinantes do comportamento. Alterar a duração de um atraso pode (ou não, dependendo do tipo de atraso e da duração relativa de outros atrasos) operar uma grande mudança no comportamento do sistema. 
+- Uma forma melhor de operar em sistemas com oscilações constantes é ao inves de diminuir a janela de analise para diminuir o atraso, ele aumentasse a janela de analise. 
+
+#### Sistemas com 2 estoques 
+- 
