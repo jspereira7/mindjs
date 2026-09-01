@@ -5,6 +5,10 @@
       "path": "+Daily Notes/2026-09-01 Tuesday.md"
     },
     {
+      "basename": "Login with Premium High5",
+      "path": "00.Notes/Login with Premium High5.md"
+    },
+    {
       "basename": "Sinais de interresse",
       "path": "00.Notes/Sinais de interresse.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Assuntos Chick Crack",
       "path": "00.Notes/Assuntos Chick Crack.md"
-    },
-    {
-      "basename": "Nota diaria de hoje",
-      "path": "00.Notes/Nota diaria de hoje.md"
     }
   ],
   "omittedPaths": [
