@@ -93,3 +93,9 @@ Até mesmo você age de acordo com esses incentivos, reflita sobre quando você 
 
 Ou seja, tudo o que você precisa fazer é aumentar o seu valor, dessa forma você irá conseguir as mulheres 
 
+E quando ela nota o seu valor, ela olha viabilidade de obter você como parceiro
+
+Ou seja, se ela chegar a conclusão de que não é viavel, mesmo tendo atração, ela não irá agir
+
+E alguns filtros pessoais dela podem modificar o output desse sistema, as vezes a garota tem baixa auto estima, ou as vezes ela é ousada e faz contato direto etc... 
+
