@@ -50,3 +50,15 @@ Melhor encaixe de todos: Automation + AI
 
 Seu trabalho pode ser particularmente construir sistemas que atacam ineficiencias. 
 
+------
+
+Meu talento talvez seja fazer perguntas melhores. 
+
+Capacidades segundo o gpt: 
+- Absorção, coleta de informações
+- Modelagem, identifica padrões e inconsistencias
+- Sintese, transforma o complexo em simples
+
+As maiores alavancagens de hoje em dia são midia e código. 
+- Aprenda a programar ou produza conteudo.
+
