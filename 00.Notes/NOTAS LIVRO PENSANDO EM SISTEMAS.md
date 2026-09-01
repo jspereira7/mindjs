@@ -207,5 +207,15 @@
 - Atrasos são comuns nos sistemas, além de fortes determinantes do comportamento. Alterar a duração de um atraso pode (ou não, dependendo do tipo de atraso e da duração relativa de outros atrasos) operar uma grande mudança no comportamento do sistema. 
 - Uma forma melhor de operar em sistemas com oscilações constantes é ao inves de diminuir a janela de analise para diminuir o atraso, ele aumentasse a janela de analise. 
 
-#### Sistemas com 2 estoques 
+#### Sistemas não lineares 
+- Nem todo sistema é linear, esse é um tipo de pensamento comum entre as pessoas, "Quanto mais melhor" 
+- Mas nem sempre esse é o caso, as vezes menos é melhor, como em um sistema onde você é o jardineiro, e está cuidando de uma plantação, e está colocando fertilizante demais na terra. 
+- O mundo está cheio de não lineariedades. 
+	- Pensamos que se um empurrão pequeno produz um resultado pequeno, então um empurrão grande produz um resultado grande. 
+- Um pouco de publicidade sobre um produto, pode melhorar as vendas, mas muita propaganda extravagante pode produzir repulsa sobre o produto. 
+
+#### Não existem sistemas separados — o mundo é um enorme continuum. 
+- O mundo é um enorme continuum, onde tudo está conectado, e por isso precisamos criar limites invisiveis, em beneficio da sanidade mental. 
+- Devemos criar sistemas com modelos simples, com poucas partes. 
+- Fazer um diagrama detalhado e enorme, raramente é eficaz no mundo real. 
 - 
