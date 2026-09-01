@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Personal Research.md",
+                "file": "00.Notes/Sinais de interresse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Personal Research"
+              "title": "Sinais de interresse"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Personal Research.md",
+                "file": "00.Notes/Sinais de interresse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,8 +265,10 @@
   },
   "active": "2234840f6b0aa11c",
   "lastOpenFiles": [
-    "00.Notes/High5 Strengs.md",
+    "+Daily Notes/2026-09-01 Tuesday.md",
+    "00.Notes/Sinais de interresse.md",
     "00.Notes/Personal Research.md",
+    "00.Notes/High5 Strengs.md",
     "00.Notes/Stuck on hard mode - Livro Anotações.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
     "00.Notes/My adhd productivity system.md",
@@ -292,8 +294,6 @@
     "00.Notes/Acumulation.md",
     "00.Notes/Projeto Ttk Ads.md",
     "00.Notes/Livro BlackHat Carding.md",
-    "00.Notes/Zona de Genialidade.md",
-    "01.Assets/Cursos/Introdução a Lan - Try Hack me.md",
     "01.Assets/Anexos/Pasted image 20260817163013.png",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
