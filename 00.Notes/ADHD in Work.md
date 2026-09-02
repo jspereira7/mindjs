@@ -1,3 +1,7 @@
+---
+tags:
+  - adhd
+---
 ## ADHD in Work
 
 Abaixo estão algumas dificuldades do adhd no trabalho.
