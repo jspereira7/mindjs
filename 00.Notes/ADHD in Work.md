@@ -24,3 +24,7 @@ o que você precisa realmente é criar um estilo de vida que funcione para o seu
 
 A grande virada geralmente acontece quando você para de moldar sua vida de acordo com o cérebro que gostaria de ter
 
+------
+
+Se tiver uma api, conseguimos automatizar tudo basicamente, acredito que esse seja o verdadeiro ouro dessa parada. 
+
