@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"add1c4f16ade7cbe","type":"file","file":"01.Assets/Anexos/Pasted image 20260901215813.png","x":-980,"y":-420,"width":280,"height":373,"color":"1"},
+		{"id":"528da0b03e9cfc1c","x":-460,"y":-360,"width":250,"height":60,"type":"text","text":"Aspirações de Vida Js"},
+		{"id":"57ff8df330716862","x":-990,"y":0,"width":300,"height":400,"type":"file","file":"01.Assets/Anexos/Pasted image 20260901220242.png"}
+	],
+	"edges":[
+		{"id":"a4b18ad9d6ad217e","fromNode":"528da0b03e9cfc1c","fromSide":"left","toNode":"add1c4f16ade7cbe","toSide":"right"},
+		{"id":"8d4bbca72fd9312e","fromNode":"add1c4f16ade7cbe","fromSide":"bottom","toNode":"57ff8df330716862","toSide":"top"}
+	]
+}
