@@ -31,5 +31,7 @@ The core problem:
 
 This is design my enviroment, that make the work, the path of less resistance, is only this thing, that work. 
 
+------------
+
 
 
