@@ -14,7 +14,7 @@
 			"width":160,
 			"height":160
 		},
-		{"id":"add1c4f16ade7cbe","type":"file","file":"01.Assets/Anexos/Pasted image 20260901215813.png","x":-980,"y":-366,"width":280,"height":373,"color":"1"}
+		{"id":"add1c4f16ade7cbe","type":"file","file":"01.Assets/Anexos/Pasted image 20260901215813.png","x":-920,"y":-340,"width":280,"height":373,"color":"1"}
 	],
 	"edges":[
 		{"id":"a4b18ad9d6ad217e","fromNode":"528da0b03e9cfc1c","fromSide":"left","toNode":"add1c4f16ade7cbe","toSide":"right"}

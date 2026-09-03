@@ -22,7 +22,6 @@ O cara é ENFP
 
 -----
 
-
 The core problem: 
 - Dopamine Dysregulation
 - Executive Dysfunction 

@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-09-03 Thursday",
+      "path": "+Daily Notes/2026-09-03 Thursday.md"
+    },
+    {
       "basename": "2026-09-02 Wednesday",
       "path": "+Daily Notes/2026-09-02 Wednesday.md"
-    },
-    {
-      "basename": "ADHD in Work",
-      "path": "00.Notes/ADHD in Work.md"
-    },
-    {
-      "basename": "Sinais de interresse",
-      "path": "00.Notes/Sinais de interresse.md"
     },
     {
       "basename": "NOTAS LIVRO PENSANDO EM SISTEMAS",
@@ -23,6 +19,14 @@
     {
       "basename": "Pasted image 20260901215813",
       "path": "01.Assets/Anexos/Pasted image 20260901215813.png"
+    },
+    {
+      "basename": "ADHD in Work",
+      "path": "00.Notes/ADHD in Work.md"
+    },
+    {
+      "basename": "Sinais de interresse",
+      "path": "00.Notes/Sinais de interresse.md"
     },
     {
       "basename": "Pasted image 20260901220242",
@@ -195,10 +199,6 @@
     {
       "basename": "Financial Ratios",
       "path": "00.Notes/Financial Ratios.md"
-    },
-    {
-      "basename": "Curso Youtube Lutz",
-      "path": "00.Notes/Curso Youtube Lutz.md"
     }
   ],
   "omittedPaths": [

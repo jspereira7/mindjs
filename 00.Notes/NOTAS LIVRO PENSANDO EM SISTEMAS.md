@@ -218,4 +218,16 @@
 - O mundo é um enorme continuum, onde tudo está conectado, e por isso precisamos criar limites invisiveis, em beneficio da sanidade mental. 
 - Devemos criar sistemas com modelos simples, com poucas partes. 
 - Fazer um diagrama detalhado e enorme, raramente é eficaz no mundo real. 
-- 
+
+-------
+
+### Tenha conciencia do fator limitante 
+- Fator limitante do sistema 
+	- O fluxo de entrada mais importante para um sistema é tambem o mais limitante. 
+	- Paises ricos enviam dinheiro para paises pobres, mas esses paises nunca se desenvolvem, porque talvez esse não seja o fator limitante do sistema. 
+	- Uma fabrica pode contratar vários vendedores, de forma que não consiga acompanhar a rapidez dos seus pedidos, porque o fator limitante é a capacidade de produção. 
+	- Todo sistema existe um fator limitante. 
+	- Você deve trabalhar o fator limitante do momento, depois procurar o outro fator limitante, e assim por diante. 
+- Sempre haverá limites para o crescimento.
+	- Mesmo estando atento ao fator limitante, é impossivel crescer perpetuamente. O segredo está em reconhecer o limite.
+	- Sempre haverá limites para o crescimento, se não forem auto-impostos, serão impostos pelo sistema. 
