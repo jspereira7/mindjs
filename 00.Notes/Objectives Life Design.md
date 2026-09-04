@@ -10,3 +10,7 @@ Depois que eu resolver isso, eu consigo adicionar mais coisas.
 
 ----
 
+Descobrimos um hack supremo, eno + venvanse = aumenta a duração do remedio no corpo caralho hahahaha. 
+
+-----------
+
