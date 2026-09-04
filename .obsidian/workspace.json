@@ -282,8 +282,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "random-note:Open random note": false
     }
   },
   "active": "68b8a385fa411329",
