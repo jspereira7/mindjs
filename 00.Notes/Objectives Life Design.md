@@ -4,3 +4,9 @@ Basicamente é isso.
 
 -----------
 
+Meu principal objetivo no momento é conseguir gerar renda, de forma consistente, para bancar meu estilo de vida, é basicamente isso. 
+
+Depois que eu resolver isso, eu consigo adicionar mais coisas. 
+
+----
+
