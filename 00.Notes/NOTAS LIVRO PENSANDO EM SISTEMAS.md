@@ -232,3 +232,10 @@
 	- Mesmo estando atento ao fator limitante, é impossivel crescer perpetuamente. O segredo está em reconhecer o limite.
 	- Sempre haverá limites para o crescimento, se não forem auto-impostos, serão impostos pelo sistema. 
 
+### Racionalidade limitada 
+- As pessoas não disponhem de todas as informações, tomam decisões razoaveis com as informações que tem. 
+	- O pescador não sabe quantos peixes existem, nem quantos peixes serão capturados por outros pescadores. 
+	- Os empresarios não sabem os planos das outras empresas no mercado, nem como seus produtos irão performar no mercado. 
+	- Acreditamos que muitas coisas são perigosas, quando de fato não são. 
+	- Não tomamos decisões que nos beneficiam, nem que beneficiam o sistema como um todo. 
+	- 
