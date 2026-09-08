@@ -231,3 +231,4 @@
 - Sempre haverá limites para o crescimento.
 	- Mesmo estando atento ao fator limitante, é impossivel crescer perpetuamente. O segredo está em reconhecer o limite.
 	- Sempre haverá limites para o crescimento, se não forem auto-impostos, serão impostos pelo sistema. 
+
