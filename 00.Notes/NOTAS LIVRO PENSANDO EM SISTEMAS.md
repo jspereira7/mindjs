@@ -238,4 +238,10 @@
 	- Os empresarios não sabem os planos das outras empresas no mercado, nem como seus produtos irão performar no mercado. 
 	- Acreditamos que muitas coisas são perigosas, quando de fato não são. 
 	- Não tomamos decisões que nos beneficiam, nem que beneficiam o sistema como um todo. 
-	- 
+	- O principio desse conceito é que as pessoas só tomam as decisões com base nas informações que tem, a racionalidade é limitada. 
+	- Tirar um individuo de uma posição com racionalidade limitada e colocar outro não irá resolver o problema. 
+		- Por isso tirar um presidente e colocar outro não irá resolver o problema. 
+		- Porque aos poucos esse novo presidente terá a mesma visão de racionalidade limitada que o presidente antigo. 
+	- A mudança realmente ocorre quando se obtem uma visão geral, mais ampla do todo, ai sim se consegue tomar melhores ações. 
+
+
