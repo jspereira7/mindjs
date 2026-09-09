@@ -70,8 +70,19 @@
               "icon": "lucide-file",
               "title": "Objectives Life Design"
             }
+          },
+          {
+            "id": "68eb3b2fb6b50469",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -283,10 +293,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "746679b26d449cbc",
+  "active": "68eb3b2fb6b50469",
   "lastOpenFiles": [
-    "00.Notes/Objectives Life Design.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
+    "00.Notes/Objectives Life Design.md",
     "01.Assets/Aspirations Js.canvas",
     "+Daily Notes/2026-09-08 Tuesday.md",
     "+Daily Notes/2026-09-07 Monday.md",
