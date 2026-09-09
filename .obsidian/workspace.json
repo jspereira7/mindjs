@@ -70,19 +70,9 @@
               "icon": "lucide-file",
               "title": "Objectives Life Design"
             }
-          },
-          {
-            "id": "68eb3b2fb6b50469",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,6 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Objectives Life Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,10 +284,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68eb3b2fb6b50469",
+  "active": "68b8a385fa411329",
   "lastOpenFiles": [
-    "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
+    "00.Notes/Site pra fazer grana com meme coins.md",
     "00.Notes/Objectives Life Design.md",
+    "00.Notes/Sites com contas baratas de vários serviçõs - xbox game pass, ai etc....md",
+    "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
     "01.Assets/Aspirations Js.canvas",
     "+Daily Notes/2026-09-08 Tuesday.md",
     "+Daily Notes/2026-09-07 Monday.md",
@@ -325,7 +318,6 @@
     "01.Assets/Anexos/Screenshot 2026-08-25 at 13.42.29.png",
     "01.Assets/Anexos/Screenshot 2026-08-25 at 13.37.13.png",
     "00.Notes/Pensando em Sistemas.md",
-    "+Daily Notes/2026-08-24 Monday.md",
     "01.Assets/Anexos/Pasted image 20260817163013.png",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
