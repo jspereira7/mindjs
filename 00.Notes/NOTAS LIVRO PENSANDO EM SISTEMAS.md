@@ -244,4 +244,33 @@
 		- Porque aos poucos esse novo presidente terá a mesma visão de racionalidade limitada que o presidente antigo. 
 	- A mudança realmente ocorre quando se obtem uma visão geral, mais ampla do todo, ai sim se consegue tomar melhores ações. 
 
+----
+
+## 5 — Armadilhas e oportunidades dos sistemas 
+
+
+### Armadilha: Politica de Resistencia
+Quando vários agentes dentro de um sistema, puxam o estoque em diferentes direções, o resultado é resistencia politica. 
+- Ou seja, quanto mais energia você coloca, mais a outra pessoa coloca energia contra esse lado. 
+- A solução é afrouxar, relaxar, e definir um objetivo do qual todos se beneficiem 
+
+### Armadilha: A trágedia dos comuns 
+- Quando um recurso é compartilhado, cada agente se beneficia do uso, mas compartilha os custos do uso excessivo com os demais. A consequencia é o uso excessivo do recurso, até que se torne indisponivel pra todos. 
+- Solução: Educar e alertar os agentes do sistema das consequencias do uso excessivo do recurso.
+
+### Armadilha: Sucesso para os bens sucedidos
+- Se os vencedores de uma competição são recompensados com os meios para vencer de novo, um ciclo de feedback de reforço é criado, se não for inibido, permitirá que os vencedores fiquem com tudo e os perdedores sejam eliminados. 
+- **Solução:** Diversificação, é o que fornece a oportunidade a quem está perdendo de sair do jogo e iniciar outro. 
+	- Uma empresa pequena migrando para nichos onde as grandes não estão atuando. 
+
+### Armadilha: Busca pelo objetivo errado 
+- O comportamento do sistema é sensivel aos objetivos ciclo de feedback, se as metas ou métricas de que o sistema está performando bem estiver definido de forma impresiva, o sistema irá gerar esforço na direção errada, produzindo resultados que não são desejados
+- **Solução:** Espesifique metas e indicadores de desempenho que realmente mostrem o bem estar do sistema. Não confunda esforço com resultado, ou vc acabará com um sistema que está produzindo esforços e não resultados
+
+-----------
+
+## Criando Mudanças nos sistemas — pontos de alavancagem 
+
+
+
 

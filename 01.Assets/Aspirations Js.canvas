@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"add1c4f16ade7cbe","type":"file","file":"01.Assets/Anexos/Pasted image 20260901215813.png","x":-900,"y":-340,"width":280,"height":373,"color":"1"},
 		{
 			"id":"528da0b03e9cfc1c",
 			"type":"text",
@@ -14,10 +13,68 @@
 			"y":-233,
 			"width":160,
 			"height":160
-		}
+		},
+		{
+			"id":"acbdcac63a7de1b4",
+			"type":"text",
+			"text":"Melhorar qualidade da pele ",
+			"styleAttributes":{},
+			"x":-860,
+			"y":180,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"e78c1330a73fa12b",
+			"type":"text",
+			"text":"10k mês de reais ",
+			"styleAttributes":{},
+			"x":-660,
+			"y":360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9d251b8ce717b85d",
+			"type":"text",
+			"text":"Academia ",
+			"styleAttributes":{},
+			"x":-380,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{"id":"add1c4f16ade7cbe","type":"file","file":"01.Assets/Anexos/Pasted image 20260901215813.png","x":-1120,"y":-300,"width":280,"height":373,"color":"1"}
 	],
 	"edges":[
-		{"id":"a4b18ad9d6ad217e","fromNode":"528da0b03e9cfc1c","fromSide":"left","toNode":"add1c4f16ade7cbe","toSide":"right"}
+		{"id":"a4b18ad9d6ad217e","fromNode":"528da0b03e9cfc1c","fromSide":"left","toNode":"add1c4f16ade7cbe","toSide":"right"},
+		{
+			"id":"6bb51f343b7ea90f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"528da0b03e9cfc1c",
+			"fromSide":"bottom",
+			"toNode":"acbdcac63a7de1b4",
+			"toSide":"top"
+		},
+		{
+			"id":"6148f61d72cc24e5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"528da0b03e9cfc1c",
+			"fromSide":"bottom",
+			"toNode":"e78c1330a73fa12b",
+			"toSide":"top"
+		},
+		{
+			"id":"8fb28d6dc39831ed",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"528da0b03e9cfc1c",
+			"fromSide":"bottom",
+			"toNode":"9d251b8ce717b85d",
+			"toSide":"top"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
