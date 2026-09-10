@@ -291,8 +291,12 @@ Não existem formulas rápidas e faceis para identificar pontos de alavangem nos
 - #### 8 — Ciclos de feedback de equilibrio, quanto mais forte o feedback melhor o sistema consegue voltar ao equilibrio
 	- ![[Pasted image 20260910113343.png]]
 - #### 7 — Ciclos de feedback de reforço - a força dos ganhos nos ciclos de condução 
+	- ![[Pasted image 20260910114842.png]]
+- #### 6. Fluxos de informação – a estrutura de quem tem e de quem não tem acesso à informação
+	- ![[Pasted image 20260910120348.png]]
+- #### 5. Regras – incentivos, punições, restrições
+	- ![[Pasted image 20260910122228.png]]
+- #### 4. Auto-organização – o poder de aumentar, mudar ou desenvolver a estrutura do sistema
+	- ![[Pasted image 20260910123124.png]]
+- #### Objetivos — o proposito ou a função do sistema
 	- 
-
-
-
-
