@@ -45,4 +45,15 @@ What motive you
 
 ----
 
+ I need to gamify everithing, this way i can perform in a high level, like when i get the best shape
+
+----------------
+
+## Formula da força 
+
+Força = Talento x investimento 
+- Talentos: padrões naturais e inatos de pensar, sentir e se comportar 
+- Investimento: Tempo dedicado a praticar, desenvolver habilidades e adquirir conhecimento. 
+
+Gerencie uma área de menor talento para que ela não se torne um obstáculo na sua vida. 
 

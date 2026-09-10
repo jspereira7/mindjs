@@ -271,6 +271,36 @@ Quando vários agentes dentro de um sistema, puxam o estoque em diferentes dire�
 
 ## Criando Mudanças nos sistemas — pontos de alavancagem 
 
+Pontos de alavancagem não estão apenas nos sistemas, estão até mesmo no termo "Bala de prata/silver bullet" 
+
+A cura milagrosa... a passagem secreta... a senha mágica... o hack... 
+
+Não queremos somente acreditar nos pontos de alavancagem, queremos saber onde estão e como acessá-los. Pontos de alavancagem são pontos de poder. 
+
+Não existem formulas rápidas e faceis para identificar pontos de alavangem nos sistemas, mas se me derem alguns meses, ou anos, uma hora eu os descobrirei, mas as pessoas não acreditarão em mim, porque eles são contra-intuitivos. 
+
+### Lugares para intervir em um sistema (Em ordem crescente de eficácia)
+- 12 — Numeros, parametros e constantes
+	- Mexer nos fluxos, abrir ou fechar mais a torneira, aumentar a pressão da agua etc...
+	- Não há muita alavancagem aqui 
+	- Ou seja, colocar mais ou menos em um sistema que não é eficiente tem pouca alavancagem, os parametros importam somente a curto prazo
+	- Essas mudanças não alteram o comportamento do sistema 
+	- Gastar mais com a policia não acaba com a criminalidade. Medidas contra poluição não vão deixar o ar mais limpo. 
+	- Os parametros são uteis quando acionam pontos mais elevados dessa lista.
+	- Parametros são variaveis, como por exemplo "assar um bolo por X minutos a Y temperatura, X e Y são parametros. 
+- 11 — Buffers, tamanho dos estoques estabilizadores com relação a seus fluxos 
+	- Um estoque grande com relação a seus fluxos, são mais estaveis. 
+	- O estoque grande é a alavancagem, porque ele é mais estavel, porque independente das variações nos fluxos, ele demorará a ser modificado
+	- Os estoques são buffers, algo que segura as variações nos fluxos, como por exemplo, sua conta bancaria, você guarda dinheiro nela, ao inves de viver dos fluxos imediatos que entram e saem. 
+	- Mas buffers e estoques grandes se tornam bastante inflexiveis, dependendo do sistema é bom tomar cuidado com isso. 
+	- Há uma vantagem as vezes até mágica na alteração do tamanho do buffer em um sistema, mas é dificil mexer nos buffers, por isso ele está em uma posição bem abaixo na nossa lista. 
+- 10 — Estruturas de estoque e fluxos, sistemas fisicos e seus nós de intersecção.
+	- O unico meio de consertar um sistema mal projetado é reconstrui-lo, se possivel. 
+	- As vezes, a estrutura fisica raramente é um ponto de alavancagem em um sistema. 
+	- Depois do sistema construido, a alavangem está em compreender limitações e gargalos, para que seja utilizada a máxima eficiencia. 
+- 9 — Atrasos, periodos de tempo relativos as taxas de alterações no sistema 
+	- 
+
 
 
 

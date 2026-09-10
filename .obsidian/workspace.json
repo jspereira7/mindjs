@@ -54,8 +54,7 @@
               "title": "2026-09-09 Wednesday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-09-09 Wednesday.md",
+                "file": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,7 +266,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32573e1f184b762d",
+  "active": "6d1f83afada59527",
   "lastOpenFiles": [
     "00.Notes/Clifton Strengs profile - PTBR.md",
     "+Daily Notes/2026-09-09 Wednesday.md",
