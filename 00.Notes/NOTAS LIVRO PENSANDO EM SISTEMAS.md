@@ -299,4 +299,16 @@ Não existem formulas rápidas e faceis para identificar pontos de alavangem nos
 - #### 4. Auto-organização – o poder de aumentar, mudar ou desenvolver a estrutura do sistema
 	- ![[Pasted image 20260910123124.png]]
 - #### Objetivos — o proposito ou a função do sistema
-	- 
+	- ![[Pasted image 20260910150709.png]]
+- #### Paradigmas — a mentalidade da qual surge o sistema e sua estrutura, seus objetivos, suas regras, seus atrasos e seus parametros 
+	- ![[Pasted image 20260910152033.png]]
+- #### 1. Trancendendo os paradigmas
+	- ![[Pasted image 20260910153435.png]]
+	- É reconhecer o que os budistas falam sobre, iluminação, reconhecer que não existem verdades absolutas, é trancender os paradigmas, nada é uma verdade absoluta, não há certeza nesse mundo. 
+	- ![[Pasted image 20260910154737.png]]
+
+### Quanto mais alto for o ponto de alavancagem, mais o sistema resistirá 
+- Ou seja, quanto mais valioso for xyz mudança, mais o sistema resistirá em fazer a mudança. 
+- Por isso as sociedades eliminam pessoas iluminadas, que não tem nenhum paradigmas como proprio, e tem mente aberta 
+- O segredo ou a silver bullet é abraçar a humildade da ignorancia, e entender que não existem verdades absolutas, e resistir ao máximo a se apegar as suas proprias crenças 
+- 

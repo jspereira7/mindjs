@@ -232,7 +232,6 @@ A pergunta principal que deve orientar o design é:
 
 "Se eu esquecer a explicação original, este infográfico será suficiente para me fazer lembrar como o conceito funciona?"
 
-</content>
 ```
 
 ---
