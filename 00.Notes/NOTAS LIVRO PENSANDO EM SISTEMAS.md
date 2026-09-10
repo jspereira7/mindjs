@@ -311,4 +311,9 @@ Não existem formulas rápidas e faceis para identificar pontos de alavangem nos
 - Ou seja, quanto mais valioso for xyz mudança, mais o sistema resistirá em fazer a mudança. 
 - Por isso as sociedades eliminam pessoas iluminadas, que não tem nenhum paradigmas como proprio, e tem mente aberta 
 - O segredo ou a silver bullet é abraçar a humildade da ignorancia, e entender que não existem verdades absolutas, e resistir ao máximo a se apegar as suas proprias crenças 
+
+
+## Vivendo em um mundo de sistemas 
+- Entender como consertar um sistema é uma coisa, realmente consertálo é outra coisa. 
+- A verdade é que nem mesmo nós pensadores sistemicos seguimos nossos proprios conselhos, explicamos a dinamica do vicio, e não conseguimos abandonar o café. 
 - 
