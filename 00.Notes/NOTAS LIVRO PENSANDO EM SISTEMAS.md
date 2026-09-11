@@ -248,7 +248,6 @@
 
 ## 5 — Armadilhas e oportunidades dos sistemas 
 
-
 ### Armadilha: Politica de Resistencia
 Quando vários agentes dentro de um sistema, puxam o estoque em diferentes direções, o resultado é resistencia politica. 
 - Ou seja, quanto mais energia você coloca, mais a outra pessoa coloca energia contra esse lado. 
@@ -298,9 +297,9 @@ Não existem formulas rápidas e faceis para identificar pontos de alavangem nos
 	- ![[Pasted image 20260910122228.png]]
 - #### 4. Auto-organização – o poder de aumentar, mudar ou desenvolver a estrutura do sistema
 	- ![[Pasted image 20260910123124.png]]
-- #### Objetivos — o proposito ou a função do sistema
+- #### 3. Objetivos — o proposito ou a função do sistema
 	- ![[Pasted image 20260910150709.png]]
-- #### Paradigmas — a mentalidade da qual surge o sistema e sua estrutura, seus objetivos, suas regras, seus atrasos e seus parametros 
+- #### 2. Paradigmas — a mentalidade da qual surge o sistema e sua estrutura, seus objetivos, suas regras, seus atrasos e seus parametros 
 	- ![[Pasted image 20260910152033.png]]
 - #### 1. Trancendendo os paradigmas
 	- ![[Pasted image 20260910153435.png]]
