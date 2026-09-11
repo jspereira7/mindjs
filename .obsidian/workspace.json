@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.1361198425293
+    "width": 275.1361198425293,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -277,11 +278,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "6d1f83afada59527",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20260911192819.png",
     "00.Notes/Dicas sobre saude.md",
     "00.Notes/Processo de Masterizar um conceito, assistido por Ai.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
@@ -318,7 +321,6 @@
     "00.Notes/My adhd productivity system.md",
     "+Daily Notes/2026-08-31 Monday.md",
     "+Daily Notes/2026-08-29 Saturday.md",
-    "00.Notes/Planejamento RENDA ONLINE.md",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
     "Amoeba",

@@ -311,8 +311,23 @@ Não existem formulas rápidas e faceis para identificar pontos de alavangem nos
 - Por isso as sociedades eliminam pessoas iluminadas, que não tem nenhum paradigmas como proprio, e tem mente aberta 
 - O segredo ou a silver bullet é abraçar a humildade da ignorancia, e entender que não existem verdades absolutas, e resistir ao máximo a se apegar as suas proprias crenças 
 
-
 ## Vivendo em um mundo de sistemas 
-- Entender como consertar um sistema é uma coisa, realmente consertálo é outra coisa. 
-- A verdade é que nem mesmo nós pensadores sistemicos seguimos nossos proprios conselhos, explicamos a dinamica do vicio, e não conseguimos abandonar o café. 
-- 
+
+> O pensamento sistemico ajuda a entender como os sistemas funcionam, mas não é uma "mágica"  que permite prever e controlar tudo 
+
+![[Pasted image 20260911192819.png|533]]
+
+
+> [!QUODE] Entender é uma coisa, mudar é outra 
+> Nem mesmo quem entende os mecanismos consegue agir de acordo com esse entendimento. Cientistas entendem como funcionam os vicios, mas continuavam reproduzindo esses mesmos padrões nas suas vidas
+
+> Quanto mais entendemos os sistemas, mais percebemos sua complexidade, e nossa incapacidade de mudá-los e controlá-los
+
+Lidar bem com sistemas exige mais do que o conhecimento em analise, modelos e técnologia, exige compreender pessoas e entender os limites humanos 
+
+> O pensamento sistêmico não nos dá uma chave para controlar a realidade; ele nos mostra justamente por que a realidade é complexa demais para ser completamente controlada.
+
+- Sistemas de feedback auto-organizados, podem somente ser controlados de maneira temporaria, no melhor cenario ainda. 
+- Só podem ser mapeados de maneira geral, não muito detalhada.
+
+Mas se você não consegue ver,prever 
