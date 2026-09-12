@@ -389,7 +389,41 @@ E aplique o método cientifico, testando suas suposições contra evidencias
 >[!quote] Quando desenhamos diagramas estruturais e depois escrevemos equações, somos forçados a tornar visiveis nossas suposições e expresálas com rigor 
 
 >[!question] Como aplicar isso na prática ? 
+- Desenhe diagramas sobre como xyz coisa funciona
+- Mostre para outras pessoas, para que elas deem feedback sobre 
+- Teste suas suposições contra evidencias 
 
+--------------
+### Honde, respeite e distribua informações
+
+Informações mantem o sistema coeso. 
+- Atrasos de informação, vies, ausencia de informação, levam os ciclos de feedback a ruina. 
+
+>[!quote] Eu diria que a maior parte do que dá errado nos sistemas dá errado por causa de informações tendenciosas, atrasadas ou ausentes.
+
+>[!quote] não distorcerás, atrasarás nem reterás informações.
+
+>[!quote] Você pode enlouquecer um sistema turvando suas fontes de informação. E pode fazer um sistema funcionar melhor com surpreendente facilidade se fornecer informações mais oportunas, mais precisas e mais completas.
+
+------------
+
+### Use a linguagem com cuidado, enriqueça-a com conceitos de sistemas 
+
+>[!quote] Nós só vemos aquilo do qual podemos falar 
+
+>[!note] a linguagem não é neutra, ela define o que conseguimos perceber e agir 
+
+Nós só enchergamos aquilo que temos palavras pra nomear, alterar a linguagem de um pais, é mudar o que eles conseguem ver e fazer.
+
+O que não tem nome, se torna invisivel para a pessoa. 
+
+Crie e aprenda palavras novas para lidar com a complexidade dos sistemas. 
+
+Ou seja, você deve aprender esse novo vocabulario dos sistemas, dessa forma você consegue ver essas coisas. 
+
+![[Pasted image 20260912151553.png]]
+
+O teste deve ser: essa palavra me puxa ou tende a me deixar de braços cruzados, ou me responsabilizar ou me dar poder para agir ? 
 
 
 
