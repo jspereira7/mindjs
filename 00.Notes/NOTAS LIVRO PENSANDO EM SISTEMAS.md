@@ -330,4 +330,51 @@ Lidar bem com sistemas exige mais do que o conhecimento em analise, modelos e t�
 - Sistemas de feedback auto-organizados, podem somente ser controlados de maneira temporaria, no melhor cenario ainda. 
 - Só podem ser mapeados de maneira geral, não muito detalhada.
 
-Mas se você não consegue ver,prever 
+Para aqueles que tem sua identidade e auto-estima no papel de ser oniciente, o que sabe de tudo, a incerteza que o pensamento sistemico propoe é dificil de suportar. 
+
+Mas se você não consegue ver, prever e controlar, o que resta fazer ?
+
+O pensamento sistêmico muda nossa visão, quando largamos a ilusão de controle.
+
+Essa nova visão mostra que ainda há muito a fazer, mas de outro jeito.
+
+O futuro não dá para prever, mas dá para sonhar e criar com cuidado. 
+
+Sistemas não se controlam, se projetam e mudam.  
+
+Não dá para seguir sem sustos, mas dá para esperá-los, aprender e até ganhar com eles.  
+
+Não podemos impor nossa vontade a um sistema. 
+
+Podemos ouvir o que ele diz e ver como seus traços e nossos valores se unem, criando algo bem melhor do que só a nossa vontade faria.
+
+Não podemos controlar sistemas ou entendê-los, podemos dançar com eles.
+
+### Pegue o ritmo do sistema 
+
+Antes de pertubar o sistema, ou querer modificálo, observe como ele se comporta. 
+
+Seja ele uma musica, uma corredeira, ou uma flutuação no preço de uma mercadoria, pegue seu ritmo. 
+
+No caso de um sistema social, pergunte as pessoas que o conhecem a muito tempo o que aconteceu. Se possivel faça um gráfico com os dados temporais reais do sistema. 
+
+As lembranças das pessoas nem sempre são confiaveis. 
+
+Essa diretriz é enganosamente simples, até que você pratique ela, vc não vai acreditar em quantas voltas erradas ela ajuda vc a evitar. 
+
+Te forçando a se concentrar em fatos ao inves de teorias. 
+
+Evitando que vc mergulhe em concepções erroneas, sejam suas proprias, ou alheias. 
+
+É incrivel quantas concepções erradas as pessoas defendem cegamente. Mas ao analisar os dados a verdade aparece. 
+
+Já me diserram que o preço do leite estava subindo, mas na verdade estava caindo. 
+
+==Observar o que de fato acontece, em vez de ouvir teorias a respeito do que acontece, pode derrubar muitas hipóteses de causalidade descuidadas.
+
+Iniciar olhando o comportamento do sistema nos direciona a não se limitar a " O que há de errado ? " mas sim " Como chegamos a esse ponto ? ", "Que tipos de comportamento são possiveis ?", " Se não mudarmos de direção, onde vamos parar ? " 
+
+E examinando os pontos fortes do sistema, podemos enchergar " O que está funcionando bem aqui ? " 
+
+![[Pasted image 20260911204651.png]]
+
