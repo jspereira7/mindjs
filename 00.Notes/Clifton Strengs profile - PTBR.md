@@ -1,3 +1,7 @@
+---
+tags:
+  - autoconhecimento
+---
 # Seu Perfil de Pontos Fortes
 
 ### Competição · Analítico · Maximizador · Autoconfiança · Adaptabilidade

@@ -25,51 +25,19 @@
             }
           },
           {
-            "id": "ac93a817391cc589",
+            "id": "375a8e08e6c2227f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00.Notes/Clifton Strengs profile - PTBR.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Clifton Strengs profile - PTBR"
-            }
-          },
-          {
-            "id": "0a16da562016d164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Processo de Masterizar um conceito, assistido por Ai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Processo de Masterizar um conceito, assistido por Ai"
-            }
-          },
-          {
-            "id": "785b0aed4b2bd998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Dicas sobre saude.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dicas sobre saude"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-12 14.07.37.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,21 +50,6 @@
         "id": "cf497fdef67649d5",
         "type": "tabs",
         "children": [
-          {
-            "id": "746679b26d449cbc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
           {
             "id": "cf321efad4a60738",
             "type": "leaf",
@@ -253,14 +206,28 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "746679b26d449cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 640.4599609375,
-    "collapsed": true
+    "width": 290.8077392578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,23 +249,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6d1f83afada59527",
+  "active": "375a8e08e6c2227f",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20260911204651.png",
-    "01.Assets/Anexos/Pasted image 20260911192819.png",
+    "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md",
+    "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
     "00.Notes/Dicas sobre saude.md",
     "00.Notes/Processo de Masterizar um conceito, assistido por Ai.md",
-    "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
+    "00.Notes/Clifton Strengs profile - PTBR.md",
+    "01.Assets/Anexos/Pasted image 20260911204651.png",
+    "01.Assets/Anexos/Pasted image 20260911192819.png",
     "01.Assets/Anexos/Pasted image 20260910154737.png",
     "01.Assets/Anexos/Pasted image 20260910153435.png",
     "01.Assets/Anexos/Pasted image 20260910152033.png",
     "01.Assets/Anexos/Pasted image 20260910150709.png",
-    "00.Notes/Clifton Strengs profile - PTBR.md",
     "01.Assets/Anexos/Pasted image 20260910123124.png",
     "01.Assets/Anexos/Pasted image 20260910122228.png",
     "01.Assets/Anexos/Pasted image 20260910120348.png",
     "01.Assets/Anexos/Pasted image 20260910114842.png",
-    "01.Assets/Anexos/Pasted image 20260910113343.png",
     "+Daily Notes/2026-09-09 Wednesday.md",
     "00.Notes/Results Clifton Strengs profile.md",
     "01.Assets/Aspirations Js.canvas",

@@ -1,12 +1,14 @@
 {
   "accentColor": "",
-  "baseFontSize": 22,
+  "baseFontSize": 24,
   "theme": "obsidian",
   "cssTheme": "Typomagical",
-  "translucency": false,
+  "translucency": true,
   "showRibbon": true,
   "showViewHeader": true,
   "enabledCssSnippets": [
     "cursor-smooth-obsidian"
-  ]
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "Lexend"
 }

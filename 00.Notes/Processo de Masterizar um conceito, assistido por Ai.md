@@ -1,3 +1,8 @@
+---
+tags:
+  - Ai
+  - estudos
+---
 # Sistema de Aprendizagem Assistida por IA
 
 ## Objetivo

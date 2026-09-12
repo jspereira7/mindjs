@@ -378,3 +378,18 @@ E examinando os pontos fortes do sistema, podemos enchergar " O que está funcio
 
 ![[Pasted image 20260911204651.png]]
 
+### Exponha seus modelos mentais a luz do dia 
+
+> [!NOTE] Esse capitulo está dizendo sobre externalizar seus modelos mentais, com diagramas, escritas ou qualquer outra coisa, expondo o que você acredita que está conectado com o que 
+
+>[!quote] Quanto mais fizer isso, mais claro seu pensamento se tornará, mais rapidamente você admitirá as incertezas e corrigirá os erros, e mais flexível aprenderá a ser.
+
+E aplique o método cientifico, testando suas suposições contra evidencias
+
+>[!quote] Quando desenhamos diagramas estruturais e depois escrevemos equações, somos forçados a tornar visiveis nossas suposições e expresálas com rigor 
+
+>[!question] Como aplicar isso na prática ? 
+
+
+
+
