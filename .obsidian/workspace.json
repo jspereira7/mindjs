@@ -23,18 +23,6 @@
               "icon": "lucide-file",
               "title": "NOTAS LIVRO PENSANDO EM SISTEMAS"
             }
-          },
-          {
-            "id": "375a8e08e6c2227f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-12 14.07.37.excalidraw"
-            }
           }
         ]
       }
@@ -250,9 +238,10 @@
   },
   "active": "6d1f83afada59527",
   "lastOpenFiles": [
-    "01.Assets/Anexos/Pasted image 20260912151553.png",
     "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md",
+    "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
+    "01.Assets/Anexos/Pasted image 20260912151553.png",
     "00.Notes/Dicas sobre saude.md",
     "00.Notes/Processo de Masterizar um conceito, assistido por Ai.md",
     "00.Notes/Clifton Strengs profile - PTBR.md",
@@ -265,7 +254,6 @@
     "01.Assets/Anexos/Pasted image 20260910123124.png",
     "01.Assets/Anexos/Pasted image 20260910122228.png",
     "01.Assets/Anexos/Pasted image 20260910120348.png",
-    "01.Assets/Anexos/Pasted image 20260910114842.png",
     "+Daily Notes/2026-09-09 Wednesday.md",
     "00.Notes/Results Clifton Strengs profile.md",
     "01.Assets/Aspirations Js.canvas",

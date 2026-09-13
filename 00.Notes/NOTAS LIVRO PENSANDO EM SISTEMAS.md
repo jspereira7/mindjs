@@ -425,5 +425,7 @@ Ou seja, você deve aprender esse novo vocabulario dos sistemas, dessa forma voc
 
 O teste deve ser: essa palavra me puxa ou tende a me deixar de braços cruzados, ou me responsabilizar ou me dar poder para agir ? 
 
+-----------
+
 
 
