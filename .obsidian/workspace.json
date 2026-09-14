@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
+                "file": "00.Notes/Josh Kaufman Anotações de livros.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,11 +282,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3cdb87abd7ba1d4",
+  "active": "bdfc3d7f9ed00a49",
   "lastOpenFiles": [
+    "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
     "01.Assets/Anexos/Pasted image 20260914173035.png",
     "01.Assets/Anexos/Arrumar Sistema de Produtividade - GTD 2026-09-14 17.28.29.excalidraw.md",
-    "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
     "00.Notes/Josh Kaufman Anotações de livros.md",
     "00.Notes/Personal MBA - Anotações.md",
     "00.Notes/Personal Research.md",
@@ -306,7 +306,6 @@
     "01.Assets/Anexos/Pasted image 20260911204651.png",
     "01.Assets/Anexos/Pasted image 20260911192819.png",
     "01.Assets/Anexos/Pasted image 20260910154737.png",
-    "01.Assets/Anexos/Pasted image 20260910153435.png",
     "+Daily Notes/2026-09-09 Wednesday.md",
     "00.Notes/Results Clifton Strengs profile.md",
     "01.Assets/Aspirations Js.canvas",

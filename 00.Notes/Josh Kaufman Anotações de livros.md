@@ -104,4 +104,23 @@ E é claro que sua lista será incompleta, até que vc realmente comece e aprend
 	- Uma lista de "algum dia/talvez" ideias que você gostaria de explorar, mas não agora. 
 	- Arquivos de referencia - informações ou documentos que você precisará consultar no futuro. 
 	- Algo para capturar, alguma maneira de capturar as ideias ou proximas ações a medida que elas surgirem na sua mente. 
-- 
+
+- **Agende um horario inegociavel para a revisão semanal**
+	- A vida passa rápido, as vezes estamos tão atarefados que não paramos para olhar se estamos tendo os resultados que queremos. 
+	- Por isso é crucial agendar um tempo toda semana para a revisão semanal.
+	- Coisas que vc deve incluir na revisão semanal: 
+		- Processe e organize tudo o que você capturou, e ainda não organizou 
+		- Revise suas tarefas ativas — há algo para adicionar, delegar, adiar ou excluir ? 
+		- Revise seus projetos ativos — há algo para adicionar, delegar, adiar ou excluir ? 
+		- Revise seu calendario — há algo para adicionar, delegar, adiar ou excluir ? 
+		- Algum dia/talvez - algo para adicionar ou promover a um projeto ativo?
+		- Arquivos de referência - precisa de alguma coisa em breve? Algo para adicionar ou atualizar?
+		- Metas — você está caminhando na direção certa? Está progredindo ? São necessárias alterações ? 
+	- Nunca pule essa revisão, é extremamente importante se você quiser diminuir seus niveis de estresse. 
+		- Acho melhor organizar a revisão semanal para o final de semana, sexta-feira a tarde ou sábado de manha. 
+		- É uma ótima maneira de encerrar a semana, sentir-se bem com o que realizou, planejar a próxima semana, e se preparar para um final de semana relaxante. 
+	- Desenvolver um sistema eficaz de produtividade leva tempo, GTD é um hábito. 
+	- Ao inves de se cobrar muito, tente instalar uma coisa por vez, um hábito por vez, até que seja facil, depois concentre-se em instalar o próximo hábito. Com o tempo você dominará todos eles. 
+	- E lembre-se que o sistema serve para facilitar a execução de tarefas importantes, não procrastinar melhorando infinitamente o sistema, evite a pornografia da "produtividade" 
+	- Os sistemas mais eficazes são extremamente simples. 
+
