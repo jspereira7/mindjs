@@ -6,7 +6,7 @@ tags:
 ---
 # Introdução
 
-Se dedidar o tempo necessario para aprender os fundamentos contidos nesse livro, conseguirá entrar no top 1% das pessoas que dominam: 
+Se vc se dedicar o tempo necessario para aprender os fundamentos contidos nesse livro, conseguirá entrar no top 1% das pessoas que dominam: 
 - Como as empresas realmente funcionam
 - Como criar uma empresa 
 - Como melhorar uma empresa existente
@@ -143,7 +143,6 @@ Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o 
 ## [[The Necessity of Choice]]
 
 ## [[The Arrival Fallacy]]
-
 
 # Working Better with Others 
 
