@@ -426,6 +426,66 @@ Ou seja, você deve aprender esse novo vocabulario dos sistemas, dessa forma voc
 O teste deve ser: essa palavra me puxa ou tende a me deixar de braços cruzados, ou me responsabilizar ou me dar poder para agir ? 
 
 -----------
+### Preste atenção no que é importante, não apenas no que é quantificavel 
+
+O mundo fez com que nós prestasseamos mais atenção ao que é medido, ou seja, numeros. 
+
+E ficamos focados em quantidade, e esquecemos da qualidade. 
+
+Fingir que algo não existe, por conta de algo que não pode ser quantificavel leva a modelos defeituosos. 
+
+Não caia na armadilha de definir metas, com base no que é facil medir, ao inves do que é importante. 
+
+--------
+### Procure o bem estar de todos 
+
+Não sacrifique a saude do todo, para otimizar uma parte isolada do sistema. 
+
+Pense no que é melhor para o TODO 
+
+------
+
+### Ouça a sabedoria do sistema 
+
+Fortaleça as bases do sistema, aquilo que já está funcionando bem, antes de querer otimizar ou concertar o sistema. 
+
+A força que sustenta um sistema geralmente está nas bases — nas pessoas comuns, rotinas simples, no dia a dia. Não em planos grandiosos vindo de cima. 
+
+O erro aqui é querer chegar com a solução pronta, sem primeiro antes observar o problema 
+
+Entenda o que já funciona no sistemas
+
+-----
+### Localize a responsabilidade no sistema 
+
+Quem toma a decisão, deve sentir o resultado dela, porque assim, não é necessario regras externas. 
+
+Exemplo um piloto de avião, ele sente na pele o resultado de suas decisões, e por isso ele se autoregula
+
+A solução é dar controle a quem sente a consequencia, como cobrar a energia gasta do ar condicionado na conta dos professores. 
+
+Dessa forma ele mesmo equilibraria o gasto. 
+
+-----
+
+### Continue humilde, seja um aprendiz 
+
+A verdade é que ninguem entende o sistema completamente. A solução é aprender no caminho. 
+
+Sempre espere ser surpreendido, Sistemas complexos sempre irão escapar do seu modelo mental. 
+
+Para aprender de verdade, aprenda fazendo, tentativa e erro.
+
+Pequenos passos, observe o resultado e mude a rota quando necessario, evite seguir um plano rigido. 
+
+Tenha coragem de admitir seus erros, fingir controle e certeza o levará a um resultado pior, isso irá travar seu aprendizado 
+
+De passos pequenos, observe, admita seus erros e faça o ajuste, ao inves de fingir certeza. 
+
+----------------
+
+### 
+
 
 
 
