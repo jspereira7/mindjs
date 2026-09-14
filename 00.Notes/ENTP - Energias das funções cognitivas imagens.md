@@ -1,14 +1,15 @@
-## Hero 
+## Ne Hero 
 
-![[Pasted image 20260913013118.png]]
+![[ENTP Hero.png]]
 
-## Parent 
 
-![[Pasted image 20260913013600.png]]
+## Ti Parent 
 
-## Child 
 
-![[Pasted image 20260913013810.png]]
 
-## Infant 
+## Fe Child 
+
+![[Pasted image 20260913025319.png]]
+
+## Si Inferior
 
