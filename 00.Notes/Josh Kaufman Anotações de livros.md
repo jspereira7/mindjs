@@ -108,7 +108,7 @@ E é claro que sua lista será incompleta, até que vc realmente comece e aprend
 - **Agende um horario inegociavel para a revisão semanal**
 	- A vida passa rápido, as vezes estamos tão atarefados que não paramos para olhar se estamos tendo os resultados que queremos. 
 	- Por isso é crucial agendar um tempo toda semana para a revisão semanal.
-	- Coisas que vc deve incluir na revisão semanal: 
+	- **Coisas que vc deve incluir na revisão semanal:** 
 		- Processe e organize tudo o que você capturou, e ainda não organizou 
 		- Revise suas tarefas ativas — há algo para adicionar, delegar, adiar ou excluir ? 
 		- Revise seus projetos ativos — há algo para adicionar, delegar, adiar ou excluir ? 
