@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "NOTAS LIVRO PENSANDO EM SISTEMAS",
-      "path": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md"
-    },
-    {
-      "basename": "Personal MBA - Anotações",
-      "path": "00.Notes/Personal MBA - Anotações.md"
+      "basename": "Recursos para aprender a pensar em sistemas",
+      "path": "00.Notes/Recursos para aprender a pensar em sistemas.md"
     },
     {
       "basename": "Josh Kaufman Anotações de livros",
@@ -15,6 +11,22 @@
     {
       "basename": "Proximos Passos",
       "path": "00.Notes/Proximos Passos.md"
+    },
+    {
+      "basename": "Measurament(Medir)",
+      "path": "00.Notes/Measurament(Medir).md"
+    },
+    {
+      "basename": "Personal MBA - Anotações",
+      "path": "00.Notes/Personal MBA - Anotações.md"
+    },
+    {
+      "basename": "Desconstruction",
+      "path": "00.Notes/Desconstruction.md"
+    },
+    {
+      "basename": "NOTAS LIVRO PENSANDO EM SISTEMAS",
+      "path": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md"
     },
     {
       "basename": "Arrumar Sistema de Produtividade - GTD",
@@ -187,18 +199,6 @@
     {
       "basename": "Ray Dalio Book Recommendations",
       "path": "01.Assets/Clippings/Ray Dalio Book Recommendations.md"
-    },
-    {
-      "basename": "_anticancelamento",
-      "path": "01.Assets/TextGenerator/oalanicolas/_anticancelamento.md"
-    },
-    {
-      "basename": "Acumulation",
-      "path": "00.Notes/Acumulation.md"
-    },
-    {
-      "basename": "Projeto Ttk Ads",
-      "path": "00.Notes/Projeto Ttk Ads.md"
     }
   ],
   "omittedPaths": [

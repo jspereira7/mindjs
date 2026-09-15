@@ -1,3 +1,8 @@
+---
+tags:
+  - livro
+  - estudos
+---
 ## Introdução 
 - **Sistema** = Conjunto de coisas — pessoas, células, moleculas, que estão interconectadas, e ao longo do tempo produzem um padrão de comportamento. 
 - O sistema gera um resultado padrão, as forças externas podem acionálo ou não. 
@@ -483,7 +488,7 @@ Tenha coragem de admitir seus erros, fingir controle e certeza o levará a um re
 De passos pequenos, observe, admita seus erros e faça o ajuste, ao inves de fingir certeza. 
 
 ----------------
-### 
+
 
 
 
