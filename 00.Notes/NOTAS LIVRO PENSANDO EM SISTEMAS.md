@@ -483,7 +483,6 @@ Tenha coragem de admitir seus erros, fingir controle e certeza o levará a um re
 De passos pequenos, observe, admita seus erros e faça o ajuste, ao inves de fingir certeza. 
 
 ----------------
-
 ### 
 
 

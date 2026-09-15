@@ -69,8 +69,7 @@
               "title": "Proximos Passos"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Proximos Passos.md",
+                "file": "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -277,17 +276,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e57eec6a940b83ea",
+  "active": "6d1f83afada59527",
   "lastOpenFiles": [
-    "00.Notes/Proximos Passos.md",
+    "00.Notes/Personal MBA - Anotações.md",
     "00.Notes/Josh Kaufman Anotações de livros.md",
+    "00.Notes/Proximos Passos.md",
     "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
     "01.Assets/Anexos/Pasted image 20260914173035.png",
     "01.Assets/Anexos/Arrumar Sistema de Produtividade - GTD 2026-09-14 17.28.29.excalidraw.md",
-    "00.Notes/Personal MBA - Anotações.md",
     "00.Notes/Personal Research.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
     "00.Notes/ENTP - Energias das funções cognitivas imagens.md",
