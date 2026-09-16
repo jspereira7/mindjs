@@ -8,52 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56654b1fe862a1cb",
+            "id": "c4361bc9bcfdbfa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Measurament(Medir).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Measurament(Medir)"
-            }
-          },
-          {
-            "id": "bdfc3d7f9ed00a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Josh Kaufman Anotações de livros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Josh Kaufman Anotações de livros"
-            }
-          },
-          {
-            "id": "463a89ab1a423bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Recursos para aprender a pensar em sistemas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Recursos para aprender a pensar em sistemas"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +192,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Recursos para aprender a pensar em sistemas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -260,15 +223,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "463a89ab1a423bea",
+  "active": "c4361bc9bcfdbfa9",
   "lastOpenFiles": [
-    "00.Notes/Recursos para aprender a pensar em sistemas.md",
-    "00.Notes/Josh Kaufman Anotações de livros.md",
-    "00.Notes/Proximos Passos.md",
     "00.Notes/Measurament(Medir).md",
+    "00.Notes/Josh Kaufman Anotações de livros.md",
+    "00.Notes/Recursos para aprender a pensar em sistemas.md",
+    "00.Notes/Proximos Passos.md",
     "00.Notes/Personal MBA - Anotações.md",
     "00.Notes/Desconstruction.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
