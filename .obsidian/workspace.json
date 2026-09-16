@@ -11,10 +11,15 @@
             "id": "c4361bc9bcfdbfa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+Daily Notes/2026-09-16 Wednesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-16 Wednesday"
             }
           }
         ]
@@ -86,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.1361198425293
+    "width": 275.1361198425293,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -192,6 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "+Daily Notes/2026-09-16 Wednesday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,6 +236,7 @@
   },
   "active": "c4361bc9bcfdbfa9",
   "lastOpenFiles": [
+    "+Daily Notes/2026-09-16 Wednesday.md",
     "00.Notes/Measurament(Medir).md",
     "00.Notes/Josh Kaufman Anotações de livros.md",
     "00.Notes/Recursos para aprender a pensar em sistemas.md",
@@ -265,7 +273,6 @@
     "00.Notes/Sites com contas baratas de vários serviçõs - xbox game pass, ai etc....md",
     "+Daily Notes/2026-09-07 Monday.md",
     "+Daily Notes/2026-09-03 Thursday.md",
-    "+Daily Notes/2026-09-02 Wednesday.md",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
     "Amoeba",

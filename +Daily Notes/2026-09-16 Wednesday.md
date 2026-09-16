@@ -1,0 +1,10 @@
+- Precisamos gamificar a vida
+- Acredito eu que o principal problema de eu não ter resultados é sobre o meu tdha. 
+- Vibe coding é algo que eu achei bem divertido até. 
+- Talvez eu deva começar a ler o livro sobre as forças etc... e como usa-las. 
+- Se eu tomei o venvanse as 12:00, provavelmente vai continuar fazendo efeito até as 17:00 por ai. 
+- Cara, hoje eu estou me sentindo bem melhor do que ontem, em relação a energia pra realizar as tarefas. 
+	- O que eu fiz ontem, que contribuiu para esse meu bem estar melhor ? 
+	- Ontem eu comi 4 ovos, 2 no café da tarde e + 2 na janta. 
+	- Quanto será de tirosina e colina isso tinha ? 
+	- Ou pode ser que seja o dipirona que potencializou o efeito seila. 
