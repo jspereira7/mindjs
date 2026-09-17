@@ -8,3 +8,6 @@
 	- Ontem eu comi 4 ovos, 2 no café da tarde e + 2 na janta. 
 	- Quanto será de tirosina e colina isso tinha ? 
 	- Ou pode ser que seja o dipirona que potencializou o efeito seila. 
+
+
+Preciso decidir se devo voltar com a minha ex ou não,
