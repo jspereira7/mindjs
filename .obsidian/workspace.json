@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Daily Notes/2026-09-16 Wednesday.md",
+                "file": "00.Notes/MyStrengs How to master.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-16 Wednesday"
+              "title": "MyStrengs How to master"
             }
           }
         ]
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Daily Notes/2026-09-16 Wednesday.md",
+                "file": "00.Notes/MyStrengs How to master.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,11 +230,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "c4361bc9bcfdbfa9",
   "lastOpenFiles": [
+    "+Daily Notes/2026-09-17 Thursday.md",
+    "00.Notes/MyStrengs How to master.md",
     "+Daily Notes/2026-09-16 Wednesday.md",
     "00.Notes/Measurament(Medir).md",
     "00.Notes/Josh Kaufman Anotações de livros.md",
@@ -270,8 +273,6 @@
     "+Daily Notes/2026-09-08 Tuesday.md",
     "00.Notes/Site pra fazer grana com meme coins.md",
     "00.Notes/Sites com contas baratas de vários serviçõs - xbox game pass, ai etc....md",
-    "+Daily Notes/2026-09-07 Monday.md",
-    "+Daily Notes/2026-09-03 Thursday.md",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
     "Amoeba",
