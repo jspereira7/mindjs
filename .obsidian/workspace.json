@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4361bc9bcfdbfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/MyStrengs How to master.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MyStrengs How to master"
-            }
-          },
-          {
             "id": "3a808a70eb06321a",
             "type": "leaf",
             "state": {
@@ -106,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.1361198425293,
-    "collapsed": true
+    "width": 275.1361198425293
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -213,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/MyStrengs How to master.md",
+                "file": "00.Notes/How to Gamify your Life - Conteudo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -249,27 +233,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4361bc9bcfdbfa9",
+  "active": "3a808a70eb06321a",
   "lastOpenFiles": [
+    "00.Notes/ENTP - Energias das funções cognitivas imagens.md",
+    "00.Notes/Josh Kaufman Anotações de livros.md",
+    "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
+    "00.Notes/Proximos Passos.md",
+    "00.Notes/Recursos para aprender a pensar em sistemas.md",
+    "00.Notes/MyStrengs How to master.md",
     "00.Notes/How to Gamify your Life - Conteudo.md",
     "01.Assets/Anexos/Pasted image 20260918183542.png",
     "+Daily Notes/2026-09-18 Friday.md",
     "00.Notes/The Path of less resistance.md",
-    "00.Notes/MyStrengs How to master.md",
     "+Daily Notes/2026-09-17 Thursday.md",
     "+Daily Notes/2026-09-16 Wednesday.md",
     "00.Notes/Measurament(Medir).md",
-    "00.Notes/Josh Kaufman Anotações de livros.md",
-    "00.Notes/Recursos para aprender a pensar em sistemas.md",
-    "00.Notes/Proximos Passos.md",
     "00.Notes/Personal MBA - Anotações.md",
     "00.Notes/Desconstruction.md",
     "00.Notes/NOTAS LIVRO PENSANDO EM SISTEMAS.md",
-    "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
     "01.Assets/Anexos/Pasted image 20260914173035.png",
     "01.Assets/Anexos/Arrumar Sistema de Produtividade - GTD 2026-09-14 17.28.29.excalidraw.md",
     "00.Notes/Personal Research.md",
-    "00.Notes/ENTP - Energias das funções cognitivas imagens.md",
     "01.Assets/Anexos/Pasted image 20260913025319.png",
     "01.Assets/Anexos/ENTP Hero.png",
     "01.Assets/Anexos/Pasted image 20260913013810.png",
