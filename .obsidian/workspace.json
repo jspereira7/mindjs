@@ -36,9 +36,18 @@
               "icon": "lucide-file",
               "title": "MyStrengs How to master"
             }
+          },
+          {
+            "id": "8f8cc81297eaefc2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/MyStrengs How to master.md",
+                "file": "00.Notes/Work The System Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,13 +254,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5df71e587f6a693f",
+  "active": "3a808a70eb06321a",
   "lastOpenFiles": [
-    "00.Notes/Foco Proximos 90 dias.md",
     "00.Notes/MyStrengs How to master.md",
+    "00.Notes/Foco Proximos 90 dias.md",
     "00.Notes/Work The System Book.md",
     "00.Notes/Funções executivas estudo.md",
     "+Daily Notes/2026-09-21 Monday.md",
