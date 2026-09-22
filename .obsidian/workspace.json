@@ -23,21 +23,37 @@
             }
           },
           {
-            "id": "7fac275c47504eff",
+            "id": "5df71e587f6a693f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Funções executivas estudo.md",
+                "file": "00.Notes/MyStrengs How to master.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Funções executivas estudo"
+              "title": "MyStrengs How to master"
+            }
+          },
+          {
+            "id": "8165e58342895d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Foco Proximos 90 dias.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Foco Proximos 90 dias"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Work The System Book.md",
+                "file": "00.Notes/Foco Proximos 90 dias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -248,14 +264,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a808a70eb06321a",
+  "active": "8165e58342895d7e",
   "lastOpenFiles": [
-    "+Daily Notes/2026-09-21 Monday.md",
+    "00.Notes/Foco Proximos 90 dias.md",
+    "00.Notes/MyStrengs How to master.md",
     "00.Notes/Work The System Book.md",
+    "00.Notes/Funções executivas estudo.md",
+    "+Daily Notes/2026-09-21 Monday.md",
     "00.Notes/TDHA como lidar - Livro.md",
     "00.Notes/How to Gamify your Life - Conteudo.md",
     "00.Notes/BLACKPILL Analys AI.md",
-    "00.Notes/Funções executivas estudo.md",
     "00.Notes/ADHD Principles.md",
     "01.Assets/Anexos/Pasted image 20260921150240.png",
     "00.Notes/ENTP - Energias das funções cognitivas imagens.md",
@@ -263,7 +281,6 @@
     "00.Notes/Arrumar Sistema de Produtividade - GTD.md",
     "00.Notes/Proximos Passos.md",
     "00.Notes/Recursos para aprender a pensar em sistemas.md",
-    "00.Notes/MyStrengs How to master.md",
     "01.Assets/Anexos/Pasted image 20260918183542.png",
     "+Daily Notes/2026-09-18 Friday.md",
     "00.Notes/The Path of less resistance.md",
@@ -284,7 +301,6 @@
     "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md",
     "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "01.Assets/Anexos/Pasted image 20260912151553.png",
-    "00.Notes/Dicas sobre saude.md",
     "01.Assets/Anexos/Pasted image 20260911204651.png",
     "01.Assets/Aspirations Js.canvas",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
