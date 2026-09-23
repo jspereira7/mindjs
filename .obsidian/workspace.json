@@ -47,8 +47,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,6 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Notes/Work The System Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,7 +258,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f8cc81297eaefc2",
+  "active": "3a808a70eb06321a",
   "lastOpenFiles": [
     "00.Notes/MyStrengs How to master.md",
     "00.Notes/Work The System Book.md",
