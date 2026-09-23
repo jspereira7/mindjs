@@ -47,7 +47,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Work The System Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,11 +258,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a808a70eb06321a",
+  "active": "8f8cc81297eaefc2",
   "lastOpenFiles": [
     "00.Notes/MyStrengs How to master.md",
-    "00.Notes/Foco Proximos 90 dias.md",
     "00.Notes/Work The System Book.md",
+    "00.Notes/Foco Proximos 90 dias.md",
     "00.Notes/Funções executivas estudo.md",
     "+Daily Notes/2026-09-21 Monday.md",
     "00.Notes/TDHA como lidar - Livro.md",
