@@ -95,3 +95,34 @@ Na verdade, em certo nível, você até os aguarda com expectativa. Você é, no
 - Aprimore sua capacidade de resposta. Por exemplo, se o seu trabalho exige viagens inesperadas, aprenda a fazer as malas e sair em 30 minutos. Se a pressão no trabalho surge em picos imprevisíveis, pratique as três primeiras ações que você sempre adotará quando a pressão apertar.
 - Busque outras pessoas para o planejamento. Aqueles que possuem talentos marcantes como Foco, Estratégico ou Crença podem ajudá-lo a definir suas metas de longo prazo, permitindo que você se destaque ao lidar com as variações do dia a dia.
 
+-------------------
+
+## Insights sobre mim
+
+Meu dominio é influenciar, mas não com palavras, através do seu jeito, você parece saber onde está o topo e como chegar lá. 
+
+------
+
+## Qual é a minha vantagem comparativa ? 
+
+### Diagnosticar 
+
+Você acha a causa raiz e o gargalo mais rápido do que a maioria das pessoas. 
+
+### Otimizar 
+
+Você consegue extrair mais de algo que já está funcionando
+
+### Decidir sob incerteza 
+
+Você tem confiança em decidir sob incerteza com base em dados e medir e comparar desempenho contra um referencial. 
+
+## O que você deveria delegar e deixar pra outras pessoas
+
+- Tarefas rotineiras
+- Rotina disciplinada
+- Manter o foco por longos periodos de tempo
+- Iniciar contatos frios e vender 
+- Comunicação carismática
+- Manutenção de relacionamentos de longo prazo
+

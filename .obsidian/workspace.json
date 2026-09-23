@@ -47,7 +47,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Work The System Book.md",
+                "file": "00.Notes/MyStrengs How to master.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,10 +259,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a808a70eb06321a",
+  "active": "5df71e587f6a693f",
   "lastOpenFiles": [
-    "00.Notes/MyStrengs How to master.md",
     "00.Notes/Work The System Book.md",
+    "00.Notes/MyStrengs How to master.md",
     "00.Notes/Foco Proximos 90 dias.md",
     "00.Notes/Funções executivas estudo.md",
     "+Daily Notes/2026-09-21 Monday.md",
