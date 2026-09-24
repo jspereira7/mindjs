@@ -62,8 +62,7 @@
               "title": "TDHA Study Today"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#adhd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,7 +275,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b48311750a169480",
+  "active": "3a808a70eb06321a",
   "lastOpenFiles": [
     "00.Notes/TDHA Study Today.md",
     "00.Notes/TDHA 2.0 - Book.md",

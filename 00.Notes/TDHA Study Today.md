@@ -45,3 +45,7 @@ Estrátégias para conseguir executar as coisas tendo adhd:
 
 --------------
 
+## Como voltar o efeito do remedio 
+
+- NAC + Glycine
+
