@@ -41,14 +41,19 @@
             "id": "8f8cc81297eaefc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Study abount working memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Study abount working memory"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.1361198425293
+    "width": 275.1361198425293,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -223,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/MyStrengs How to master.md",
+                "file": "00.Notes/Study abount working memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.8077392578125
+    "width": 290.8077392578125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,10 +266,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5df71e587f6a693f",
+  "active": "8f8cc81297eaefc2",
   "lastOpenFiles": [
-    "00.Notes/Work The System Book.md",
     "00.Notes/MyStrengs How to master.md",
+    "00.Notes/Study abount working memory.md",
+    "00.Notes/Work The System Book.md",
     "00.Notes/Foco Proximos 90 dias.md",
     "00.Notes/Funções executivas estudo.md",
     "+Daily Notes/2026-09-21 Monday.md",
@@ -294,7 +302,6 @@
     "01.Assets/Anexos/Pasted image 20260913013600.png",
     "01.Assets/Anexos/Pasted image 20260913013118.png",
     "01.Assets/Excalidraw/Drawing 2026-09-12 14.07.37.excalidraw.md",
-    "00.Notes/Alfabetização Digital - Anotações Livro Bit Literacy..md",
     "01.Assets/Anexos/Pasted image 20260912151553.png",
     "01.Assets/Anexos/Pasted image 20260911204651.png",
     "01.Assets/Aspirations Js.canvas",
