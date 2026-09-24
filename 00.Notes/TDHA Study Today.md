@@ -49,3 +49,5 @@ Estrátégias para conseguir executar as coisas tendo adhd:
 
 - NAC + Glycine
 
+--------------
+

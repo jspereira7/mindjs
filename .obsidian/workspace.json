@@ -62,7 +62,8 @@
               "title": "TDHA Study Today"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,11 +276,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a808a70eb06321a",
+  "active": "b48311750a169480",
   "lastOpenFiles": [
-    "00.Notes/TDHA Study Today.md",
     "00.Notes/TDHA 2.0 - Book.md",
     "00.Notes/Work The System Book.md",
+    "00.Notes/TDHA Study Today.md",
     "00.Notes/MyStrengs How to master.md",
     "00.Notes/Study abount working memory.md",
     "00.Notes/Foco Proximos 90 dias.md",
