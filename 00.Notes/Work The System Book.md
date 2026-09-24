@@ -29,7 +29,6 @@ E se é verdade que o funcionamento mecanico de uma vida é resultado dos sistem
 Trabalhe com cuidado seus sistemas e os resultados aparecerão espontaneamente. 
 
 As pessoas estão desperdiçando seus dias, lidando com problemas repetidos, apagando incendio, justamente porque não estão prestando atenção aos sistemas que estão produzindo os resultados ruins. 
-
 ## A mentalidade Sistemica 
 
 Você precisa olhar as coisas de cima, o sistema que está produzindo os resultados, separar em partes menores a sua vida. 

@@ -48,7 +48,7 @@ Possuimos alto grau de criatividade e imaginação.
 **Agitação**
 - Principalmente em homens, em mulheres é mais desatenção. 
 
-**Sendo de humor brilhante**
+**Senso de humor brilhante**
 - Por conta da maneira diferente de ver o mundo, vivemos fora da caixinha.
 
 **Incapacidade de puxar o saco**
@@ -75,7 +75,7 @@ O tdha é uma serie de caracteristicas paradoxais, cada ponto negativo, tem seu 
 
 Você pode se concentrar e de repende se desconcentrar, ou cair no hiperfoco quando não quer.
 
-Ou seja, o TDHA não é totalmente ruim nem totalmente bom. 
+**Ou seja, o TDHA não é totalmente ruim nem totalmente bom.** 
 
 O dom de criatividade do thda faz com que ele imagine tanto cenarios bons quanto fique ruminando sobre coisas que na verdade não existem. 
 
@@ -94,4 +94,5 @@ O truque é se forçar a se concentrar em uma unica tarefa, sempre se forçando,
 O ponto é se concentrar em qualquer coisa externa a você, ativar a RPT (modo tarefa focada) vai desligar o modo de ruminação (RPM)
 
 -----
+
 

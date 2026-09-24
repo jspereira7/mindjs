@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "adhd",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Amoeba\"",
@@ -25,6 +25,6 @@
   "repelStrength": 10.2445974827832,
   "linkStrength": 0,
   "linkDistance": 199,
-  "scale": 0.07244511578305968,
-  "close": true
+  "scale": 0.19343709679392504,
+  "close": false
 }
