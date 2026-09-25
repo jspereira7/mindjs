@@ -1,3 +1,7 @@
+---
+tags:
+  - livro
+---
 ## A essencia do Thick Face - Black heart
 
 Uma vida vivida com sucesso é aquela vivida atraves da propria compreensão e em seguir o proprio caminho, não perseguindo os sonhos e satisfazendo as expectativas alheias. 

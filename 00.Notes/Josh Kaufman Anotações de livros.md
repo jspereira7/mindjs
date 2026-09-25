@@ -1,3 +1,7 @@
+---
+tags:
+  - books
+---
 ### Principais ideias do livro 80/20 
 
 Identifique e gaste sua energia nos poucos criticios, seja nos relacionamentos, estudo etc... 

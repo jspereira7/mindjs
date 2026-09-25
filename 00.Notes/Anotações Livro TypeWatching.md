@@ -1,3 +1,8 @@
+---
+tags:
+  - books
+  - psicologia_junguiana
+---
 # Prefacio 
 O principal beneficio na tipologia profunda é a capacidade de se auto-gerenciar de forma mais eficaz.
 

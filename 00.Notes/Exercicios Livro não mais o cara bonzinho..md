@@ -1,3 +1,8 @@
+---
+tags:
+  - books
+  - desenvolvimento_pessoal
+---
 ### **Exercicio 3*** 
 
 Vergonha tóxica é o que cria um cara bonzinho. 

@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.hasTag("books", "livro")
+        - file.name.contains("livro")
+    groupBy:
+      property: created
+      direction: ASC
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - tags
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 355
+      file.mtime: 171
+  - type: list
+    name: Cards
+    imageFit: contain
+    indentProperties: false
+    markers: number

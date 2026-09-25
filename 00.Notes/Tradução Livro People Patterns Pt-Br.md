@@ -1,3 +1,8 @@
+---
+tags:
+  - livro
+  - psicologia_junguiana
+---
 # People Patters 
 
 Um guia moderno sobre os 4 temperamentos. 

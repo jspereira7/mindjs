@@ -1,3 +1,7 @@
+---
+tags:
+  - adhd
+---
 # Introdução
 
 - Viver com TDHA traz desafios unicos, mas não se limite por isso, basta desenvolver estrategias para lidar com a maneira que seu cerebro funciona.

@@ -1,3 +1,9 @@
+---
+tags:
+  - books
+  - james_clear
+  - desenvolvimento_pessoal
+---
 > Você não sobe para atingir o nivel de seus objetivos, Desce ao nivel de seus sistemas. 
 
 **Significado de átomo:** 

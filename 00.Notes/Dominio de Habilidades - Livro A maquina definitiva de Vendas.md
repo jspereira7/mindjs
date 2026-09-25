@@ -1,3 +1,8 @@
+---
+tags:
+  - books
+  - negocios
+---
 Você precisa afiar o machado, melhorar suas habilidades e ferramentas de trabalho. 
 
 Na primeira vez que se estuda um conteudo, você eleva o seu nivel de conciencia sobre aquilo, levando a um progresso na habilidade.

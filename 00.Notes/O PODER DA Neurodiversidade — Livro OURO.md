@@ -2,6 +2,7 @@
 tags:
   - adhd
   - neurodivergente
+  - livro
 ---
 - Assim como os animais criam adaptações no ambiente, seres humanos neurodivergentes, devem criar adaptações no seu ambiente para poderem funcionar melhor. 
 	- Softwares, brinquedos ant-estresse, mesas ergonomicas, meditação mindfulness, psicoterapia, mapas mentais, roupas ponderadas, entre muitas outras coisas.

@@ -1,3 +1,8 @@
+---
+tags:
+  - books
+  - psicologia_junguiana
+---
 
 O objetivo de ter uma linguagem, ou uma lente para descrever a personalidade, é, em última análise, transcendê- la.
 
