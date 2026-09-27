@@ -38,4 +38,5 @@ author:
 
 - [[Ti - Cs Joseph]]
 - [[Introverted Thinking - John Bodine]]
+- [[ISTP - Estilo de aprendizado]]
 - 
