@@ -23,18 +23,13 @@
             }
           },
           {
-            "id": "1b5a547fc0c92609",
+            "id": "b9917a3299b9ba86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/ISTP How to learn better.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ISTP How to learn better"
+              "title": "New tab"
             }
           }
         ],
@@ -261,11 +256,10 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
-      "periodic-notes:Open today": false
+      "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "1b5a547fc0c92609",
+  "active": "b9917a3299b9ba86",
   "lastOpenFiles": [
     "00.Notes/Work The System Book.md",
     "00.Notes/ISTP How to learn better.md",
