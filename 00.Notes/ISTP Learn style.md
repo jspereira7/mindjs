@@ -71,5 +71,5 @@ Aprende **ouvindo e falando**: pratica exatamente o que o nome sugere.
 - Fazer atividades inclusivas, como sessões de ideias com tópicos escritos no quadro: permitem falar e ver as ideias registradas, o que ativa a memória e leva a aprofundamentos.
 - Praticar **recitação**. Quanto mais conversacional, melhor.
 
-[[Resultado teste de estilo de aprendizado]]
+[[Estrategias de aprendizado]]
 

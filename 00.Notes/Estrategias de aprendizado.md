@@ -1,18 +1,13 @@
-## Sou um Mult-modal (VK)
-- Visual 👁️ + Cinestésico 🏃‍♂️
-
-## Pontuação 
-- Visual 14
-- Auditiva 1 
-- Leitura/escrita 7
-- Cinestésica 13
-
+---
+tags:
+  - estilos-de-aprendizagem
+---
 ----------------------------
-## Visual Strategies 
+## ==Visual Strategies 
 - Palavras chave: design, layout, graphics and format. 
 - The Big Picture 
 
-Pessoas que preferem ler através do visual gostam de usar: 
+==Pessoas que preferem ler através do visual gostam de usar: 
 - Plans
 - Desenhos 
 - Charts & graphs
@@ -67,6 +62,8 @@ Pessoas que preferem ler através do visual gostam de usar:
 - Assista videos educacionais para melhorar ainda mais a retenção
 - Use animações e motion graphics para ilustrar conceitos. 
 - Tome notas enquanto assiste videos para maximizar a efetividade do aprendizado. 
+
+-----
 
 
 
