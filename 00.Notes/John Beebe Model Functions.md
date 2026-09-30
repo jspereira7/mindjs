@@ -122,4 +122,55 @@
 - Atividade solitaria, sem a compania de outras pessoas
 
 --------------
+## Como o ISTP aprende melhor 
+
+- Quando o conteudo é apresentado com diversos exemplos tangiveis (melhora a retenção)
+- Quando o conteudo possui aplicação prática (melhora o interresse) 
+- Quando o conteudo foca mais em soluções do que em problemas. 
+- Quando o material não apela para sentimentos profundos. 
+
+### Foque na aplicação prática 
+
+- Use a IA para gerar exercícios, projetos e cenários reais (ex.: simulações, problemas técnicos, tutoriais passo a passo).
+- Peça instruções concisas e “mão na massa” (checklists, comandos, scripts).
+- Aprenda experimentando 
+
+**MicroTarefas e ciclos curtos**
+- Divida projetos em tarefas pequenas e mensuráveis; peça à IA planos por etapas e critérios de sucesso.
+
+**Testes automatizados**
+- Peça a IA para gerar testes automatizados para validar seu trabalho. 
+
+**Menos teorias e mais aplicação prática**
+- Peça para a IA te explicar somente o suficiente que sirva para você aplicar. 
+- Pergunte mais pra IA o como fazer, do que o porque fazer. 
+
+**Ideias de profissoes:**
+- Engenheiro de Dados (Automatiza o processo de ETL)
+
+-------------
+
+## Resultado Teste de estilo de aprendizado
+
+https://learningstylequiz.com//quiz/results/Kinesthetic-ISTP/2453270?confirm=sent
+
+- Segundo esse teste eu sou um ISTP com o estilo de aprendizado cinestésico. 
+
+
+**Visão Geral**
+- Os ISTP's querem saber como tudo funciona.
+- Quando eles entendem como xyz material é util na vida real, seu interrese por aprender aumenta drasticamente. 
+- Eles aprendem melhor quando o material fornece exemplos e situações da vida real que lhes permitem experimentar por sí mesmos. 
+- Eles querem entender completamente como xyz material funciona. Ambientes imersivos com aplicação prática são muito produtivos pra eles. 
+
+**Situações ideais de aprendizado**
+- Material prático, aprezentado em situações acionaveis
+- O material é aprezentado repetidamente e com exemplos. 
+- O processo de aprendizado é progressivo, mas não é atropelado. 
+- Os materiais de estudo podem ser revisados depois. 
+
+**Situações desafiadoras para o ISTP aprender**
+ - O material de estudo é hipotetico e os exemplos são teóricos.
+ - Quando eles não conseguem ver onde vão aplicar aquele conhecimento. 
+ - Muito foco no problema, e não em como resolver eles. 
 
