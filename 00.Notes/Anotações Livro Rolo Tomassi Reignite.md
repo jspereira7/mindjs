@@ -97,5 +97,57 @@ tags:
 - Em decisões como mudar de emprego, trocar de faculdade ou se mudar por um relacionamento ele fica preocupado em o que os outros vão dizer 
 	- Ele pensa o que a mae, pai, futura namorada vão dizer 
 - A pilha cognitiva com MPO: Primeiro pense "Como isso me afeta ?", e depois vem namorada, cachorro, familia
-- O objetivo é confiar que decisões que são boas pra você, tambem serão boas para esposa, 
+- O objetivo é confiar que decisões que são boas pra você, tambem serão boas para pessoas ao seu redor 
+- **Aplicação prática:** Ao ter que decidir sobre qualquer coisa, considere o impacto sobre você mesmo primeiro. 
+- Você deve ser a primeira pessoa em sua vida, e depois os outros, porque isso será benéfico para sí mesmo e os outros tambem. Perguntar ***"Como eu quero que minha vida seja, ao inves de perguntar o que os outros esperam de mim ?"***
+- Em resumo é confiar que a sua tomada de decisão irá beneficiar aos outros tambem. Mas é você que toma a decisão. 
+- Basicamente é pedir perdão, não permissão. 
 
+> I cannot help others until I can help myself first. I cannot help others as well as when I help myself first.
+
+-----------------------
+
+# The burden of performance 
+- Homens são esperados performance. 
+- Para ter sucesso, para ter uma namorada, para viver uma boa vida, men must **do**. 
+	- O quão boa é essa performance, vai da avaliação subjetiva da mulher, mas a performance em sí é inevitavel. 
+	- Ex: Empinar uma bicicleta na frente de uma menina aos 12 anos de idade, é a mesma lógica em conseguir um doutorado aos 30 para impressionar uma parceira. 
+	- Não importa se você tem que empinar uma biscicleta para impressionar a menina, ou se você tem que conseguir um doutorado pra fazer isso. Você precisa agir. 
+
+- **Mulheres modernas e entretenimento**
+	- As mulheres modernas não buscam mais conforto ou estabilidade nos homens, elas buscam entretenimento. Distração. Prazeres hedonistas. 
+	- Por isso homens beta e alphas menos desenvolvidos falham miseravelmente em manter relacionamentos nos dias de hoje. 
+	- Assim que o entretenimento ou a novidade que você proporciona diminui, ela partirá para outra coisa ou outro homem. 
+	- A unica maneira de manter uma mulher nos dias atuais é ter uma mentalidade de roteirista de novela, adicionando suspense no final de cada episodeo, mantendo o interresse da mulher, quando ser um bom homem já não é mais suficiente. 
+	- Goste você ou não, jogue você ou não, como homem, você sempre será avaliado pelo seu desempenho — ou pela percepção que se tem dele.
+
+
+- **Seja você mesmo e a mulher certa aparecerá**
+	- O que atrapalha os homens é um sentimento de indignação em relação as mulheres, como se eles tivessem que ser "alguem que não são" e representar um papel que não corresponde com a sua verdadeira natureza para manter o interresse feminino. 
+	- Isso é uma mentira, e os homens se ressentem por ter que agir de uma maneira que não é natural pra eles. 
+	- Ex: Um homem introvertido, terá que ser extrovertido para manter a atenção da parceira, ele se ressente e se acha uma farsa, por ter que fingir ser alguem que não é. 
+	- A frustração vem de sentir que a performance é algo separado de quem ele realmente é.
+
+- **MGTOWN — Seguir seu proprio caminho** 
+	- Essa abordagem de seguir seu proprio caminho é tentadora, porque o livra de sair do jogo da performance com as mulheres
+	- Mas isso não resolve o problema, porque como homem, você já nasce em um jogo onde é avaliado pela sua performance, ou a percepção dela
+	- Exemplo: um homem que desiste completamente de namorar continua sendo julgado por performance em outras áreas, como carreira ou status social.
+
+## Vivendo bem 
+- Como homem é fato que seu desempenho será avaliado pelos outros, goste você ou não disso. 
+- Então mesmo que você não queira jogar, e dizer "Que se dane, vou ser eu mesmo", você ainda está sendo avaliado pela sua performance. 
+- A verdade é que você precisa ser a sua performance, ela precisa ser internalizada. 
+- Aparência, talento, benefícios tangíveis e outros pré-requisitos essenciais podem variar de mulher para mulher, mas ser homem é ter um bom desempenho.
+- Infelizmente não tem para onde correr, até mesmo para viver nesse mundo, você tem que performar, porque para ganhar dinheiro, você precisa performar. 
+
+## Não fica mais facil, você fica melhor 
+- Para os homens, não há descanso de performance. As mulheres não se importam e nem tem empatia, elas só se preocupam com performance. 
+- Os homens devem se tornar, e continuar se tornando. 
+- Elas querem performance, seja de aparencia, atitude etc... você é avaliado pela sua performance, nada mais que isso. 
+- Você não pode apelar para a razão com uma mulher, para que ela perdoe sua falta de desempenho. 
+- É a capacidade de um homem de demonstrar (nunca explicar) valor superior, que motiva as mulheres a atender suas necessidades mutuas em um relacionamento — seja uma transa de uma noite ou um casamento de 50 anos. 
+
+## DHV (Demonstrating Higher Value)
+- Esse conceito não é sobre a capacidade de um homem em se exibir para as mulheres. 
+- A performance só é apreciada quando um homem não está tentando se exibir. 
+- Quer você demonstre maior ou menor valor, intencionalmente ou não, você não pode se desvincular dessa equa
