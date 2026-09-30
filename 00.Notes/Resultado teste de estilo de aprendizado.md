@@ -31,7 +31,8 @@ Pessoas que preferem ler através do visual gostam de usar:
 
 >[!quote] **You are holistic. You want the whole picture – the BIG picture first! You are probably going to DRAW something.**
 
-## Pratical aplication
+--------
+### Pratical aplication
 
 **In learning space**
 - Replace keywords with simbols & diagrams 
@@ -48,5 +49,25 @@ Pessoas que preferem ler através do visual gostam de usar:
 - Tenha em mente que nem todo mundo é visual igual você
 
 >  “The soul never thinks without a picture.”
+
+------
+
+### Use visual elements to Express Ideas
+- Crie flow-charts para entender um processo passo a passo
+- Use diagramas para conectar ideias e melhorar a retenção
+- Use cores e simbolos para highlits dos melhores pontos
+
+--------------
+
+### Leverage Video-based learning
+- Videos engajam multiplos sentidos, fazendo deles uma ótima forma para visual learners. 
+	- Explicações animadas 
+	- Demonstrações intitucionais
+	- Aulas em video ajudam a clarificar conteudos complexos
+- Assista videos educacionais para melhorar ainda mais a retenção
+- Use animações e motion graphics para ilustrar conceitos. 
+- Tome notas enquanto assiste videos para maximizar a efetividade do aprendizado. 
+
+
 
 

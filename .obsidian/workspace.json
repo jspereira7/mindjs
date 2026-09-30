@@ -23,30 +23,25 @@
             }
           },
           {
-            "id": "7c66854c0d13f539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/ISTP Learn style.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ISTP Learn style"
-            }
-          },
-          {
-            "id": "a17afd4af71fe003",
+            "id": "a550c2201984c91e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "00.Notes/ISTP Visual Representation.md"
+                "file": "01.Assets/Excalidraw/Drawing 2026-09-29 23.59.07.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ISTP Visual Representation"
+              "title": "Drawing 2026-09-29 23.59.07.excalidraw"
+            }
+          },
+          {
+            "id": "57266f572d4057e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -228,7 +223,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/ISTP Visual Representation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -276,13 +270,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a17afd4af71fe003",
+  "active": "57266f572d4057e6",
   "lastOpenFiles": [
-    "00.Notes/ISTP Visual Representation.md",
+    "00.Notes/Resultado teste de estilo de aprendizado.md",
+    "01.Assets/Excalidraw/Drawing 2026-09-29 23.59.07.excalidraw.md",
+    "01.Assets/Anexos/Pasted Image 20260930004603_858.png",
+    "01.Assets/Anexos/Pasted Image 20260930000504_834.png",
+    "01.Assets/Anexos",
     "00.Notes/ISTP Learn style.md",
+    "00.Notes/ISTP Visual Representation.md",
     "00.Notes/Teste mermaid.md",
     "01.Assets/Excalidraw/LearningStylesDiagram.excalidraw.md",
-    "00.Notes/Resultado teste de estilo de aprendizado.md",
     "00.Notes/Pensar em apostas — Annie Duke.md",
     "00.Notes/ESTP SDJM.md",
     "00.Notes/John Beebe Model Functions.md",
@@ -308,17 +306,13 @@
     "+Bases/Livros.base",
     "+Bases/Relacionamentos.base",
     "00.Notes/Como lidar com as mulheres - Nessaham alita..md",
-    "00.Notes/TDHA Study Today.md",
     "+Bases",
-    "00.Notes/MyStrengs How to master.md",
     "Anexos/Pasted image 20260921150240.png",
     "Anexos/Pasted image 20260918183542.png",
     "Anexos/Pasted image 20260914173035.png",
     "Anexos/Pasted image 20260913025319.png",
     "Anexos/ENTP Hero.png",
     "Anexos/Pasted image 20260913013810.png",
-    "Anexos/Pasted image 20260913013600.png",
-    "Anexos/Pasted image 20260913013118.png",
     "01.Assets/Aspirations Js.canvas",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
@@ -327,7 +321,6 @@
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",
-    "00.Notes/Modelos Mentais.base",
     "00.Notes/Visual Thinking Canva.canvas",
     "01.Assets/HowToTypeYourSelf.canvas",
     "01.Assets/Untitled 2.canvas",
