@@ -13,7 +13,7 @@ tags:
 - Charts & graphs
 - Maps
 - Diagrams
-### They organize and emphasize information using:
+### **They organize and emphasize information using:**
 - White Space 
 - Fonts (Negrito etc)
 - Highlighting 
@@ -27,7 +27,7 @@ tags:
 >[!quote] **You are holistic. You want the whole picture – the BIG picture first! You are probably going to DRAW something.**
 
 --------
-### Pratical aplication
+### **Pratical aplication**
 
 **In learning space**
 - Replace keywords with simbols & diagrams 
@@ -47,7 +47,7 @@ tags:
 
 ------
 
-### Use visual elements to Express Ideas
+### **Use visual elements to Express Ideas**
 - Crie flow-charts para entender um processo passo a passo
 - Use diagramas para conectar ideias e melhorar a retenção
 - Use cores e simbolos para highlits dos melhores pontos
