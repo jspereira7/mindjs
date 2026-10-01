@@ -147,7 +147,6 @@ tags:
 - Você não pode apelar para a razão com uma mulher, para que ela perdoe sua falta de desempenho. 
 - É a capacidade de um homem de demonstrar (nunca explicar) valor superior, que motiva as mulheres a atender suas necessidades mutuas em um relacionamento — seja uma transa de uma noite ou um casamento de 50 anos. 
 
-## DHV (Demonstrating Higher Value)
-- Esse conceito não é sobre a capacidade de um homem em se exibir para as mulheres. 
-- A performance só é apreciada quando um homem não está tentando se exibir. 
-- Quer você demonstre maior ou menor valor, intencionalmente ou não, você não pode se desvincular dessa equa
+## [[DHV (Demonstrating Higher Value)]]
+
+## [[]]
