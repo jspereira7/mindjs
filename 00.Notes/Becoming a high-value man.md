@@ -1,0 +1,3 @@
+- O primeiro passo é melhorar o fisico, para atender as necessidades atuais do mercado sexual. 
+- O primeiro passo atual é avaliar sua posição no mercado sexual. 
+- 
