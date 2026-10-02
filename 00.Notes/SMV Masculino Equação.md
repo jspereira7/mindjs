@@ -24,4 +24,12 @@ Seu valor sexual de mercado = Looks, Affluence, Game
 - humor, charme, narrativa e interação 
 - frame = liderança
 
+------------
 
+No livro tomassi diz que é preciso se tornar a propria performance, ou seja, ao inves de fingir ser alguem que não é, você deve se tornar aquele cara
+
+Homens são avaliados dessa maneira: 
+- Fazer
+- Conquistar
+- Demonstrar
+- Ser respeitado

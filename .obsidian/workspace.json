@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "Plan Js"
             }
+          },
+          {
+            "id": "5aa9a98a705fe5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Looks Maximing - Cravicular Tips.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Looks Maximing - Cravicular Tips"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,9 +296,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9ab81075ef2a4e07",
+  "active": "5aa9a98a705fe5d7",
   "lastOpenFiles": [
+    "00.Notes/Eye Maxximing.md",
+    "00.Notes/Looks Maximing - Cravicular Tips.md",
+    "00.Notes/Diet Maxximing.md",
     "00.Notes/Plan Js.md",
+    "00.Notes/Estrategias de aprendizado.md",
     "00.Notes/SMV Masculino Equação.md",
     "00.Notes/Anotações Livro Rolo Tomassi Reignite.md",
     "00.Notes/The burden of performance.md",
@@ -292,7 +311,6 @@
     "00.Notes/Sexual Market Value.md",
     "00.Notes/Hypergamy.md",
     "00.Notes/Becoming a high-value man.md",
-    "00.Notes/Estrategias de aprendizado.md",
     "00.Notes/Ni - introverted intuition.md",
     "00.Notes/The 4 Perceiving functions.md",
     "00.Notes/Ne - extroverted intuition.md",
@@ -309,11 +327,8 @@
     "00.Notes/Teste mermaid.md",
     "01.Assets/Excalidraw/LearningStylesDiagram.excalidraw.md",
     "00.Notes/Pensar em apostas — Annie Duke.md",
-    "00.Notes/ESTP SDJM.md",
-    "00.Notes/John Beebe Model Functions.md",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
-    "01.Assets/Desenvolvimento Pessoal/Chadfication - Js.md",
     "Anexos/Pasted image 20260926220916.png",
     "Anexos/Pasted image 20260926220915.png",
     "+Bases/Livros.base",

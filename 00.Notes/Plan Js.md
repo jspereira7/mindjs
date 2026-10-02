@@ -39,11 +39,11 @@
 - Seu objetivo agora é sobreviver 1 real -> 10 reais -> 100 reis -> 1.000 reais -> 5k mes
 
 #### **Produção** 
-- menos conteudo 
-- mais execução real 
-- criar algo
-- vender algo 
-- medir algo 
+- Menos conteudo 
+- Mais execução real 
+- Criar algo
+- Vender algo 
+- Medir algo 
 
 ----------------
 
@@ -64,3 +64,7 @@
 - Flertar 
 - Conduzir, aprender a progredir o relacionamento 
 - Aprender a suportar o desconforto da rejeição 
+
+--------------
+
+

@@ -33,7 +33,7 @@ tags:
 - Replace keywords with simbols & diagrams 
 - Reconstrua notas usando imagens, cores, fontes, e diferentes layouts espaciais. 
 - Revise suas anotações e procure por padrões 
-- Reduza 3 páginas de anotaçãor em uma 
+- Reduza 3 páginas de anotação em uma 
 - Redesenhe suas notas para memorizar 
 - Reconstrua novamente suas notas em palavras 
 
