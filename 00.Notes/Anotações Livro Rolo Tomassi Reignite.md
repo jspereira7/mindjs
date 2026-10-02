@@ -11,7 +11,7 @@ tags:
 	- É uma praxeologia: o estudo do comportamento humano partindo da ideia de que ele tem um propósito ou motivação latente.
 	- É uma ciencia em andamento, tudo pode mudar
 
-## Hypergamy — a busca pelo mais e melhor
+## [[Hypergamy]] — a busca pelo mais e melhor
 - Origem do termo: Um sociologo notou a tendencia das mulheres em se casar "para cima", movendo-se de castas inferiores para superiores
 - A definição foi expandida para a tendencia das mulheres em **buscar coisas maiores e melhores no mercado sexual e de estilo de vida.** 
 - Mulheres possuem um **piso de atração**, homens abaixo desse "minimo" nem são considerados como possiveis parceiros. 
@@ -121,7 +121,6 @@ tags:
 	- A unica maneira de manter uma mulher nos dias atuais é ter uma mentalidade de roteirista de novela, adicionando suspense no final de cada episodeo, mantendo o interresse da mulher, quando ser um bom homem já não é mais suficiente. 
 	- Goste você ou não, jogue você ou não, como homem, você sempre será avaliado pelo seu desempenho — ou pela percepção que se tem dele.
 
-
 - **Seja você mesmo e a mulher certa aparecerá**
 	- O que atrapalha os homens é um sentimento de indignação em relação as mulheres, como se eles tivessem que ser "alguem que não são" e representar um papel que não corresponde com a sua verdadeira natureza para manter o interresse feminino. 
 	- Isso é uma mentira, e os homens se ressentem por ter que agir de uma maneira que não é natural pra eles. 
@@ -150,6 +149,5 @@ tags:
 ## [[DHV (Demonstrating Higher Value)]]
 
 -------------
-
-## [[Becoming a high-value man]]
+ 
 

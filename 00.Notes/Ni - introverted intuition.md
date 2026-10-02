@@ -33,7 +33,6 @@ Essa é a função do "aha" 💡
 
 Como ISTP, é meio que você tivesse insights "aha" em background, não são tanto concientes, mas eles aparecem de vez em quando
 
-
 ----
 
 ## Perguntas sobre o modelo
