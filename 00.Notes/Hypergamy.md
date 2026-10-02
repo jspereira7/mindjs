@@ -14,7 +14,11 @@ Alpha Fucks, beta bucks.
 ------
 ## Explicação
 
-
+Origem do termo: Um sociologo notou a tendencia das mulheres em se casar "para cima", movendo-se de castas inferiores para superiores
+- A definição foi expandida para a tendencia das mulheres em **buscar coisas maiores e melhores no mercado sexual e de estilo de vida.** 
+- Mulheres possuem um **piso de atração**, homens abaixo desse "minimo" nem são considerados como possiveis parceiros. 
+- A hipergamia não é só sobre casamento, é sobre um parceiro que proporcione mais e melhor pra ela.(Viagens, circulo social etc...)
+- **Em resumo:** É a tendencia das mulheres em buscar algo melhor, seja em parceiros, estilos de vida etc.. não apenas se casar com alguem de posição superior
 
 
 ----
