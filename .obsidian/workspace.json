@@ -279,8 +279,7 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
-      "periodic-notes:Open today": false
+      "star-notebooklm:Open NotebookLM": false
     }
   },
   "active": "3ebef7e4884dca95",
