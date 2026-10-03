@@ -18,7 +18,7 @@ Deixando somente o que tem valor
 
 
 ------------
-## Intuição Extrovertida 
+## Ne — Intuição Extrovertida 
 
 Por ser sua função extrovertida mais conciente a Ne é sua principal forma de interagir com o mundo externo e falar e lidar com as pessoas
 
@@ -185,5 +185,170 @@ Eles meio que tem uma empatia cognitiva ao inves de afetiva
 
 Apesar da dificuldade em se conectar com os outros em um nível emocional, o Fe dos INTPs ainda anseia pela mesma sensação de afirmação e validação que os FJs experimentam ao interagir com as pessoas.
 
+Esse desejo em afirmação, muitas vezes é o que leva o INTP a buscar conquistas e realizações, para que ele se sinta aceito pelos outros 
+
+As vezes eles ezibem certas tentencias narcisistas 
+
+Eles não conseguem viver sem pelo menos uma pessoa com que possam se conectar
+
+O que é um paradoxo, porque muitas vezes eles ficam tão focados na sua Ti Heroi que pensam que não precisam das outras pessoas pra viver 
+
+Isso acontece muito quando eles estão hiperfocados no trabalho ou coisas do tipo 
+
+Mas logo sentem a falta de algo em suas vidas, e de que algo está faltando, é a sua necessidade de conexão com as outras pessoas 
+
+Isso os leva a ir se conectar com as pessoas, mas logo depois que saceiam sua vontade de conexão 
+
+Eles voltam para o seu modo padrão de independencia (Ti)
+
+------------------
+### Emoções infantis e instaveis 
+
+Eles são muito sensiveis as emoções, o que facilmente pode os levar a paixão a primeira vista ou a se emocionar facilmente quando uma musica os toca 
+
+Eles são vulneraveis a paixoes por tipos com alto Sentimento extrovertido 
+
+Cujo calor Fe pode rapidamente despertar suas emoções infantis Fe 
+
+Suas emoções parecem que tem vida propria, surgindo e sumindo repentinamente
+
+Eles se sentem desajeitados e estranhos ao lidar com situações que exigem usar a emoção, já que suas emoções aparecem quando querem 
+
+Geralmente eles sabem qual emoção é a certa a se demonstrar, mas como não estão sentindo, isso parece meio mecanico e desajeitado 
+
+São muito ruins em comunicar suas proprias emoções aos outros 
+
+Apesar dos apesares, eles são habilidosos em controlar suas proprias emoções, conseguindo rapidamente se distanciar delas 
+
+Por isso eles conseguem se recuperar emocionalmente muito rapido após situações traumáticas e terminos de relacionamentos 
+
+-------
+### Bons em controlar a sí mesmos e ruins em controlar os outros 
+
+Os tipos FJ's com seu Fe extrovertido são habilidosos em controlar o mundo externo, e se sentem confortaveis com isso
+
+Um cara que se parece muito com um FJ habilidoso é o Vitor Silva
+
+Mas como possuem seu Ti menos desenvolvido, eles não tem um senso interno de controle proprio, o INTP funciona do modo inverso 
+
+Se sentem capazes de controlar a sí mesmo internamente, e ruins em controlar o mundo externo e os outros
+
+Para lidar com esse tipo de situação o INTP evita a todo custo situações onde é necessario utilizar essa função 
+
+Eles evitam situações de liderança e evitam a todo custo contato interpessoal 
+
+Eles se sentem mais seguros sendo responsaveis apenas de sí mesmo 
+
+Mas em algum momento eles precisam sair e interagir com pessoas, e onde há pessoas, certamente haverá problemas Fe 
+
+Eles possuem enorme dificuldade em situações que envolvem emoções negativas
+
+Se sentem perdidos em situações onde é necessario mediar conflitos
+
+Eles não gostam nada de ter que fingir empatia, pois não querem parecer inautenticos, sendo assim tudo o que acreditam poder fazer é resolver os problemas dos outros e oferecer opções 
+
+O que pode levar a maior raiva e ressentimento
+
+-----------------------------------
+## Crescimento e desenvolvimento 
+
+O desenvolvimento de um tipo acontece de forma gradual, não é da noite para o dia 
+
+O desenvolvimeneto acontece em fases, não devemos julgar uma fase melhor ou pior que as outras, todas contribuem para o desenvolvimento do tipo 
+
+### Fase 1 — Infancia 
+
+Desde cedo, todos os tipos de personalidade dependem da função dominante como sua  ferramenta para navegar pelo mundo
+
+Meu filho ISTP, por exemplo, mostrou sinais precoces de um Ti dominante. 
+
+Por volta dos dois anos de idade, com pouco incentivo, ele aprendeu a usar o banheiro sozinho e parou de usar chupeta. 
+
+Aos cinco anos, ele repentinamente abandonou o refrigerante, afirmando que isso poderia prejudicar seu desenvolvimento como jogador de futebol. 
+
+Em cada um desses casos, os resultados foram imediatos e duradouros. 
+
+Isso é o Ti em essencia: ***tomar decisões de forma independente e impor disciplinas a si mesmo para alcançar seus objetivos.***
+
+Não é anormal que Ti dominantes concentrem seus esforços em 1 ou 2 interresses, podem usar seu Ti para dominar videogames, esportes e qualquer coisa do tipo 
+
+Como a função Ti é uma função de julgamento, os jovens INTPs podem levar a si mesmos e seus interesses muito a sério. 
+
+Como vimos com meu filho, eles podem demonstrar níveis precoces de autodisciplina e autocontrole. 
+
+Frequentemente, são orientados a objetivos, buscando a excelência em tudo o que desperta seu interesse.
+
+O Fe tambem aparece na infancia, buscando o reconhecimento de seus pais, "Olha o que eu sei fazer Pai" 
+
+E tambem pode aparecer com o desenvolvimento de amizades significativas na infancia
+
+--------------
+
+### Fase 2 — Final da infancia chegando aos 30 anos 
 
 
+Os INTPs podem ser considerados como entrando na Fase II quando experimentam um conflito mais pronunciado entre o tempo e a energia que dedicam a si mesmos (Ti) versus os outros (Fe).
+
+Isso não é um problema na fase inicial, já que eles tem bastante tempo para usar seu Ti e seu Fe. 
+
+Os INTP's tambem não se sentem na obrigação de controlar ninguem alem deles mesmos
+
+Mas ao chegar no começo da vida adulta, as coisas começam a mudar, as vezes de forma bem rápida 
+
+Uma das maiores mudanças envolve o florescimento do interesse dos INTPs em relacionamentos românticos.
+
+Os INTPs do sexo masculino parecem particularmente preocupados em construir uma reputação e deixar sua marca no mundo. 
+
+Portanto, quando suas carreiras e relacionamentos não atendem aos padrões do seu ego, eles podem entrar em depressão ou desenvolver comportamentos viciantes ou prejudiciais à saúde.
+
+### Fase 3 — 30, 40 +
+
+Se a Fase II é como uma montanha-russa emocional, repleta de altos e baixos, a Fase III é como estar no piloto automático emocional — um estado de espírito mais calmo, estável e tranquilo. Em muitos aspectos, assemelha- se a uma espécie de existência zen.
+
+Os INTPS não irão pular da fase 1 direto pra 3, eles primeiro vão ter que satisfazer seus desejos do ego
+
+Os INTPs da Fase III são tipicamente menos apegados ao trabalho, no sentido de que se preocupam menos com o avanço ou a satisfação do seu ego Fe. 
+
+Isso lhes permite desfrutar do trabalho pelo seu valor intrínseco, em vez de se obcecarem com o "sucesso" externo.
+
+## Potenciais negativos e disturbios 
+
+Já abordamos algumas características do INTP que podem ser percebidas negativamente por outros tipos de personalidade, como a tendência a serem **distantes**, **egocêntricos**, **emocionalmente imaturos** ou comunicadores ineficazes.
+
+#### O lado sombrio do INTP 
+
+Geralmente eles são bastante equilibrados e agradaveis, eles usam seu Ti para encontrar estrategias que minimizam seu estresse e ansiedade 
+
+Existem situações, no entanto, que fazem com que o Fe frágil e hipersensível dos INTPs se sinta ameaçado ou fora de controle. 
+
+Isso pode ocorrer, por exemplo, quando seus parceiros românticos encontram defeitos neles ou os "implicam", em vez de afirmar ou satisfazer a sua "necessidade de ser necessário" (Fe).
+
+Quando os INTPs estão enfurecidos ou irritados, pensam e agem de forma irracional. Podem, por exemplo, atacar repentinamente e de forma inesperada um agressor percebido, como um cônjuge, filho ou colega de trabalho.
+
+Eles podem dizer e fazer coisas que os outros jamais esperariam que eles fariam 
+
+O INTP precisa reconhecer que não deve dar ouvidos a sua função inferior, porque é a mesma coisa que dar ouvidos a uma criança recem nascida 
+
+#### Depressão 
+
+Eles podem ficar depressivos quando estão muito tempo agindo de forma não natural, sem utilizar seu Ti-Ne. 
+
+O que lhes causa inquietação
+
+Ou tambem quando pensam que sua vida está meio sem sentido, e enchergam que eles não são necessários (Fe). 
+
+Ou que os outros não os validam 
+
+### INTP + TDHA 
+
+Eles são menos propensos a diagnósticos de tdha, porque o seu Ti Heroi é uma função executiva, o que lhes fornece o foco e autocontrole executivo. 
+
+Os ENPS sim são mais propensos a ter um diagnóstico de Tdha. 
+
+### INTP's + Autismo 
+
+Eles são menos propensos a serem diagnosticados a estarem nesse espectro, porque possuem Ne + Fe. 
+
+O que de certa forma os ajuda com habilidades sociais
+
+### 

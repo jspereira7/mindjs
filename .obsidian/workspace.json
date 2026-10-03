@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Plan Js.md",
+                "file": "00.Notes/Livro sobre INTP Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -254,12 +254,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 630.2990112304688,
-    "collapsed": true
+    "width": 313.7379150390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,10 +278,11 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false
+      "star-notebooklm:Open NotebookLM": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "3ebef7e4884dca95",
+  "active": "746679b26d449cbc",
   "lastOpenFiles": [
     "00.Notes/Livro sobre INTP Anotações.md",
     "00.Notes/Plan Js.md",
