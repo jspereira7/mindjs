@@ -351,4 +351,26 @@ Eles são menos propensos a serem diagnosticados a estarem nesse espectro, porqu
 
 O que de certa forma os ajuda com habilidades sociais
 
-### 
+--------------
+### Carreiras cursos e interresses 
+
+Devido ao seu Ti heroi que quer ser independente, eles relutam em ser funcionários de alguem
+
+São controladores, querem ter total controle de sí mesmos e evitam ser gerenciados pelos outros 
+
+O que eles não percebem é que não é a carreira em sí que te limita, mas a sua abordagem a ela 
+
+Com conhecimento prévio suficiente, os INTPs poderiam aplicar suas funções Ti e Ne a praticamente qualquer coisa.
+
+Entre os pontos fortes característicos dos INTPs estão a criatividade e a engenhosidade.
+
+Ao contrário dos tipos SJ e TJ, os INTPs não são tão interessados em projetar ou executar experimentos altamente formalizados. 
+
+A busca por fatos concretos por meio de experimentos controlados é, em grande parte, uma atividade da função Te.
+
+A Ne envolve uma exploração aberta de ideias, prestando-se às artes, ao empreendedorismo, à invenção, bem como à pesquisa acadêmica. 
+
+Como uma função Perceptiva aberta, a Ne sente-se confortável com a ambiguidade, vendo as ideias como fluidas e contextuais. 
+
+Consequentemente, muitas áreas das humanidades (por exemplo, religião, filosofia, história, literatura, línguas), bem como o jornalismo, podem ser boas opções para os tipos NP.
+
