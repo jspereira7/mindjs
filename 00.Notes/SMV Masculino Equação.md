@@ -33,3 +33,5 @@ Homens são avaliados dessa maneira:
 - Conquistar
 - Demonstrar
 - Ser respeitado
+
+[[Anotações Livro Rolo Tomassi Reignite]]
