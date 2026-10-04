@@ -452,4 +452,7 @@ INTP's não são por natureza brincalhões, mas podem se divertir em momentos br
 - A função Se é mais prática e concreta do que a Si, os ISTP's são mais inclinados a atividade fisica e ao trabalho manual
 - Eles são menos avessos ao trabalho manual ou em "Sujar as mãos", eles costumam gostar de trabalhos técnicos práticos
 - Enquanto os INTPs são criativos em termos de ideias, os ISTPs são criativos em termos de mecânica e cinestesia.
-- 
+- A função Se sintoniza-se com os detalhes concretos e as informações sensoriais do ambiente por meio dos cinco sentidos.
+- Isso leva os ISTPs a examinar o ambiente em busca de novidades sensoriais interessantes, permitindo-lhes perceber detalhes que outros tipos poderiam deixar passar.
+- A função Se também difere da Ne por não ser abstrata. Assim, enquanto os INTPs gostam de sentar e discutir ideias, os ISTPs geralmente preferem "fazer" algo.
+- ITP's que não desenvolveram sua função auxiliar, raramente vão saber a diferença se são INTP's ou ISTP. 
