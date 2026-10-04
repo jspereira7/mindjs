@@ -374,3 +374,82 @@ Como uma função Perceptiva aberta, a Ne sente-se confortável com a ambigui
 
 Consequentemente, muitas áreas das humanidades (por exemplo, religião, filosofia, história, literatura, línguas), bem como o jornalismo, podem ser boas opções para os tipos NP.
 
+Como o Ti-Fe está na sua Stack principal, o INTP tambem é atraido por sistemas e asuntos humanos (Fe)
+
+==Eles se saem melhor em carreiras em que utilizam bem Ti-Ne, e menos Fe.
+
+Muitos desses exemplos destacam o interesse dos INTPs em autoajuda e autoconhecimento. Eles estão sempre buscando maneiras de otimizar e aprimorar as coisas, inclusive a si mesmos.
+
+#### Habilidades comercializaveis que os INTP's podem masterizar 
+
+- Ti e computadores 
+	- Eles possuem facilidade para entender computadores e sistemas de informação
+- Escrita/Blog 
+	- Mesmo não sabendo, eles são escritores acima da média, conseguem escrever de forma clara e acessivel. 
+	- Conseguem julgar o que é essencial (Ti) e transmitir isso de uma forma interresante (Ne) e compreensivel (Fe). 
+	- Portanto aprender a habilidade da escrita traz muitas vantagens para o INTP. 
+	- E começar um blog tambem é uma boa ideia para esses tipos. 
+- Negocios e empreendedorismo
+	- Os INTPs são empreendedores natos, no sentido de que desejam trabalhar de forma independente. A grande vantagem do empreendedorismo é que ele proporciona controle total sobre o próprio trabalho. A possível desvantagem, como já discutimos, é que os empreendedores podem se sentir obrigados a desempenhar muitas funções diferentes.
+- Emprego fixo de meio periodo 
+	- Esse emprego pode garantir pra eles um sustento para pagar as contas, ideal é um emprego de 4-5 horas diarias. 
+	- Depois disso eles terão tempo suficiente para explorar seus interresses. 
+	- Um emprego fixo tambem pode os forçar a sairem dos seus pensamentos e conversar com as pessoas, o que pode livrar eles da depressão, que ocorre quando ficam muito tempo sem interagir com as pessoas
+	- Poderiam ser trabalhos como entregador de aplicativo, mecanico, operario de construção civil etc... 
+	- O INTP se sente mais feliz ao participar de diferentes atividades ao longo do seu dia, atividades que atendam todas as suas necessidades de funções (T,N,S,F)
+
+## INTP's e relacionamentos 
+
+Eles precisam de algum contato humano, poucos conseguem viver em isolamento, se sentem energizados na presença de pessoas 
+
+Sacrificar seu Ti em prol do Fe, tentando ser charmoso e se encaixar, raramente irá dar certo
+
+Os introvertidos precisam de menos estímulos do mundo exterior do que os extrovertidos. Eles buscam estímulos em si mesmos, em suas próprias mentes. 
+
+Assim como outros introvertidos, os INTPs geralmente são bons em se entreter sozinhos. Mas há certas coisas que eles não conseguem obter facilmente por conta própria: sexo, filhos, amor, apoio, companhia, etc. 
+
+Dentre essas, ter filhos provavelmente é a menor das preocupações de um INTP, especialmente para os homens. 
+
+E embora os INTPs certamente possam desfrutar de sexo, ele geralmente fica em segundo plano em relação a seus outros interesses.
+
+Uma das coisas maravilhosas sobre as obras escritas é que elas podem ser cuidadosamente selecionadas para corresponder às preocupações e interesses atuais do INTP. 
+
+Os livros podem representar para o Ne dos INTPs o que novas experiências sexuais representam para os STPs ou a música para os tipos Sentimento.
+
+### Lobo solitario x Cara legal 
+
+Devido a tensão entre o Ti-Fe, os INTP's vão de caras legais a homens solitarios e independentes
+
+As pessoas que se apaixonam pelo cara legal, ficam sem entender quando o lado lobo solitario do intp surge.
+
+Mas para o relacionamento dar certo, essas pessoas precisam entender a natureza lobo solitario dos INTP's 
+
+E aprenderem a lidar com isso 
+
+Eles precisam e desejam muita liberdade
+- Precisam de total conrole sobre si mesmos
+- Não querem controlar os outros 
+- Não querem ser controlados pelos outros 
+
+Quanto menos você cobrar do INTP e tentar fazer eles se sentirem culpados melhor você irá se sair
+
+INTP's não são por natureza brincalhões, mas podem se divertir em momentos brincando com crianças
+
+## Diferenças do INTP para tipos semelhantes
+
+### INTP x ENTP 
+- ENTP's tem Ne dominante, por isso tendem a ser mais falantes, assertivos e demonstrativos em suas explicações, e possuem vários interresses
+- Examine a vida do Benjamin franklin, um ENTP famoso e suas diversas vocações
+- Os INTP's tendem a investir em menos coisas, 1 ou 2 coisas de maior interresse, eles não tem a energia pra viver a vida frenética do ENTP
+- E os ENTP's possuem um lado mais divertido e brincalhão por serem extrovertidos, e conseguem exercer posições de liderança
+- Outra diferença é que os ENTP's podem se apegar a registros historicos, um exemplo é um ENTP que se encanta mais com a historia de jesus cristo e os detalhes, enquanto o INTP se preocupa mais com as ideias de jesus cristo
+
+### INTP x ISTP 
+- Esses tipos compartilham muitos dos problemas relacionados a função inferior
+- A principal diferença está nas funções do meio, Ne-Si x Se-Ni.
+- Os ISTP's usam a função auxiliar Se, que é menos conservadora do que a Si, a Se é mais liberal em termos materiais e orientada para novidade, por mais que isso seja mais atenuado nos ISTP's. 
+- Consequentemente os ISTP's tem maior interresse em comida, sexo e atividades fisicas do que os INTP's. 
+- A função Se é mais prática e concreta do que a Si, os ISTP's são mais inclinados a atividade fisica e ao trabalho manual
+- Eles são menos avessos ao trabalho manual ou em "Sujar as mãos", eles costumam gostar de trabalhos técnicos práticos
+- Enquanto os INTPs são criativos em termos de ideias, os ISTPs são criativos em termos de mecânica e cinestesia.
+- 
