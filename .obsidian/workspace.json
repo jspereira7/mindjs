@@ -53,9 +53,18 @@
               "icon": "lucide-file",
               "title": "Livro sobre INTP Anotações"
             }
+          },
+          {
+            "id": "03a0addec67fbe77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Livro sobre INTP Anotações.md",
+                "file": "00.Notes/Estrategias de aprendizado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,7 +291,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "746679b26d449cbc",
+  "active": "cfa533002f0185cd",
   "lastOpenFiles": [
     "00.Notes/Livro sobre INTP Anotações.md",
     "00.Notes/Plan Js.md",

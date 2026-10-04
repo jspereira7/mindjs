@@ -456,3 +456,4 @@ INTP's não são por natureza brincalhões, mas podem se divertir em momentos br
 - Isso leva os ISTPs a examinar o ambiente em busca de novidades sensoriais interessantes, permitindo-lhes perceber detalhes que outros tipos poderiam deixar passar.
 - A função Se também difere da Ne por não ser abstrata. Assim, enquanto os INTPs gostam de sentar e discutir ideias, os ISTPs geralmente preferem "fazer" algo.
 - ITP's que não desenvolveram sua função auxiliar, raramente vão saber a diferença se são INTP's ou ISTP. 
+- 
