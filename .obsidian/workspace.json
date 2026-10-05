@@ -64,7 +64,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,7 +244,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Estrategias de aprendizado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -287,17 +287,16 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
-      "periodic-notes:Open today": false
+      "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "cfa533002f0185cd",
+  "active": "03a0addec67fbe77",
   "lastOpenFiles": [
+    "00.Notes/Estrategias de aprendizado.md",
     "00.Notes/Livro sobre INTP Anotações.md",
     "00.Notes/Plan Js.md",
     "00.Notes/SMV Masculino Equação.md",
     "00.Notes/Insight produtividade para Ne users.md",
-    "00.Notes/Estrategias de aprendizado.md",
     "00.Notes/Looks Maximing - Cravicular Tips.md",
     "00.Notes/Eye Maxximing.md",
     "00.Notes/Diet Maxximing.md",
