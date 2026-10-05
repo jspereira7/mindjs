@@ -1,3 +1,4 @@
+#INTP #MBTI #Ti #Ne #Fe #Si #cognitive-functions #personality #psychology #self-improvement
 ## Relação Ti + Ne, e como chegar a clareza com mais eficácia
 
 Ti é uma função julgadora, que busca categorizar as coisas, e gosta de ter a clareza lógica, ou o sistema bem amarrado mentalmente, entendendo como funciona as coisas
@@ -49,7 +50,6 @@ A relação com a Ne é um amor e ódio, graças a ela eles conseguem criar mila
 Eles não conseguem ficar muito tempo satisfeitos com algo, a Ne deles anseia pela estimulação da novidade 
 
 ---------------
-
 ## Si — Sensação Introvertida 
 
 A si é uma função conservadora e convergente, ela gera apego ao familiar e ao que é conhecido 
@@ -96,7 +96,7 @@ Para evitar serem controlados, de modo automatico, os INTPS se beneficiam em ent
 E como ele aparece no seu tipo de personalidade 
 
 -----------------
-### O que é o Sentimento Extrovertido ? (Fe)
+### O que é o [[Sentimento Extrovertido  (Fe)]]
 
 Essa função pondera e avalia nossas respostas afetivas ao mundo. 
 
@@ -132,11 +132,11 @@ Não são pessoas tão amaveis assim, elas tem seus proprios planos, elas soment
 
 Essas pessoas podem usar sua Fe de maneira dissimulada, com seus planos (Ti) por baixo dos panos, secretos. 
 
-Por essa ser a função inferior dos INTP's, eles podem ficar extremamente desconfortaveis, em situações emocionais,especialmente as que podem gerar conflito ou desarmonia 
+Por essa ser a função inferior dos INTP's, **eles podem ficar extremamente desconfortaveis, em situações emocionais,especialmente as que podem gerar conflito ou desarmonia** 
 
 Devido a sua preocupação com a harmonia externa, ou melhor, com o desconforto que a desarmonia exerce nos outros, eles se abstem de expressar seus julgamentos para evitar perturbar os outros 
 
-Os INTP's tem medo de magoar ou ofender as pessoas
+**Os INTP's tem medo de magoar ou ofender as pessoas**
 
 Um exemplo disso é quando um INTP ve alguem com um problema em um relacionamento, ele pode querer explicar que isso é resultado das dinamicas da evolução e das estrategias de acasalamento feminino 
 

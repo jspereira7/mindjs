@@ -1,6 +1,6 @@
 
 ## Recuperar Fisico e aparencia e ir melhorando aos poucos 
-- [ ] Voltar a treinar mesmo em casa 
+- [x] Voltar a treinar mesmo em casa 
 
 ## Money e carreira, seu maior problema atual 
 - Você precisa escolher um projeto e executar, medir, corrigir, repetir. 

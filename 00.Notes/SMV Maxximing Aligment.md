@@ -1,3 +1,9 @@
+---
+tags:
+  - looksmaxx
+  - redpill
+  - relacionamentos
+---
 Existem 3 tipos de SMV Online, Short-T, Long-T. 
 
 > Key: All 3 must be aligned 
