@@ -17,3 +17,6 @@ Existem 3 tipos de SMV Online, Short-T, Long-T.
 | 7            | Altura            | Fashion       | Personalidade   |
 | 8            | Texting           | Car/Own Place | Grupo de amigos |
 
+- Use apps de edição de foto 
+- Use https://www.photofeeler.com/ 
+
