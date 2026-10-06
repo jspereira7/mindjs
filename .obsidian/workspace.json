@@ -38,16 +38,19 @@
             }
           },
           {
-            "id": "025b37a216e42ab0",
+            "id": "9ccfad4c8a1f6119",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-05 21.56.25.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Sentimento Extrovertido  (Fe).md",
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -274,15 +277,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ebef7e4884dca95",
+  "active": "9ccfad4c8a1f6119",
   "lastOpenFiles": [
+    "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md",
+    "01.Assets/Anexos/Decentralize your income 2026-10-05 20.05.12.excalidraw.md",
+    "00.Notes/The value gap.md",
+    "00.Notes/Visualize Value - Courses.md",
+    "00.Notes/Known Your Burn Rate.md",
+    "00.Notes/Decentralize your income.md",
+    "01.Assets/Anexos/Decentralize your income 2026-10-05 19.51.05.excalidraw.md",
+    "00.Notes/2 Ways to earn.md",
+    "01.Assets/Anexos/Pasted image 20261005194842.png",
+    "00.Notes/Process > Mission.md",
+    "00.Notes/The Loop.md",
+    "00.Notes/Aprendizado não significa progresso.md",
+    "00.Notes/10 life-changing ideas.md",
+    "01.Assets/Anexos/Pasted image 20261005192125.png",
+    "01.Assets/Anexos/Pasted image 20261005192050.png",
+    "01.Assets/Anexos/Pasted image 20261005192025.png",
+    "01.Assets/Anexos/Pasted image 20261005191934.png",
+    "01.Assets/Anexos/Pasted image 20261005191908.png",
+    "01.Assets/Anexos/Pasted image 20261005191842.png",
+    "01.Assets/Anexos/Pasted image 20261005191804.png",
+    "01.Assets/Anexos/Pasted image 20261005191331.png",
+    "01.Assets/Anexos/Pasted image 20261005191036.png",
+    "00.Notes/Sentimento Extrovertido  (Fe).md",
     "00.Notes/SMV Maxximing Aligment.md",
     "00.Notes/Estrategias de aprendizado.md",
-    "00.Notes/Sentimento Extrovertido  (Fe).md",
     "00.Notes/Livro sobre INTP Anotações.md",
     "00.Notes/Plan Js.md",
-    "01.Assets/Anexos/Pasted image 20261005003340.png",
-    "01.Assets/Anexos/Pasted image 20261005003133.png",
     "00.Notes/Cursos Wheat Waffles.md",
     "00.Notes/Business is a skill issue.md",
     "00.Notes/SMV Masculino Equação.md",
@@ -292,32 +315,12 @@
     "00.Notes/Diet Maxximing.md",
     "00.Notes/Anotações Livro Rolo Tomassi Reignite.md",
     "00.Notes/The burden of performance.md",
-    "00.Notes/Frame(Relationships).md",
-    "00.Notes/Mental Point of Origin (MPO).md",
-    "00.Notes/Sexual Market Value.md",
-    "00.Notes/Hypergamy.md",
-    "00.Notes/Becoming a high-value man.md",
-    "00.Notes/Ni - introverted intuition.md",
-    "00.Notes/The 4 Perceiving functions.md",
-    "00.Notes/Ne - extroverted intuition.md",
-    "00.Notes/Se — extroverted sensing.md",
-    "00.Notes/Si — Introverted sensing.md",
-    "01.Assets/Excalidraw/Drawing 2026-09-29 23.59.07.excalidraw.md",
-    "00.Notes/DHV (Demonstrating Higher Value).md",
-    "01.Assets/Anexos/Pasted Image 20260930004603_858.png",
-    "01.Assets/Anexos/Pasted Image 20260930000504_834.png",
     "01.Assets/Anexos",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
-    "Anexos/Pasted image 20260926220916.png",
-    "Anexos/Pasted image 20260926220915.png",
     "+Bases/Livros.base",
     "+Bases/Relacionamentos.base",
     "+Bases",
-    "Anexos/Pasted image 20260921150240.png",
-    "Anexos/Pasted image 20260918183542.png",
-    "Anexos/Pasted image 20260914173035.png",
-    "Anexos/Pasted image 20260913025319.png",
     "01.Assets/Aspirations Js.canvas",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
