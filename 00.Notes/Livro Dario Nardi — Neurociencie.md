@@ -26,8 +26,6 @@ tags:
 - Trial and error
 - Variação em um tema
 - E ferramentas mão na massa para encontrar o encaixe. 
-  
-  
 
 --------------------
 
@@ -49,3 +47,25 @@ tags:
 - Making discoveries. 
 - Sharing those discovereries. 
 - Sobrecarregado em situações emocionalmente intensas. 
+
+--------------
+
+## Ti Introverted Thinking 
+
+> “Reason multiple ways to objectively and accurately analyze problems.”
+
+Os tipos Ti apresentam uso elevado de quatro regiões que permitem o raciocínio lógico complexo: **F3, F4, P3 e P4**.
+
+Embora todas as pessoas usem essas regiões em alguma medida, todo tipo Ti mostra atividade forte e contínua em pelo menos uma das quatro, com atividade moderada nas demais, seja de forma contínua ou durante situações de resolução de problemas.
+
+Em comparação com os outros, os tipos Ti se dedicam a usar recursos cerebrais que as outras pessoas tendem a negligenciar.
+
+------------
+
+### Região P3 (Maior uso pelo tipo ISTP e ENTP)
+- Ajuda os tipos Ti a integrar dados visuais-cinestésicos. 
+- Auxilia na identificação de objetos, em habilidades motoras como a mira e no cálculo matemático usando uma grade. 
+- Também nos ajuda a determinar onde terminamos e onde começa o resto do mundo.
+
+
+
