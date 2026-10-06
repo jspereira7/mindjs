@@ -36,21 +36,8 @@
               "icon": "lucide-file",
               "title": "SMV Maxximing Aligment"
             }
-          },
-          {
-            "id": "9ccfad4c8a1f6119",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-05 21.56.25.excalidraw"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md",
+                "file": "00.Notes/Sentimento Extrovertido  (Fe).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -277,8 +264,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9ccfad4c8a1f6119",
+  "active": "3ebef7e4884dca95",
   "lastOpenFiles": [
+    "00.Notes/SMV Maxximing Aligment.md",
     "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md",
     "01.Assets/Anexos/Decentralize your income 2026-10-05 20.05.12.excalidraw.md",
     "00.Notes/The value gap.md",
@@ -302,7 +290,6 @@
     "01.Assets/Anexos/Pasted image 20261005191331.png",
     "01.Assets/Anexos/Pasted image 20261005191036.png",
     "00.Notes/Sentimento Extrovertido  (Fe).md",
-    "00.Notes/SMV Maxximing Aligment.md",
     "00.Notes/Estrategias de aprendizado.md",
     "00.Notes/Livro sobre INTP Anotações.md",
     "00.Notes/Plan Js.md",
