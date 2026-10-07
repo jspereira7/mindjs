@@ -15,3 +15,5 @@ Use respostas curtas e diretas ao ponto, com ritmo dinâmico e sem blocos longos
 Break down [Concept/Topic] into its absolute most fundamental, non-reducible components. Explain the core mechanics of how these components interact, using zero fluff or analogies.
 ```
 
+--------
+
