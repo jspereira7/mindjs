@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "Instruções IA"
             }
+          },
+          {
+            "id": "873c46aa28d571fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Ai instructions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ai instructions"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Livro Dario Nardi — Neurociencie.md",
+                "file": "00.Notes/Ai instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,8 +310,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd4d33c2727263f8",
+  "active": "873c46aa28d571fd",
   "lastOpenFiles": [
+    "00.Notes/Ai instructions.md",
     "00.Notes/Instruções IA.md",
     "00.Notes/Livro Dario Nardi — Neurociencie.md",
     "00.Notes/ISTP - Optmizing Ti-Se.md",
@@ -332,7 +348,6 @@
     "00.Notes/Business is a skill issue.md",
     "00.Notes/SMV Masculino Equação.md",
     "00.Notes/Insight produtividade para Ne users.md",
-    "00.Notes/Looks Maximing - Cravicular Tips.md",
     "01.Assets/Anexos",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
