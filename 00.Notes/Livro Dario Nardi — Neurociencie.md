@@ -65,5 +65,24 @@ tags:
 
 > Imerso no contexto presente 
 
+--------------
+## Ti-Ni Loop 
+
+O grande problema aqui é que você está tão imerso na sua introspecção, tão na sua proproria mente, refinando conceitos e ideias
+
+Que não parte pra prática, ou a Se, então você não recebe feedback do mundo real sobre os seus conceitos e ideias. 
+
+Então você fica nesse ciclo sem fim, sem nenhum feedback da realidade imediata. 
+
+Você não deve tornar a Ni Child, a sua forma padrão de percepção, porque ela é mais como uma fraqueza
+
+Você deve tomar a Se Parent sim como o padrão de tomar percepções para tomar decisões. 
+
+> Não deixe apenas a sua mente adquirir as informações para tomar suas decisões, vá para o mundo real (Se), fale com xyz pessoa, teste xyz na prática
+
+O segredo pra você é **Trust but verify**, confie nos seus instintos, mas verifique na prática se está certo
+
+> Trust but verify 
+
 
 
