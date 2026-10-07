@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Instruções IA.md",
+                "file": "00.Notes/Livro Dario Nardi — Neurociencie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,10 +291,11 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false
+      "star-notebooklm:Open NotebookLM": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "443f38fbbf780931",
+  "active": "cd4d33c2727263f8",
   "lastOpenFiles": [
     "00.Notes/Instruções IA.md",
     "00.Notes/Livro Dario Nardi — Neurociencie.md",
