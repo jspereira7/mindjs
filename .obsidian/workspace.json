@@ -53,37 +53,19 @@
             }
           },
           {
-            "id": "443f38fbbf780931",
+            "id": "89fb1c9f8e078110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00.Notes/Instruções IA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Instruções IA"
-            }
-          },
-          {
-            "id": "873c46aa28d571fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Notes/Ai instructions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ai instructions"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-08 00.19.10.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/SMV Maxximing Aligment.md",
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -286,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.7379150390625
+    "width": 313.7379150390625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,16 +293,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c53123546d3fe0e7",
+  "active": "89fb1c9f8e078110",
   "lastOpenFiles": [
-    "00.Notes/Sentimento Extrovertido  (Fe).md",
+    "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md",
+    "00.Notes/Livro Dario Nardi — Neurociencie.md",
     "00.Notes/Ai instructions.md",
     "00.Notes/Instruções IA.md",
-    "00.Notes/Livro Dario Nardi — Neurociencie.md",
+    "00.Notes/SMV Maxximing Aligment.md",
+    "00.Notes/Sentimento Extrovertido  (Fe).md",
     "00.Notes/ISTP - Optmizing Ti-Se.md",
     "00.Notes/Introverted Thinking (Ti).md",
     "01.Assets/Anexos/Pasted image 20261006020453.png",
-    "00.Notes/SMV Maxximing Aligment.md",
     "01.Assets/Excalidraw/Drawing 2026-10-05 21.56.25.excalidraw.md",
     "01.Assets/Anexos/Decentralize your income 2026-10-05 20.05.12.excalidraw.md",
     "00.Notes/The value gap.md",
@@ -347,7 +331,6 @@
     "00.Notes/Cursos Wheat Waffles.md",
     "00.Notes/Business is a skill issue.md",
     "00.Notes/SMV Masculino Equação.md",
-    "00.Notes/Insight produtividade para Ne users.md",
     "01.Assets/Anexos",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",

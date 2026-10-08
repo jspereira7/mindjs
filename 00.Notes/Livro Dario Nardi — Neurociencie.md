@@ -60,7 +60,6 @@ tags:
 - A palavra que você usa, você consegue definir ela pra mim ? 
 - Qual teoria ou principio ou modelo mental se encaixa nessa situação ? 
 
-
 ## Se Extraverted Sensing
 
 > Imerso no contexto presente 
@@ -83,6 +82,8 @@ Você deve tomar a Se Parent sim como o padrão de tomar percepções para tomar
 O segredo pra você é **Trust but verify**, confie nos seus instintos, mas verifique na prática se está certo
 
 > Trust but verify 
+
+--------------
 
 
 
