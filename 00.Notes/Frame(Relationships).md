@@ -20,6 +20,11 @@ Como homem você deve manter o frame, assumindo a liderança e tomando as decis�
 
 Ela entra no seu mundo, não você que entra no mundo dela 
 
+>
+
+a meta é construir uma realidade e um estilo de vida atraente no qual as pessoas desejem voluntariamente participar. 
+
+aceite o fardo da perfomance, aceite que você não tem valor intrinseco, você precisa performar 
 
 ----
 

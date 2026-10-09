@@ -23,11 +23,9 @@ tags:
 
 ## [[Frame(Relationships)]]
 
-A meta é construir uma realidade e um estilo de vida atraente no qual as pessoas desejem voluntariamente participar. 
 
-Aceite o fardo da perfomance, aceite que você não tem valor intrinseco, você precisa performar 
 
-[[SMV Masculino Equação]]
+
 
 
 

@@ -6,3 +6,7 @@ Ter a si mesmo como o seu MPO significa avaliar primeiro como uma escolha afetar
 
 Não é sobre ser um babaca egoista, mas sim tomar a decisão que você acredita que é melhor pra você, e que por consequencia será melhor para quem está ao seu redor
 
+-----------------
+
+Esteja focado na melhora da sua propria vida, e não preocupado no que os outros vão achar 
+

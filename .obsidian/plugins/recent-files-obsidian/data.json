@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Learning Styles — Js",
+      "path": "00.Notes/Learning Styles — Js.md"
+    },
+    {
+      "basename": "2026-10-09 Friday",
+      "path": "+Daily Notes/2026-10-09 Friday.md"
+    },
+    {
       "basename": "Anotações Livro Rolo Tomassi Reignite",
       "path": "00.Notes/Anotações Livro Rolo Tomassi Reignite.md"
+    },
+    {
+      "basename": "Frame(Relationships)",
+      "path": "00.Notes/Frame(Relationships).md"
+    },
+    {
+      "basename": "Livros",
+      "path": "+Bases/Livros.base"
+    },
+    {
+      "basename": "Mental Point of Origin (MPO)",
+      "path": "00.Notes/Mental Point of Origin (MPO).md"
     },
     {
       "basename": "Livro Dario Nardi — Neurociencie",
@@ -133,14 +153,6 @@
       "path": "00.Notes/The burden of performance.md"
     },
     {
-      "basename": "Frame(Relationships)",
-      "path": "00.Notes/Frame(Relationships).md"
-    },
-    {
-      "basename": "Mental Point of Origin (MPO)",
-      "path": "00.Notes/Mental Point of Origin (MPO).md"
-    },
-    {
       "basename": "Sexual Market Value",
       "path": "00.Notes/Sexual Market Value.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "ISTP Learn style",
       "path": "00.Notes/ISTP Learn style.md"
-    },
-    {
-      "basename": "ISTP Visual Representation",
-      "path": "00.Notes/ISTP Visual Representation.md"
-    },
-    {
-      "basename": "Teste mermaid",
-      "path": "00.Notes/Teste mermaid.md"
-    },
-    {
-      "basename": "LearningStylesDiagram.excalidraw",
-      "path": "01.Assets/Excalidraw/LearningStylesDiagram.excalidraw.md"
     }
   ],
   "omittedPaths": [
