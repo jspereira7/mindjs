@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2026-10-08 00.19.10.excalidraw",
-      "path": "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md"
-    },
-    {
       "basename": "Livro Dario Nardi — Neurociencie",
       "path": "00.Notes/Livro Dario Nardi — Neurociencie.md"
+    },
+    {
+      "basename": "Framework tomada de decisão - 8 Processos Mentais.",
+      "path": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md"
+    },
+    {
+      "basename": "Drawing 2026-10-08 00.19.10.excalidraw",
+      "path": "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md"
     },
     {
       "basename": "Ai instructions",
@@ -195,10 +199,6 @@
     {
       "basename": "LearningStylesDiagram.excalidraw",
       "path": "01.Assets/Excalidraw/LearningStylesDiagram.excalidraw.md"
-    },
-    {
-      "basename": "Pensar em apostas — Annie Duke",
-      "path": "00.Notes/Pensar em apostas — Annie Duke.md"
     }
   ],
   "omittedPaths": [

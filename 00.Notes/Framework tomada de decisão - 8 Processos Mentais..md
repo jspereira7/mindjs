@@ -130,7 +130,6 @@ Você organiza, estrutura e escolhe o plano mais eficaz.
 
 - Qual opção traz melhor custo-benefício?
 - Qual é a mais executável?
-    
 
 Evita: ideias bonitas que não saem do papel.
 

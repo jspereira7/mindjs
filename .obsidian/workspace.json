@@ -51,21 +51,9 @@
               "icon": "lucide-file",
               "title": "Livro Dario Nardi — Neurociencie"
             }
-          },
-          {
-            "id": "89fb1c9f8e078110",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-08 00.19.10.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md",
+                "file": "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,10 +281,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "89fb1c9f8e078110",
+  "active": "cd4d33c2727263f8",
   "lastOpenFiles": [
-    "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md",
+    "00.Notes/Framework tomada de decisão - 8 Processos Mentais..md",
     "00.Notes/Livro Dario Nardi — Neurociencie.md",
+    "01.Assets/Excalidraw/Drawing 2026-10-08 00.19.10.excalidraw.md",
     "00.Notes/Ai instructions.md",
     "00.Notes/Instruções IA.md",
     "00.Notes/SMV Maxximing Aligment.md",
@@ -330,7 +319,6 @@
     "00.Notes/Plan Js.md",
     "00.Notes/Cursos Wheat Waffles.md",
     "00.Notes/Business is a skill issue.md",
-    "00.Notes/SMV Masculino Equação.md",
     "01.Assets/Anexos",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Projection and Personality Development via the -- Carol Shumate -- Taylor & Francis (Unlimited), Abingdon, Oxon, 2021 -- Routledge -- 9780367341374 -- f57ad989f71880974257f89d373e9690 -- Anna’s Archive.pdf",
     "01.Assets/Livros/Livros PDF's/Se torne um homem melhor/Building blocks of personality type _ a guide to using the -- Leona Haas, Mark Hunziker -- 1st ed_, Huntington Beach, Calif, California, 2006 -- Unite -- 9780971932623 -- a6b6f529ac270bb387a76f327f674e58 -- Anna’s Archive.pdf",
