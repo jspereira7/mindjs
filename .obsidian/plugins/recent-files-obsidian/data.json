@@ -5,6 +5,10 @@
       "path": "00.Notes/Learning Styles — Js.md"
     },
     {
+      "basename": "ISTP — Interaction Style",
+      "path": "00.Notes/ISTP — Interaction Style.md"
+    },
+    {
       "basename": "2026-10-09 Friday",
       "path": "+Daily Notes/2026-10-09 Friday.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "00.Notes/Untitled.md"
-    },
-    {
-      "basename": "ISTP Learn style",
-      "path": "00.Notes/ISTP Learn style.md"
     }
   ],
   "omittedPaths": [

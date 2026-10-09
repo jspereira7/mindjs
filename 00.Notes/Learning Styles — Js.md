@@ -19,5 +19,7 @@ tags:
 
 -----------------------
 
+## Ti — Introverted Thinking
 
+Eu preciso entender o mecanismo por trás. 
 
