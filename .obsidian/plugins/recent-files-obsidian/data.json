@@ -5,6 +5,10 @@
       "path": "00.Notes/Learning Styles — Js.md"
     },
     {
+      "basename": "Prompt exercicios práticos.",
+      "path": "00.Notes/Prompt exercicios práticos..md"
+    },
+    {
       "basename": "ISTP — Interaction Style",
       "path": "00.Notes/ISTP — Interaction Style.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DHV (Demonstrating Higher Value)",
       "path": "00.Notes/DHV (Demonstrating Higher Value).md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00.Notes/Untitled.md"
     }
   ],
   "omittedPaths": [
