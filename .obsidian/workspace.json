@@ -66,9 +66,19 @@
               "icon": "lucide-file",
               "title": "Prompt exercicios práticos."
             }
+          },
+          {
+            "id": "73fef6b8c1e732a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Learning Styles — Js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,10 +304,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7410955b9908cf4d",
+  "active": "73fef6b8c1e732a3",
   "lastOpenFiles": [
-    "00.Notes/Prompt exercicios práticos..md",
     "00.Notes/Learning Styles — Js.md",
+    "00.Notes/Prompt exercicios práticos..md",
     "00.Notes/ISTP — Interaction Style.md",
     "+Daily Notes/2026-10-09 Friday.md",
     "00.Notes/Anotações Livro Rolo Tomassi Reignite.md",
