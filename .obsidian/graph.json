@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "adhd",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10.2445974827832,
   "linkStrength": 0,
   "linkDistance": 199,
-  "scale": 0.19343709679392504,
-  "close": false
+  "scale": 0.0506756972879291,
+  "close": true
 }
