@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "John Function Model — Grafico",
-      "path": "00.Notes/John Function Model — Grafico.md"
-    },
-    {
-      "basename": "Drawing 2026-10-11 16.54.12.excalidraw",
-      "path": "01.Assets/Excalidraw/Drawing 2026-10-11 16.54.12.excalidraw.md"
+      "basename": "Exemplos concretos",
+      "path": "00.Notes/Exemplos concretos.md"
     },
     {
       "basename": "Learning Styles — Js",
@@ -15,6 +11,14 @@
     {
       "basename": "ISTP — Interaction Style",
       "path": "00.Notes/ISTP — Interaction Style.md"
+    },
+    {
+      "basename": "Drawing 2026-10-11 16.54.12.excalidraw",
+      "path": "01.Assets/Excalidraw/Drawing 2026-10-11 16.54.12.excalidraw.md"
+    },
+    {
+      "basename": "John Function Model — Grafico",
+      "path": "00.Notes/John Function Model — Grafico.md"
     },
     {
       "basename": "Anotações Livro Rolo Tomassi Reignite",
@@ -195,10 +199,6 @@
     {
       "basename": "Se — extroverted sensing",
       "path": "00.Notes/Se — extroverted sensing.md"
-    },
-    {
-      "basename": "Si — Introverted sensing",
-      "path": "00.Notes/Si — Introverted sensing.md"
     }
   ],
   "omittedPaths": [
