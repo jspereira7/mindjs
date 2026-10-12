@@ -9,4 +9,12 @@
 - Logic
 - ISTP & INTP 
 
+----------
+## Se (Colect data of the real moment)
+
+## Ne(Make possibilities, expand)
+
+## Ni(See the future, insight)
+
+
 
