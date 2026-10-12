@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Exemplos concretos.md",
+                "file": "00.Notes/Projection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exemplos concretos"
+              "title": "Projection"
             }
           },
           {
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Exemplos concretos.md",
+                "file": "00.Notes/Projection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,7 +308,9 @@
   },
   "active": "7aa56c7e9a53f4c0",
   "lastOpenFiles": [
-    "00.Notes/Exemplos concretos.md",
+    "00.Notes/Anotações Livro Depth psycology.md",
+    "00.Notes/Projection.md",
+    "00.Notes/Inconciente.md",
     "00.Notes/Learning Styles — Js.md",
     "00.Notes/ISTP — Interaction Style.md",
     "01.Assets/Excalidraw/Drawing 2026-10-11 16.54.12.excalidraw.md",
@@ -335,8 +337,6 @@
     "01.Assets/Anexos/Decentralize your income 2026-10-05 20.05.12.excalidraw.md",
     "00.Notes/The value gap.md",
     "00.Notes/Visualize Value - Courses.md",
-    "00.Notes/Known Your Burn Rate.md",
-    "00.Notes/Decentralize your income.md",
     "01.Assets/Anexos/Pasted image 20261005194842.png",
     "01.Assets/Anexos/Pasted image 20261005192125.png",
     "01.Assets/Anexos/Pasted image 20261005192050.png",
