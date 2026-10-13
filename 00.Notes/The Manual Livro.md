@@ -151,7 +151,38 @@ Mas essas caracteristicas não são exclusivas de homens ricos, homens comuns ta
 
 ==🔴Biologicamente as mulheres querem um homem que tenha a capacidade e disposição de **cuidar** delas==
 
-São esses traços de personalidade que atrai as mulheres 
+São esses traços de personalidade que atrai as mulheres e lhe garantem o seu sucesso com elas, e não suas conquistas ou riqueza. 
+
+==🟡Para ter sucesso com as mulheres, você precisa demonstrar que se importa, embora esteja longe de realmente se importar tanto quanto nos fazem acreditar.==
+
+Além disso a forma como querem ser cuidadadas está muito longe do pensamento comum. 
+
+--------------
+## Conselhos femininos 
+
+> Nunca é uma boa ideia seguir conselhos femininos sobre relacionamentos
+
+==🔴A melhor abordagem para conquistar mulheres é acreditar que elas realmente são faceis (O que é verdade), mas jamais deixar elas sentirem que são faceis
+
+----------------
+## Conselhos convencionais
+
+Os homens aprenderam que precisam ser indiretos com as mulheres, fingindo não saber que horas são por exemplo. 
+
+> Mas quanto mais indireto um homem for, mais feminino ele será. 
+
+A melhor maneira de conquistar mulheres é evitar completamente joguidos e sair completamente da caixa. 
+
+**Mude sua mentalidade de ser indireto, e comece a ser mais direto.** 
+
+Se vc acredita que as mulheres se atraem por algo que você não tem, sua auto-confiança desaparecerá, porque sua confiança é crucial para o seu sucesso com as mulheres. 
+
+As mulheres não conseguem nem sequer comer uma banana sem pensar em sexo. 
+
+> Você deve mudar de mentalidade, não é possivel acertar um alvo se você está olhando na direção errada. Não importa quão boa seja sua mira. 
+
+---------------
+
 
 
 

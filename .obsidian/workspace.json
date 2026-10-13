@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/The Manual Livro.md",
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-11 16.54.12.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,7 +307,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "874582db9273da64",
+  "active": "da6e564c127eab6e",
   "lastOpenFiles": [
     "00.Notes/The Manual Livro.md",
     "00.Notes/John Function Model — Grafico.md",
