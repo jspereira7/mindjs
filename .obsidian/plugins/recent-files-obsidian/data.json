@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2026-10-11 16.54.12.excalidraw",
-      "path": "01.Assets/Excalidraw/Drawing 2026-10-11 16.54.12.excalidraw.md"
+      "basename": "The Manual",
+      "path": "01.Assets/The Manual.canvas"
     },
     {
       "basename": "The Manual Livro",
       "path": "00.Notes/The Manual Livro.md"
     },
     {
-      "basename": "John Function Model — Grafico",
-      "path": "00.Notes/John Function Model — Grafico.md"
+      "basename": "The manual book",
+      "path": "00.Notes/The manual book.md"
     },
     {
       "basename": "Learning Styles — Js",
       "path": "00.Notes/Learning Styles — Js.md"
     },
     {
-      "basename": "ISTP — Interaction Style",
-      "path": "00.Notes/ISTP — Interaction Style.md"
-    },
-    {
       "basename": "Anotações Livro Depth psycology",
       "path": "00.Notes/Anotações Livro Depth psycology.md"
+    },
+    {
+      "basename": "John Function Model — Grafico",
+      "path": "00.Notes/John Function Model — Grafico.md"
+    },
+    {
+      "basename": "book_template",
+      "path": "01.Assets/Templates/book_template.md"
+    },
+    {
+      "basename": "Drawing 2026-10-11 16.54.12.excalidraw",
+      "path": "01.Assets/Excalidraw/Drawing 2026-10-11 16.54.12.excalidraw.md"
+    },
+    {
+      "basename": "ISTP — Interaction Style",
+      "path": "00.Notes/ISTP — Interaction Style.md"
     },
     {
       "basename": "Projection",
@@ -187,18 +199,6 @@
     {
       "basename": "Sexual Market Value",
       "path": "00.Notes/Sexual Market Value.md"
-    },
-    {
-      "basename": "Hypergamy",
-      "path": "00.Notes/Hypergamy.md"
-    },
-    {
-      "basename": "Becoming a high-value man",
-      "path": "00.Notes/Becoming a high-value man.md"
-    },
-    {
-      "basename": "Ni - introverted intuition",
-      "path": "00.Notes/Ni - introverted intuition.md"
     }
   ],
   "omittedPaths": [
