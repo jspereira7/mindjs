@@ -30,13 +30,25 @@
               "state": {
                 "file": "01.Assets/The Manual.canvas",
                 "viewState": {
-                  "x": 2377.2573285396916,
-                  "y": 4849.069249365783,
+                  "x": 2326.996973677236,
+                  "y": 5753.755636889985,
                   "zoom": -0.8980653358069713
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "The Manual"
+            }
+          },
+          {
+            "id": "ca5df584a72fe143",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-14 17.28.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-14 17.28.40.excalidraw"
             }
           },
           {
@@ -55,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Assets/The Manual.canvas",
+                "file": "01.Assets/Excalidraw/Drawing 2026-10-14 17.28.40.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,10 +294,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1299136584d2e80d",
+  "active": "ca5df584a72fe143",
   "lastOpenFiles": [
-    "00.Notes/The Manual Livro.md",
     "01.Assets/The Manual.canvas",
+    "01.Assets/Excalidraw/Drawing 2026-10-14 17.28.40.excalidraw.md",
+    "00.Notes/The Manual Livro.md",
     "00.Notes/Learning Styles — Js.md",
     "00.Notes/The manual book.md",
     "00.Notes/Anotações Livro Depth psycology.md",
@@ -311,7 +324,6 @@
     "00.Notes/Ai instructions.md",
     "00.Notes/Instruções IA.md",
     "00.Notes/ISTP - Optmizing Ti-Se.md",
-    "00.Notes/Introverted Thinking (Ti).md",
     "01.Assets/Anexos/Pasted image 20261006020453.png",
     "01.Assets/Anexos/Pasted image 20261005194842.png",
     "01.Assets/Anexos/Pasted image 20261005192125.png",
