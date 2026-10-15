@@ -1,17 +1,18 @@
-## Capitulo 6
+---
+tags:
+  - psicologia_junguiana
+---
+## A historia de lincol 
 
-> **Lincoln foi foda não só porque uniu um país dividido, mas porque uniu as partes divididas DENTRO dele.** Ele usou os rivais de fora e os rivais de dentro. Por isso o Jung admirava ele - Lincoln é o exemplo de personalidade completa.
+> [!quote] **Lincoln foi foda porque se uniu por DENTRO — só então uniu um país dividido.**Fez time com os rivais: os de fora e os de dentro. Por isso Jung o admirava — gente inteira.
 
-- Sua mente é uma equipe de 8 pessoas, e não só 1 voz falando, e se você não sabe quem está falando, você vai projetar nos outros, aquilo que está em você. 
+- Sua mente são 8 vozes, não 1. Se você não sabe quem tá falando aí dentro, vai projetar nos outros o que é seu.
 
-O que jung quer dizer com individuação ou personalidade desenvolvida é sobre saber usar as 8 ferramentas e não só 2 ferramentas mentais. 
-- Isso é a personalidade desenvolvida.
+> [!quote] **Gente inteira = usar as 8 ferramentas, não só as 2 favoritas.**
+> É isso que Jung chama de individuação.
 
->[!quote] Personalidade desenvolvida = saber usar as 8 ferramentas, não só 2.
-
-**Projeção =** Quando você não reconhece uma parte sua (sombra), você enxerga ela NO OUTRO e julga o outro por isso.
-
-Não projetar = reconhecer que o defeito pode ser meu.
+**Projeção =** negar o que é seu e jogar NO OUTRO pra julgar.
+**Sem projeção =** ver que o defeito pode ser seu.
 
 --------------
 ### O tipo hipotético do lincol — INTP 
@@ -20,18 +21,16 @@ Não projetar = reconhecer que o defeito pode ser meu.
 
 Quando criança você só usava as suas duas favoritas, depois da vida te bater, você começa a usar todas. 
 
-Veja o que você fazia quando criança, por hábito. 
-
-Observe esse pessoa quando ela está calma, não sob pressão. 
+Veja o que você fazia quando criança, por hábito. Sem pressão.
 
 -----------------
 #### 1. E/I 
 
-- Lincol era introvertido, trabalhava melhor sozinho, recarregava as energias ficando sozinho, e depois ia ao mundo real fazer o serviço. 
-- Introversão não é timidez, é onde você **recarrega** e onde faz seu melhor trabalho
+- Lincol era **introvertido**, trabalhava melhor sozinho, recarregava as energias sozinho.
+- Introversão não é timidez, é onde você **recarrega** e onde faz seu melhor trabalho.
 
 #### 2. N/S
-- Sensação (Se) — Precisa ver pra crer, foco no concreto, tangivel e real. 
+- Sensação (Se) — Ver pra crer, foco no concreto, tangivel e real. 
 	- Encherga o que é
 - Intuição (Ne) — O QUE isso poderia significar? O que pode virar no futuro? 
 	- Usa o concreto para imaginar o que poderia ser. 
@@ -58,11 +57,12 @@ Observe esse pessoa quando ela está calma, não sob pressão.
 - **Funções 1, 2, 3:** Você usa tanto que elas ficam HIPERTROFIADAS, inchadas. Você acha que só elas prestam.
 - **Funções 4 a 8:** Ficam ATROFIADAS. Quando aparecem, vêm descontroladas, como birra.
 
-Se você só usa as fortes de forma neutra, sem se defender, ótimo. Se você INFLA as fortes ("só minha lógica importa"), as fracas vêm com força negativa.
+>[!tip] Se você só usa as fortes de forma neutra, sem se defender, ótimo. 
+>Se você INFLA as fortes ("só minha lógica importa"), as fracas vêm com força negativa.
 
 > Ti inflado = Só a minha lógica presta, o resto é burro, só eu sou inteligente o resto é burro. 
 
-Entenda: Tipo não é destino, é somente o seu ponto de partida, lincoln tinha o mesmo hardware que um INTP babaca, mas o carater que ele construiu foi diferente. 
+**Entenda:** Tipo não é destino, é somente o seu ponto de partida, lincoln tinha o mesmo hardware que um INTP babaca, mas o carater que ele construiu foi diferente. 
 
 ### Como lincol transformou a sí mesmo 
 
@@ -240,9 +240,35 @@ Ni + Critic = **"EU JÁ SABIA, E VOCÊ ESTÁ ERRADO."**
 
 Arquetipo Demon/Daimon
 - Isso te transforma em outra pessoa. 
-- Ele trabalha minando você por baixo. 
+- Ele trabalha minando você por baixo. Te minando sem você saber. 
 - Dessa sua pior fraqueza pode sair o seu maior triunfo. 
 - Ele não está conciente do que sente. 
+
+Como ele era Fi Demon, ele não estava ciente de que estava sendo minado pelas proprias emoções internas.
+
+----------------------------------
+
+## Using Table for Personal development
+
+Se você descobrir quais são suas ferramentas 5 a 8 (as que você menos gosta), você para de acusar os outros e traz o problema de volta para você. É assim que você cresce.
+
+> Segundo a autora, a sua sombra continuará sendo sua sombra pro resto da sua vida, você não vai gostar das suas funções de 5 a 8 pro resto da vida. 
+
+**O objetivo final:** individuação, se tornar alguem inteiro, e ter **escolha**, ela tem as 2 ferramentas favoritas, mas conhece as outras 6, e sabe quando usar cada uma. 
+
+> A projeção é você sendo ruim em algo, e por ser ruim nisso, você projeta e critica os outros. Ao inves de treinar e usar essas funções desconfortaveis. 
+
+
+
+
+
+### Os 3 passos para descobrir seu tipo real 
+
+1. J/P: Julgamento(Estrutura, Rotina, planos), **Percepção**(Liberdade, não gosta de se sentir preso.)
+2. Escolha suas 2 ferramentas favoritas. 
+3. Qual é a primaria e secundaria ? (Leias as tabelas para descobrir)
+
+
 
 
 
