@@ -170,7 +170,73 @@ Sua tentação não é repetir história, é **viajar no futuro**, ficar fantasi
 
 > Fe é a função que le a sala, espelha o sentimento do outro. conecta todo mundo num clima harmonioso, serve pra mediar briga: juntar sentimentos diferentes num todo só.
 
+Não é sobre o que vc sente por dentro, é sobre criar harmonia por fora, no grupo. 
 
+Fe é sobre criar uma harmonia externa com todo mundo. 
+
+Onde você tem vergonha, mora sua renovação.
+
+> Fi = Sociavel mas sem tato, falava o que pensava. 
+
+> Sua maior conquista também pode vir da sua maior vergonha. Não da sua lógica brilhante, mas da sua capacidade de fazer gente se sentir bem-vinda.
+
+O segredo aqui é cair no alçapão, admitir que é ruim nisso e segurar a vergonha que é essa função. 
+
+------------------
+## Desenvolvimento da sombra 
+
+> suas funções sombras são possiveis de aprender a usa-las bem, mas são desconfortaveis. 
+
+Para usar essas funções, você precisa calar as funções do ego, não é possivel usar as 2 ao mesmo tempo. 
+
+São irmãs opostas. Se sua lógica (Ti 1ª) tá falando alto, sua sombra lógica (Te 5ª) não consegue falar. Você precisa mandar o Herói ficar quieto.
+
+Quer usar sua sombra Te (organização externa)? Precisa parar de querer resolver tudo sozinho na sua cabeça (Ti).
+
+**Analogia de oficina:** Sombra consciente = você pega o extintor porque VIU o fogo e sabe usar. Sombra inconsciente = você sai jogando extintor em todo mundo porque acha que todo lugar vai pegar fogo.
+
+-----------------
+
+### Te Nemesis 
+
+> " Não é isso, não é aquilo, isso não vai funcionar " 
+
+Quando ele te domina você fica: 
+- Não quero fazer desse jeito, nem daquele
+- Passivo-agressivo/evitativo: Sabe o que não quer, mas não sabe dizer o que Quer. 
+- Ele te impede de inflar o ego, é como um espelho retrovisor, te protege por trás, freando seu heroi. 
+
+==🔴Exemplo tangivel: 
+- *Seu chefe (Te) te manda: "Preciso do relatório até 17h seguindo o modelo da empresa."*
+- *Seu Opositor responde por você: "Não vou seguir esse modelo burro, ele é ineficiente." Mas você não propõe um modelo melhor claro, só trava e entrega atrasado resmungando.*
+
+- Eu falo pras pessoas o que não vai dar certo, e não o que eu tenho que fazer ao inves disso. 
+- Eu não dou ordens diretas pras pessoas. 
+
+==🟡Você sabe o que **não quer**, mas não sabe o que você **quer**==
+
+### Ni Critic 
+
+> Ni é atemporal e amoral. Ele não te diz se é bom ou ruim, só diz "é isso que vai acontecer". Igual sonhar que vai chover antes de ver nuvem.
+
+Ele é um velho ranzinza, autoritário " Cala boca, é assim que funciona e pronto " 
+
+Ni + Critic = **"EU JÁ SABIA, E VOCÊ ESTÁ ERRADO."**
+
+### Se Trickster 
+
+> **Se = viver o AGORA com os 5 sentidos.** Sentir, reagir na hora, sem pensar. **Trickster (7ª função) = O Palhaço Trapaceiro.** Quando você é forçado a usar o que não sabe, você se sente enganado e tenta sair da cilada com uma piada ou trapaça. **Se Trickster do Lincoln (INTP) =** Ele odiava o mundo físico, só foi usar os sentidos quando foi encurralado. Aí ele saía da cilada com humor ácido, imitação e armações esquisitas.
+
+- **Pessoa Se boa (você ISTP):** Ama moto, esporte radical, consertar algo com a mão, reagir rápido numa emergência. Vê oportunidade e age. Conta piada fazendo careta.
+- **Lincoln (INTP):** Odiava trabalho na fazenda. Preferia ler e escrever. Zero vontade de ficar suando no sol sentindo o mundo. Ele vivia na cabeça (Ti-Ne).
+
+> **Se Trickster = Encurralado, faz palhaçada física pra escapar.**
+
+### Fi Demon 
+
+> Fi = Valor consigo mesmo, isso fere a harmonia comigo mesmo ? 
+
+> Fe = Agradar os outros 
 
 
 
