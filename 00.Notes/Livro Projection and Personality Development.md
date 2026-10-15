@@ -269,7 +269,9 @@ Se você descobrir quais são suas ferramentas 5 a 8 (as que você menos gosta),
 3. Qual é a primaria e secundaria ? (Leias as tabelas para descobrir)
 
 
-
+Jessica: 
+- J = Julgamento. 
+- 
 
 
 
