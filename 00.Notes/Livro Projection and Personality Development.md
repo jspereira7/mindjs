@@ -238,6 +238,12 @@ Ni + Critic = **"EU JÁ SABIA, E VOCÊ ESTÁ ERRADO."**
 
 > Fe = Agradar os outros 
 
+Arquetipo Demon/Daimon
+- Isso te transforma em outra pessoa. 
+- Ele trabalha minando você por baixo. 
+- Dessa sua pior fraqueza pode sair o seu maior triunfo. 
+- Ele não está conciente do que sente. 
+
 
 
 
