@@ -258,20 +258,11 @@ Se você descobrir quais são suas ferramentas 5 a 8 (as que você menos gosta),
 
 > A projeção é você sendo ruim em algo, e por ser ruim nisso, você projeta e critica os outros. Ao inves de treinar e usar essas funções desconfortaveis. 
 
-
-
-
-
 ### Os 3 passos para descobrir seu tipo real 
 
 1. J/P: Julgamento(Estrutura, Rotina, planos), **Percepção**(Liberdade, não gosta de se sentir preso.)
 2. Escolha suas 2 ferramentas favoritas. 
 3. Qual é a primaria e secundaria ? (Leias as tabelas para descobrir)
-
-
-Jessica: 
-- J = Julgamento. 
-- 
 
 
 
