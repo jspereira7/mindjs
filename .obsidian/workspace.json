@@ -30,9 +30,9 @@
               "state": {
                 "file": "01.Assets/The Manual.canvas",
                 "viewState": {
-                  "x": -50.837746022404,
-                  "y": -544.3867620812122,
-                  "zoom": -0.8980653358069713
+                  "x": 849.6078853687644,
+                  "y": 4323.300398912194,
+                  "zoom": -1.1936222433393933
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -53,8 +53,19 @@
               "icon": "lucide-file",
               "title": "The Manual Livro"
             }
+          },
+          {
+            "id": "04e429c87f266f7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,7 +244,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Notes/Livro Projection and Personality Development.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,14 +292,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6595722c00cff47",
+  "active": "04e429c87f266f7b",
   "lastOpenFiles": [
-    "00.Notes/Learning Styles — Js.md",
     "00.Notes/Livro Projection and Personality Development.md",
     "01.Assets/The Manual.canvas",
+    "00.Notes/The Manual Livro.md",
+    "00.Notes/Learning Styles — Js.md",
     "01.Assets/Anexos/Pasted image 20261014200652.png",
     "01.Assets/Anexos/Pasted image 20261014200421.png",
-    "00.Notes/The Manual Livro.md",
     "01.Assets/Excalidraw/Drawing 2026-10-14 17.28.40.excalidraw.md",
     "00.Notes/The manual book.md",
     "00.Notes/Anotações Livro Depth psycology.md",
