@@ -26,5 +26,30 @@
 	- Ama procurar os padrões, quer achar os códigos escondidos por trás das coisas.
 	- Tem faro pra o que vai dar certo e para o que não vai: olha 3 projetos e já pressente o que vai dar certo e o que não vai. 
 	- Uma frase de filme ou livro te inspira por dias. 
-- b) 
-- 
+	- Não sabe aonde estará daqui a 10 anos, mas sempre sabe qual é o proximo passo imediato.
+- b) Lado negativo 
+	- Hora pensa que tudo vai dar certo, hora pensa que tudo vai dar errado no futuro. 
+	- Usa o destino como desculpa para não agir — " É assim mesmo " se afastando de agir. 
+- c) quando usam Ni na sua frente
+	- Acha viajado: "Esse cara tá totalmente fora da realidade."
+	- Acha chato o sabe tudo. 
+	- Desconfia de pessoas com conversa futurista
+	- Quando a ideia é boa, vc se inspira. 
+
+**==🔴Ne Trickster==**
+- a) Quando vc usa: 
+	- Quer novidade mas odeia marketing barato "é tudo enrolação pra vender"
+	- Você prefere o que já é conhecido e vc testou na mão. 
+	- Quer deixar tudo em aberto mas trava e não escolhe nada. 
+	- Medo de ficar fora (FOMO): Quer experimentar tudo, pra não perder oportunidade. 
+	- Se sente desajeitado ao dar uma ideia. 
+	- Vc cria opções pros outros que já te favorecem: " Vc pode fazer A ou B " mas os dois jeitos, já te favorecem. 
+	- Deixa os outros dar as ideias "Vcs dão as ideias e eu vejo o que presta" 
+- b) Quando os outros usam: 
+	- **Desconfia na hora:** Lá vem papo pra me enrolar. 
+	- **Acha viagem:** "Isso é papo de 'torta no céu', não põe comida na boca". Teoria demais, prática de menos.
+	- **Desliga**: Simplesmente para de escutar, acha perda de tempo. Mexe no celular.
+	- **Se retira:** Se a ideia nova exige refazer tudo do zero, você larga mão. "Deixa, não quero mais".
+
+
+
