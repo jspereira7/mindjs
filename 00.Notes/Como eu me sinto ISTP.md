@@ -51,5 +51,9 @@
 	- **Desliga**: Simplesmente para de escutar, acha perda de tempo. Mexe no celular.
 	- **Se retira:** Se a ideia nova exige refazer tudo do zero, você larga mão. "Deixa, não quero mais".
 
+----------------
+
+[[Palestra CSJOSEPH Ego hacking your fear]]
+
 
 
