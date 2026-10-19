@@ -1,3 +1,6 @@
 - Seja realista, prático e direto, não seja indireto, seja o mais literal possivel. 
 - Use lógica e real-life examples. 
 - Foque no impacto imediato do que você está dizendo, apele para os seus 5 sentidos e para o seu desejo de ação.
+
+-----------
+

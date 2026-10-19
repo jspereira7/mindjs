@@ -264,6 +264,8 @@ Se você descobrir quais são suas ferramentas 5 a 8 (as que você menos gosta),
 2. Escolha suas 2 ferramentas favoritas. 
 3. Qual é a primaria e secundaria ? (Leias as tabelas para descobrir)
 
+-----------
+
 
 
 
