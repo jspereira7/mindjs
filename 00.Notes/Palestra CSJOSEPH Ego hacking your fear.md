@@ -136,11 +136,17 @@ Se você vencer o medo da rejeição "Fe" você vai ganhar a sua recompensa, ou 
 - "EU não preciso de palavras de afirmação, MAS VOCÊ PRECISA. Então eu vou te dar o que VOCÊ precisa, na SUA linguagem, mesmo que não seja a minha."
 
 ---------------
-
 ### Pratica diaria
 
 1. Micro exposição social: Todo dia tente fazer um gesto ou algo para quebrar seu medo de rejeição, 1 gesto de calor intencional. 
 2. Checar a falsa evidencia: Quando pensar "ele me odeia", pergunte: Isso é fato ou é meu Fe 25 Fps inventando ? Qual a prova real ? 
 
 ---------------
+
+**Ne Trickster** = Tudo pode acontecer, qualquer coisa, não consegue gerar opções. 
+- Tem a visão de tunel ("Foi isso"), sem enchergar o resto das coisas. 
+
+----------
+
+
 
