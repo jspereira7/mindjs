@@ -96,8 +96,7 @@
               "title": "Drawing 2026-10-19 18.07.55.excalidraw"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -321,14 +320,15 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false
+      "star-notebooklm:Open NotebookLM": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "dfe2391f69c8a31f",
+  "active": "a6595722c00cff47",
   "lastOpenFiles": [
+    "00.Notes/Palestra CSJOSEPH Ego hacking your fear.md",
     "00.Notes/Estrategias para memoria de trabalho pequena.md",
     "01.Assets/Excalidraw/Drawing 2026-10-19 18.07.55.excalidraw.md",
-    "00.Notes/Palestra CSJOSEPH Ego hacking your fear.md",
     "00.Notes/Como eu me sinto ISTP.md",
     "00.Notes/Masculinidade x Feminilidade.md",
     "01.Assets/The Manual.canvas",
