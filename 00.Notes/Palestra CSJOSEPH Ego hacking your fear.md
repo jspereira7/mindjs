@@ -148,5 +148,8 @@ Se você vencer o medo da rejeição "Fe" você vai ganhar a sua recompensa, ou 
 
 ----------
 
-
+- SDSF — Ni+Fe
+- SDUF — Te 
+- UDSF — Hero + Parent
+- UDUF — Critic
 
