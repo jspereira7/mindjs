@@ -4,7 +4,6 @@
 - A saida não é forçar o lado fraco, mas sim conhece-lo e deixar a individuação acontecer em duas fases,(1) se individuando (2) integração
 
 ------------
-
 ## A função domintante é boa para a sociedade e ruim para você 
 
 - A função dominante gera reconhecimento, mas as empresas e sociedade adoram explorá-las. 
