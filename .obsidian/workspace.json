@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/O viés invisivel.md",
+                "file": "00.Notes/A grandeza e felicidade podem coexistir?.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "O viés invisivel"
+              "title": "A grandeza e felicidade podem coexistir?"
             }
           }
         ],
@@ -307,13 +307,13 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
-      "periodic-notes:Open today": false
+      "star-notebooklm:Open NotebookLM": false
     }
   },
   "active": "0aeee9f40404fbf2",
   "lastOpenFiles": [
     "00.Notes/Livro Projection Carol Shumate — Estudo do zero..md",
+    "00.Notes/A grandeza e felicidade podem coexistir?.md",
     "00.Notes/O viés invisivel.md",
     "00.Notes/Funções egossintonicas-egodistonicas.md",
     "Funções egossintonicas/egodistonicas.md",
@@ -343,7 +343,6 @@
     "00.Notes/Inconciente.md",
     "01.Assets/Anexos/Pasted image 20261010193813.png",
     "00.Notes/Anotações Livro Rolo Tomassi Reignite.md",
-    "00.Notes/Prompt exercicios práticos..md",
     "+Bases/Livros.base",
     "01.Assets/Anexos/Pasted image 20261006020453.png",
     "01.Assets/Anexos/Pasted image 20261005194842.png",

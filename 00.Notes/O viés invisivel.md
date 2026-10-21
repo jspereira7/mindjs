@@ -39,5 +39,14 @@ Exemplo: Sou introvertido e não vou em festas é uma caixa, a versão saudavel 
 
 ## Quanto mais você sufoca um lado, mais forte ele irá voltar pra te pegar 
 
+A solução é aprender a deixar essas funções da sombra ensinarem sobre os seus complexos ao inves de reprimi-las, a compulsividade diminui e a projeção tambem
+
+-------------
+## Você não alcança a indivuação com força de vontade 
+
+Para ver o inconciente é preciso soltar por um momento a intenção conciente, mas tentar soltar a força pode causar o efeito contrario. 
+
+------------
+
 
 
