@@ -1,3 +1,9 @@
+---
+tags:
+  - autoconhecimento
+  - ISTP
+  - csjoseph
+---
 ## Indignance 
 
 **Indignação** = "Acho que vc vai me tratar mal, então eu já vou te tratar mal primeiro" 

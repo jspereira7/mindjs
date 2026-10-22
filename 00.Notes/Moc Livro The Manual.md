@@ -1,0 +1,7 @@
+
+## Atração 
+
+- [[Atração]]
+- [[Socialização]]
+- [[Masculinidade]]
+- 
