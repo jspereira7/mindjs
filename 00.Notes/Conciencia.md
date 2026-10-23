@@ -26,5 +26,7 @@ O inconciente são os processos que acontecem sem que percebamos que eles estão
 ### A mente como uma floresta e lareira 
 
 - O ego/conciencia é como uma clareira de uma floresta, é apenas uma pequena parte. 
+	- É a pessoa que está sendo referenciada, é o "Eu". 
+	- A voz mental é apenas um processo conciente que minha mente consegue perceber. 
 - A mente é uma floresta inteira, com seus conteudos inconcientes rodando. 
 
