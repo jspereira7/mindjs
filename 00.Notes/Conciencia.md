@@ -30,3 +30,4 @@ O inconciente são os processos que acontecem sem que percebamos que eles estão
 	- A voz mental é apenas um processo conciente que minha mente consegue perceber. 
 - A mente é uma floresta inteira, com seus conteudos inconcientes rodando. 
 
+- Relacionados: [[Arquetipos John Beebe]]
