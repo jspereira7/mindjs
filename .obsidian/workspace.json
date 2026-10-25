@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "Conciencia"
             }
+          },
+          {
+            "id": "a875f74ce68eaddc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,11 +289,10 @@
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
-      "periodic-notes:Open today": false
+      "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "bf44d06dc83a136b",
+  "active": "a875f74ce68eaddc",
   "lastOpenFiles": [
     "00.Notes/Depth Typology — Book.md",
     "00.Notes/Conciencia.md",
