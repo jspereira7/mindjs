@@ -19,7 +19,7 @@ Imagine a sua psique como uma empresa, uma equipe com varios funcionarios.
 
 ![[Pasted image 20261024223533.png|322]]
 - A energia é de orientar, proteger, oferecer apoio, ajudando a outra pessoa a ter sucesso. 
-- Vou te ajudar a conseguir isso
+- " Vou te ajudar a conseguir isso "
 
 ![[Pasted image 20261024223840.png]]
 
@@ -61,3 +61,6 @@ Ela é uma forma oposta de enchergar a situação
 
 -----------
 
+Relacionádos: 
+- [[Conselhos práticos ISTP]]
+- 

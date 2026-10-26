@@ -3,12 +3,10 @@
   "baseFontSize": 24,
   "theme": "system",
   "cssTheme": "",
-  "translucency": true,
+  "translucency": false,
   "showRibbon": true,
   "showViewHeader": true,
-  "enabledCssSnippets": [
-    "cursor-smooth-obsidian"
-  ],
-  "textFontFamily": "",
+  "enabledCssSnippets": [],
+  "textFontFamily": "Lexend",
   "interfaceFontFamily": "Lexend"
 }
