@@ -58,3 +58,6 @@ Você deve testar essa função ao poucos, em ambientes sem grandes expectativas
 - É a energia do irmão do rei que diz "Você não sabe governar. Eu faria melhor que você"
 
 Ela é uma forma oposta de enchergar a situação
+
+-----------
+
