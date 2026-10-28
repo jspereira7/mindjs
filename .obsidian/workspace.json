@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "Ne x Se"
             }
+          },
+          {
+            "id": "630f2314e0f3826e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,10 +264,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "905d3638463cf26f",
+  "active": "630f2314e0f3826e",
   "lastOpenFiles": [
-    "00.Notes/Ne x Se.md",
     "00.Notes/Practical Female Psycology.md",
+    "00.Notes/Ne x Se.md",
     "00.Notes/Conselhos práticos ISTP.md",
     "00.Notes/Estrategias para memoria de trabalho pequena.md",
     "00.Notes/Masculinidade x Feminilidade.md",

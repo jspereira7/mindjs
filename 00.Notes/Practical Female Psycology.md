@@ -52,8 +52,7 @@ E esses comportamentos mudam conforme as circustancias
 Como por exemplo, mulheres que recebem pensão alimenticia, e podem ser inseminádas por outros homens. 
 
 ------------
-
-## Pratical Advice 
+## Pratical Advice 1
 
 > Você não precisa entender de psicologia evolucionista para se dar bem com as mulheres, mas estudar isso vai ampliar seus horizontes 
 
@@ -63,6 +62,45 @@ Indicações de livros:
 - The Red Queen, de Matt Ridley.
 - Sperm Wars, de Robin Baker.
 - The Mating Mind, de Geoffrey Miller.
+
+E veja a bibliografia do livro original 
+
+--------------------
+
+## Neuropsicologia Masculina 
+
+> Talvez a verdade seja que as mulheres tem razões para não nos deixar ver suas razões ? 
+
+- As mulheres entendem de fabrica sobre a psicologia masculina e seus desejos sexuais. 
+- Porque: 
+	- 1. Ela Precisa manipular o homem para ele ser o provedor dela
+	- 2. Elas tem necessidade de aceitação social, e ser considerada vagabunda é uma coisa ruim 
+
+### Excitação feminina 
+
+A excitação sexual feminina ocorre da seguinte maneira: 
+1. As palavras e a comunicação criam uma fantasia mental, criando emoções de prazer
+2. E desse processo começa a lubrificação vaginal 
+
+> As mulheres se excitam por fortes emoções, até mesmo emoções negativas 
+
+> Mulheres são de fabrica seres mais falantes 
+
+### Olhar mutuo 
+
+> Existe uma necessidade feminina do contato visual profundo e prolongado
+
+É bom conversar com sua esposa, mas não demais, porque desse modo você se tornará muito afeminado, o que diminuirá a atração dela por você 
+
+O equilibrio é crucial! 
+### Practical advice 2 
+- Lembre-se de que o principal objetivo da evolução é selecionar os melhores genes e que tudo que sua parceira faz, ou deixa de fazer, está ligado a esse objetivo. 
+- Fique atento aos sinais de excitação da sua parceira. 
+- O livro Undercover Sex Signals é uma ótima leitura abordando esse tema. 
+- Outro livro prático e crucial é Superflirt de Tracey Cox, uma enciclopédia ilustrada da linguagem corporal. 
+
+
+
 
 
 
