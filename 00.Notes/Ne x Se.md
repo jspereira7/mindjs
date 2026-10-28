@@ -23,6 +23,11 @@ Ne: sente-se preso às possibilidades. Quando surge uma, sente que precisa ir at
 
 ## ISTP — Se 
 - É sobre estar presente no proprio corpo, ou usar o proprio corpo. 
+- Fazer as coisas rapido, estar conectado extrovertidamente ao mundo concreto. 
+
+-----------
+
+
 
 
 

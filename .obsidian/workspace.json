@@ -37,8 +37,7 @@
               "title": "Ne x Se"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,12 +250,10 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "obsidian-custom-frames:Open Notion": false,
-      "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "2156e198aa0ddbea",
+  "active": "905d3638463cf26f",
   "lastOpenFiles": [
     "00.Notes/Ne x Se.md",
     "00.Notes/Practical Female Psycology.md",
