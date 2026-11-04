@@ -148,9 +148,23 @@ Vc não deve considerar o relacionamento como um processo fixo, que uma vez feit
 - As mulheres inconcientemente te testam para te encaixar na categoria "Amante" ou "Provedor" 
 - Uma mulher sempre desprezará um homem que não tem certeza de sí mesmo e seus padrões. 
 - Seu objetivo como homem deve ser de construir uma estrutura Yang para o relacionamento, ao mesmo tempo que tolera a psicologicamente a ambivalencia feminina. 
+	- Yang é a energia que dá direção, energia ativa, estrutura e dá iniciativa.
+	- Seja a estrutura estável da relação. 
 - Vc precisa ter principios e padrões firmes aos quais vc não abre mão, independente das lagrimas de uma mulher, ou de quão atraente ela é. 
 
+---------------
+
+## Sub comunicação feminina 
+
+- As mulheres entenderam que os homens classificam elas em duas categorias 1. Puta 2. Madona
+- E por isso as mulheres usam sub-comunicação, dizendo sem dizer explicitamente. 
+- Outro motivo para a comunicação indireta é porque as mulheres não querem a verdade absoluta. 
 
 
+Um exemplo de uma comunicação ambivalente é a mulher deixar em aberto o que quer, não tomando uma posição A ou B
+
+------------
+
+## Ela está mantendo suas opções em aberto 
 
 

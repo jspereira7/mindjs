@@ -11,10 +11,15 @@
             "id": "5f94b89392605d59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Practical Female Psycology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Practical Female Psycology"
             }
           }
         ]
