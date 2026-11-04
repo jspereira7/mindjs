@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Notes/Practical Female Psycology.md",
+                "file": "+MOCs/MOC - IA e Tecnologia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Practical Female Psycology"
+              "title": "MOC - IA e Tecnologia"
+            }
+          },
+          {
+            "id": "a7e0ea55867b5199",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -94,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.59326171875,
-    "collapsed": true
+    "width": 298.59326171875
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -240,7 +249,19 @@
   },
   "active": "5f94b89392605d59",
   "lastOpenFiles": [
+    "+MOCs/MOC - Livros e Cursos.md",
     "00.Notes/Practical Female Psycology.md",
+    "+MOCs/MOC - IA e Tecnologia.md",
+    "+MOCs/MOC - Negócios, Marketing e Finanças.md",
+    "+MOCs/MOC - Produtividade e Planejamento.md",
+    "+MOCs/MOC - Relacionamentos e Masculinidade.md",
+    "+MOCs/MOC - TDAH e Funções Executivas.md",
+    "+MOCs/MOC - Modelos Mentais.md",
+    "+MOCs/MOC - Tipos e Autoconhecimento.md",
+    "+MOCs/MOC - Tipologia Junguiana.md",
+    "+MOCs/Home.md",
+    "+MOCs",
+    "00.Notes/Thinking Tools.md",
     "+Bases/Livros.base",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
     "+Daily Notes/2026-10-30 Friday.md",
@@ -261,17 +282,7 @@
     "00.Notes/Masculinidade.md",
     "00.Notes/Moc Livro The Manual.md",
     "00.Notes/Socialização.md",
-    "00.Notes/Atração.md",
-    "00.Notes/Palestra CSJOSEPH Ego hacking your fear.md",
-    "00.Notes/A grandeza e felicidade podem coexistir?.md",
-    "00.Notes/Livro Projection Carol Shumate — Estudo do zero..md",
-    "00.Notes/O viés invisivel.md",
-    "00.Notes/Funções egossintonicas-egodistonicas.md",
-    "Funções egossintonicas/egodistonicas.md",
     "Funções egossintonicas",
-    "00.Notes/A mente como máquina de projeção.md",
-    "00.Notes/Livro Projection and Personality Development.md",
-    "00.Notes/Anotações Curso de Claude Impressionador.md",
     "01.Assets/The Manual.canvas",
     "01.Assets/Anexos/Pasted image 20261014200652.png",
     "01.Assets/Anexos/Pasted image 20261014200421.png",
@@ -286,7 +297,6 @@
     "01.Assets/Aspirations Js.canvas",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
     "Amoeba/amoeba.pseudopods",
-    "Amoeba",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",
