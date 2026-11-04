@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f90f387b6ae46f3",
+        "id": "5aadd817bce752e0",
         "type": "tabs",
         "children": [
           {
-            "id": "ce71a7a29400f38a",
+            "id": "5f94b89392605d59",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.59326171875
+    "width": 298.59326171875,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -232,11 +233,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce71a7a29400f38a",
+  "active": "5f94b89392605d59",
   "lastOpenFiles": [
+    "00.Notes/Practical Female Psycology.md",
+    "+Bases/Livros.base",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
     "+Daily Notes/2026-10-30 Friday.md",
-    "00.Notes/Practical Female Psycology.md",
     "00.Notes/Ne x Se.md",
     "00.Notes/AV Typing.md",
     "00.Notes/Conselhos práticos ISTP.md",
@@ -265,12 +267,10 @@
     "00.Notes/A mente como máquina de projeção.md",
     "00.Notes/Livro Projection and Personality Development.md",
     "00.Notes/Anotações Curso de Claude Impressionador.md",
-    "01.Assets/Excalidraw/Drawing 2026-10-19 18.07.55.excalidraw.md",
     "01.Assets/The Manual.canvas",
     "01.Assets/Anexos/Pasted image 20261014200652.png",
     "01.Assets/Anexos/Pasted image 20261014200421.png",
     "01.Assets/Anexos/Pasted image 20261010193813.png",
-    "+Bases/Livros.base",
     "01.Assets/Anexos/Pasted image 20261006020453.png",
     "01.Assets/Anexos/Pasted image 20261005194842.png",
     "01.Assets/Anexos",

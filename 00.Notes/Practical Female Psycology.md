@@ -1,4 +1,8 @@
-
+---
+tags:
+  - book
+  - relacionamentos
+---
 ## The role of evolution 
 
 Segundo os autores a seleção sexual da teoria de darwin, foi pouco explorada, e atráves dela é possivel entender os comportamentos femininos sexuais
@@ -101,7 +105,50 @@ O equilibrio é crucial!
 
 ---------------
 
+## Conflito básico feminino 
 
+> Elas se sentem mais atraidas por homens que estão menos propensos a bancar elas 
+
+- Elas amam os badboys, mas sabem racionalmente que os homens gentis são os melhores maridos 
+
+1. Elas tem a necessidade de manipular um homem para que ele seja o marido provedor
+2. Perdem a atração sexual por homens que se permitem agir dessa maneira 
+
+-------------
+
+## Amante/Provedor (Alpha/Beta)
+
+- As mulheres dividem os homens em duas categorias: Amante ou Provedor
+
+- Amante(Alpha) é o homem onde a mulher pode expressar livremente sua sexualidade, seu lado safada
+	- Sem se sentir julgada moralmente por ele
+	- Ela considera o homem um amante somente se ele não tiver responsabilidade em ter que cuidar dela e dos filhos 
+
+
+- Provedor (Beta)
+	- É um homem que concordou em prover pra ela
+	- Automaticamente isso diminui a atração sexual que ela sente por ele
+
+> Para lidar com sucesso com a vida emocional de uma mulher, vc deve se concentrar no processo, muito mais do que com as palavras que espesificas ditas em qualquer interação com ela 
+
+Vc não deve considerar o relacionamento como um processo fixo, que uma vez feito já era, não!
+- É um processo continuo. 
+
+### Perigos em ser (Beta/Provedor)
+
+- Se um homem assumir o papel de provedor ou beta diante de uma mulher, cedo ou tarde ela sentirá: 
+	- Tédio, diminuição drástica da atração sexual, desprezo declarado por esse homem
+
+> Para manter a atração sexual de uma mulher, você precisa ser antes de tudo um amante pra ela, vc tambem pode ser um provedor, mas sem deixar o lado amante da sua personalidade 
+
+> O desejo secreto de toda mulher é encontrar um homem que possa construir uma estrutura masculina yang segura e forte em torno do seu yin feminino. 
+
+## Practical advice 3 
+
+- As mulheres inconcientemente te testam para te encaixar na categoria "Amante" ou "Provedor" 
+- Uma mulher sempre desprezará um homem que não tem certeza de sí mesmo e seus padrões. 
+- Seu objetivo como homem deve ser de construir uma estrutura Yang para o relacionamento, ao mesmo tempo que tolera a psicologicamente a ambivalencia feminina. 
+- Vc precisa ter principios e padrões firmes aos quais vc não abre mão, independente das lagrimas de uma mulher, ou de quão atraente ela é. 
 
 
 
