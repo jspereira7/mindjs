@@ -99,6 +99,8 @@ O equilibrio é crucial!
 - O livro Undercover Sex Signals é uma ótima leitura abordando esse tema. 
 - Outro livro prático e crucial é Superflirt de Tracey Cox, uma enciclopédia ilustrada da linguagem corporal. 
 
+---------------
+
 
 
 
