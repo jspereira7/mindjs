@@ -5,6 +5,10 @@
       "path": "+MOCs/Home.md"
     },
     {
+      "basename": "Practical Female Psycology",
+      "path": "00.Notes/Practical Female Psycology.md"
+    },
+    {
       "basename": "Modelos Mentais",
       "path": "00.Notes/Modelos Mentais.base"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "MOC - IA e Tecnologia",
       "path": "+MOCs/MOC - IA e Tecnologia.md"
-    },
-    {
-      "basename": "Practical Female Psycology",
-      "path": "00.Notes/Practical Female Psycology.md"
     },
     {
       "basename": "Thinking Tools",

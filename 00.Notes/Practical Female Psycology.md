@@ -167,4 +167,36 @@ Um exemplo de uma comunicação ambivalente é a mulher deixar em aberto o que q
 
 ## Ela está mantendo suas opções em aberto 
 
+- A comunicação subliminar delas ("Indireta") é usada para manter suas opções em aberto 
+- E para tirar a propria responsabilidade dela que está em jogo. 
+
+----------
+
+## Seja esse Homem 
+
+- As mulheres podem e vão distorcer a verdade para manter sensações emocionais positivas
+- Mesmo quando mulheres mentem com a boca, seus corpos estão dizendo a verdade
+- O homem que consegue ler atraves das mensagens subliminares, é o homem que as mulheres adoram
+- Cultive a qualidade da **discrição** 
+
+### Cultive a discrição 
+
+- Homens que querem ter muitas parceiras sexuais, devem cultivar a qualidade da discrição
+- Ou seja "Quem come quieto, come sempre" 
+
+## Fale como um homem 
+
+- Os homens devem se esforçar para se comunicar de maneira viril 
+- Vc deve saber quando deve conversar sobre esses assuntos e quando deve se retirar. 
+
+## Practical apliccation 5
+
+- Para lidar com a comunicação indireta da mulher, vc deve para de interpretar tudo o que ela diz de forma literal
+- Comece a pensar na subcomunicação que ela está tentando te dizer. 
+- Saiba que a comunicação não direta das mulheres tem uma parte sexual implicita. 
+- Quanto mais indireta a mulher é na sua presença mais provavel que ela esteja atraida sexualmente por você
+- Se vc quer representar um desafio para a mulher, vc deve permanecer no meio entre a masculinidade e a feminilidade. 
+
+------------------
+
 

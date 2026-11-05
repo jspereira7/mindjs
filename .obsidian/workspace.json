@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.59326171875
+    "width": 298.59326171875,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -261,12 +262,12 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-custom-frames:Open Notion": false,
-      "periodic-notes:Open today": false
+      "obsidian-custom-frames:Open Notion": false
     }
   },
   "active": "5f94b89392605d59",
   "lastOpenFiles": [
+    "00.Notes/Practical Female Psycology.md",
     "+MOCs/Home.md",
     "00.Notes/Modelos Mentais.base",
     "+Bases/Livros.base",
@@ -275,7 +276,6 @@
     "+MOCs/MOC - Negócios, Marketing e Finanças.md",
     "+MOCs/MOC - IA e Tecnologia.md",
     "+MOCs/MOC - Livros e Cursos.md",
-    "00.Notes/Practical Female Psycology.md",
     "+MOCs/MOC - TDAH e Funções Executivas.md",
     "+MOCs/MOC - Modelos Mentais.md",
     "+MOCs/MOC - Tipos e Autoconhecimento.md",
