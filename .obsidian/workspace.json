@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "de8d0a47b6aae9cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,13 +273,14 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-custom-frames:Open Notion": false
+      "obsidian-custom-frames:Open Notion": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5f94b89392605d59",
+  "active": "de8d0a47b6aae9cf",
   "lastOpenFiles": [
-    "00.Notes/Practical Female Psycology.md",
     "+MOCs/Home.md",
+    "00.Notes/Practical Female Psycology.md",
     "00.Notes/Modelos Mentais.base",
     "+Bases/Livros.base",
     "+MOCs/MOC - Relacionamentos e Masculinidade.md",
