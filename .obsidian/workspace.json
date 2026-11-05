@@ -13,23 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+MOCs/MOC - IA e Tecnologia.md",
+                "file": "+MOCs/Home.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MOC - IA e Tecnologia"
-            }
-          },
-          {
-            "id": "a7e0ea55867b5199",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -218,6 +217,25 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6aeabec32aef6bfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+MOCs/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
         ],
         "currentTab": 5
@@ -249,20 +267,21 @@
   },
   "active": "5f94b89392605d59",
   "lastOpenFiles": [
+    "+MOCs/Home.md",
+    "00.Notes/Modelos Mentais.base",
+    "+Bases/Livros.base",
+    "+MOCs/MOC - Relacionamentos e Masculinidade.md",
+    "+MOCs/MOC - Produtividade e Planejamento.md",
+    "+MOCs/MOC - Negócios, Marketing e Finanças.md",
+    "+MOCs/MOC - IA e Tecnologia.md",
     "+MOCs/MOC - Livros e Cursos.md",
     "00.Notes/Practical Female Psycology.md",
-    "+MOCs/MOC - IA e Tecnologia.md",
-    "+MOCs/MOC - Negócios, Marketing e Finanças.md",
-    "+MOCs/MOC - Produtividade e Planejamento.md",
-    "+MOCs/MOC - Relacionamentos e Masculinidade.md",
     "+MOCs/MOC - TDAH e Funções Executivas.md",
     "+MOCs/MOC - Modelos Mentais.md",
     "+MOCs/MOC - Tipos e Autoconhecimento.md",
     "+MOCs/MOC - Tipologia Junguiana.md",
-    "+MOCs/Home.md",
     "+MOCs",
     "00.Notes/Thinking Tools.md",
-    "+Bases/Livros.base",
     "00.Notes/Super Pensamento - Modelos Mentais.md",
     "+Daily Notes/2026-10-30 Friday.md",
     "00.Notes/Ne x Se.md",
@@ -281,7 +300,6 @@
     "00.Notes/Personalidade.md",
     "00.Notes/Masculinidade.md",
     "00.Notes/Moc Livro The Manual.md",
-    "00.Notes/Socialização.md",
     "Funções egossintonicas",
     "01.Assets/The Manual.canvas",
     "01.Assets/Anexos/Pasted image 20261014200652.png",
@@ -296,7 +314,6 @@
     "+Bases",
     "01.Assets/Aspirations Js.canvas",
     "01.Assets/PDF's/Autobiografia de Benjamin Franklin -- Benjamin Franklin -- 7cead29a4a5181f6142ed140a601a791 -- Anna’s Archive.pdf",
-    "Amoeba/amoeba.pseudopods",
     "01.Assets/Estudo de Ai.canvas",
     "01.Assets/Mental Models Canva.canvas",
     "01.Assets/Business Canvas.canvas",

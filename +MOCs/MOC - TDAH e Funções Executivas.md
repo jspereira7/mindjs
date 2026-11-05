@@ -60,7 +60,7 @@ Voltar: [[Home]] · Relacionado: [[MOC - Produtividade e Planejamento]]
 
 ```dataview
 LIST
-FROM #adhd OR #tdha
+FROM #adhd
 WHERE !contains(file.name, "MOC")
 SORT file.name ASC
 ```

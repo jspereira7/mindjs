@@ -2,7 +2,7 @@
 tags:
   - charlie_munger
   - modelos_mentais
-  - JoshKaufman
+  - josh_kaufman
 ---
 # Introdução
 

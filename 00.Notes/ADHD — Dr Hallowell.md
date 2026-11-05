@@ -1,7 +1,6 @@
 ---
 tags:
   - adhd
-  - tdha
 ---
 ## Insights 
 - We dont give up, we are the people who never give up

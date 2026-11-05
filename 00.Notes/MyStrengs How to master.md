@@ -1,6 +1,6 @@
 ---
 tags:
-  - StregnFinders
+  - strengthsfinder
   - produtividade
 ---
 ## 1 — Competition (Influencing)

@@ -1,7 +1,7 @@
 ---
 tags:
-  - livro
-  - JoshKaufman
+  - books
+  - josh_kaufman
   - natureza_humana
 ---
 # Introdução 

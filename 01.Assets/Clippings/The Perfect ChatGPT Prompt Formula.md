@@ -8,7 +8,7 @@ created: 2025-06-26
 description: No matter how advanced the model is, inconsistency is still a challenge. Writing a good prompt isn’t some kind of mystery. It’s about understanding and balancing a few key elements. Every prompt…
 tags:
   - clippings
-  - Ai
+  - ia
 ---
 Good prompts are still the key to getting great results from AI.
 

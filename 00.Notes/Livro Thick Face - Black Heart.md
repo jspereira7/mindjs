@@ -1,6 +1,6 @@
 ---
 tags:
-  - livro
+  - books
 ---
 ## A essencia do Thick Face - Black heart
 

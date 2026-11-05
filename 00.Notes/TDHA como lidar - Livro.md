@@ -1,6 +1,5 @@
 ---
 tags:
-  - tdha
   - adhd
 ---
 ## Introdução 

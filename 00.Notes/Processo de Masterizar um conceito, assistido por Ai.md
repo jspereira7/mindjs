@@ -1,6 +1,6 @@
 ---
 tags:
-  - Ai
+  - ia
   - estudos
 ---
 # Sistema de Aprendizagem Assistida por IA

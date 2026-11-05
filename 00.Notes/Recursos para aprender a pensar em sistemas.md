@@ -1,7 +1,7 @@
 ---
 tags:
   - recursos_uteis
-  - Systems_thinking
+  - pensamento_sistemico
 ---
 https://thesystemsthinker.com/ — Site com guias uteis 
 

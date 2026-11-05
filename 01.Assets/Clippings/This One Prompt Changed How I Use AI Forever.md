@@ -7,7 +7,8 @@ published: 2025-06-20
 created: 2025-06-26
 description: "I used to think the magic of AI was in the tools APIs, libraries, fancy models. But I was wrong. The real magic? It’s in the prompt. And not just any prompt, but a prompt that reprograms how you…"
 tags:
-  - "clippings Ai"
+  - clippings
+  - ia
 ---
 ## How one Friday afternoon experiment led me down a rabbit hole of automating tasks I didn’t even realize I could automate — with one surprisingly powerful prompt.
 

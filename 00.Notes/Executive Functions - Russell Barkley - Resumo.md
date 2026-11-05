@@ -1,6 +1,6 @@
 ---
 tags:
-  - execute_functions
+  - funcoes_executivas
 author:
   - Russell A.Barkley
 ---

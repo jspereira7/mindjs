@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "+MOCs/Home.md"
+    },
+    {
+      "basename": "Modelos Mentais",
+      "path": "00.Notes/Modelos Mentais.base"
+    },
+    {
+      "basename": "Livros",
+      "path": "+Bases/Livros.base"
+    },
+    {
+      "basename": "MOC - Relacionamentos e Masculinidade",
+      "path": "+MOCs/MOC - Relacionamentos e Masculinidade.md"
+    },
+    {
+      "basename": "MOC - Produtividade e Planejamento",
+      "path": "+MOCs/MOC - Produtividade e Planejamento.md"
+    },
+    {
+      "basename": "MOC - Negócios, Marketing e Finanças",
+      "path": "+MOCs/MOC - Negócios, Marketing e Finanças.md"
+    },
+    {
       "basename": "MOC - IA e Tecnologia",
       "path": "+MOCs/MOC - IA e Tecnologia.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "Thinking Tools",
       "path": "00.Notes/Thinking Tools.md"
-    },
-    {
-      "basename": "Livros",
-      "path": "+Bases/Livros.base"
     },
     {
       "basename": "Super Pensamento - Modelos Mentais",
@@ -179,26 +199,6 @@
     {
       "basename": "2026-10-09 Friday",
       "path": "+Daily Notes/2026-10-09 Friday.md"
-    },
-    {
-      "basename": "Frame(Relationships)",
-      "path": "00.Notes/Frame(Relationships).md"
-    },
-    {
-      "basename": "Mental Point of Origin (MPO)",
-      "path": "00.Notes/Mental Point of Origin (MPO).md"
-    },
-    {
-      "basename": "Livro Dario Nardi — Neurociencie",
-      "path": "00.Notes/Livro Dario Nardi — Neurociencie.md"
-    },
-    {
-      "basename": "Sentimento Extrovertido  (Fe)",
-      "path": "00.Notes/Sentimento Extrovertido  (Fe).md"
-    },
-    {
-      "basename": "SMV Maxximing Aligment",
-      "path": "00.Notes/SMV Maxximing Aligment.md"
     }
   ],
   "omittedPaths": [

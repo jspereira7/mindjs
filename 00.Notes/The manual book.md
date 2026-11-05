@@ -1,5 +1,5 @@
 ---
-tags: [book]
+tags: [books]
 author: 
 started: 2026-10-13
 finished: 

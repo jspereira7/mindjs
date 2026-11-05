@@ -1,6 +1,6 @@
 ---
 tags:
-  - estilos-de-aprendizagem
+  - estilos_de_aprendizagem
   - cinestesico
   - autoconhecimento
 ---

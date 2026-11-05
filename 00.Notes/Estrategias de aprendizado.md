@@ -1,6 +1,6 @@
 ---
 tags:
-  - estilos-de-aprendizagem
+  - estilos_de_aprendizagem
 ---
 ----------------------------
 ## ==Visual Strategies 

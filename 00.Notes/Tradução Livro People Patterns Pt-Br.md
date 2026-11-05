@@ -1,6 +1,6 @@
 ---
 tags:
-  - livro
+  - books
   - psicologia_junguiana
 ---
 # People Patters 

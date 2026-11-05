@@ -1,7 +1,6 @@
 ---
 tags:
   - adhd
-  - tdha
   - autoconhecimento
 ---
 # ADHD TOOLKIT 

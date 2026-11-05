@@ -1,5 +1,5 @@
 ---
-tags: [book]
+tags: [books]
 author: 
 started: {{date}}
 finished: 

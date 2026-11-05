@@ -1,7 +1,6 @@
 ---
 tags:
   - autoconhecimento
-  - tdha
   - adhd
 ---
 # Um spectro de caracteristicas

@@ -78,11 +78,11 @@ Produtividade, negócios e TDAH:
 - [[Visualize Value - Courses]]
 - [[Cursos que talvez valham a pena comprar]]
 
-## Todas as notas com a tag #books ou #livro
+## Todas as notas com a tag #books
 
 ```dataview
 LIST
-FROM #books OR #livro
+FROM #books
 WHERE !contains(file.name, "MOC")
 SORT file.name ASC
 ```

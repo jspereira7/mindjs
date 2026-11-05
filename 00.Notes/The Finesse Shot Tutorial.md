@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fc26
+  - fc26
 ---
 
 - O ideial é sempre mirar no canto mais longe.

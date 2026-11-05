@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       or:
-        - file.hasTag("books", "livro")
+        - file.hasTag("books")
         - file.name.contains("livro")
     groupBy:
       property: created
