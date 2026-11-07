@@ -273,8 +273,7 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-custom-frames:Open Notion": false,
-      "periodic-notes:Open today": false
+      "obsidian-custom-frames:Open Notion": false
     }
   },
   "active": "de8d0a47b6aae9cf",
