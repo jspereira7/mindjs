@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.59326171875,
-    "collapsed": true
+    "width": 298.59326171875
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -273,7 +272,8 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-custom-frames:Open Notion": false
+      "obsidian-custom-frames:Open Notion": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "de8d0a47b6aae9cf",
