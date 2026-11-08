@@ -1,4 +1,4 @@
-Se encoraja o engajamento fisico com o mundo exterior, muitas vezes descrita como conciencia sensorial, o conhecimento de que as coisas materiais existem. 
+Se encoraja o engajamento fisico com o mundo exterior, muitas vezes descrita como conciencia sensorial, o **conhecimento de que as coisas materiais existem**. 
 
 A sensação entra em jogo quando os eventos estão mudando tão rapidamente que a análise linear é impossível. 
 
@@ -8,7 +8,7 @@ Por exemplo, podemos aprender a dançar tango seguindo uma tabela de passos, mas
 
 Quando usamos a Sensação, é como quando estamos amassando pão e a pressão de nossa mãos muda conforme a textura da massa. 
 
-Cada vez que nossas ações estão mudando imediatamente e diretamente de acordo com nossa perpeções superficiais, estamos usando a Sensação Extrovertida. 
+**Cada vez que nossas ações estão mudando imediatamente e diretamente de acordo com nossa perpeções superficiais, estamos usando a Sensação Extrovertida.** 
 
 ----
 ## Como a Se funciona ? 

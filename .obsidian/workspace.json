@@ -35,10 +35,24 @@
             "id": "de8d0a47b6aae9cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Notes/Anotações Sensacao Extrovertida - Lenore Thomson..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Anotações Sensacao Extrovertida - Lenore Thomson."
             }
           }
         ],
@@ -272,12 +286,13 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-custom-frames:Open Notion": false,
-      "periodic-notes:Open today": false
+      "obsidian-custom-frames:Open Notion": false
     }
   },
   "active": "de8d0a47b6aae9cf",
   "lastOpenFiles": [
+    "+MOCs/MOC - Livros e Cursos.md",
+    "00.Notes/Josh Kaufman Anotações de livros.md",
     "+MOCs/Home.md",
     "00.Notes/Practical Female Psycology.md",
     "00.Notes/Modelos Mentais.base",
@@ -286,7 +301,6 @@
     "+MOCs/MOC - Produtividade e Planejamento.md",
     "+MOCs/MOC - Negócios, Marketing e Finanças.md",
     "+MOCs/MOC - IA e Tecnologia.md",
-    "+MOCs/MOC - Livros e Cursos.md",
     "+MOCs/MOC - TDAH e Funções Executivas.md",
     "+MOCs/MOC - Modelos Mentais.md",
     "+MOCs/MOC - Tipos e Autoconhecimento.md",
