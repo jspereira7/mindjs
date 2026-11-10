@@ -76,7 +76,8 @@ Voltar: [[Home]] · Mapa do livro: [[Moc Livro The Manual]]
 - [[Livro Thick Face - Black Heart]]
 - [[Rei, Guerreiro, Mago, Amante - Resumo]]
 - [[Anotações Read People Like a Book]]
-
+- [[The book of Pook — Ouro]]
+- 
 ## Todas as notas com a tag #relacionamentos
 
 ```dataview

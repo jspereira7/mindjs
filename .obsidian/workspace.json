@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+MOCs/Home.md",
+                "file": "00.Notes/The book of Pook — Ouro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "The book of Pook — Ouro"
             }
           }
         ]
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.59326171875
+    "width": 298.59326171875,
+    "collapsed": true
   },
   "right": {
     "id": "b9a84feb070b7918",
@@ -266,14 +267,16 @@
   },
   "active": "5f94b89392605d59",
   "lastOpenFiles": [
+    "01.Assets/Anexos/Pasted image 20261110151854.png",
+    "+MOCs/MOC - Relacionamentos e Masculinidade.md",
+    "00.Notes/The book of Pook — Ouro.md",
+    "+MOCs/Home.md",
     "00.Notes/Anotações Sensacao Extrovertida - Lenore Thomson..md",
     "+MOCs/MOC - Livros e Cursos.md",
     "00.Notes/Josh Kaufman Anotações de livros.md",
-    "+MOCs/Home.md",
     "00.Notes/Practical Female Psycology.md",
     "00.Notes/Modelos Mentais.base",
     "+Bases/Livros.base",
-    "+MOCs/MOC - Relacionamentos e Masculinidade.md",
     "+MOCs/MOC - Produtividade e Planejamento.md",
     "+MOCs/MOC - Negócios, Marketing e Finanças.md",
     "+MOCs/MOC - IA e Tecnologia.md",
@@ -298,8 +301,6 @@
     "01.Assets/Anexos/Pasted image 20261024223137.png",
     "00.Notes/Conciencia.md",
     "00.Notes/Depth Typology — Book.md",
-    "00.Notes/Personalidade.md",
-    "00.Notes/Masculinidade.md",
     "Funções egossintonicas",
     "01.Assets/The Manual.canvas",
     "01.Assets/Anexos/Pasted image 20261014200652.png",

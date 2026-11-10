@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The book of Pook — Ouro",
+      "path": "00.Notes/The book of Pook — Ouro.md"
+    },
+    {
+      "basename": "MOC - Relacionamentos e Masculinidade",
+      "path": "+MOCs/MOC - Relacionamentos e Masculinidade.md"
+    },
+    {
       "basename": "Home",
       "path": "+MOCs/Home.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Livros",
       "path": "+Bases/Livros.base"
-    },
-    {
-      "basename": "MOC - Relacionamentos e Masculinidade",
-      "path": "+MOCs/MOC - Relacionamentos e Masculinidade.md"
     },
     {
       "basename": "MOC - Produtividade e Planejamento",
@@ -195,10 +199,6 @@
     {
       "basename": "Projection",
       "path": "00.Notes/Projection.md"
-    },
-    {
-      "basename": "Inconciente",
-      "path": "00.Notes/Inconciente.md"
     }
   ],
   "omittedPaths": [
