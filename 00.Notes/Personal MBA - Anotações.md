@@ -174,8 +174,6 @@ Marketing é ser notado; [vendas](https://personalmba.com/sales/) é fechar o 
 
 ## [[Autoridade]]
 
-
-
 # The Human Mind 
 
 ## [[The onion Brain (Cerebro de cebola)]]

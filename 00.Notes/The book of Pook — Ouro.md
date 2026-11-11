@@ -48,7 +48,6 @@ São ilusões da mente, pelo que eu entendi.
 - Dessa forma você será extraordinário. 
 
 ------------
-
 ## Lição 6 — Onde há reverencia há medo
 
 - A mulher te respeita porque tem medo de você ir embora, e teme brutalmente o sentimento de vc ir. 
@@ -56,7 +55,6 @@ São ilusões da mente, pelo que eu entendi.
 - Seja um homem e o respeito dela virá naturalmente. 
 
 ---------
-
 ## Lição 7 — Só os caras sensuais conseguem as mulheres 
 
 - Tenha identidade e proposito, vida propria, hobbies, ambição e postura de homem. 
