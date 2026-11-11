@@ -59,8 +59,11 @@ São ilusões da mente, pelo que eu entendi.
 
 ## Lição 7 — Só os caras sensuais conseguem as mulheres 
 
-- Você nunca será bem sucedido com as mulheres até que abrace sua sexualidade
-- Ser homem é ir contra a natureza, penetrá-la. 
-- Quando um homem abraça sua sexualidade, ele trata as mulheres como se fossem crianças. (Ele não as leva a sério)
-- No final o que temos é um cara **atrevido** e **engraçado**. 
-	- Mas vc não será atrevido e engraçado tentando agir como atrevido e engraço. 
+- Tenha identidade e proposito, vida propria, hobbies, ambição e postura de homem. 
+- Pare de buscar aprovação feminina sendo "legal"
+- Abrace a sexualidade feminina. 
+- Personalidade: Seja divertido e atrevido. 
+- Toque: serve pra comunicar interesse, não como meio para criar atração. 
+- Encontros com ação: leve a mulher pra fazer algo. 
+- Timidez é conflito interno, não separe "razão e emoção", aceite seu desejo sexual. 
+- Abrace sua sexualidade e viva como homem, ao inves de intelectualizar atração. 
