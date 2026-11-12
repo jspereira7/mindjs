@@ -287,7 +287,8 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-custom-frames:Open Notion": false
+      "obsidian-custom-frames:Open Notion": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "64d089291f2d29b2",
